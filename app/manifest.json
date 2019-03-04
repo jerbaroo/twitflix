@@ -1,12 +1,19 @@
 {
-  "name": "Getting Started Example",
+  "name": "Twitflix",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Twitter opinions on Netflix!",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
   "scripts": ["background.js"],
     "persistent": false
   },
+  "content_scripts": [
+    {
+      "matches": ["https://*.netflix.com/*"],
+      "css": ["netflix.css"],
+      "js": ["netflix.js"]
+    }
+  ],
   "options_page": "options.html",
   "page_action": {
     "default_popup": "popup.html",

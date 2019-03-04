@@ -1,0 +1,6 @@
+.twitflix-tile {
+  /* Almost black. */
+  background-color: #080808;
+  background-color: black;
+  z-index: 1000;
+}
