@@ -1,8 +1,12 @@
 //@ sourceURL=twitflix.js
 
+const PRINT_MEDIA_NAMES = false;
 
 // The current active tile as: (tile ID, associated boxart node).
 var activeTile = null;
+
+// All media names we know of so far.
+const mediaNames = new Set();
 
 
 // A unique tile ID.
@@ -63,8 +67,12 @@ function registerTiles() {
   for (var i = 0; i < links.length; i++) {
     const name = links[i].getAttribute("aria-label");
     if (name && name != "Play" && links[i].href.includes("watch")) {
+      if (!mediaNames.has(name)) {
+        mediaNames.add(name);
+        if (PRINT_MEDIA_NAMES)
+          console.log(Array.from(mediaNames));
+      }
       const boxart = links[i].firstChild;
-      console.log(links[i]);
       boxart.onmouseenter = () => showNewTile(links[i], boxart, name);
     }
   }
@@ -73,3 +81,4 @@ function registerTiles() {
 
 console.log('Twitflix running...');
 registerTiles();
+document.onscroll = registerTiles;
