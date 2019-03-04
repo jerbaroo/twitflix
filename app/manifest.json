@@ -10,8 +10,8 @@
   "content_scripts": [
     {
       "matches": ["https://*.netflix.com/*"],
-      "css": ["netflix.css"],
-      "js": ["netflix.js"]
+      "css": ["twitflix.css"],
+      "js": ["twitflix.js"]
     }
   ],
   "options_page": "options.html",
