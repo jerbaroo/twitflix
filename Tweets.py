@@ -1,5 +1,5 @@
 # Imports
-import sys, datetime, json
+import sys, os, datetime, json
 
 # check for version of python
 if sys.version_info[0] < 3:
@@ -30,6 +30,14 @@ def saveJSON(title, tweets):
 
 
 def main(argv):
+	if !os.direxists(os.path.join(os.getcwd()), 'Movies'):
+		try:
+			os.mkdir('Movies')
+		except: OSError:
+			print("Creation of the directory Movies failed")
+		else:
+			print ("Successfully created the directory Movies")
+	
     if len(argv) == 0:
         print("enter the number of tweets per title")
         return
