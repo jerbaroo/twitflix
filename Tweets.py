@@ -1,14 +1,18 @@
+# Imports
 import sys, datetime, json
 
+# check for version of python
 if sys.version_info[0] < 3:
     from GetOldTweets import got
 else:
     from GetOldTweets import got3 as got
 
+# converter to include datetime into json output file
 def datetimeConverter(o):
     if isinstance(o, datetime.datetime):
         return o.__str__()
 
+# function to save to json file
 def saveJSON(title, tweets):
     print(title)
     data = {
@@ -24,6 +28,7 @@ def saveJSON(title, tweets):
     with open("Movies/%s.json" % title, "w") as outfile:
         json.dump(data, outfile, default=datetimeConverter)
 
+
 def main(argv):
     if len(argv) == 0:
         print("enter the number of tweets per title")
@@ -31,10 +36,10 @@ def main(argv):
 
     n = int(argv[0])
     print(n)
-
+# open netflix-media list
     with open('netflix-media.json') as f:
         movies = json.load(f)
-
+# iterate over the different titles and save output
     for title in movies:
         tweetCriteria = got.manager.TweetCriteria().setQuerySearch(title).setMaxTweets(n)
         tweet = got.manager.TweetManager.getTweets(tweetCriteria)[0]
