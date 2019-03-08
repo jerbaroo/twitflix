@@ -30,14 +30,14 @@ def saveJSON(title, tweets):
 
 
 def main(argv):
-	if !os.direxists(os.path.join(os.getcwd()), 'Movies'):
-		try:
-			os.mkdir('Movies')
-		except: OSError:
-			print("Creation of the directory Movies failed")
-		else:
-			print ("Successfully created the directory Movies")
-	
+    if not os.path.isdir('Movies'):
+        try:
+            os.mkdir('Movies')
+        except OSError:
+            print("Creation of the directory Movies failed")
+        else:
+            print ("Successfully created the directory Movies")
+
     if len(argv) == 0:
         print("enter the number of tweets per title")
         return
