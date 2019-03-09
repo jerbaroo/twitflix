@@ -1,5 +1,5 @@
 # Imports
-import sys, datetime, json
+import sys, os, datetime, json
 
 # check for version of python
 if sys.version_info[0] < 3:
@@ -15,21 +15,29 @@ def datetimeConverter(o):
 # function to save to json file
 def saveJSON(title, tweets):
     print(title)
-    data = {
-        "Title": title,
-        "Username": tweets.username,
-        "Text": tweets.text,
-        "Mentions": tweets.mentions,
-        "Hashtags": tweets.hashtags,
-        "Date": tweets.date,
-        "Geo": tweets.geo
-    }
-
-    with open("Movies/%s.json" % title, "w") as outfile:
-        json.dump(data, outfile, default=datetimeConverter)
+    for tweet in tweets:
+        data = {
+            "Title": title,
+            "Username": tweet.username,
+            "Text": tweet.text,
+            "Mentions": tweet.mentions,
+            "Hashtags": tweet.hashtags,
+            "Date": tweet.date,
+            "Geo": tweet.geo
+        }
+        with open("Movies/%s.json" % title, "w") as outfile:
+            json.dump(data, outfile, default=datetimeConverter)
 
 
 def main(argv):
+    if not os.path.isdir('Movies'):
+        try:
+            os.mkdir('Movies')
+        except OSError:
+            print("Creation of the directory Movies failed")
+        else:
+            print ("Successfully created the directory Movies")
+
     if len(argv) == 0:
         print("enter the number of tweets per title")
         return
