@@ -15,16 +15,18 @@ def datetimeConverter(o):
 # function to save to json file
 def saveJSON(title, tweets):
     print(title)
-    data = {
-        "Title": title,
-        "Username": tweets.username,
-        "Text": tweets.text,
-        "Mentions": tweets.mentions,
-        "Hashtags": tweets.hashtags,
-        "Date": tweets.date,
-        "Geo": tweets.geo
-    }
-
+    data = {}
+    for tweet in tweets:
+        # print(tweet.username)
+        data[tweet.id] = {
+            "Title": title,
+            "Username": tweet.username,
+            "Text": tweet.text,
+            "Mentions": tweet.mentions,
+            "Hashtags": tweet.hashtags,
+            "Date": tweet.date,
+            "Geo": tweet.geo
+        }
     with open("Movies/%s.json" % title, "w") as outfile:
         json.dump(data, outfile, default=datetimeConverter)
 
@@ -50,7 +52,7 @@ def main(argv):
 # iterate over the different titles and save output
     for title in movies:
         tweetCriteria = got.manager.TweetCriteria().setQuerySearch(title).setMaxTweets(n)
-        tweet = got.manager.TweetManager.getTweets(tweetCriteria)[0]
+        tweet = got.manager.TweetManager.getTweets(tweetCriteria)
         saveJSON(title, tweet)
 
 if __name__ == '__main__':
