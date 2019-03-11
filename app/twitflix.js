@@ -1,15 +1,20 @@
 //@ sourceURL=twitflix.js
 
+// Whether to print out new media names when discovered.
 const PRINT_MEDIA_NAMES = false;
 
-// The current active tile as: (tile ID, associated boxart node).
+// The current active tile as: (ID, media name, boxart element).
 var activeTile = null;
+
+// Previously active tiles, still fading out.
+// A mapping of {ID: (media name, boxart element)}.
+const previousTiles = {};
 
 // All media names we know of so far.
 const mediaNames = new Set();
 
 
-// A unique tile ID.
+// An identifier to uniquely identify a Twitflix tile.
 function newTileID() {
   _tileID++;
   return `twitflix-${_tileID - 1}`;
@@ -17,7 +22,9 @@ function newTileID() {
 var _tileID = 1;
 
 
-// Return a new tile of given size and position.
+// Return a new Twitflix tile of given size, position and media data.
+//
+// The tile is not yet attached to the DOM.
 function newTile(tileID, height, width, left, top, name) {
   var tile = document.createElement('div');
   tile.id = tileID;
@@ -33,52 +40,156 @@ function newTile(tileID, height, width, left, top, name) {
 }
 
 
-// Reposition the currently active tile.
-// Need this since the boxart may change size on hover.
-function repositionTiles() {
-  // const bobplays = document.getElementsByClassName('bobplay-hitzone');
-  // if (bobplays.length == 1) {
-  //   document.getElementById(activeTile[0])
-  // }
-}
-
-
-// Show a new tile above the given boxart element.
-// Removes the previous tile if it exists.
-function showNewTile(link, boxart, name) {
+// A new Twitflix tile is added to the DOM, above the given boxart element.
+//
+// Removes the current active tile if it exists. Also registers a function to
+// resize the tile if the media box resizes or the page resizes.
+function showNewTile(boxart, name) {
   const height = boxart.clientHeight;
   const width = boxart.clientWidth;
   const boxPosition = boxart.getBoundingClientRect();
   const tileID = newTileID();
   const tile = newTile(
     tileID, height, width, boxPosition.left, boxPosition.top, name);
-  if (activeTile) {
-    const activeTileNode = document.getElementById(activeTile[0]);
-    activeTileNode.parentElement.removeChild(activeTileNode);
+
+  if (activeTile != null) {
+    const [activeTileID, activeTileName, activeTileBoxart] = activeTile;
+    const activeTileElem = document.getElementById(activeTileID);
+    // Set active tile to fade out.
+    activeTileElem.className += " twitflix-tile-fade-out";
+    // Mark active tile as a previous tile.
+    previousTiles[activeTileName] = [activeTileName, activeTileBoxart];
+    // After the fade out remove active tile from the page and previous tiles.
+    window.setTimeout(() => {
+      activeTileElem.parentElement.removeChild(activeTileElem);
+      delete previousTiles[activeTileName];
+    }, 400);
   }
+
   document.body.insertBefore(tile, document.body.firstChild);
-  activeTile = [tileID, boxart];
+  activeTile = [tileID, name, boxart];
 }
 
 
-// Register handlers to show tiles on media on hover.
-function registerTiles() {
-  var links = document.links;
-  for (var i = 0; i < links.length; i++) {
-    const name = links[i].getAttribute("aria-label");
-    if (name && name != "Play" && links[i].href.includes("watch")) {
-      if (!mediaNames.has(name)) {
-        mediaNames.add(name);
-        if (PRINT_MEDIA_NAMES)
-          console.log(Array.from(mediaNames));
-      }
-      const boxart = links[i].firstChild;
-      boxart.onmouseenter = () => showNewTile(links[i], boxart, name);
+// Register handlers to show Twitflix tiles above media boxes on mouse enter.
+//
+// The handler will not run if a Twitflix tile already exists for that media.
+// Only media shown on the page is affected, so this function should be run
+// again on page scroll.
+function registerTilesOnPage() {
+  const namesAndBoxarts = getNamesAndBoxarts();
+  for (var i = 0; i < namesAndBoxarts.length; i ++) {
+    const name = namesAndBoxarts[i][0];
+    const boxart = namesAndBoxarts[i][1];
+    if (!mediaNames.has(name)) {
+      mediaNames.add(name);
+      if (PRINT_MEDIA_NAMES)
+        console.log(Array.from(mediaNames));
+    }
+    boxart.onmouseenter = () => {
+      if (!activeTile || activeTile[1] != boxart)
+        showNewTile(boxart, name);
+    };
+  }
+}
+
+
+// Reposition and resize the currently displaying Twitflix tiles.
+//
+// This is needed since the media boxes change size on hover.
+function repositionTiles() {
+  var tileID, name, boxart;
+  const namesAndBobPlays = getNamesAndBobPlays();
+  // Position any previous tiles on a box art / bob cards.
+  for (tileID in previousTiles) {
+    [name, boxart] = previousTiles[tileID];
+    if (name in namesAndBobPlays) {
+      console.log(`bob card for previous tile ${name}`);
+      positionAbove(tileID, namesAndBobPlays[name]);
+    }
+    else {
+      console.log(`box art for previous tile ${name}`);
+      positionAbove(tileID, boxart);
     }
   }
+  // Position the active tile on a box art / bob card.
+  if (activeTile) {
+    [tileID, name, boxart] = activeTile;
+    if (name in namesAndBobPlays) {
+        console.log(`bob card for active tile ${name}`);
+        positionAbove(tileID, namesAndBobPlays[name]);
+    }
+    else {
+        console.log(`box art for active tile ${name}`);
+        positionAbove(tileID, boxart);
+    }
+  }
+  window.requestAnimationFrame(repositionTiles);
 }
 
 
+// Position a tile above a HTMLElement.
+function positionAbove(tileID, targetElem) {
+  var tile = document.getElementById(tileID);
+  if (tile == null) {
+    console.log('Previous tile removed');
+    return;
+  }
+  const height = targetElem.clientHeight;
+  const width = targetElem.clientWidth;
+  const targetPosition = targetElem.getBoundingClientRect();
+  tile.style.height = `${height}px`;
+  tile.style.width = `${width}px`;
+  tile.style.left = `${targetPosition.left}px`;
+  tile.style.top =
+    `${targetPosition.top - document.body.getBoundingClientRect().top - height}px`;
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+// Functions to find data in the Netflix page. /////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+// Return a list of (String, HtmlElement), film names and box art element.
+//
+// There may be multiple HtmlElements for the same film name.
+function getNamesAndBoxarts() {
+  const tuples = [];
+  const links = document.links;
+  for (var i = 0; i < links.length; i++) {
+    const name = links[i].getAttribute("aria-label");
+    const boxart = links[i].firstChild;
+    if (name && name != "Play" && links[i].href.includes("watch"))
+      tuples.push([name, boxart]);
+  }
+  return tuples;
+}
+
+
+// Return a set of {String: HtmlElement}, media names and bob card elements.
+function getNamesAndBobPlays() {
+  const namesAndBobs = {};
+  const bobCards = document.getElementsByClassName('bob-card');
+  const bobTitles = document.getElementsByClassName('bob-title');
+  for (var i = 0; i < bobCards.length; i++) {
+    // Find the title of this bob card.
+    var title = null;
+    for (var j = 0; j < bobTitles.length; j ++) {
+      if (bobCards[i].contains(bobTitles[j])) {
+        title = bobTitles[j].innerHTML;
+        break;
+      }
+    }
+    if (title != null)
+        namesAndBobs[title] = bobCards[i];
+    else
+      console.log(`Could not find title for ${bobCards[i]}`);
+  }
+  return namesAndBobs;
+}
+
 console.log('Twitflix running...');
-registerTiles();
-document.onscroll = registerTiles;
+registerTilesOnPage();
+document.onscroll = registerTilesOnPage;
+window.requestAnimationFrame(repositionTiles);

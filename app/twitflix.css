@@ -1,6 +1,22 @@
 .twitflix-tile {
+  animation: fade 0s linear;
   /* Almost black. */
   background-color: #080808;
   background-color: black;
   z-index: 1000;
+}
+
+@keyframes fade {
+  0% { opacity: 0 }
+  100% { opacity: 1 }
+}
+
+.twitflix-tile-fade-out {
+  animation: fadeout 0.5s linear;
+  opacity: 0;
+}
+
+@keyframes fadeout {
+  0% { opacity: 1 }
+  100% { opacity: 0 }
 }
