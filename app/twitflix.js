@@ -6,10 +6,6 @@ const PRINT_MEDIA_NAMES = false;
 // The current active tile as: (ID, media name, boxart element).
 var activeTile = null;
 
-// Previously active tiles, still fading out.
-// A mapping of {ID: (media name, boxart element)}.
-const previousTiles = {};
-
 // All media names we know of so far.
 const mediaNames = new Set();
 
@@ -55,15 +51,7 @@ function showNewTile(boxart, name) {
   if (activeTile != null) {
     const [activeTileID, activeTileName, activeTileBoxart] = activeTile;
     const activeTileElem = document.getElementById(activeTileID);
-    // Set active tile to fade out.
-    activeTileElem.className += " twitflix-tile-fade-out";
-    // Mark active tile as a previous tile.
-    previousTiles[activeTileName] = [activeTileName, activeTileBoxart];
-    // After the fade out remove active tile from the page and previous tiles.
-    window.setTimeout(() => {
-      activeTileElem.parentElement.removeChild(activeTileElem);
-      delete previousTiles[activeTileName];
-    }, 400);
+    activeTileElem.parentNode.removeChild(activeTileElem);
   }
 
   document.body.insertBefore(tile, document.body.firstChild);
@@ -100,18 +88,6 @@ function registerTilesOnPage() {
 function repositionTiles() {
   var tileID, name, boxart;
   const namesAndBobPlays = getNamesAndBobPlays();
-  // Position any previous tiles on a box art / bob cards.
-  for (tileID in previousTiles) {
-    [name, boxart] = previousTiles[tileID];
-    if (name in namesAndBobPlays) {
-      console.log(`bob card for previous tile ${name}`);
-      positionAbove(tileID, namesAndBobPlays[name]);
-    }
-    else {
-      console.log(`box art for previous tile ${name}`);
-      positionAbove(tileID, boxart);
-    }
-  }
   // Position the active tile on a box art / bob card.
   if (activeTile) {
     [tileID, name, boxart] = activeTile;
