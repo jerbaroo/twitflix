@@ -3,8 +3,12 @@
 // Whether to print out new media names when discovered.
 const PRINT_MEDIA_NAMES = false;
 
-// The current active tile as: (tile ID, associated boxart node).
+// The current active tile as: (ID, media name, boxart element).
 var activeTile = null;
+
+// Previously active tiles, still fading out.
+// A mapping of {ID: (media name, boxart element)}.
+const previousTiles = {};
 
 // All media names we know of so far.
 const mediaNames = new Set();
@@ -18,9 +22,9 @@ function newTileID() {
 var _tileID = 1;
 
 
-// Return a new Twitflix tile node of given size, position and media data.
+// Return a new Twitflix tile of given size, position and media data.
 //
-// The node is not yet attached to the DOM.
+// The tile is not yet attached to the DOM.
 function newTile(tileID, height, width, left, top, name) {
   var tile = document.createElement('div');
   tile.id = tileID;
@@ -47,22 +51,29 @@ function showNewTile(boxart, name) {
   const tileID = newTileID();
   const tile = newTile(
     tileID, height, width, boxPosition.left, boxPosition.top, name);
-  if (activeTile) {
-    const activeTileNode = document.getElementById(activeTile[0]);
-    activeTileNode.className += " twitflix-tile-fade-out";
-    setTimeout(() => {
-      activeTileNode.parentElement.removeChild(activeTileNode);
-    }, 600);
+
+  if (activeTile != null) {
+    const [activeTileID, activeTileName, activeTileBoxart] = activeTile;
+    const activeTileElem = document.getElementById(activeTileID);
+    // Set active tile to fade out.
+    activeTileElem.className += " twitflix-tile-fade-out";
+    // Mark active tile as a previous tile.
+    previousTiles[activeTileName] = [activeTileName, activeTileBoxart];
+    // After the fade out remove active tile from the page and previous tiles.
+    window.setTimeout(() => {
+      activeTileElem.parentElement.removeChild(activeTileElem);
+      delete previousTiles[activeTileName];
+    }, 400);
   }
+
   document.body.insertBefore(tile, document.body.firstChild);
-  activeTile = [tileID, boxart];
+  activeTile = [tileID, name, boxart];
 }
 
 
 // Register handlers to show Twitflix tiles above media boxes on mouse enter.
 //
 // The handler will not run if a Twitflix tile already exists for that media.
-//
 // Only media shown on the page is affected, so this function should be run
 // again on page scroll.
 function registerTilesOnPage() {
@@ -83,16 +94,55 @@ function registerTilesOnPage() {
 }
 
 
-// Reposition and resize the currently active Twitflix tile.
+// Reposition and resize the currently displaying Twitflix tiles.
 //
 // This is needed since the media boxes change size on hover.
-function resetActiveTile() {
-    const bobplays = document.getElementsByClassName('bobplay-hitzone');
-    if (bobplays.length > 0) {
-        document.getElementById(activeTile[0]);
-        console.log(`bobplays.length = ${bobplays.length}`);
-        console.log(bobplays);
+function repositionTiles() {
+  var tileID, name, boxart;
+  const namesAndBobPlays = getNamesAndBobPlays();
+  // Position any previous tiles on a box art / bob cards.
+  for (tileID in previousTiles) {
+    [name, boxart] = previousTiles[tileID];
+    if (name in namesAndBobPlays) {
+      console.log(`bob card for previous tile ${name}`);
+      positionAbove(tileID, namesAndBobPlays[name]);
     }
+    else {
+      console.log(`box art for previous tile ${name}`);
+      positionAbove(tileID, boxart);
+    }
+  }
+  // Position the active tile on a box art / bob card.
+  if (activeTile) {
+    [tileID, name, boxart] = activeTile;
+    if (name in namesAndBobPlays) {
+        console.log(`bob card for active tile ${name}`);
+        positionAbove(tileID, namesAndBobPlays[name]);
+    }
+    else {
+        console.log(`box art for active tile ${name}`);
+        positionAbove(tileID, boxart);
+    }
+  }
+  window.requestAnimationFrame(repositionTiles);
+}
+
+
+// Position a tile above a HTMLElement.
+function positionAbove(tileID, targetElem) {
+  var tile = document.getElementById(tileID);
+  if (tile == null) {
+    console.log('Previous tile removed');
+    return;
+  }
+  const height = targetElem.clientHeight;
+  const width = targetElem.clientWidth;
+  const targetPosition = targetElem.getBoundingClientRect();
+  tile.style.height = `${height}px`;
+  tile.style.width = `${width}px`;
+  tile.style.left = `${targetPosition.left}px`;
+  tile.style.top =
+    `${targetPosition.top - document.body.getBoundingClientRect().top - height}px`;
 }
 
 
@@ -117,6 +167,29 @@ function getNamesAndBoxarts() {
 }
 
 
+// Return a set of {String: HtmlElement}, media names and bob card elements.
+function getNamesAndBobPlays() {
+  const namesAndBobs = {};
+  const bobCards = document.getElementsByClassName('bob-card');
+  const bobTitles = document.getElementsByClassName('bob-title');
+  for (var i = 0; i < bobCards.length; i++) {
+    // Find the title of this bob card.
+    var title = null;
+    for (var j = 0; j < bobTitles.length; j ++) {
+      if (bobCards[i].contains(bobTitles[j])) {
+        title = bobTitles[j].innerHTML;
+        break;
+      }
+    }
+    if (title != null)
+        namesAndBobs[title] = bobCards[i];
+    else
+      console.log(`Could not find title for ${bobCards[i]}`);
+  }
+  return namesAndBobs;
+}
+
 console.log('Twitflix running...');
 registerTilesOnPage();
 document.onscroll = registerTilesOnPage;
+window.requestAnimationFrame(repositionTiles);
