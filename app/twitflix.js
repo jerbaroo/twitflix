@@ -85,22 +85,18 @@ function registerTilesOnPage() {
 // Reposition and resize the currently displaying Twitflix tiles.
 //
 // This is needed since the media boxes change size on hover.
-function repositionTiles() {
+function repositionTile() {
   var tileID, name, boxart;
   const namesAndBobPlays = getNamesAndBobPlays();
   // Position the active tile on a box art / bob card.
   if (activeTile) {
     [tileID, name, boxart] = activeTile;
-    if (name in namesAndBobPlays) {
-        console.log(`bob card for active tile ${name}`);
+    if (name in namesAndBobPlays)
         positionAbove(tileID, namesAndBobPlays[name]);
-    }
-    else {
-        console.log(`box art for active tile ${name}`);
+    else
         positionAbove(tileID, boxart);
-    }
   }
-  window.requestAnimationFrame(repositionTiles);
+  window.requestAnimationFrame(repositionTile);
 }
 
 
@@ -168,4 +164,4 @@ function getNamesAndBobPlays() {
 console.log('Twitflix running...');
 registerTilesOnPage();
 document.onscroll = registerTilesOnPage;
-window.requestAnimationFrame(repositionTiles);
+window.requestAnimationFrame(repositionTile);
