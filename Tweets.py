@@ -54,6 +54,14 @@ def main(argv):
         tweetCriteria = got.manager.TweetCriteria().setQuerySearch(title).setMaxTweets(n)
         tweet = got.manager.TweetManager.getTweets(tweetCriteria)
         saveJSON(title, tweet)
+        query = title + " #movierating"
+        tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
+        tweet = got.manager.TweetManager.getTweets(tweetCriteria)
+        saveJSON(title+"#movierating", tweet)
+        query = title + " #rating"
+        tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
+        tweet = got.manager.TweetManager.getTweets(tweetCriteria)
+        saveJSON(title+"#rating", tweet)
 
 if __name__ == '__main__':
     main(sys.argv[1:])
