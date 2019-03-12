@@ -5,19 +5,19 @@ from nltk import tokenize
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 
-class sentiment:
+class Sentiment:
     """docstring for sentiment."""
 
     def __init__(self):
         pass
 
     # Sentiment analysis of tweets
-    def Analysis(self, file):
-        # import the tweet file
+    def analysis(self, file):
+        # Import the tweet file
         with open(file) as f:
             data = json.load(f)
 
-        # run vader over the tweet text and return scores
+        # Run vader over the tweet text and return scores
         text = []
         sentences = []
         for entry in data:

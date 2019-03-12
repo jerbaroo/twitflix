@@ -17,13 +17,13 @@ def datetimeConverter(o):
         return o.__str__()
 
 
-class data:
+class Data:
     """docstring for data."""
     def __init__(self):
         pass
 
     # function to save to json file
-    def SaveJSON(self, title, tweets):
+    def saveJSON(self, title, tweets):
         print(title)
         data = {}
         for tweet in tweets:
@@ -41,7 +41,7 @@ class data:
             json.dump(data, outfile, default=datetimeConverter, encoding="utf8")
 
     # Gather tweets about movies
-    def Gather(self, file, tweets):
+    def gather(self, file, tweets):
         if not os.path.isdir('Movies'):
             try:
                 os.mkdir('Movies')
