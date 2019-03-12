@@ -11,3 +11,6 @@ Firstly create 'newMovies' folder, and then run clean_text.py. All texts would b
 
 # check_cleanedData.py
 showing texts by iterating the list on terminate. We could use analysis function with iteration.
+
+# Sentiment.py
+Sentiment analysis based on Vader from nltk. usage: `python Sentiment.py ~path_to_tweetsfile`.
