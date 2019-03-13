@@ -3,6 +3,7 @@ import sys
 import os
 import datetime
 import json
+import twitter
 
 # check for version of python
 if sys.version_info[0] < 3:
@@ -20,7 +21,13 @@ def datetimeConverter(o):
 class Data:
     """docstring for data."""
     def __init__(self):
-        pass
+        if not os.path.isdir('Movies'):
+            try:
+                os.mkdir('Movies')
+            except OSError:
+                print("Creation of the directory Movies failed")
+            else:
+                print ("Successfully created the directory Movies")
 
     # function to save to json file
     def saveJSON(self, title, tweets):
@@ -56,14 +63,53 @@ class Data:
             movies = json.load(f)
     # iterate over the different titles and save output
         for title in movies:
-            tweetCriteria = got.manager.TweetCriteria().setQuerySearch(title).setMaxTweets(n)
+            tweetCriteria = got.manager.TweetCriteria().setQuerySearch(title).setMaxTweets(n).setUntil("2019-02-01")
             tweet = got.manager.TweetManager.getTweets(tweetCriteria)
-            self.SaveJSON(title, tweet)
+            self.saveJSON(title, tweet)
             query = title + " #movierating"
             tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
             tweet = got.manager.TweetManager.getTweets(tweetCriteria)
-            self.SaveJSON(title+"#movierating", tweet)
+            self.saveJSON(title+"#movierating", tweet)
             query = title + " #rating"
             tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
             tweet = got.manager.TweetManager.getTweets(tweetCriteria)
-            self.SaveJSON(title+"#rating", tweet)
+            self.saveJSON(title+"#rating", tweet)
+
+    def twitter(self, file, tweets):
+        CONSUMER_KEY = 'qC3ZrVH8xRaXJlb7Rwjg1Xvpb'
+        CONSUMER_SECRET = 'kR2Q7CdQkPMSBPucJecHfa2cNQIQZgOypSydhsplF44aGR0X2C'
+        OAUTH_TOKEN = '85152226-6jv1nfU8tRoqaIjEiEVSAlwlgloA2E7qNyRbTX15v'
+        OAUTH_TOKEN_SECRET = '0JYy1gELC7eNuRfWNUqDz8zZXQlqSQvAktnkuC17nl7Nh'
+        auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
+        twitter_api = twitter.Twitter(auth=auth)
+
+        with open(file) as f:
+            movies = json.load(f)
+        count = int(tweets)
+
+        for title in movies:
+            search_results = twitter_api.search.tweets(q=title, count=count)
+            statuses = search_results['statuses']
+            data = {}
+            for status in statuses:
+                status_id = status['id']
+                status_user = status['user']
+                status_text = status['text']
+                status_lang = status['lang']
+                status_date = status['created_at']
+                status_hashtags = status['entities']
+                status_geo = status['geo']
+                status_place = status['place']
+
+                data[status_id] = {
+                    "Title": title,
+                    "User": status_user,
+                    "Text": status_text,
+                    "Lang": status_lang,
+                    "Date": status_date,
+                    "Hashtags": status_hashtags,
+                    "Geo": status_geo,
+                    "Place": status_place
+                }
+            with open('Movies/%s.json' % title, "w") as outfile:
+                json.dump(data, outfile, indent=1, encoding='utf8')
