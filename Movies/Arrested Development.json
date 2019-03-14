@@ -1,0 +1,445 @@
+{
+ "1106174905219870720": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 564511791, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2257010926/DSC02047aa_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EYC5Z3hE4C", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.patreon.com/DVP", 
+       "display_url": "patreon.com/DVP"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 22309, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "564511791", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 692, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 229957, 
+   "description": "Unrepentant night owl. Podcaster. Obscene consumer of tv, politics & food. Founder & Director of @DisVisibility, Co-Partner #CripTheVote", 
+   "friends_count": 2586, 
+   "location": "San Francisco, CA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2257010926/DSC02047aa_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/564511791/1383383950", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "SFdirewolf", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 30467, 
+   "name": "Alice Wong", 
+   "notifications": false, 
+   "url": "https://t.co/EYC5Z3hE4C", 
+   "created_at": "Fri Apr 27 09:14:56 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Arrested Development", 
+  "Date": "Thu Mar 14 12:47:03 +0000 2019", 
+  "Text": "RT @aurabogado: This is now the yacht episode of Arrested Development. https://t.co/2Kbdwhf9Jc", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15407632, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "15407632", 
+     "screen_name": "aurabogado", 
+     "name": "Aura Bogado"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/2Kbdwhf9Jc", 
+     "indices": [
+      71, 
+      94
+     ], 
+     "expanded_url": "https://twitter.com/PageSix/status/1105975332832792582", 
+     "display_url": "twitter.com/PageSix/status\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174801490538496": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 60799419, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058093672430850048/2QjTAuAF_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2326, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "60799419", 
+   "profile_background_color": "000000", 
+   "listed_count": 193, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 169632, 
+   "description": "It has to start somewhere. It has to start sometime.\nWhat better place than here, what better time than now?", 
+   "friends_count": 2177, 
+   "location": "Tucson, AZ", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1058093672430850048/2QjTAuAF_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/60799419/1460253832", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif", 
+   "screen_name": "cujowasagoodboy", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 374162, 
+   "name": "\u1d0b\u1d07\u0280\u0280\u026a", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 28 03:35:27 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Arrested Development", 
+  "Date": "Thu Mar 14 12:46:39 +0000 2019", 
+  "Text": "RT @aurabogado: This is now the yacht episode of Arrested Development. https://t.co/2Kbdwhf9Jc", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15407632, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "15407632", 
+     "screen_name": "aurabogado", 
+     "name": "Aura Bogado"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/2Kbdwhf9Jc", 
+     "indices": [
+      71, 
+      94
+     ], 
+     "expanded_url": "https://twitter.com/PageSix/status/1105975332832792582", 
+     "display_url": "twitter.com/PageSix/status\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175201421770754": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 33235204, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/666280838091304960/LyAGgm57_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/aNCrM6HlAZ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.wnyc.org/people/beth-fertig/", 
+       "display_url": "wnyc.org/people/beth-fe\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 13288, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "33235204", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 648, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 35843, 
+   "description": "Senior Reporter covering immigration & courts @WNYC Radio. Former education reporter, author. Night owl. U-Michigan alum. Board member for string quartet ETHEL", 
+   "friends_count": 2168, 
+   "location": "NYC", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/666280838091304960/LyAGgm57_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "bethfertig", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5089, 
+   "name": "Beth Fertig", 
+   "notifications": false, 
+   "url": "https://t.co/aNCrM6HlAZ", 
+   "created_at": "Sun Apr 19 16:08:15 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Arrested Development", 
+  "Date": "Thu Mar 14 12:48:14 +0000 2019", 
+  "Text": "RT @aurabogado: This is now the yacht episode of Arrested Development. https://t.co/2Kbdwhf9Jc", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15407632, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "15407632", 
+     "screen_name": "aurabogado", 
+     "name": "Aura Bogado"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/2Kbdwhf9Jc", 
+     "indices": [
+      71, 
+      94
+     ], 
+     "expanded_url": "https://twitter.com/PageSix/status/1105975332832792582", 
+     "display_url": "twitter.com/PageSix/status\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174171242024960": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2659441742, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/824453496703504384/aTRT_zgK_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 464, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2659441742", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2367, 
+   "description": "a writer - a romantic, as in Keats the screenwriter not the realm of Nicolas Sparks, a children's book author at best, not that I would romantacize the Truth", 
+   "friends_count": 2272, 
+   "location": "Jacksonville, FL now", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/824453496703504384/aTRT_zgK_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2659441742/1485400007", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "gonzomintE", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1905, 
+   "name": "Ian Rainnie", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jul 19 13:06:22 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Arrested Development", 
+  "Date": "Thu Mar 14 12:44:08 +0000 2019", 
+  "Text": "@hitRECordJoe ...brilliant 'Tristram Shandy' film(by same director any actor would be lucky to work with) showcasin\u2026 https://t.co/RTFGJNQN2Y", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 24807616, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "24807616", 
+     "screen_name": "hitRECordJoe", 
+     "name": "Joseph Gordon-Levitt"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/RTFGJNQN2Y", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174171242024960", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174242436104193": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 18333235, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "7020FA", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/683050005695954944/OTaezPoJ_normal.jpg", 
+   "profile_sidebar_fill_color": "373737", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GbOSRb8Vi9", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.instagram.com/hugh.madson/", 
+       "display_url": "instagram.com/hugh.madson/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1000, 
+   "profile_sidebar_border_color": "373737", 
+   "id_str": "18333235", 
+   "profile_background_color": "000000", 
+   "listed_count": 54, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 72142, 
+   "description": "I don't do hipsters.", 
+   "friends_count": 423, 
+   "location": "Brooklyn", 
+   "profile_link_color": "FB840E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/683050005695954944/OTaezPoJ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18333235/1436561677", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "sweet_epiphany", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2869, 
+   "name": "Hugh Madson", 
+   "notifications": false, 
+   "url": "https://t.co/GbOSRb8Vi9", 
+   "created_at": "Tue Dec 23 14:00:25 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Arrested Development", 
+  "Date": "Thu Mar 14 12:44:25 +0000 2019", 
+  "Text": "RT @LipstikActivist: I seriously feel like millennials are still seen as children. Thanks to gross stratification of new wealth and resourc\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 17032160, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "17032160", 
+     "screen_name": "LipstikActivist", 
+     "name": "Praxis Makes Perfect"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

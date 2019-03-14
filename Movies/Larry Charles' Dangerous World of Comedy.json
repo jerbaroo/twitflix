@@ -1,0 +1,404 @@
+{
+ "1106084051377623040": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 18118397, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/474693692960571392/HP2D26_F_normal.jpeg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 348, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "18118397", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6869, 
+   "description": "Serial Oversleeper..", 
+   "friends_count": 436, 
+   "location": "Sudan/Italy", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/474693692960571392/HP2D26_F_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18118397/1372792472", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "__Abeer___", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2703, 
+   "name": "Bibliophile", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Dec 14 16:28:56 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Larry Charles' Dangerous World of Comedy", 
+  "Date": "Thu Mar 14 06:46:02 +0000 2019", 
+  "Text": "@choco_tota Just started watching the four-part documentary series \"Larry Charles' dangerous world of comedy\", high\u2026 https://t.co/QIA2SXbr5V", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1021221534, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "1021221534", 
+     "screen_name": "choco_tota", 
+     "name": "Fattoom \ud83c\udf38"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/QIA2SXbr5V", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106084051377623040", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106048619466117120": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4115280123, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079900250406641665/ZWVyo_4G_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 700, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4115280123", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8760, 
+   "description": "mostly sex talk with a sprinkle of social activism. fuckbois can fuck off. queer. she/her. photo cred Marius Sperlich", 
+   "friends_count": 625, 
+   "location": "Hellmouth", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1079900250406641665/ZWVyo_4G_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4115280123/1502341202", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "alphauterus", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 25869, 
+   "name": "boner jamz \u201803", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Nov 04 23:15:35 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Larry Charles' Dangerous World of Comedy", 
+  "Date": "Thu Mar 14 04:25:14 +0000 2019", 
+  "Text": "watching Larry Charles\u2019 Dangerous World of Comedy on Netflix and like whoa", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105980506015961088": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 767141249270837248, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098617442987855872/SUXB3EBY_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 896, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "767141249270837248", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1326, 
+   "description": "a work-in-digress. Git.", 
+   "friends_count": 416, 
+   "location": "Islington, London", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098617442987855872/SUXB3EBY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/767141249270837248/1551819321", 
+   "profile_background_image_url": null, 
+   "screen_name": "RealPaulPutner", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1214, 
+   "name": "Paul Putner", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 20 23:28:21 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Larry Charles' Dangerous World of Comedy", 
+  "Date": "Wed Mar 13 23:54:35 +0000 2019", 
+  "Text": "I might be a bit late to the party but Larry Charles Dangerous World Of Comedy doc series on Netflix is essential v\u2026 https://t.co/Z6MMMYKDj9", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Z6MMMYKDj9", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105980506015961088", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105972238858244101": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 115565817, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2526595637/IMG-20111016-00079_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 72, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "115565817", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 249, 
+   "description": "", 
+   "friends_count": 240, 
+   "location": "\u00dcT: 10.443296,-66.864106", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2526595637/IMG-20111016-00079_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rmarlon7", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 23, 
+   "name": "Richard Martinez", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Feb 19 03:19:51 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Larry Charles' Dangerous World of Comedy", 
+  "Date": "Wed Mar 13 23:21:44 +0000 2019", 
+  "Text": "@Pikpicole @elalexgoncalves @JeanMary_ @nosreiremos Se llama Larry Charles: Dangerous World of Comedy", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 105207907, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "105207907", 
+     "screen_name": "Pikpicole", 
+     "name": "Nicole Rojas"
+    }, 
+    {
+     "id": 26562209, 
+     "indices": [
+      11, 
+      27
+     ], 
+     "id_str": "26562209", 
+     "screen_name": "elalexgoncalves", 
+     "name": "Alex Goncalves"
+    }, 
+    {
+     "id": 53075638, 
+     "indices": [
+      28, 
+      38
+     ], 
+     "id_str": "53075638", 
+     "screen_name": "JeanMary_", 
+     "name": "Jean Mary Curro"
+    }, 
+    {
+     "id": 2957701012, 
+     "indices": [
+      39, 
+      51
+     ], 
+     "id_str": "2957701012", 
+     "screen_name": "nosreiremos", 
+     "name": "Nos reiremos de esto!"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106006285701529600": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 189385855, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/952949106770661376/B0iluWeU_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 243, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "189385855", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14200, 
+   "description": "26 a\u00f1os, como mucho, sarc\u00e1stico...Y eso es todo lo que necesitas saber.", 
+   "friends_count": 1004, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/952949106770661376/B0iluWeU_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/189385855/1517054044", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Ender_Alberto", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 1843, 
+   "name": "Ender Alberto", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Sep 11 03:22:18 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Larry Charles' Dangerous World of Comedy", 
+  "Date": "Thu Mar 14 01:37:01 +0000 2019", 
+  "Text": "@nachored @rickygervais Viste larry charles's dangerous world of comedy? tambien esta increible", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 23404269, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "23404269", 
+     "screen_name": "nachored", 
+     "name": "Nacho Redondo"
+    }, 
+    {
+     "id": 20015311, 
+     "indices": [
+      10, 
+      23
+     ], 
+     "id_str": "20015311", 
+     "screen_name": "rickygervais", 
+     "name": "Ricky Gervais"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

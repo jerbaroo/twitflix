@@ -1,0 +1,344 @@
+{
+ "1106175321085300736": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 704478113401544705, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102545503890432001/1M7YHO4U_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 204, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "704478113401544705", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3400, 
+   "description": "Meu papel nessa terra \u00e9 convencer o m\u00e1ximo de pessoas poss\u00edveis a ler Valter Hugo M\u00e3e.", 
+   "friends_count": 182, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102545503890432001/1M7YHO4U_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/704478113401544705/1534699048", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "xhabriela", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 4789, 
+   "name": "Gabriela", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Mar 01 01:27:25 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Brooklyn Nine-Nine", 
+  "Date": "Thu Mar 14 12:48:42 +0000 2019", 
+  "Text": "Brooklyn nine-nine como sempre absurdo de bom e dessa vez \u00e9 com um epis\u00f3dio sobre ass\u00e9dio sexual escrito e dirigido por uma mulher.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174762861191168": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1595238374, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103222854898855936/cN2PYVcv_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3853, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1595238374", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 17, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 49636, 
+   "description": "not a doctor. Shhh.", 
+   "friends_count": 435, 
+   "location": "Mumbai, India", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103222854898855936/cN2PYVcv_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595238374/1549302349", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "TiwariAnoushka", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 16645, 
+   "name": "Anoushka", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jul 15 07:22:38 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Brooklyn Nine-Nine", 
+  "Date": "Thu Mar 14 12:46:29 +0000 2019", 
+  "Text": "RT @NetflixIndia: Since it's exam time we'll ask you before your parents do- \nYou're watching Brooklyn Nine-Nine? Why not Brooklyn 100?", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 4502936240, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "4502936240", 
+     "screen_name": "NetflixIndia", 
+     "name": "Netflix India"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173231449497600": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 898732410807910400, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/898736760666148865/x1DOgl5i_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 387, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "898732410807910400", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8287, 
+   "description": "Navigations", 
+   "friends_count": 1671, 
+   "location": "United States", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/898736760666148865/x1DOgl5i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/898732410807910400/1503111239", 
+   "profile_background_image_url": null, 
+   "screen_name": "adultscolor", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12, 
+   "name": "Adult Color", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 19 02:24:39 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Brooklyn Nine-Nine", 
+  "Date": "Thu Mar 14 12:40:24 +0000 2019", 
+  "Text": "Brooklyn Nine-Nine season 6 episode 9 live stream: Watch online https://t.co/bOH9Nq3Xls", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/bOH9Nq3Xls", 
+     "indices": [
+      64, 
+      87
+     ], 
+     "expanded_url": "https://ift.tt/2u61z4O", 
+     "display_url": "ift.tt/2u61z4O"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173434093076480": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 591309322, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090289789314760712/fiVaHGDr_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1438, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "591309322", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 150368, 
+   "description": "being \u00d6mer means love Ey\u015fan - Ezel \u2764\ufe0f\u2764\ufe0f Formid\u00e1vel Princesa Nani just following the flan #CansuDere #El\u00e7inSangu #brooklyn99", 
+   "friends_count": 803, 
+   "location": "Dere Sangu's House", 
+   "profile_link_color": "050005", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090289789314760712/fiVaHGDr_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/591309322/1548780266", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "anotthergiirl", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 3509, 
+   "name": "Nani", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat May 26 22:33:00 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Brooklyn Nine-Nine", 
+  "Date": "Thu Mar 14 12:41:13 +0000 2019", 
+  "Text": "RT @UPDATESB99: INFO | Brooklyn Nine-Nine fans confused after Brazilian dubbing mistakenly praises country's president  (Via https://t.co/P\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 984563978159476741, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "984563978159476741", 
+     "screen_name": "UPDATESB99", 
+     "name": "Brooklyn 99 Updates"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174691356491777": {
+  "Lang": "tl", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 103214226, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "E62020", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105477897370791936/d9a8I71__normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 738, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "103214226", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 29193, 
+   "description": "whaddup im jared, 19..", 
+   "friends_count": 2379, 
+   "location": "DMA", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105477897370791936/d9a8I71__normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/103214226/1552543423", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "camilIetoe", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 11015, 
+   "name": "the rumor 2\ufe0f\u20e3", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jan 09 07:46:18 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Brooklyn Nine-Nine", 
+  "Date": "Thu Mar 14 12:46:12 +0000 2019", 
+  "Text": "brooklyn nine-nine ray makapalipay nako", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

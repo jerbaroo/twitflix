@@ -1,0 +1,549 @@
+{
+ "1106175302001152000": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 810977650735022080, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098776497228267520/xfFwtvlu_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Oxtl4Exb0z", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.youtube.com/channel/UCxrQPHDUb3hilQH46HEMfOA", 
+       "display_url": "youtube.com/channel/UCxrQP\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/knmRLLcz6k", 
+       "indices": [
+        108, 
+        131
+       ], 
+       "expanded_url": "http://amazon.com/author/katehershberger", 
+       "display_url": "amazon.com/author/kateher\u2026"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 28, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "810977650735022080", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 564, 
+   "description": "I play video games and some people find it entertaining.... I also wrote a book. You can check it out here: https://t.co/knmRLLcz6k", 
+   "friends_count": 113, 
+   "location": "North Carolina, USA", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098776497228267520/xfFwtvlu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/810977650735022080/1551585881", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Kate_Shark", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3418, 
+   "name": "Kate #FightforWynonna", 
+   "notifications": false, 
+   "url": "https://t.co/Oxtl4Exb0z", 
+   "created_at": "Mon Dec 19 22:38:33 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Outlander", 
+  "Date": "Thu Mar 14 12:48:38 +0000 2019", 
+  "Text": "I voted Wynonna Earp. Which show should advance? https://t.co/75skPRGvCS via @playbuzz", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1698876667, 
+     "indices": [
+      77, 
+      86
+     ], 
+     "id_str": "1698876667", 
+     "screen_name": "playbuzz", 
+     "name": "Playbuzz"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/75skPRGvCS", 
+     "indices": [
+      49, 
+      72
+     ], 
+     "expanded_url": "https://cartermatt.com/356184/tv-madness-2019-outlander-wynonna-earp-kick-off-round-2/", 
+     "display_url": "cartermatt.com/356184/tv-madn\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175287212019713": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 984374076201406465, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/984419428799524865/qZWOvLaW_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 510, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "984374076201406465", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5390, 
+   "description": "Page fan francophone de l'acteur \u00e9cossais #RichardRankin @RikRankin \ud83e\uddd4\ud83c\udffb\ud83c\udf6a\ud83c\udf9e\ufe0f Roger dans #Outlander, Inspecteur Carne dans #Thirteen. Admin @mangoandsalt", 
+   "friends_count": 208, 
+   "location": "France", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/984419428799524865/qZWOvLaW_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/984374076201406465/1537522702", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "RichardRankinFR", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 12365, 
+   "name": "Richard Rankin France", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 12 10:14:03 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Outlander", 
+  "Date": "Thu Mar 14 12:48:34 +0000 2019", 
+  "Text": "@Outclander @WeventsProd @Outlander_STARZ @SkeltonSophie @CesarDomboy @EdSpeleersNews @OutlanderAmbass\u2026 https://t.co/p0nzGZX7Gp", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 4459982357, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "4459982357", 
+     "screen_name": "Outclander", 
+     "name": "Outlander Embassy"
+    }, 
+    {
+     "id": 211997351, 
+     "indices": [
+      12, 
+      24
+     ], 
+     "id_str": "211997351", 
+     "screen_name": "WeventsProd", 
+     "name": "WeventsProduction"
+    }, 
+    {
+     "id": 1510918164, 
+     "indices": [
+      25, 
+      41
+     ], 
+     "id_str": "1510918164", 
+     "screen_name": "Outlander_STARZ", 
+     "name": "Outlander"
+    }, 
+    {
+     "id": 353280849, 
+     "indices": [
+      42, 
+      56
+     ], 
+     "id_str": "353280849", 
+     "screen_name": "SkeltonSophie", 
+     "name": "Sophie Skelton"
+    }, 
+    {
+     "id": 1205422014, 
+     "indices": [
+      57, 
+      69
+     ], 
+     "id_str": "1205422014", 
+     "screen_name": "CesarDomboy", 
+     "name": "C\u00e9sar Domboy"
+    }, 
+    {
+     "id": 802514492433297408, 
+     "indices": [
+      70, 
+      85
+     ], 
+     "id_str": "802514492433297408", 
+     "screen_name": "EdSpeleersNews", 
+     "name": "Ed Speleers News"
+    }, 
+    {
+     "id": 2152082581, 
+     "indices": [
+      86, 
+      102
+     ], 
+     "id_str": "2152082581", 
+     "screen_name": "OutlanderAmbass", 
+     "name": "Outlander Ambassador"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/p0nzGZX7Gp", 
+     "indices": [
+      104, 
+      127
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175287212019713", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174918935433217": {
+  "Lang": "fr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2579974468, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105901887222702080/aZCugxKH_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 726, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2579974468", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 33, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 84117, 
+   "description": "\u00ab I\u2019m not sorry that I\u2019m in love with you... \u00bb \u2022 TVD cast, always in my \u2764\ufe0f Dobrevic, Somerholic.", 
+   "friends_count": 473, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105901887222702080/aZCugxKH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2579974468/1550433689", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "_awesomerhalder", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 51386, 
+   "name": "\ud835\udc42\ud835\udc50\ud835\udc52\u0301\ud835\udc56\ud835\udc4e\ud835\udc5b", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jun 03 09:46:11 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Outlander", 
+  "Date": "Thu Mar 14 12:47:07 +0000 2019", 
+  "Text": "J\u2019arrive pas \u00e0 r\u00e9aliser que le mois prochain je vois deux de mes cast fav. Mon goal apr\u00e8s c\u2019est la convention Outla\u2026 https://t.co/g3vuf6MHUK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/g3vuf6MHUK", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174918935433217", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175156387487744": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 848609620579028992, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/873542588216872962/kdpmnDoE_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 55, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "848609620579028992", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1705, 
+   "description": "", 
+   "friends_count": 105, 
+   "location": "Edinburgh, Scotland", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/873542588216872962/kdpmnDoE_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/848609620579028992/1497103960", 
+   "profile_background_image_url": null, 
+   "screen_name": "eevee_ws", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 937, 
+   "name": "Evelyn WalkerShields", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Apr 02 18:54:34 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Outlander", 
+  "Date": "Thu Mar 14 12:48:03 +0000 2019", 
+  "Text": "RT @ScotNational: Tonight US author Diana Gabaldon will be the star of Scotland\u2019s \u201ctourism Oscars\u201d as she is honoured for Outlander\u2019s impac\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2887077099, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "2887077099", 
+     "screen_name": "ScotNational", 
+     "name": "The National"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175103849492481": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4502453352, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101017322985160704/0tGnNaip_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1126, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4502453352", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 39306, 
+   "description": "Retired. Obsessed Outlander fan. Love to laugh. Love music. Married for 41 years. Member of #MyPeakChallenge #Outlander #TheFrasers", 
+   "friends_count": 1146, 
+   "location": "Kansas City, MO", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101017322985160704/0tGnNaip_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4502453352/1547679902", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NancySimonds1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 44531, 
+   "name": "Nancy Simonds", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Dec 09 01:45:27 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Outlander", 
+  "Date": "Thu Mar 14 12:47:51 +0000 2019", 
+  "Text": "@SonjaNi41294318 @GinaPustorino @LiseNilsson2 @APeijer @ElenaFadeeva3 @TamiMa87574821 @Martina82403124 @Pennyyo79\u2026 https://t.co/HDq0XyrpnJ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1031106041948323840, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "1031106041948323840", 
+     "screen_name": "SonjaNi41294318", 
+     "name": "Sonja Nielsen"
+    }, 
+    {
+     "id": 1095263588527292416, 
+     "indices": [
+      17, 
+      31
+     ], 
+     "id_str": "1095263588527292416", 
+     "screen_name": "GinaPustorino", 
+     "name": "Gina Pustorino\ud83c\udf3b"
+    }, 
+    {
+     "id": 929775463035211777, 
+     "indices": [
+      32, 
+      45
+     ], 
+     "id_str": "929775463035211777", 
+     "screen_name": "LiseNilsson2", 
+     "name": "Lise Nilsson \ud83c\uddf8\ud83c\uddea\ud83c\udf1e \ud83c\uddf8\ud83c\uddea Sweden"
+    }, 
+    {
+     "id": 1089491815571619841, 
+     "indices": [
+      46, 
+      54
+     ], 
+     "id_str": "1089491815571619841", 
+     "screen_name": "APeijer", 
+     "name": "Antoinette Peijer"
+    }, 
+    {
+     "id": 780164200056365056, 
+     "indices": [
+      55, 
+      69
+     ], 
+     "id_str": "780164200056365056", 
+     "screen_name": "ElenaFadeeva3", 
+     "name": "Elena Fadeeva"
+    }, 
+    {
+     "id": 901684855192174592, 
+     "indices": [
+      70, 
+      85
+     ], 
+     "id_str": "901684855192174592", 
+     "screen_name": "TamiMa87574821", 
+     "name": "Tami Ma"
+    }, 
+    {
+     "id": 999571445700268032, 
+     "indices": [
+      86, 
+      102
+     ], 
+     "id_str": "999571445700268032", 
+     "screen_name": "Martina82403124", 
+     "name": "MartinaMichaela"
+    }, 
+    {
+     "id": 847954132329791488, 
+     "indices": [
+      103, 
+      113
+     ], 
+     "id_str": "847954132329791488", 
+     "screen_name": "Pennyyo79", 
+     "name": "Penny York"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/HDq0XyrpnJ", 
+     "indices": [
+      115, 
+      138
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175103849492481", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "1106174803134873600": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 337831639, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "FAEBFA", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/870255729982279680/kP4Zs1nu_normal.jpg", 
+   "profile_sidebar_fill_color": "383C3D", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/43rL6XQAbf", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://itsbetterblonde.wordpress.com", 
+       "display_url": "itsbetterblonde.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 715, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "337831639", 
+   "profile_background_color": "ABB8C2", 
+   "listed_count": 29, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21250, 
+   "description": "Thoughts and opinions are not my own; my dog is controlling my mind(!!!) IG: @itsbetterblonde", 
+   "friends_count": 778, 
+   "location": "Toronto", 
+   "profile_link_color": "7B20E3", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/870255729982279680/kP4Zs1nu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/337831639/1483487726", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", 
+   "screen_name": "itsbttrblonde", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 17771, 
+   "name": "Paige", 
+   "notifications": false, 
+   "url": "https://t.co/43rL6XQAbf", 
+   "created_at": "Mon Jul 18 17:08:25 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Dirty John", 
+  "Date": "Thu Mar 14 12:46:39 +0000 2019", 
+  "Text": "@moneyaftergrad Dr Death, American Gladiator, Dirty John (all Wondery), Teachers Pet", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 470438993, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "470438993", 
+     "screen_name": "moneyaftergrad", 
+     "name": "Bridget Casey"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174921078722561": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 60943357, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085334347727671302/ePzCbLTl_normal.jpg", 
+   "profile_sidebar_fill_color": "F5F5F5", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/0EDVIprDmy", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://m.youtube.com/user/romulusb2", 
+       "display_url": "m.youtube.com/user/romulusb2"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 512, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "60943357", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 43716, 
+   "description": "Here for the bants \ud83e\udd1f\ud83c\udffe. Team leader of W-Gang", 
+   "friends_count": 285, 
+   "location": "L D N - West", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1085334347727671302/ePzCbLTl_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/60943357/1543767037", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "TheRealBere", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 1069, 
+   "name": "KingKrowbezy", 
+   "notifications": false, 
+   "url": "https://t.co/0EDVIprDmy", 
+   "created_at": "Tue Jul 28 16:08:47 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Dirty John", 
+  "Date": "Thu Mar 14 12:47:07 +0000 2019", 
+  "Text": "This dirty John series on Netflix is INTERESTING. Only on episode 2 but so far so good", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175325753487362": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3990028401, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017155906352631809/5Tso4miL_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 241, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3990028401", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2500, 
+   "description": "got you covered.\ud83c\uddee\ud83c\uddea", 
+   "friends_count": 300, 
+   "location": "aithe cliath ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1017155906352631809/5Tso4miL_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3990028401/1499726839", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "john_carey1997", 
+   "lang": "en-GB", 
+   "profile_background_tile": false, 
+   "favourites_count": 2450, 
+   "name": "John Carey", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Oct 18 22:20:55 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Dirty John", 
+  "Date": "Thu Mar 14 12:48:44 +0000 2019", 
+  "Text": "If you go to the likes of McDonalds and don't clean up after yourself you are a dirty wast of a human being.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173824758923264": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 179101462, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080500526729564160/oOhAhI2t_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 270, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "179101462", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7785, 
+   "description": "", 
+   "friends_count": 2492, 
+   "location": "OH-IO", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1080500526729564160/oOhAhI2t_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/179101462/1546446480", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "OHIOfrank3", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 4270, 
+   "name": "OhioFrank3", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Aug 16 14:20:40 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Dirty John", 
+  "Date": "Thu Mar 14 12:42:46 +0000 2019", 
+  "Text": "@b_price53 True Crime...Serial. Up and Vanished. S Town. Dirty John. If you\u2019ve done those, they\u2019re pretty popular,\u2026 https://t.co/qhPF8fS7Rn", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2991377692, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "2991377692", 
+     "screen_name": "b_price53", 
+     "name": "Billy Price"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/qhPF8fS7Rn", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173824758923264", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106172514516918272": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 67824533, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "7A2C2C", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094449513979293696/87kHFneU_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 654, 
+   "profile_sidebar_border_color": "240408", 
+   "id_str": "67824533", 
+   "profile_background_color": "2C1C38", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 19832, 
+   "description": "You complete me", 
+   "friends_count": 663, 
+   "location": "Jakarta, Indonesia", 
+   "profile_link_color": "594859", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1094449513979293696/87kHFneU_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/67824533/1402934824", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+   "screen_name": "Bobsukarno", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 155, 
+   "name": "Bob Soekarno", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 22 05:34:35 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Dirty John", 
+  "Date": "Thu Mar 14 12:37:33 +0000 2019", 
+  "Text": "Dirty john, ngajarin cowo buat dapetin wanita anak 2 dengan cara elegan", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

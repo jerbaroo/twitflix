@@ -1,0 +1,453 @@
+{
+ "1106156283693092864": {
+  "Lang": "fr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1081712022222487554, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105051869792141313/BjQ5mGLq_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 17, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1081712022222487554", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 318, 
+   "description": "17, Fontainebleau", 
+   "friends_count": 84, 
+   "location": "Fontainebleau, France", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105051869792141313/BjQ5mGLq_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081712022222487554/1552299759", 
+   "profile_background_image_url": null, 
+   "screen_name": "drjul1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 349, 
+   "name": "Juli1", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jan 06 00:40:18 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Nightflyers", 
+  "Date": "Thu Mar 14 11:33:04 +0000 2019", 
+  "Text": "@NetflixFR Des nouvelles pour la saison 2 de Nightflyers ? Beaucoup trop sous c\u00f4t\u00e9 personne regarde \ud83d\ude2d\ud83d\ude2d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2341888057, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "2341888057", 
+     "screen_name": "NetflixFR", 
+     "name": "Netflix France"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106137001823268865": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 33156593, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069706032048467968/z0jZdhev_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3117, 
+   "profile_sidebar_border_color": "181A1E", 
+   "id_str": "33156593", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 19, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7536, 
+   "description": "Geek, nageur, dirlo mater \ud83d\udc7e\ud83c\udfca\ud83c\udffb\ud83c\udfc3\ud83d\udeb4\u264e\ufe0f\ud83d\udc32 \"Tifrancky n'est pas vieux il est #vintage \" - a un evil twin- middle aged twink", 
+   "friends_count": 1080, 
+   "location": "", 
+   "profile_link_color": "DB8C33", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1069706032048467968/z0jZdhev_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/33156593/1476709893", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Tifrancky", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 14414, 
+   "name": "\ud835\ude4f\ud835\ude5e\ud835\ude5b\ud835\ude67\ud835\ude56\ud835\ude63\ud835\ude58\ud835\ude60\ud835\ude6e", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Apr 19 07:31:09 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Nightflyers", 
+  "Date": "Thu Mar 14 10:16:26 +0000 2019", 
+  "Text": "@ptigwn Erased (la s\u00e9rie pas le DA)\nFinal Space (DA)\nNightflyers\nHappy!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1390755937, 
+     "indices": [
+      0, 
+      7
+     ], 
+     "id_str": "1390755937", 
+     "screen_name": "ptigwn", 
+     "name": "gwen"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106031830657105928": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 943242834920034305, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102643716152614913/jGEf8HKk_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Y7fCWcoCG9", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.instagram.com/emilyalr/", 
+       "display_url": "instagram.com/emilyalr/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 254, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "943242834920034305", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5482, 
+   "description": "esse \u00e9 o meu segredo, capit\u00e3o... estou sempre com fome. \n\n\njornalismo - ufms", 
+   "friends_count": 522, 
+   "location": "Campo Grande, Brasil", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102643716152614913/jGEf8HKk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/943242834920034305/1527036097", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "flrscr", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 6778, 
+   "name": "emily viciada em coca", 
+   "notifications": false, 
+   "url": "https://t.co/Y7fCWcoCG9", 
+   "created_at": "Tue Dec 19 22:13:11 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Nightflyers", 
+  "Date": "Thu Mar 14 03:18:32 +0000 2019", 
+  "Text": "@crybaby_adi Aaaaaah vc assistiu esses bbs \u2764 eu to vendo nightflyers no momento vendo se eu curto.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2422768102, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "2422768102", 
+     "screen_name": "crybaby_adi", 
+     "name": "Sapapoc"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106115769467891712": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 715223582402592768, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084699507168821249/PxPGbsFk_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/41ZQZPlE2T", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://Twitch.tv/MoonCacke", 
+       "display_url": "Twitch.tv/MoonCacke"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/AkkpXzuJ6J", 
+       "indices": [
+        71, 
+        94
+       ], 
+       "expanded_url": "https://www.youtube.com/user/mikser133", 
+       "display_url": "youtube.com/user/mikser133"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 159, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "715223582402592768", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 121, 
+   "description": "Very small | @Twitch | streamer. Destiny 2 player. Starting Youtuber | https://t.co/AkkpXzuJ6J |", 
+   "friends_count": 691, 
+   "location": "", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1084699507168821249/PxPGbsFk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/715223582402592768/1547446845", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "MoonCacke", 
+   "lang": "pl", 
+   "profile_background_tile": false, 
+   "favourites_count": 741, 
+   "name": "Max\u30c4", 
+   "notifications": false, 
+   "url": "https://t.co/41ZQZPlE2T", 
+   "created_at": "Wed Mar 30 17:06:05 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Nightflyers", 
+  "Date": "Thu Mar 14 08:52:04 +0000 2019", 
+  "Text": "@DarkViperAU Ok so animated shows are: Disenchantment, Paradise PD, Final Space all of them are great :) and for ot\u2026 https://t.co/CTsUjwhpny", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1204302439, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "1204302439", 
+     "screen_name": "DarkViperAU", 
+     "name": "DarkViperAU"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/CTsUjwhpny", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106115769467891712", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106119686121574401": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 193865210, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101583874486874112/dGtxTtc9_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/d1f75PQ4Yd", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://mattressofenthusiasm.com", 
+       "display_url": "mattressofenthusiasm.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 252, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "193865210", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 822, 
+   "description": "Curriculum Consultant | Children's bookseller | writer | teacher | Contact: mattressofenthusiasm@gmail.com", 
+   "friends_count": 536, 
+   "location": "London, England", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101583874486874112/dGtxTtc9_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/193865210/1546945286", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jeffersontoal", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4109, 
+   "name": "Jefferson", 
+   "notifications": false, 
+   "url": "https://t.co/d1f75PQ4Yd", 
+   "created_at": "Wed Sep 22 21:01:37 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Nightflyers", 
+  "Date": "Thu Mar 14 09:07:38 +0000 2019", 
+  "Text": "Anyone got a better first line? \n\n-Nightflyers, George R. R. Martin https://t.co/nR791GkzAI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/jeffersontoal/status/1106119686121574401/photo/1", 
+     "display_url": "pic.twitter.com/nR791GkzAI", 
+     "url": "https://t.co/nR791GkzAI", 
+     "media_url_https": "https://pbs.twimg.com/media/D1m5-zlXcAITfoM.jpg", 
+     "id_str": "1106119672146128898", 
+     "sizes": {
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1152, 
+       "resize": "fit", 
+       "w": 2048
+      }, 
+      "medium": {
+       "h": 675, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      68, 
+      91
+     ], 
+     "type": "photo", 
+     "id": 1106119672146128898, 
+     "media_url": "http://pbs.twimg.com/media/D1m5-zlXcAITfoM.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

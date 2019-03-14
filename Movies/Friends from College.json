@@ -1,0 +1,220 @@
+{
+ "1106171869701513216": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 979501394024542209, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105634455702638593/zHB5PuUS_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 704, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "979501394024542209", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5583, 
+   "description": "\u201892 \ud83d\udcaa\ud83c\udffd | Pretty Pisces \u2653\ufe0f | NURSE \ud83d\udc69\ud83c\udffd\u200d\u2695\ufe0f | MOMofONE \ud83e\udd31\ud83c\udffd| future YOUTUBER \ud83c\udfa5 | look out for new channel in March \u2728", 
+   "friends_count": 669, 
+   "location": "Tennessee to Texas ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105634455702638593/zHB5PuUS_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/979501394024542209/1552274533", 
+   "profile_background_image_url": null, 
+   "screen_name": "SlimFine_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7788, 
+   "name": "MARCH16th\ud83d\udc95", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 29 23:31:45 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Friends from College", 
+  "Date": "Thu Mar 14 12:35:00 +0000 2019", 
+  "Text": "RT @__igotfiveonit: For my black college students, don\u2019t let ur white friends get you in trouble. always remember that their freedom &amp; wild\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2273535913, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2273535913", 
+     "screen_name": "__igotfiveonit", 
+     "name": "stress reliever\ud83d\udc05"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174880255348738": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 72065234, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "2280A9", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1002881547576356864/Ma0Ymc_o_normal.jpg", 
+   "profile_sidebar_fill_color": "020812", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 439, 
+   "profile_sidebar_border_color": "2280A9", 
+   "id_str": "72065234", 
+   "profile_background_color": "020812", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5225, 
+   "description": "stop asking if i have a soundcloud", 
+   "friends_count": 99, 
+   "location": "he/they | nonbinary", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1002881547576356864/Ma0Ymc_o_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/72065234/1539300647", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "kknnsshh", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13497, 
+   "name": "marupokpok\u2122\ufe0f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Sep 06 16:11:53 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Friends from College", 
+  "Date": "Thu Mar 14 12:46:57 +0000 2019", 
+  "Text": "I was a scholar in college. My stipend was 2k/month, which was just enough for my fare back and forth manila for th\u2026 https://t.co/uI6xCB9xSX", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/uI6xCB9xSX", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174880255348738", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174955341991939": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 32760283, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099787539198734336/NQB9BFXg_normal.jpg", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2314, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "32760283", 
+   "profile_background_color": "ACDED6", 
+   "listed_count": 16, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 93017, 
+   "description": "boy mama \u2022\u2022", 
+   "friends_count": 1246, 
+   "location": "Oklahoma, USA", 
+   "profile_link_color": "038543", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099787539198734336/NQB9BFXg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/32760283/1552107089", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "mooneyhead", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 34104, 
+   "name": "Hanna\ud83c\udf19", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Apr 18 03:23:03 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Friends from College", 
+  "Date": "Thu Mar 14 12:47:15 +0000 2019", 
+  "Text": "RT @__igotfiveonit: For my black college students, don\u2019t let ur white friends get you in trouble. always remember that their freedom &amp; wild\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2273535913, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2273535913", 
+     "screen_name": "__igotfiveonit", 
+     "name": "stress reliever\ud83d\udc05"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

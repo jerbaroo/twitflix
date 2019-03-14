@@ -1,0 +1,552 @@
+{
+ "1106174547991121920": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 30520132, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037742705537966080/xSvHX0q__normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/uxSqCofLhE", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://audiolore.blogspot.com/", 
+       "display_url": "audiolore.blogspot.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 243, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "30520132", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1799, 
+   "description": "\u201cI have eyes that see,I have a mind that thinks, I have a mouth that speaks. And Goddamn, it will\u201d - Dillinger Four", 
+   "friends_count": 974, 
+   "location": "Manhattan, NY", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1037742705537966080/xSvHX0q__normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/30520132/1505748718", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JByrdInNYC", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 18939, 
+   "name": "JaybirdNYC", 
+   "notifications": false, 
+   "url": "https://t.co/uxSqCofLhE", 
+   "created_at": "Sat Apr 11 20:44:54 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Big Lebowski", 
+  "Date": "Thu Mar 14 12:45:38 +0000 2019", 
+  "Text": "@kirstinosgood @bryanbehar The Hangover was one of the worse/unfunny movies there is. Not sure what everyone sees i\u2026 https://t.co/JQJedCwJZ4", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 117472110, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "117472110", 
+     "screen_name": "kirstinosgood", 
+     "name": "Kirstin Osgood"
+    }, 
+    {
+     "id": 1612067526, 
+     "indices": [
+      15, 
+      26
+     ], 
+     "id_str": "1612067526", 
+     "screen_name": "bryanbehar", 
+     "name": "Bryan Behar"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/JQJedCwJZ4", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174547991121920", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174508027863041": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 742609243, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067898111354445830/zO9zNF2E_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/tJvZP87MrE", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.facebook.com/7ossamyounis", 
+       "display_url": "facebook.com/7ossamyounis"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 122, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "742609243", 
+   "profile_background_color": "000000", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2411, 
+   "description": "Manchester United , Batman , Porsche , Cats , Psychology , Philosophy ... The rest is for you to find out .", 
+   "friends_count": 162, 
+   "location": "Cairo , Egypt", 
+   "profile_link_color": "CC3300", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1067898111354445830/zO9zNF2E_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/742609243/1406384297", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", 
+   "screen_name": "7ossamyounis", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 664, 
+   "name": "Hossam Younis", 
+   "notifications": false, 
+   "url": "https://t.co/tJvZP87MrE", 
+   "created_at": "Tue Aug 07 10:12:11 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Big Lebowski", 
+  "Date": "Thu Mar 14 12:45:29 +0000 2019", 
+  "Text": "RT @BestMovieLine: The Big Lebowski https://t.co/K92NQpxP4K", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 508086493, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "508086493", 
+     "screen_name": "BestMovieLine", 
+     "name": "Best Movie Line"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 508086493, 
+     "source_status_id_str": "985677119098322946", 
+     "expanded_url": "https://twitter.com/BestMovieLine/status/985677119098322946/photo/1", 
+     "display_url": "pic.twitter.com/K92NQpxP4K", 
+     "url": "https://t.co/K92NQpxP4K", 
+     "media_url_https": "https://pbs.twimg.com/media/Da3UHQYXkAAyrMU.jpg", 
+     "source_user_id_str": "508086493", 
+     "source_status_id": 985677119098322946, 
+     "id_str": "985677114585354240", 
+     "sizes": {
+      "large": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "small": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "medium": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      36, 
+      59
+     ], 
+     "type": "photo", 
+     "id": 985677114585354240, 
+     "media_url": "http://pbs.twimg.com/media/Da3UHQYXkAAyrMU.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173528452329472": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 94900259, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "0C3E53", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093501344529428481/mV6na7Ig_normal.jpg", 
+   "profile_sidebar_fill_color": "FFF7CC", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 244, 
+   "profile_sidebar_border_color": "F2E195", 
+   "id_str": "94900259", 
+   "profile_background_color": "BADFCD", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10542, 
+   "description": "Just a girl on a cane, lover of family, friends, singing showtunes, and a sweet little cat named Smudge.", 
+   "friends_count": 366, 
+   "location": "Somewhere in New England", 
+   "profile_link_color": "FF0000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093501344529428481/mV6na7Ig_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/94900259/1549546011", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "LaLinda63", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 45737, 
+   "name": "Goddess of All Things Wonderful", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Dec 06 00:37:06 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Big Lebowski", 
+  "Date": "Thu Mar 14 12:41:35 +0000 2019", 
+  "Text": "@bryanbehar The Big Lebowski", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1612067526, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "1612067526", 
+     "screen_name": "bryanbehar", 
+     "name": "Bryan Behar"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173861169631232": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 14827874, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089459937481244672/AIyO-z28_normal.jpg", 
+   "profile_sidebar_fill_color": "E0FF92", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/707Usb10x3", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://ryshearer.tumblr.com/", 
+       "display_url": "ryshearer.tumblr.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 190, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "14827874", 
+   "profile_background_color": "9AE4E8", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15200, 
+   "description": "I read comics. Play video games. Watch anime. photography family friends", 
+   "friends_count": 1110, 
+   "location": "union, ct", 
+   "profile_link_color": "0000FF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1089459937481244672/AIyO-z28_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/14827874/1551091948", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "clarkraykent", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 9364, 
+   "name": "caprayflash", 
+   "notifications": false, 
+   "url": "https://t.co/707Usb10x3", 
+   "created_at": "Mon May 19 03:16:58 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Big Lebowski", 
+  "Date": "Thu Mar 14 12:42:54 +0000 2019", 
+  "Text": "RT @BestMovieLine: The Big Lebowski https://t.co/K92NQpxP4K", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 508086493, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "508086493", 
+     "screen_name": "BestMovieLine", 
+     "name": "Best Movie Line"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 508086493, 
+     "source_status_id_str": "985677119098322946", 
+     "expanded_url": "https://twitter.com/BestMovieLine/status/985677119098322946/photo/1", 
+     "display_url": "pic.twitter.com/K92NQpxP4K", 
+     "url": "https://t.co/K92NQpxP4K", 
+     "media_url_https": "https://pbs.twimg.com/media/Da3UHQYXkAAyrMU.jpg", 
+     "source_user_id_str": "508086493", 
+     "source_status_id": 985677119098322946, 
+     "id_str": "985677114585354240", 
+     "sizes": {
+      "large": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "small": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "medium": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      36, 
+      59
+     ], 
+     "type": "photo", 
+     "id": 985677114585354240, 
+     "media_url": "http://pbs.twimg.com/media/Da3UHQYXkAAyrMU.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173526426427392": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 27701250, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/702263921848295425/8Q2MjZSx_normal.jpg", 
+   "profile_sidebar_fill_color": "EBFFFE", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 279, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "27701250", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8019, 
+   "description": "Mineiro, casado. Trabalho com tecnologia e curto rock n roll.", 
+   "friends_count": 1087, 
+   "location": "Belo Horizonte Brasil", 
+   "profile_link_color": "1200B3", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/702263921848295425/8Q2MjZSx_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/27701250/1469812150", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "biragoncalves", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 3915, 
+   "name": "Ubiratan Gon\u00e7alves", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Mar 30 18:43:58 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Big Lebowski", 
+  "Date": "Thu Mar 14 12:41:35 +0000 2019", 
+  "Text": "RT @BestMovieLine: The Big Lebowski https://t.co/K92NQpxP4K", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 508086493, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "508086493", 
+     "screen_name": "BestMovieLine", 
+     "name": "Best Movie Line"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 508086493, 
+     "source_status_id_str": "985677119098322946", 
+     "expanded_url": "https://twitter.com/BestMovieLine/status/985677119098322946/photo/1", 
+     "display_url": "pic.twitter.com/K92NQpxP4K", 
+     "url": "https://t.co/K92NQpxP4K", 
+     "media_url_https": "https://pbs.twimg.com/media/Da3UHQYXkAAyrMU.jpg", 
+     "source_user_id_str": "508086493", 
+     "source_status_id": 985677119098322946, 
+     "id_str": "985677114585354240", 
+     "sizes": {
+      "large": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "small": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "medium": {
+       "h": 505, 
+       "resize": "fit", 
+       "w": 499
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      36, 
+      59
+     ], 
+     "type": "photo", 
+     "id": 985677114585354240, 
+     "media_url": "http://pbs.twimg.com/media/Da3UHQYXkAAyrMU.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

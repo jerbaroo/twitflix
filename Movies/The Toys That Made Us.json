@@ -1,0 +1,415 @@
+{
+ "1106161130609664000": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 31308752, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063784193065279489/Qd3eTrGn_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/cTO7FOEmUM", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://about.me/alfaridi", 
+       "display_url": "about.me/alfaridi"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1192, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "31308752", 
+   "profile_background_color": "000000", 
+   "listed_count": 27, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 85571, 
+   "description": "A step further from home", 
+   "friends_count": 550, 
+   "location": "Manah Manehna", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1063784193065279489/Qd3eTrGn_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/31308752/1490485128", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "alfaridi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 961, 
+   "name": "A", 
+   "notifications": false, 
+   "url": "https://t.co/cTO7FOEmUM", 
+   "created_at": "Wed Apr 15 02:18:00 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Toys That Made Us", 
+  "Date": "Thu Mar 14 11:52:19 +0000 2019", 
+  "Text": "@NetflixID kok di akunku banyak judul yang ga ada ya? Contoh, \"behind the curve\" sama \"the toys that made us\".", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1033922521492381696, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "1033922521492381696", 
+     "screen_name": "NetflixID", 
+     "name": "Netflix Indonesia"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106154171382796288": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 335044154, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105554744100208640/1n-hxnQN_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/TplWPZyn2M", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://southatlantawrestling.com", 
+       "display_url": "southatlantawrestling.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1798, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "335044154", 
+   "profile_background_color": "000000", 
+   "listed_count": 53, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 137378, 
+   "description": "Sponsor and Unofficial Archivist of ACTION Wrestling. ACTION returns for shows on Sat, March 16th, Fri, March 22nd, Fri, April 26th, and Fri, June 21st!", 
+   "friends_count": 1199, 
+   "location": "Senoia, GA", 
+   "profile_link_color": "990000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105554744100208640/1n-hxnQN_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/335044154/1534860364", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "S_ATL_Wrestling", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 38856, 
+   "name": "South Atlanta Wrestling Dot Com", 
+   "notifications": false, 
+   "url": "https://t.co/TplWPZyn2M", 
+   "created_at": "Thu Jul 14 02:08:42 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Toys That Made Us", 
+  "Date": "Thu Mar 14 11:24:40 +0000 2019", 
+  "Text": "RT @toysthatmadeus: Welcome to Ask The Creator of The Toys That Made Us! The #1 question we get is \"When is Season 3?\". The brains behind T\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 805857414574587904, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "805857414574587904", 
+     "screen_name": "toysthatmadeus", 
+     "name": "Toys That Made Us"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106149571221225472": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 767384400682188800, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/997945387997544448/5Si0RQGR_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2089, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "767384400682188800", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4348, 
+   "description": "Collecting figures for 30yrs, most mint on card got destroyed in a flood so I am uncarding and cleaning as I go,before setting up a new display area. #FigLife", 
+   "friends_count": 1827, 
+   "location": "Northern Ireland", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/997945387997544448/5Si0RQGR_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/767384400682188800/1526763700", 
+   "profile_background_image_url": null, 
+   "screen_name": "WFmaniac", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 17271, 
+   "name": "wrestlefiguremaniac", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Aug 21 15:34:33 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Toys That Made Us", 
+  "Date": "Thu Mar 14 11:06:23 +0000 2019", 
+  "Text": "RT @toysthatmadeus: Welcome to Ask The Creator of The Toys That Made Us! The #1 question we get is \"When is Season 3?\". The brains behind T\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 805857414574587904, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "805857414574587904", 
+     "screen_name": "toysthatmadeus", 
+     "name": "Toys That Made Us"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106153909519818752": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1065826796, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000855203562/ed578b17c7500aa35e8b8da95828aa3f_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 55, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1065826796", 
+   "profile_background_color": "142F3D", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2174, 
+   "description": "Rocketman, Pizza Expert, once a Hilltopper always a Hilltopper", 
+   "friends_count": 434, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000855203562/ed578b17c7500aa35e8b8da95828aa3f_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "mgunitt_20", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2277, 
+   "name": "Mike G", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jan 06 14:19:17 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Toys That Made Us", 
+  "Date": "Thu Mar 14 11:23:38 +0000 2019", 
+  "Text": "RT @toysthatmadeus: Welcome to Ask The Creator of The Toys That Made Us! The #1 question we get is \"When is Season 3?\". The brains behind T\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 805857414574587904, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "805857414574587904", 
+     "screen_name": "toysthatmadeus", 
+     "name": "Toys That Made Us"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106153750366953472": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2558076365, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089653323693780994/vHwt5Z_T_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/qx10yyTGc3", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://m.youtube.com/channel/UC6SR-oz4joaBXloqx8qDIWQ", 
+       "display_url": "m.youtube.com/channel/UC6SR-\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/jppW9q6LHO", 
+       "indices": [
+        107, 
+        130
+       ], 
+       "expanded_url": "https://m.facebook.com/groups/160726301142085", 
+       "display_url": "m.facebook.com/groups/1607263\u2026"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 3710, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2558076365", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 44, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 24153, 
+   "description": "thesodahunter@gmail.com Roll Tide, Soda reviews, Funko Hunter, Wrestling Lover, Southern Nerd! #FigLife KD https://t.co/jppW9q6LHO", 
+   "friends_count": 4091, 
+   "location": "Southern Alabama ", 
+   "profile_link_color": "D60808", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1089653323693780994/vHwt5Z_T_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2558076365/1527647359", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Soda_hunter", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13131, 
+   "name": "Alabama Soda #FigLife", 
+   "notifications": false, 
+   "url": "https://t.co/qx10yyTGc3", 
+   "created_at": "Thu May 22 00:46:47 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Toys That Made Us", 
+  "Date": "Thu Mar 14 11:23:00 +0000 2019", 
+  "Text": "RT @toysthatmadeus: Welcome to Ask The Creator of The Toys That Made Us! The #1 question we get is \"When is Season 3?\". The brains behind T\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 805857414574587904, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "805857414574587904", 
+     "screen_name": "toysthatmadeus", 
+     "name": "Toys That Made Us"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

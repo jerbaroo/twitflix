@@ -1,0 +1,426 @@
+{
+ "1106175216970022912": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 100413913, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3781608330/4aba28bb60d3886e7985f491ce98eb42_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/hW8Tw9b0k8", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.gormogons.com", 
+       "display_url": "gormogons.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4955, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "100413913", 
+   "profile_background_color": "E3CA86", 
+   "listed_count": 220, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 401844, 
+   "description": "Global Terror. Val Kilmer. Hello Kitty. Policy. Politics. Vampires. Poland-Lithuanian Irredentism. Anti-Esperantism. Six posters: CZ, GP, GorT, MN, \u0152V, & \u211e.", 
+   "friends_count": 1979, 
+   "location": "Castle Gormogon", 
+   "profile_link_color": "F0A650", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3781608330/4aba28bb60d3886e7985f491ce98eb42_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/100413913/1389857951", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Gormogons", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 123239, 
+   "name": "The Gormogons", 
+   "notifications": false, 
+   "url": "http://t.co/hW8Tw9b0k8", 
+   "created_at": "Wed Dec 30 05:23:22 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Nice Guys", 
+  "Date": "Thu Mar 14 12:48:18 +0000 2019", 
+  "Text": "@Darth_Mommie @moxiemom GP Christmas Eve Mass is a veritable smorgasbord of inappropriate dress on women of all age\u2026 https://t.co/3LMDeXVjbx", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 563968410, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "563968410", 
+     "screen_name": "Darth_Mommie", 
+     "name": "Hard-ass Space Mom"
+    }, 
+    {
+     "id": 15693190, 
+     "indices": [
+      14, 
+      23
+     ], 
+     "id_str": "15693190", 
+     "screen_name": "moxiemom", 
+     "name": "MoxieMom"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/3LMDeXVjbx", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175216970022912", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175293235085313": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 255744622, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "448668", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100966581268611072/xvd3NIRF_normal.jpg", 
+   "profile_sidebar_fill_color": "000B17", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/FT1fpEYdbM", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://archiveofourown.org/users/zimriya", 
+       "display_url": "archiveofourown.org/users/zimriya"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 436, 
+   "profile_sidebar_border_color": "F7B565", 
+   "id_str": "255744622", 
+   "profile_background_color": "001329", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17678, 
+   "description": "Nat \ud83d\udd25 ~ \u6771\u65b9\u795e\u8d77 are YUNHO and CHANGMIN ~ 1994 || she/her || @zimriya on tumblr & AO3 || certified herpetologist || 1.19.19: was dragged by Shim CHANGMIN in Osaka", 
+   "friends_count": 176, 
+   "location": "", 
+   "profile_link_color": "860206", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100966581268611072/xvd3NIRF_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/255744622/1549417440", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "zimriya", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6652, 
+   "name": "Nat \ud83d\udd25 \ub0b4 \uc778\uc0dd\uc758 \ub9c8\uc9c0\ub9c9 \ubd88\uaf43 \ud83d\udd25", 
+   "notifications": false, 
+   "url": "https://t.co/FT1fpEYdbM", 
+   "created_at": "Mon Feb 21 23:55:45 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Nice Guys", 
+  "Date": "Thu Mar 14 12:48:36 +0000 2019", 
+  "Text": "Guys. If you could all try to be less triggering with the language about this that\u2019d be really nice. I\u2019m muting a lot but... pls.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175138884661250": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1072181131209072641, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105379856781639680/XFFFNpMb_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/vBg3SfZG6w", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/teletubbieJeong", 
+       "display_url": "curiouscat.me/teletubbieJeong"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 71, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1072181131209072641", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5359, 
+   "description": "\u201cYou\u2019re a masterpiece\u201d - Twice #PrettyJeongyeon", 
+   "friends_count": 170, 
+   "location": "Oman \ud83c\uddf4\ud83c\uddf2/Glasgow", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105379856781639680/XFFFNpMb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072181131209072641/1547233833", 
+   "profile_background_image_url": null, 
+   "screen_name": "teletubbieJeong", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10984, 
+   "name": "J\ud83e\udd8b", 
+   "notifications": false, 
+   "url": "https://t.co/vBg3SfZG6w", 
+   "created_at": "Mon Dec 10 17:27:56 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Nice Guys", 
+  "Date": "Thu Mar 14 12:47:59 +0000 2019", 
+  "Text": "RT @jeongyeongf: its even the \u2018\u2019\u2019\u2019nice guys\u2019\u2019\u2019\u2019. like i didnt know much about lee jonghyun but from what id seen with him when he was doing\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 801347906322178048, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "801347906322178048", 
+     "screen_name": "jeongyeongf", 
+     "name": "jeongyeon is baby"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174790392561666": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1590528162, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103466270001979393/98fmFFX2_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3825, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1590528162", 
+   "profile_background_color": "000000", 
+   "listed_count": 112, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10135, 
+   "description": "Email: dana.nawzar@gmail.com", 
+   "friends_count": 347, 
+   "location": "London, England", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103466270001979393/98fmFFX2_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "TheDanaJaf", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3648, 
+   "name": "Dana Nawzar Jaf", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jul 13 09:03:58 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Nice Guys", 
+  "Date": "Thu Mar 14 12:46:36 +0000 2019", 
+  "Text": "Beto is the America that Americans voted against in 2016.\n\nUnless one watches CNN too much but American hasn\u2019t chan\u2026 https://t.co/b2nI7Xat5L", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/b2nI7Xat5L", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174790392561666", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174904909553664": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1043448074268372992, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104554128825507840/m57_d7K__normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/JG5RqJFnIf", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/jungvember", 
+       "display_url": "curiouscat.me/jungvember"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 218, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1043448074268372992", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5676, 
+   "description": "\u275d #\uc138\ube10\ud2f4 #\ubbfc\uaddc \u2661", 
+   "friends_count": 162, 
+   "location": "where is pristin", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104554128825507840/m57_d7K__normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1043448074268372992/1550529798", 
+   "profile_background_image_url": null, 
+   "screen_name": "gyuldaengiesss", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3118, 
+   "name": "\ud83d\udc36", 
+   "notifications": false, 
+   "url": "https://t.co/JG5RqJFnIf", 
+   "created_at": "Sat Sep 22 10:33:02 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Nice Guys", 
+  "Date": "Thu Mar 14 12:47:03 +0000 2019", 
+  "Text": "RT @jeongyeongf: its even the \u2018\u2019\u2019\u2019nice guys\u2019\u2019\u2019\u2019. like i didnt know much about lee jonghyun but from what id seen with him when he was doing\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 801347906322178048, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "801347906322178048", 
+     "screen_name": "jeongyeongf", 
+     "name": "jeongyeon is baby"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

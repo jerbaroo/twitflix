@@ -1,0 +1,445 @@
+{
+ "1105953144041725952": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 18615317, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/535333185/m_33bb20f937c311b4b2ede551abe8d807_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/CdlLm116Ub", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.thestranger.com/seattle/dave-segal/Author?oid=12963", 
+       "display_url": "thestranger.com/seattle/dave-s\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4244, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "18615317", 
+   "profile_background_color": "000000", 
+   "listed_count": 204, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 31440, 
+   "description": "Staff writer for @TheStranger / contributor to @thewiremagazine/ world-unfamous DJ Veins/#1 Wolfgang Dauner fan.", 
+   "friends_count": 446, 
+   "location": "Seattle WA, USA", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/535333185/m_33bb20f937c311b4b2ede551abe8d807_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18615317/1533797523", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "screen_name": "editaurus", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 42098, 
+   "name": "Dave Segal", 
+   "notifications": false, 
+   "url": "http://t.co/CdlLm116Ub", 
+   "created_at": "Sun Jan 04 23:00:15 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "FYRE: The Greatest Party That Never Happened", 
+  "Date": "Wed Mar 13 22:05:51 +0000 2019", 
+  "Text": "Ice-cold take: Just saw FYRE: The Greatest Party That Never Happened; it's one of this century's greatest comedies.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105931541354594305": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 877568291438505984, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/878177443521196032/aiJIJ1XM_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/4sZOGQPNZZ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.DocsFactor.com", 
+       "display_url": "DocsFactor.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 126, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "877568291438505984", 
+   "profile_background_color": "000000", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1817, 
+   "description": "Friendly podcast discussing documentary films\u2022Watch along\u2022Find us on Letterboxd\u2022Hosts: @PsychChris101 & @interacter\u2022Subscribe on iTunes or listen from below\ud83d\udc47", 
+   "friends_count": 226, 
+   "location": "The voices in your ears....", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/878177443521196032/aiJIJ1XM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/877568291438505984/1498209280", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DocsFactor", 
+   "lang": "en-gb", 
+   "profile_background_tile": false, 
+   "favourites_count": 194, 
+   "name": "\ud83d\udcfdDocs Factor Podcast\ud83c\udf9e", 
+   "notifications": false, 
+   "url": "https://t.co/4sZOGQPNZZ", 
+   "created_at": "Wed Jun 21 16:45:59 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "FYRE: The Greatest Party That Never Happened", 
+  "Date": "Wed Mar 13 20:40:01 +0000 2019", 
+  "Text": "If you spent a few thousand $ on tix to a festival, you would expect more than a soggy tent and cheese on toast rig\u2026 https://t.co/InZDtLKiBV", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/InZDtLKiBV", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105931541354594305", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105840001806409730": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 719280749, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/872904824546832385/pdED_kwj_normal.jpg", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Gt612ydMqL", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://instagram.com/misschekov/", 
+       "display_url": "instagram.com/misschekov/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "719280749", 
+   "profile_background_color": "ACDED6", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8309, 
+   "description": "banintz eta banu, alferrikako bi damu", 
+   "friends_count": 97, 
+   "location": "", 
+   "profile_link_color": "5FFAAA", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/872904824546832385/pdED_kwj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/719280749/1510951581", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "haizearizaga", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 14349, 
+   "name": "haizea", 
+   "notifications": false, 
+   "url": "https://t.co/Gt612ydMqL", 
+   "created_at": "Thu Oct 17 14:21:21 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "FYRE: The Greatest Party That Never Happened", 
+  "Date": "Wed Mar 13 14:36:16 +0000 2019", 
+  "Text": "#HaizeaVePelis2019: Fyre: the Greatest Party that Never Happened (2019), dir. Chris Smith.\n\n\"I talked to one guy wh\u2026 https://t.co/h48MjlSGCe", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      0, 
+      18
+     ], 
+     "text": "HaizeaVePelis2019"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/h48MjlSGCe", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105840001806409730", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105807136666386434": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 15336619, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000416564959727616/BgkUwrBS_normal.jpg", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/txF7gmcTWf", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.philmarriott.net", 
+       "display_url": "philmarriott.net"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/Tr3pP9jPzY", 
+       "indices": [
+        100, 
+        123
+       ], 
+       "expanded_url": "https://m.youtube.com/channel/UCaNc2JH146PLiqAxP2SWdvQ", 
+       "display_url": "m.youtube.com/channel/UCaNc2\u2026"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 6814, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "15336619", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 176, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 45527, 
+   "description": "Digital Content Creator | DJ & Producer | LDN Vegan | Head of Music/Presenter at @gaydio SUBSCRIBE: https://t.co/Tr3pP9jPzY", 
+   "friends_count": 2437, 
+   "location": "London", 
+   "profile_link_color": "293D58", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1000416564959727616/BgkUwrBS_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/15336619/1542195395", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "phil_marriott", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7635, 
+   "name": "Phil Marriott \u24cb", 
+   "notifications": false, 
+   "url": "https://t.co/txF7gmcTWf", 
+   "created_at": "Sun Jul 06 23:16:49 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "FYRE: The Greatest Party That Never Happened", 
+  "Date": "Wed Mar 13 12:25:40 +0000 2019", 
+  "Text": "RT @LdnBoys: Fyre: The Greatest Party That Never Happened is a documentary film about Billy McFarland and the failed Fyre Festival of 2017,\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1075843266908708864, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "1075843266908708864", 
+     "screen_name": "LdnBoys", 
+     "name": "BoysOnFilmLDN"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105897238595887104": {
+  "Lang": "da", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 125480839, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/984488265221894145/4ePxbG-k_normal.jpg", 
+   "profile_sidebar_fill_color": "F3F3F3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GK1k0XxL1G", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://about.me/mberdonces", 
+       "display_url": "about.me/mberdonces"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 948, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "125480839", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 81, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10239, 
+   "description": "Padre de Leonor. Responsable T\u00e9cnico en @FundacionDedalo. Inform\u00e1tico, m\u00fasico y seguidor de la #F1.", 
+   "friends_count": 648, 
+   "location": "/home, Navarra, Espa\u00f1a", 
+   "profile_link_color": "55ACEE", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/984488265221894145/4ePxbG-k_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/125480839/1523555270", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "mberdonces", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 1022, 
+   "name": "Mario Berdonces", 
+   "notifications": false, 
+   "url": "https://t.co/GK1k0XxL1G", 
+   "created_at": "Mon Mar 22 23:38:44 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "FYRE: The Greatest Party That Never Happened", 
+  "Date": "Wed Mar 13 18:23:42 +0000 2019", 
+  "Text": "\u00bfConoces la historia del Fyre Festival?... https://t.co/Tk6ii0JjVE\n\nHay un par de documentales:\n- Netflix (FYRE: Th\u2026 https://t.co/kFnQXrR7RK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Tk6ii0JjVE", 
+     "indices": [
+      43, 
+      66
+     ], 
+     "expanded_url": "https://youtu.be/JuGclsHW0IU", 
+     "display_url": "youtu.be/JuGclsHW0IU"
+    }, 
+    {
+     "url": "https://t.co/kFnQXrR7RK", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105897238595887104", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

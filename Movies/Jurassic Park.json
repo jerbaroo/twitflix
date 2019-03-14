@@ -1,0 +1,354 @@
+{
+ "1106174895476666368": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 962556896984125440, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063446188156960769/YR78Onh-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 94, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "962556896984125440", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2943, 
+   "description": "", 
+   "friends_count": 301, 
+   "location": "Kearny, NJ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1063446188156960769/YR78Onh-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/962556896984125440/1535163758", 
+   "profile_background_image_url": null, 
+   "screen_name": "DannyAlexZ", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 11740, 
+   "name": "daniel zambrano", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Feb 11 05:20:22 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Jurassic Park", 
+  "Date": "Thu Mar 14 12:47:01 +0000 2019", 
+  "Text": "RT @snollygoster123: the scientists in jurassic park after cloning their first t-rex\nhttps://t.co/H3Di1zuBQ7", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 997249558211055623, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "997249558211055623", 
+     "screen_name": "snollygoster123", 
+     "name": "Snolly"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 2405304456, 
+     "source_status_id_str": "1106015573387808768", 
+     "expanded_url": "https://twitter.com/fleshlites/status/1106015573387808768/video/1", 
+     "display_url": "pic.twitter.com/H3Di1zuBQ7", 
+     "url": "https://t.co/H3Di1zuBQ7", 
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1106015017525104642/pu/img/HLYsCN2NTKTRefzv.jpg", 
+     "source_user_id_str": "2405304456", 
+     "source_status_id": 1106015573387808768, 
+     "id_str": "1106015017525104642", 
+     "sizes": {
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 720, 
+       "resize": "fit", 
+       "w": 1280
+      }, 
+      "medium": {
+       "h": 675, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      85, 
+      108
+     ], 
+     "type": "photo", 
+     "id": 1106015017525104642, 
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1106015017525104642/pu/img/HLYsCN2NTKTRefzv.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175308951142401": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4078995195, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/660262116268617728/CDvgazP3_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 267, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4078995195", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 52830, 
+   "description": "", 
+   "friends_count": 69, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/660262116268617728/CDvgazP3_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "germankiero", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 51396, 
+   "name": "German Villarreal", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Oct 31 01:03:28 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Jurassic Park", 
+  "Date": "Thu Mar 14 12:48:40 +0000 2019", 
+  "Text": "RT @1973soloyo: Cient\u00edficos japoneses logran reactivar c\u00e9lulas de un mamut de hace 28.000 a\u00f1os\nLo lograron transplantando n\u00facleos celulares\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 752563986156191744, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "752563986156191744", 
+     "screen_name": "1973soloyo", 
+     "name": "SIMPLE MENTE YO \u2600"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175008022425602": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 925800620753346561, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/946930776427368448/uVToy9lB_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/5uZIs1L6jO", 
+       "indices": [
+        145, 
+        168
+       ], 
+       "expanded_url": "http://holisticafm.net", 
+       "display_url": "holisticafm.net"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 1416, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "925800620753346561", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 71158, 
+   "description": "Parapsic\u00f3logo, Especialista en vidas pasadas, Profesor en Tarot Egipcio,  Consultor en numerologia, conductor de radio prog. AltoConocimiento en https://t.co/5uZIs1L6jO", 
+   "friends_count": 920, 
+   "location": "Ciudad Aut\u00f3noma de Buenos Aire", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/946930776427368448/uVToy9lB_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": null, 
+   "screen_name": "lautarovidencia", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 884, 
+   "name": "Lautaro    periodist", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Nov 01 19:04:03 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Jurassic Park", 
+  "Date": "Thu Mar 14 12:47:28 +0000 2019", 
+  "Text": "RT @1973soloyo: Cient\u00edficos japoneses logran reactivar c\u00e9lulas de un mamut de hace 28.000 a\u00f1os\nLo lograron transplantando n\u00facleos celulares\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 752563986156191744, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "752563986156191744", 
+     "screen_name": "1973soloyo", 
+     "name": "SIMPLE MENTE YO \u2600"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174779093143552": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1114712017, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/817033446103060480/XzMGk9os_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/OwtASOa8kd", 
+       "indices": [
+        79, 
+        102
+       ], 
+       "expanded_url": "http://glintgames.itch.io", 
+       "display_url": "glintgames.itch.io"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 16661, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1114712017", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 146, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5686, 
+   "description": "Pixel-artist, worked on Shakedown: Hawaii. and makes assets for the assetstore\nhttps://t.co/OwtASOa8kd", 
+   "friends_count": 2297, 
+   "location": "London", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/817033446103060480/XzMGk9os_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114712017/1470173063", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "GlintGames", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 14048, 
+   "name": "Plopformer", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jan 23 16:04:02 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Jurassic Park", 
+  "Date": "Thu Mar 14 12:46:33 +0000 2019", 
+  "Text": "RT @Gypopothomas: What if you crossed Universal Soldier with that BRILLIANT Jurassic Park 4 weaponised dinos idea? You'd get... DINOSOLDIER\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 601328311, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "601328311", 
+     "screen_name": "Gypopothomas", 
+     "name": "Thomas Mc Closkey"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

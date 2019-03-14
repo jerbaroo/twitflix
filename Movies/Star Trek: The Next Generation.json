@@ -1,0 +1,437 @@
+{
+ "1106173337015857152": {
+  "Lang": "bg", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 411477279, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039044425048055810/GN6eexJt_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3742, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "411477279", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 13, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 35820, 
+   "description": "Resistance is futile. Challenge Everything. Hedonistic Aquarius. \u0410\u043f\u0441\u0443\u0440\u0434 \u0435 \u043b\u043e\u0433\u0438\u0447\u0435\u043d.  #\u0411\u0430\u0440\u0442\u0435\u0440\u0422\u0432\u0438\u0442\u0435\u0440 #BarterTwitter", 
+   "friends_count": 2891, 
+   "location": "Skopje", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1039044425048055810/GN6eexJt_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/411477279/1498219716", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "asimilacija", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 91288, 
+   "name": "b\u00aeg", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Nov 13 13:30:15 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: The Next Generation", 
+  "Date": "Thu Mar 14 12:40:49 +0000 2019", 
+  "Text": "\u0415\u0434\u043d\u0430 \u043e\u0434 \u043f\u0440\u0438\u0447\u0438\u043d\u0438\u0442\u0435 \u0437\u0430 \u043f\u0440\u0438\u0432\u043b\u0435\u0447\u043d\u043e\u0441\u0442\u0430 \u0438 \u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0442\u043e \u043d\u0430 \u0441\u043c\u0438\u0440\u0435\u043d\u043e\u0441\u0442 \u043a\u043e\u0433\u0430 \u0433\u043b\u0435\u0434\u0430\u0448 Star Trek: The Next Generation \u0435 \u043f\u043e\u0441\u0442\u043e\u0435\u045a\u0435\u0442\u043e\u2026 https://t.co/znk75VxpYY", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/znk75VxpYY", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173337015857152", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106129415774355456": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 972277858323390465, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/986848822352601088/Pb3q8Ggg_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 364, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "972277858323390465", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6157, 
+   "description": "Was a pure partyin up that Finnieston Cran again last night? Haaaaaaa...", 
+   "friends_count": 660, 
+   "location": "Finnieston, Glesga", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/986848822352601088/Pb3q8Ggg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/972277858323390465/1520649701", 
+   "profile_background_image_url": null, 
+   "screen_name": "SimonMoffat7", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 53584, 
+   "name": "Dee Dee", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Mar 10 01:08:00 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: The Next Generation", 
+  "Date": "Thu Mar 14 09:46:18 +0000 2019", 
+  "Text": "@TisI_LeClerc @SpeedCheetah @Henshalls @AVC_Leasing @ToyotaLeasing @MotorMistress @GeorgeCochrane1 @JA_Autos\u2026 https://t.co/cJUl8LfOhp", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 77238888, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "77238888", 
+     "screen_name": "TisI_LeClerc", 
+     "name": "Same Old Me"
+    }, 
+    {
+     "id": 66692231, 
+     "indices": [
+      14, 
+      27
+     ], 
+     "id_str": "66692231", 
+     "screen_name": "SpeedCheetah", 
+     "name": "SpeedCheetah"
+    }, 
+    {
+     "id": 91304292, 
+     "indices": [
+      28, 
+      38
+     ], 
+     "id_str": "91304292", 
+     "screen_name": "Henshalls", 
+     "name": "Henshalls Insurance"
+    }, 
+    {
+     "id": 182420100, 
+     "indices": [
+      39, 
+      51
+     ], 
+     "id_str": "182420100", 
+     "screen_name": "AVC_Leasing", 
+     "name": "AllVehicleContracts"
+    }, 
+    {
+     "id": 2231411798, 
+     "indices": [
+      52, 
+      66
+     ], 
+     "id_str": "2231411798", 
+     "screen_name": "ToyotaLeasing", 
+     "name": "Farmer & Carlisle Leicester & Loughborough Fleet"
+    }, 
+    {
+     "id": 250088240, 
+     "indices": [
+      67, 
+      81
+     ], 
+     "id_str": "250088240", 
+     "screen_name": "MotorMistress", 
+     "name": "Motor Mistress Ltd"
+    }, 
+    {
+     "id": 338973015, 
+     "indices": [
+      82, 
+      98
+     ], 
+     "id_str": "338973015", 
+     "screen_name": "GeorgeCochrane1", 
+     "name": "George Cochrane"
+    }, 
+    {
+     "id": 1201103592, 
+     "indices": [
+      99, 
+      108
+     ], 
+     "id_str": "1201103592", 
+     "screen_name": "JA_Autos", 
+     "name": "JA Autos Ltd"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/cJUl8LfOhp", 
+     "indices": [
+      110, 
+      133
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106129415774355456", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106105515271208961": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 710547439145631744, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1056488844894392320/PPDjoX7A_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 205, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "710547439145631744", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14863, 
+   "description": "Some little girls grow up wanting ponies. I grew up wanting to be a widow.", 
+   "friends_count": 735, 
+   "location": "Bristol, England", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1056488844894392320/PPDjoX7A_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/710547439145631744/1458243077", 
+   "profile_background_image_url": null, 
+   "screen_name": "TheDailyHayle", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 23091, 
+   "name": "Haylestorm", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 17 19:24:45 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: The Next Generation", 
+  "Date": "Thu Mar 14 08:11:19 +0000 2019", 
+  "Text": "@volewriter Star Trek: Next Generation. More recently, The Good Place has been added to my comfort viewing too", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 155483848, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "155483848", 
+     "screen_name": "volewriter", 
+     "name": "Kate Long"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106117925914595328": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 47045939, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "242424", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101199535399817218/rA3Dpgiq_normal.png", 
+   "profile_sidebar_fill_color": "B5B5B5", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/HgrXid8j63", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://crowsonglodge.com", 
+       "display_url": "crowsonglodge.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 621, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "47045939", 
+   "profile_background_color": "000000", 
+   "listed_count": 44, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 19358, 
+   "description": "Witch, tarot reader, pagan. Belly dance performer and teacher. Artist. Walking with Coyote. Following Crow. Led by Fox.  Not a responsible adult. She/Her.", 
+   "friends_count": 1036, 
+   "location": "Fresno, CA", 
+   "profile_link_color": "94D487", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101199535399817218/rA3Dpgiq_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/47045939/1552522902", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", 
+   "screen_name": "CrowSongLodge", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 427, 
+   "name": "Nathara of CrowSong", 
+   "notifications": false, 
+   "url": "https://t.co/HgrXid8j63", 
+   "created_at": "Sun Jun 14 06:15:10 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: The Next Generation", 
+  "Date": "Thu Mar 14 09:00:38 +0000 2019", 
+  "Text": "My hunny and are I watching/rewatching Star Trek: Next Generation and I thought - \"Wow, the 80s had no idea selfies were coming.\"", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106126392784314369": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1055253652556800000, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1055255531776929792/xaupT4R8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 17, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1055253652556800000", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1128, 
+   "description": "A bot providing Hollywood with the next, best reboot idea.", 
+   "friends_count": 1, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1055255531776929792/xaupT4R8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1055253652556800000/1540427667", 
+   "profile_background_image_url": null, 
+   "screen_name": "rebootatron", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 24, 
+   "name": "Rebootatron", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Oct 25 00:24:11 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: The Next Generation", 
+  "Date": "Thu Mar 14 09:34:17 +0000 2019", 
+  "Text": "Reboot The Goonies with the cast of Star Trek: The Next Generation .", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

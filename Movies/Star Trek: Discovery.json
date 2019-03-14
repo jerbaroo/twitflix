@@ -1,0 +1,435 @@
+{
+ "1106175316207128576": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2149785799, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3D1957", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/932478598329413632/xJM251jB_normal.jpg", 
+   "profile_sidebar_fill_color": "7AC3EE", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1445, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2149785799", 
+   "profile_background_color": "642D8B", 
+   "listed_count": 52, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 83963, 
+   "description": "BFF @tojikki21. I\u2019m a queer brony artist who wants to make comics that help people. I love RPG\u2019s, space ships, superheroes & talking animals. Avi by @TonyFleecs", 
+   "friends_count": 1260, 
+   "location": "", 
+   "profile_link_color": "8227F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/932478598329413632/xJM251jB_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2149785799/1550754094", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "MLPMediaFrenzy", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 68394, 
+   "name": "QC\u2019sZebra @ ECCC\ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Oct 22 22:01:49 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Discovery", 
+  "Date": "Thu Mar 14 12:48:41 +0000 2019", 
+  "Text": "RT @wcruz73: How 'Star Trek: Discovery' Shows Gay Survival of Violence and Trauma https://t.co/o21UEzlt7L", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 27829587, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "27829587", 
+     "screen_name": "wcruz73", 
+     "name": "Wilson Cruz"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/o21UEzlt7L", 
+     "indices": [
+      82, 
+      105
+     ], 
+     "expanded_url": "https://www.advocate.com/television/2019/3/14/how-star-trek-discovery-shows-gay-survival-violence-and-trauma", 
+     "display_url": "advocate.com/television/201\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175070492389377": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 19057192, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "F73636", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/810286328881418240/iiE-I35T_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/2wjuzegDac", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://mikenobody.com/", 
+       "display_url": "mikenobody.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "19057192", 
+   "profile_background_color": "850D29", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 59833, 
+   "description": "Turning Junk Into Punk Since 1985!", 
+   "friends_count": 224, 
+   "location": "Destroyed Rock Shitty", 
+   "profile_link_color": "DD2E44", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/810286328881418240/iiE-I35T_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/19057192/1431218219", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "MikeNobody", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 7, 
+   "name": "Mike Nobody", 
+   "notifications": false, 
+   "url": "http://t.co/2wjuzegDac", 
+   "created_at": "Fri Jan 16 06:10:23 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Discovery", 
+  "Date": "Thu Mar 14 12:47:43 +0000 2019", 
+  "Text": "Robert Meyer Burnett weighs in on Star Trek Discovery and the Prime Canon Timelines confusion https://t.co/I8cOASoOAW", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/I8cOASoOAW", 
+     "indices": [
+      94, 
+      117
+     ], 
+     "expanded_url": "https://www.youtube.com/attribution_link?a=QfZhk3OaBYw&u=%2Fwatch%3Fv%3DEXgKnpwfz6g%26feature%3Dshare", 
+     "display_url": "youtube.com/attribution_li\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174900547420161": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 8039552, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3C3940", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045198752712089600/PTDSjnR4_normal.jpg", 
+   "profile_sidebar_fill_color": "95E8EC", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 324, 
+   "profile_sidebar_border_color": "5ED4DC", 
+   "id_str": "8039552", 
+   "profile_background_color": "0099B9", 
+   "listed_count": 30, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 129758, 
+   "description": "a dc expat in san jose, home of fruits and nuts", 
+   "friends_count": 461, 
+   "location": "San Jose, CA", 
+   "profile_link_color": "0099B9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1045198752712089600/PTDSjnR4_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/8039552/1550535960", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "screen_name": "genecowan", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5193, 
+   "name": "Gene Cowan \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Aug 07 21:53:47 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Discovery", 
+  "Date": "Thu Mar 14 12:47:02 +0000 2019", 
+  "Text": "RT @wcruz73: How 'Star Trek: Discovery' Shows Gay Survival of Violence and Trauma https://t.co/o21UEzlt7L", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 27829587, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "27829587", 
+     "screen_name": "wcruz73", 
+     "name": "Wilson Cruz"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/o21UEzlt7L", 
+     "indices": [
+      82, 
+      105
+     ], 
+     "expanded_url": "https://www.advocate.com/television/2019/3/14/how-star-trek-discovery-shows-gay-survival-violence-and-trauma", 
+     "display_url": "advocate.com/television/201\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174968486866944": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 461690669, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "663B12", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105492730933764096/UtuTdUMj_normal.png", 
+   "profile_sidebar_fill_color": "DAECF4", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/YBxtKiJnqa", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://peyton-list.org", 
+       "display_url": "peyton-list.org"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 377, 
+   "profile_sidebar_border_color": "C6E2EE", 
+   "id_str": "461690669", 
+   "profile_background_color": "C6E2EE", 
+   "listed_count": 22, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 46949, 
+   "description": "She/Her. Wife. Fangirl. Triplet. always random but always me. Banner by Grimm #lisasnartdefensesquad", 
+   "friends_count": 911, 
+   "location": "", 
+   "profile_link_color": "1F98C7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105492730933764096/UtuTdUMj_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/461690669/1518270709", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "screen_name": "theworrierqueen", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 71647, 
+   "name": "Chelle", 
+   "notifications": false, 
+   "url": "https://t.co/YBxtKiJnqa", 
+   "created_at": "Thu Jan 12 02:37:49 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Discovery", 
+  "Date": "Thu Mar 14 12:47:18 +0000 2019", 
+  "Text": "RT @wcruz73: How 'Star Trek: Discovery' Shows Gay Survival of Violence and Trauma https://t.co/o21UEzlt7L", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 27829587, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "27829587", 
+     "screen_name": "wcruz73", 
+     "name": "Wilson Cruz"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/o21UEzlt7L", 
+     "indices": [
+      82, 
+      105
+     ], 
+     "expanded_url": "https://www.advocate.com/television/2019/3/14/how-star-trek-discovery-shows-gay-survival-violence-and-trauma", 
+     "display_url": "advocate.com/television/201\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174944474472448": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 559046275, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091342057405366273/YlSSJYlN_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Mvee25IgBh", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://benkline.online", 
+       "display_url": "benkline.online"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 6259, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "559046275", 
+   "profile_background_color": "0ED8E6", 
+   "listed_count": 23, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12592, 
+   "description": "he/him - Writer lifter Gemini Appalachian goodfriend THWOT - Future/recent bylines at @gristjournal @riggwelterpress @themantlepoetry @aptmag @theoffingmag", 
+   "friends_count": 1501, 
+   "location": "Cincinnati", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1091342057405366273/YlSSJYlN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/559046275/1499793055", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "PineCreekPoet", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 17215, 
+   "name": "Ben Kline", 
+   "notifications": false, 
+   "url": "https://t.co/Mvee25IgBh", 
+   "created_at": "Sat Apr 21 00:07:14 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Discovery", 
+  "Date": "Thu Mar 14 12:47:13 +0000 2019", 
+  "Text": "@wcruz73 My Star Trek Discovery viewing group has been so happy to have Culber back!!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 27829587, 
+     "indices": [
+      0, 
+      8
+     ], 
+     "id_str": "27829587", 
+     "screen_name": "wcruz73", 
+     "name": "Wilson Cruz"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

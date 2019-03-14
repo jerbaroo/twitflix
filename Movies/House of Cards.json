@@ -1,0 +1,427 @@
+{
+ "1106175073038155776": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 831597414263844864, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/833008740731228161/ZUsZputJ_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2157, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "831597414263844864", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 102641, 
+   "description": "RTs don\u2019t always = endorsement.", 
+   "friends_count": 477, 
+   "location": "United States", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/833008740731228161/ZUsZputJ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": null, 
+   "screen_name": "JuneSmith888", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 144504, 
+   "name": "June Smith", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Feb 14 20:14:08 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "House of Cards", 
+  "Date": "Thu Mar 14 12:47:43 +0000 2019", 
+  "Text": "RT @LimitGovt: The same clown car drivers who failed to fund the wall DRAMATICALLY increased spending for the past 3 yrs.\n\nThey're still in\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 90649509, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "90649509", 
+     "screen_name": "LimitGovt", 
+     "name": "Limited Government"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175288302596097": {
+  "Lang": "it", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2812961, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "D6B29F", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053681206280290305/DxUxRNkT_normal.jpg", 
+   "profile_sidebar_fill_color": "FFEDF8", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/LuKTuBtFJl", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.zapping.rai.it", 
+       "display_url": "zapping.rai.it"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 12618, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2812961", 
+   "profile_background_color": "001925", 
+   "listed_count": 190, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 20617, 
+   "description": "Radio Anchor @ZappingRadio1", 
+   "friends_count": 3366, 
+   "location": "Rome", 
+   "profile_link_color": "03518C", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1053681206280290305/DxUxRNkT_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2812961/1542020984", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "gloquenzi", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 9209, 
+   "name": "giancarlo loquenzi", 
+   "notifications": false, 
+   "url": "https://t.co/LuKTuBtFJl", 
+   "created_at": "Thu Mar 29 09:00:44 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "House of Cards", 
+  "Date": "Thu Mar 14 12:48:35 +0000 2019", 
+  "Text": "@AntFuniciello Ricorda una scena di house of cards", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 407982210, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "407982210", 
+     "screen_name": "AntFuniciello", 
+     "name": "Antonio Funiciello"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174895258521601": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 37982510, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1848812357/avatar09twitter_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/GQPzDWmDo3", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.eggermedia.com", 
+       "display_url": "eggermedia.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 231, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "37982510", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 28, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8147, 
+   "description": "Producing, shooting, editing and occasionally tweeting.", 
+   "friends_count": 202, 
+   "location": "Innsbruck", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1848812357/avatar09twitter_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "albanegger", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2910, 
+   "name": "alban egger", 
+   "notifications": false, 
+   "url": "http://t.co/GQPzDWmDo3", 
+   "created_at": "Tue May 05 18:17:38 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "House of Cards", 
+  "Date": "Thu Mar 14 12:47:01 +0000 2019", 
+  "Text": "Taken from a \u201cHouse of Cards\u201d scene in season 3? #grabpopcorn https://t.co/YEINMeftcH", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      49, 
+      61
+     ], 
+     "text": "grabpopcorn"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/YEINMeftcH", 
+     "indices": [
+      62, 
+      85
+     ], 
+     "expanded_url": "https://twitter.com/BetoORourke/status/1106155281845760000", 
+     "display_url": "twitter.com/BetoORourke/st\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175001131171840": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": true, 
+   "id": 983531702512504832, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 20, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "983531702512504832", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1013, 
+   "description": "An underachieving malcontent trying to make sense of our nation's god-awful state of affairs. Really, people, can't you see- the orange turd tells lies.", 
+   "friends_count": 479, 
+   "location": "", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BuckGbucky4", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1324, 
+   "name": "butch buckley", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Apr 10 02:26:45 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "House of Cards", 
+  "Date": "Thu Mar 14 12:47:26 +0000 2019", 
+  "Text": "@SenKamalaHarris @SenFeinstein One can never expect that Mitch McConnell is going to play by the rules. And us Dems\u2026 https://t.co/O6cDTTJm5y", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 803694179079458816, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "803694179079458816", 
+     "screen_name": "SenKamalaHarris", 
+     "name": "Kamala Harris"
+    }, 
+    {
+     "id": 476256944, 
+     "indices": [
+      17, 
+      30
+     ], 
+     "id_str": "476256944", 
+     "screen_name": "SenFeinstein", 
+     "name": "Sen Dianne Feinstein"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/O6cDTTJm5y", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175001131171840", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174956612866049": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 981379238, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2916365331/2fdf93b1af2196423025657ce31e0b13_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 139, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "981379238", 
+   "profile_background_color": "607A0A", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 24294, 
+   "description": "I'm not from this world who would like to learn so keep telling me what to do.", 
+   "friends_count": 425, 
+   "location": "Washington, DC", 
+   "profile_link_color": "990000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2916365331/2fdf93b1af2196423025657ce31e0b13_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/981379238/1354315560", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "atuntoo", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 47140, 
+   "name": "untoo", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Nov 30 22:37:33 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "House of Cards", 
+  "Date": "Thu Mar 14 12:47:16 +0000 2019", 
+  "Text": "@UnfollowTrump Don't you worry, we will be still cleaning up the historic mess that \"witch hoax\" left behind and wa\u2026 https://t.co/bYpAzVBPhM", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 796811192924770305, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "796811192924770305", 
+     "screen_name": "UnfollowTrump", 
+     "name": "Unfollow Trump"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/bYpAzVBPhM", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174956612866049", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

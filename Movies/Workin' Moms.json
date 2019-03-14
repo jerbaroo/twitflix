@@ -1,0 +1,493 @@
+{
+ "1106163939690405888": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1029909501649084417, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102601336829501440/t79pWsDL_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/7bjUCexLkM", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://elisahobgood.com", 
+       "display_url": "elisahobgood.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 382, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1029909501649084417", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2526, 
+   "description": "i do photo stuff i guess", 
+   "friends_count": 311, 
+   "location": "dtx", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102601336829501440/t79pWsDL_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029909501649084417/1537993181", 
+   "profile_background_image_url": null, 
+   "screen_name": "elisanhobgood", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 25026, 
+   "name": "elisa", 
+   "notifications": false, 
+   "url": "https://t.co/7bjUCexLkM", 
+   "created_at": "Thu Aug 16 01:55:34 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Workin' Moms", 
+  "Date": "Thu Mar 14 12:03:29 +0000 2019", 
+  "Text": "@samlichtenstein the order, the umbrella academy, she-ra and the princesses of power, american vandal, atypical, ru\u2026 https://t.co/IYGHh3E4yl", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 142429386, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "142429386", 
+     "screen_name": "samlichtenstein", 
+     "name": "sam \u2615"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/IYGHh3E4yl", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106163939690405888", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173605530877953": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1009403699473440768, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105631994224926720/ZIeWf69V_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 976, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1009403699473440768", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3955, 
+   "description": "Sometimes I'm funny. \ud83d\ude0b\n\ud83d\udcaf % real.\n~Girl Mama~CannaMissus~Gif Goddess~Musical dweeb~Anime dork", 
+   "friends_count": 1323, 
+   "location": "Vancouver, British Columbia", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105631994224926720/ZIeWf69V_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009403699473440768/1548016900", 
+   "profile_background_image_url": null, 
+   "screen_name": "My_Tinymonster", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8984, 
+   "name": "ThoughtBubbles&Stuff\ud83c\udde8\ud83c\udde6", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jun 20 11:52:50 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Workin' Moms", 
+  "Date": "Thu Mar 14 12:41:53 +0000 2019", 
+  "Text": "@teheTina @twinningmum @wonderparent007 @Beetrues @ParentBear @FionaMorgan79 @SussexStomach @mycoparenter @GenYMama\u2026 https://t.co/1G2B5putFZ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1118088734, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "1118088734", 
+     "screen_name": "teheTina", 
+     "name": "2TeensandAtoddler"
+    }, 
+    {
+     "id": 902921444115533825, 
+     "indices": [
+      10, 
+      22
+     ], 
+     "id_str": "902921444115533825", 
+     "screen_name": "twinningmum", 
+     "name": "Tmum"
+    }, 
+    {
+     "id": 1080624406798495751, 
+     "indices": [
+      23, 
+      39
+     ], 
+     "id_str": "1080624406798495751", 
+     "screen_name": "wonderparent007", 
+     "name": "Wonder-Parent"
+    }, 
+    {
+     "id": 902598466693586946, 
+     "indices": [
+      40, 
+      49
+     ], 
+     "id_str": "902598466693586946", 
+     "screen_name": "Beetrues", 
+     "name": "Bee"
+    }, 
+    {
+     "id": 1002518333181349888, 
+     "indices": [
+      50, 
+      61
+     ], 
+     "id_str": "1002518333181349888", 
+     "screen_name": "ParentBear", 
+     "name": "Parent Bear"
+    }, 
+    {
+     "id": 782894571290255360, 
+     "indices": [
+      62, 
+      76
+     ], 
+     "id_str": "782894571290255360", 
+     "screen_name": "FionaMorgan79", 
+     "name": "Fiona Morgan"
+    }, 
+    {
+     "id": 902971486167855104, 
+     "indices": [
+      77, 
+      91
+     ], 
+     "id_str": "902971486167855104", 
+     "screen_name": "SussexStomach", 
+     "name": "Simply Chris"
+    }, 
+    {
+     "id": 191707961, 
+     "indices": [
+      92, 
+      105
+     ], 
+     "id_str": "191707961", 
+     "screen_name": "mycoparenter", 
+     "name": "My coParenter"
+    }, 
+    {
+     "id": 923395229616615424, 
+     "indices": [
+      106, 
+      115
+     ], 
+     "id_str": "923395229616615424", 
+     "screen_name": "GenYMama", 
+     "name": "Kristen // Gen-Y Mama"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/1G2B5putFZ", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173605530877953", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106167440470364162": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 413147267, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "DFE1BC", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/930535481279991811/t7xRAG4d_normal.jpg", 
+   "profile_sidebar_fill_color": "C9CAAB", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/EA2JZO2IZJ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://lnk.bio/mymommyvents", 
+       "display_url": "lnk.bio/mymommyvents"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2188, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "413147267", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 73, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9202, 
+   "description": "Health| Wellness| Motherhood\n#CertifiedHealthCoach for Moms & babies\n#MaternalMentalHealth Advocate \n#2020MomAmbassador\n\ud83d\udcecinfo@mymommyvents.com", 
+   "friends_count": 803, 
+   "location": "Brooklyn, NY, United States", 
+   "profile_link_color": "5C4254", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/930535481279991811/t7xRAG4d_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/413147267/1398303470", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif", 
+   "screen_name": "MyMommyVents", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12168, 
+   "name": "Tiffani G", 
+   "notifications": false, 
+   "url": "https://t.co/EA2JZO2IZJ", 
+   "created_at": "Tue Nov 15 14:53:51 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Workin' Moms", 
+  "Date": "Thu Mar 14 12:17:24 +0000 2019", 
+  "Text": "\u201cThere\u2019s an identity crises \u2014 a lot of us become mothers and all of a sudden we\u2019re expected to become these selfles\u2026 https://t.co/NXtH1Ns8ta", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/NXtH1Ns8ta", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106167440470364162", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106161232669630466": {
+  "Lang": "ja", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 777575230571028481, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053976444244639745/S6vefIlp_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/iRCF4VtV4R", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://marshmallow-qa.com/ay_ta_7?utm_medium=url_text&utm_source=promotion", 
+       "display_url": "marshmallow-qa.com/ay_ta_7?utm_me\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "777575230571028481", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6154, 
+   "description": "Kate McKinnon/Mackenzie Davis/Ruby Rose/Kristen Stewart/Rooney Mara/Cate Blanchett/CAROL/GB(2016)/MMFR/AB/O8/Sanvers/Shoot/Cophine/Kemaline/Loubbie/Cazzie\ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "friends_count": 83, 
+   "location": "F**kin\u2019 hell Japan", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1053976444244639745/S6vefIlp_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/777575230571028481/1530107418", 
+   "profile_background_image_url": null, 
+   "screen_name": "ay_ta_7", 
+   "lang": "ja", 
+   "profile_background_tile": false, 
+   "favourites_count": 9904, 
+   "name": "aya", 
+   "notifications": false, 
+   "url": "https://t.co/iRCF4VtV4R", 
+   "created_at": "Sun Sep 18 18:29:16 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Workin' Moms", 
+  "Date": "Thu Mar 14 11:52:44 +0000 2019", 
+  "Text": "Workin\u2019 Moms\u304a\u3082\u3057\u308d\u3044\uff01\u8272\u3005\u8003\u3048\u3055\u305b\u3089\u308c\u308b\u306a\u3002\n\nNetflix\u3067\u300c\u30ef\u30fc\u30ad\u30f3\u30b0\u30de\u30de\u300d\u3092\u89b3\u307e\u3057\u305f\u304b?\n\nhttps://t.co/YMx4M11qjk", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/YMx4M11qjk", 
+     "indices": [
+      57, 
+      80
+     ], 
+     "expanded_url": "https://www.netflix.com/title/80198991?s=i", 
+     "display_url": "netflix.com/title/80198991\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106154519199662080": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 510896183, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "2280A9", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/458953639063605248/5jViPRRa_normal.jpeg", 
+   "profile_sidebar_fill_color": "020812", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2490, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "510896183", 
+   "profile_background_color": "F009BA", 
+   "listed_count": 20, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 27366, 
+   "description": "Agustina Carman.\nPeriodista en @miradacouture y @elcancillercom", 
+   "friends_count": 593, 
+   "location": "Ciudad Aut\u00f3noma de Buenos Aire", 
+   "profile_link_color": "F508C6", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/458953639063605248/5jViPRRa_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/510896183/1366290368", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "angulita", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 34662, 
+   "name": "Agustina", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 01 21:40:13 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Workin' Moms", 
+  "Date": "Thu Mar 14 11:26:03 +0000 2019", 
+  "Text": "Todas somos la pelirroja de Workin' Moms.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "1106172416672309248": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 256796245, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "141717", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086080456834064388/f0flRbeM_normal.jpg", 
+   "profile_sidebar_fill_color": "030300", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 552, 
+   "profile_sidebar_border_color": "F51900", 
+   "id_str": "256796245", 
+   "profile_background_color": "474747", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 35900, 
+   "description": "in love with tacos and ryan michael \ud83d\udda4", 
+   "friends_count": 335, 
+   "location": "", 
+   "profile_link_color": "C41C24", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1086080456834064388/f0flRbeM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/256796245/1548445056", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "carmellamarie11", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 5055, 
+   "name": "bumbalina", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Feb 24 02:50:27 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bates Motel", 
+  "Date": "Thu Mar 14 12:37:10 +0000 2019", 
+  "Text": "I\u2019m so late on shit. But I started watching Bates motel I\u2019m obsessed", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106170701969448961": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3375820145, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092980755851083777/22DZNg3K_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 52, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3375820145", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 75, 
+   "description": "", 
+   "friends_count": 111, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092980755851083777/22DZNg3K_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3375820145/1465261989", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "EastwoodTabitha", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 95, 
+   "name": "Tabitha Eastwood", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 14 14:35:22 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bates Motel", 
+  "Date": "Thu Mar 14 12:30:21 +0000 2019", 
+  "Text": "@danieldaekim @TheEmmys Totally agree! He is by far the best for his generation! From Bates Motel to The Good Docto\u2026 https://t.co/q5FFLxq3tH", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 148945945, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "148945945", 
+     "screen_name": "danieldaekim", 
+     "name": "Daniel Dae Kim"
+    }, 
+    {
+     "id": 25379053, 
+     "indices": [
+      14, 
+      23
+     ], 
+     "id_str": "25379053", 
+     "screen_name": "TheEmmys", 
+     "name": "The Emmys\u00ae (NATAS)"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/q5FFLxq3tH", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106170701969448961", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106171893831344130": {
+  "Lang": "fr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 359940927, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101968754748112896/MA9r3vdL_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 431, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "359940927", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6355, 
+   "description": "\ud83c\uddf2\ud83c\uddf6\ud83c\uddf7\ud83c\uddea .", 
+   "friends_count": 156, 
+   "location": "", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101968754748112896/MA9r3vdL_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/359940927/1551149791", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "Kimdaxx", 
+   "lang": "fr", 
+   "profile_background_tile": true, 
+   "favourites_count": 2027, 
+   "name": "K.", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Aug 22 12:37:04 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bates Motel", 
+  "Date": "Thu Mar 14 12:35:05 +0000 2019", 
+  "Text": "Non mais dans Bates motel l\u00e0 NORMAN JPEUT PLUS ME LE VOIR SAYEZ UN D\u00c9BILE LE MEC", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106166295874162691": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 980253340583059456, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099943065018683392/gg9ZhdZm_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/l1vM4vpIzc", 
+       "indices": [
+        34, 
+        57
+       ], 
+       "expanded_url": "https://curiouscat.me/emilyssleeping", 
+       "display_url": "curiouscat.me/emilyssleeping"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 52, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "980253340583059456", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7172, 
+   "description": "original account: @emily_highmore https://t.co/l1vM4vpIzc President and CEO of the Itty Bitty Titty Committee", 
+   "friends_count": 142, 
+   "location": "Earth", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099943065018683392/gg9ZhdZm_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/980253340583059456/1551081838", 
+   "profile_background_image_url": null, 
+   "screen_name": "emilyssleeping", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 85, 
+   "name": "emily\ud83d\udc89", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Apr 01 01:19:43 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bates Motel", 
+  "Date": "Thu Mar 14 12:12:51 +0000 2019", 
+  "Text": "RT @farmigasrabe: alrighty so i need more mutuals rt/like if you stan : \n\nvera farmiga \nbates motel\nkristen stewart \ntwilight saga\nlily rab\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 921422771179094016, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "921422771179094016", 
+     "screen_name": "farmigasrabe", 
+     "name": "heather"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106165986091302912": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 973927458, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050298427903549440/g52ktxAk_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 452, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "973927458", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4173, 
+   "description": "", 
+   "friends_count": 467, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1050298427903549440/g52ktxAk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/973927458/1522695114", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "becky_willers", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9713, 
+   "name": "Becky Willers", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Nov 27 13:53:15 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bates Motel", 
+  "Date": "Thu Mar 14 12:11:37 +0000 2019", 
+  "Text": "@Tomking_10 @AbdiTV Starting before end of bates motel lol. But deffo!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 514831341, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "514831341", 
+     "screen_name": "Tomking_10", 
+     "name": "Tom King"
+    }, 
+    {
+     "id": 315977137, 
+     "indices": [
+      12, 
+      19
+     ], 
+     "id_str": "315977137", 
+     "screen_name": "AbdiTV", 
+     "name": "Abdi"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,414 @@
+{
+ "1106175451871887360": {
+  "Lang": "ja", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1079637632294866950, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091611649843163137/EyXP0eOX_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 9, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1079637632294866950", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 74, 
+   "description": "\u304f\u3089\u3059 \u8853\u2312\u306d\u308d\u3000\u80cc\u5f8c\u5eff\u6e08\u3000\u90e8\u5c4b\u30e1\u30a4\u30f3\uff08\u9577\u6587\u3001\u8af8\u301c\u803d\u7f8e\uff09", 
+   "friends_count": 8, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1091611649843163137/EyXP0eOX_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079637632294866950/1546431257", 
+   "profile_background_image_url": null, 
+   "screen_name": "neroneroro7", 
+   "lang": "ja", 
+   "profile_background_tile": false, 
+   "favourites_count": 5, 
+   "name": "\u306d\u2312\u308d\u306d\u308d\u2312\u308d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 31 07:17:25 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Archer", 
+  "Date": "Thu Mar 14 12:49:14 +0000 2019", 
+  "Text": "@Archer__r18 \u30a4\u30f3\u3000\u30e9\u30f3\u3000\u3067\u306f\u306a\u3044\u3068\u30c3\uff01\u4f59\u306f\u7687\u5e1d\uff01\u305d\u308c\u4ee5\u5916\u306e\u30ca\u30cb\u30e2\u30ce\u3067\u3082\u306a\u3044\u30c3\uff01\uff08\u3077\u30f3\u3001", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1099985432127762432, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "1099985432127762432", 
+     "screen_name": "Archer__r18", 
+     "name": "\u5f13"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175405831192576": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 213816560, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "1F1212", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104701941056192513/8N1cyCu1_normal.png", 
+   "profile_sidebar_fill_color": "9DEDE9", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/qGTRdn8E6w", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://instagram.com/rauzeras", 
+       "display_url": "instagram.com/rauzeras"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/zWYI0zC9PO", 
+       "indices": [
+        28, 
+        51
+       ], 
+       "expanded_url": "https://curiouscat.me/rauz3ras", 
+       "display_url": "curiouscat.me/rauz3ras"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 569, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "213816560", 
+   "profile_background_color": "140F0F", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 33777, 
+   "description": "num parece mas sou perigoso https://t.co/zWYI0zC9PO", 
+   "friends_count": 427, 
+   "location": "Campo Grande, Brasil", 
+   "profile_link_color": "FFFFFF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104701941056192513/8N1cyCu1_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rauomaisbrabo", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 29872, 
+   "name": "raul", 
+   "notifications": false, 
+   "url": "https://t.co/qGTRdn8E6w", 
+   "created_at": "Tue Nov 09 21:37:39 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Archer", 
+  "Date": "Thu Mar 14 12:49:03 +0000 2019", 
+  "Text": "RT @wolfnub: gender neutral names to call your friends\n- archer\n- saber\n- lancer\n- rider\n- caster\n- assassin\n- berserker", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 701822272013803520, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "701822272013803520", 
+     "screen_name": "wolfnub", 
+     "name": "Oli \ud83c\udff9 @ saving for shiki"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175362868744192": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 947734134369148929, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087233361788133376/KvgpN9y__normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/1dHrPqTWH5", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/Leering_Around", 
+       "display_url": "curiouscat.me/Leering_Around"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 190, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "947734134369148929", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1933, 
+   "description": "Trying to see beyond the normal twitter/\nLF: Cultured, Mannered and Educated, Class over Form/\nAll \ud83d\udcf8 are taken by me unless given credits/", 
+   "friends_count": 144, 
+   "location": "Republic of the Philippines", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087233361788133376/KvgpN9y__normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/947734134369148929/1550057992", 
+   "profile_background_image_url": null, 
+   "screen_name": "Leering_Archer", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2122, 
+   "name": "\u2682\u2682\ud83d\udd23\ud83d\udd3c\u2648\ud83d\udead", 
+   "notifications": false, 
+   "url": "https://t.co/1dHrPqTWH5", 
+   "created_at": "Mon Jan 01 07:40:00 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Archer", 
+  "Date": "Thu Mar 14 12:48:52 +0000 2019", 
+  "Text": "@tonymacheesy Wag pa virgin. Even Madonna wasnt virgin anymore when she sang like a virgin. \ud83d\ude44", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 815364177485119488, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "815364177485119488", 
+     "screen_name": "tonymacheesy", 
+     "name": "MacJuicy"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175364081033216": {
+  "Lang": "tl", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 835368328646438912, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104335133312577537/Rj5iDjtP_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/VulPWwEfyN", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://Instagram.com/heyitsrouigi_", 
+       "display_url": "Instagram.com/heyitsrouigi_"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 318, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "835368328646438912", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6155, 
+   "description": "\ud83c\uddf5\ud83c\uddedPH Manila | South | \ud83d\udcf7: heyitsrouigi_", 
+   "friends_count": 141, 
+   "location": "iamnumber4our", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104335133312577537/Rj5iDjtP_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/835368328646438912/1545011209", 
+   "profile_background_image_url": null, 
+   "screen_name": "Heyitsrouigi_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1754, 
+   "name": "Usele$$ \ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f", 
+   "notifications": false, 
+   "url": "https://t.co/VulPWwEfyN", 
+   "created_at": "Sat Feb 25 05:58:24 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Archer", 
+  "Date": "Thu Mar 14 12:48:53 +0000 2019", 
+  "Text": "tots about archer \u2014 Solid tong aports ko na to!!! Tunay na tunay na kaibigan \ud83d\udcaa https://t.co/msmxAoFhDd", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/msmxAoFhDd", 
+     "indices": [
+      79, 
+      102
+     ], 
+     "expanded_url": "https://curiouscat.me/Imperialkyle_/post/813213266?t=1552567733", 
+     "display_url": "curiouscat.me/Imperialkyle_/\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175366752698369": {
+  "Lang": "ja", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 906850301910466560, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102243361790939137/ilAnnhbg_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 70, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "906850301910466560", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3194, 
+   "description": "\u9b54\u738b\u7cfb\u30b5\u30fc\u30f4\u30a1\u30f3\u30c8", 
+   "friends_count": 68, 
+   "location": "\u7b2c\u516d\u5929\u9b54\u738b\u6ce2\u65ec", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102243361790939137/ilAnnhbg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/906850301910466560/1551630116", 
+   "profile_background_image_url": null, 
+   "screen_name": "archer__Nob", 
+   "lang": "ja", 
+   "profile_background_tile": false, 
+   "favourites_count": 847, 
+   "name": "\u5e1d\u90fd\u306e\u30a2\u30fc\u30c1\u30e3\u30fc", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Sep 10 12:02:15 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Archer", 
+  "Date": "Thu Mar 14 12:48:53 +0000 2019", 
+  "Text": "@nobbu_x \u2026\u306a\u30fc\u3093\u3066\u306a\u3001\u30b8\u30e7\u30fc\u30af\u3058\u3083\u30b8\u30e7\u30fc\u30af\u3058\u3083\u3002\u3069\u3063\u304b\u306e\u30c9\u30e9\u30b4\u30f3\u5a18\u3068\u9055\u3063\u3066\u5225\u306b\u5225\u308c\u3082\u3057\u306a\u3044\u3057\u52c7\u8005\u306b\u3082\u306a\u3089\u3093\u3088(\u305d\u306e\u9854\u3092\u898b\u3066\u9762\u767d\u304b\u3063\u305f\u306e\u304b\u3001\u30b1\u30e9\u30b1\u30e9\u3068\u7b11\u3063\u3066)", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 906881638197366786, 
+     "indices": [
+      0, 
+      8
+     ], 
+     "id_str": "906881638197366786", 
+     "screen_name": "nobbu_x", 
+     "name": "nobbu-X"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

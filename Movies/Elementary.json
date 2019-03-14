@@ -1,0 +1,305 @@
+{
+ "1106175492158218240": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2264656775, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/680550085264982016/g_9SExBp_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 35, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2264656775", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1210, 
+   "description": "All around smarty-pants, book nerd and Outlander fan girl. Grant me patience with stupid people - but hurry! All opinions strictly my own.", 
+   "friends_count": 275, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/680550085264982016/g_9SExBp_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "bevee9", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3233, 
+   "name": "Brenda", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jan 06 03:24:18 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Elementary", 
+  "Date": "Thu Mar 14 12:49:23 +0000 2019", 
+  "Text": "RT @TalbertSwan: Remember Tanya McDowell?\n\nShe got 12 yrs for sending her 6 yr old son to Norwalk CT\u2019s Brookside Elementary School while sh\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 16873455, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "16873455", 
+     "screen_name": "TalbertSwan", 
+     "name": "Bishop Talbert Swan"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175486764433409": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 862945063, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000832498280/8fe2b1bda3e1d9d21e4f331210d8022c_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 491, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "862945063", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 15, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15518, 
+   "description": "I can tell the queen of diamonds by the way she shines.", 
+   "friends_count": 2413, 
+   "location": "Fremont, CA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000832498280/8fe2b1bda3e1d9d21e4f331210d8022c_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/862945063/1529976474", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "RiskOfRuin256", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 32740, 
+   "name": "RiskOfRuin256", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Oct 05 12:06:03 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Elementary", 
+  "Date": "Thu Mar 14 12:49:22 +0000 2019", 
+  "Text": "RT @TalbertSwan: Remember Tanya McDowell?\n\nShe got 12 yrs for sending her 6 yr old son to Norwalk CT\u2019s Brookside Elementary School while sh\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 16873455, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "16873455", 
+     "screen_name": "TalbertSwan", 
+     "name": "Bishop Talbert Swan"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175467319713793": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 439368137, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2452509846/IMG-20120702-00168_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/iny8oO7oLt", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://principalkeesmaat.wordpress.com", 
+       "display_url": "principalkeesmaat.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 366, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "439368137", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 24, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2820, 
+   "description": "K - 8 Principal in Guelph, ON. Tentative scuba diver, bias is at risk students, it takes a village.", 
+   "friends_count": 192, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2452509846/IMG-20120702-00168_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "PrincipKeesmaat", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 418, 
+   "name": "Ken Keesmaat", 
+   "notifications": false, 
+   "url": "https://t.co/iny8oO7oLt", 
+   "created_at": "Sat Dec 17 17:57:45 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Elementary", 
+  "Date": "Thu Mar 14 12:49:17 +0000 2019", 
+  "Text": "RT @OPCouncil: Expected later today: Elementary math curriculum to be overhauled - \"back to the basics,\" new training for teachers, additio\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 54236760, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "54236760", 
+     "screen_name": "OPCouncil", 
+     "name": "Ont Princ Council"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175484797161473": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 67124094, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "322929", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/994049776080441344/vHWey2vY_normal.jpg", 
+   "profile_sidebar_fill_color": "D8AED0", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 912, 
+   "profile_sidebar_border_color": "D4D4D4", 
+   "id_str": "67124094", 
+   "profile_background_color": "25CC6A", 
+   "listed_count": 71, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 37884, 
+   "description": "Just a fan of...medicine, science, politics, skating, dogs, food and David Cook. Not necessarily in that order. I RT a lot.", 
+   "friends_count": 2310, 
+   "location": "", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/994049776080441344/vHWey2vY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/67124094/1531957707", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "screen_name": "Deb1323", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 83637, 
+   "name": "Debbie", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Aug 19 21:15:01 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Elementary", 
+  "Date": "Thu Mar 14 12:49:21 +0000 2019", 
+  "Text": "RT @TalbertSwan: Remember Tanya McDowell?\n\nShe got 12 yrs for sending her 6 yr old son to Norwalk CT\u2019s Brookside Elementary School while sh\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 16873455, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "16873455", 
+     "screen_name": "TalbertSwan", 
+     "name": "Bishop Talbert Swan"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

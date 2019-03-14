@@ -1,0 +1,434 @@
+{
+ "1106175475016261632": {
+  "Lang": "tl", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 712010856406450176, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/712011470066753536/B2SrSDz9_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Tto8Hyriyt", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://afroinsider.com", 
+       "display_url": "afroinsider.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 85, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "712010856406450176", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 32810, 
+   "description": "", 
+   "friends_count": 48, 
+   "location": "South Africa", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/712011470066753536/B2SrSDz9_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "tracy_merlin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7, 
+   "name": "Tracy Merlin", 
+   "notifications": false, 
+   "url": "https://t.co/Tto8Hyriyt", 
+   "created_at": "Mon Mar 21 20:19:51 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Merlin", 
+  "Date": "Thu Mar 14 12:49:19 +0000 2019", 
+  "Text": "Chimulirenji bodyguards fire bullets to scare crowds \u2013 Malawi Nyasa Times \u2013 Malawi breaking news in\u00a0Malawi\u2026 https://t.co/IIRRocGMaz", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/IIRRocGMaz", 
+     "indices": [
+      108, 
+      131
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175475016261632", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175462190051328": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 869598531757146112, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/984917672977686528/omvJ_hHm_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/j03OdP21Wm", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.twitch.tv/billywaugh_merlin", 
+       "display_url": "twitch.tv/billywaugh_mer\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 150, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "869598531757146112", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1241, 
+   "description": "", 
+   "friends_count": 447, 
+   "location": "Tampa, FL", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/984917672977686528/omvJ_hHm_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/869598531757146112/1523710712", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BillyW_Merlin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1441, 
+   "name": "Billy Waugh(Merlin)", 
+   "notifications": false, 
+   "url": "https://t.co/j03OdP21Wm", 
+   "created_at": "Tue May 30 16:57:01 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Merlin", 
+  "Date": "Thu Mar 14 12:49:16 +0000 2019", 
+  "Text": "@DeadstickSim Looking forward to checking it out!!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 912310051804794880, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "912310051804794880", 
+     "screen_name": "DeadstickSim", 
+     "name": "DeadstickSimulator"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175475242749954": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 712010856406450176, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/712011470066753536/B2SrSDz9_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Tto8Hyriyt", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://afroinsider.com", 
+       "display_url": "afroinsider.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 85, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "712010856406450176", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 32810, 
+   "description": "", 
+   "friends_count": 48, 
+   "location": "South Africa", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/712011470066753536/B2SrSDz9_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "tracy_merlin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7, 
+   "name": "Tracy Merlin", 
+   "notifications": false, 
+   "url": "https://t.co/Tto8Hyriyt", 
+   "created_at": "Mon Mar 21 20:19:51 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Merlin", 
+  "Date": "Thu Mar 14 12:49:19 +0000 2019", 
+  "Text": "Presidential running mates gear up for second debate: Kazako says pageant of ideas and image \u2013 Malawi Nyasa Times \u2013\u2026 https://t.co/z7rSZTOi5n", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/z7rSZTOi5n", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175475242749954", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175367231008773": {
+  "Lang": "fr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 2380275247, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Io5oZs2Wgi", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://latelierdecarele.wix.com//latelierdecarele#", 
+       "display_url": "latelierdecarele.wix.com//latelierdecar\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 0, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2380275247", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 451, 
+   "description": "", 
+   "friends_count": 4, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "atelierdecarele", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "L'atelier de Car\u00e8le", 
+   "notifications": false, 
+   "url": "http://t.co/Io5oZs2Wgi", 
+   "created_at": "Sun Mar 09 10:32:42 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Merlin", 
+  "Date": "Thu Mar 14 12:48:53 +0000 2019", 
+  "Text": "A vendre meuble pour four encastrable blanc Leroy Merlin, neuf simplement mont\u00e9 ( car achet\u00e9 en double).\nDimension:\u2026 https://t.co/NapJPeGKI9", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/NapJPeGKI9", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175367231008773", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175418032443392": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 74147226, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/428503429065887744/KmeQ8fGm_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/vizPJ9PKKI", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://twitter.com/BihorOnline", 
+       "display_url": "twitter.com/BihorOnline"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/tuLQwhAzJA", 
+       "indices": [
+        50, 
+        72
+       ], 
+       "expanded_url": "http://www.bihon.ro", 
+       "display_url": "bihon.ro"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 620, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "74147226", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 25404, 
+   "description": "Site de stiri locale din Oradea si judetul Bihor, http://t.co/tuLQwhAzJA", 
+   "friends_count": 34, 
+   "location": "Romania", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/428503429065887744/KmeQ8fGm_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BihorOnline", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3, 
+   "name": "Bihor Online", 
+   "notifications": false, 
+   "url": "https://t.co/vizPJ9PKKI", 
+   "created_at": "Mon Sep 14 12:46:41 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Merlin", 
+  "Date": "Thu Mar 14 12:49:06 +0000 2019", 
+  "Text": "Nidec, Olimp Impex \u015fi Leroy Merlin, la Targul Locurilor de Munca Oradea JobExpo https://t.co/Fk4h0U0fRh", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Fk4h0U0fRh", 
+     "indices": [
+      80, 
+      103
+     ], 
+     "expanded_url": "http://www.bihon.ro/nidec-olimp-impex-si-leroy-merlin-la-oradea-job-expo-2/2214627", 
+     "display_url": "bihon.ro/nidec-olimp-im\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

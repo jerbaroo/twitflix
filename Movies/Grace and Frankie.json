@@ -1,0 +1,427 @@
+{
+ "1106175296997392384": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2578182105, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051194727440236545/L_lduT-P_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 187, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2578182105", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5626, 
+   "description": "USC \ud83d\udc2c", 
+   "friends_count": 212, 
+   "location": "West side, Puerto Rico", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1051194727440236545/L_lduT-P_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2578182105/1524033523", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "MrParks_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1816, 
+   "name": "\u15e9\u144eGE\u14aaO \u146d\u15e9\u1587K\u1515", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jun 02 18:47:38 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Grace and Frankie", 
+  "Date": "Thu Mar 14 12:48:37 +0000 2019", 
+  "Text": "RT @rafiladiosa: Que no le gusta Grace And Frankie??? #BloqueoALoCorcino", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1131997064, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "1131997064", 
+     "screen_name": "rafiladiosa", 
+     "name": "rafi, la diosa\u2728"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      54, 
+      72
+     ], 
+     "text": "BloqueoALoCorcino"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106170791404728320": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 813153640114438144, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100815936133709825/zx_pm8WZ_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 117, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "813153640114438144", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2701, 
+   "description": "Nerd Savant. Star Wars Geek. Lover of Queen. Paediatrician. Other. Aspiring Nephrologist and Warrior. Temporary legal alien \ud83c\uddef\ud83c\uddf2. Tweets are my own.", 
+   "friends_count": 366, 
+   "location": "Toronto, Ontario", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100815936133709825/zx_pm8WZ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/813153640114438144/1526318861", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "thebadnephron", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2718, 
+   "name": "Nadia McLean", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Dec 25 22:45:10 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Grace and Frankie", 
+  "Date": "Thu Mar 14 12:30:42 +0000 2019", 
+  "Text": "@suezeecue @Mellumjr Grace and Frankie, Forensic files, ok I know you don\u2019t watch anime so I won\u2019t suggest suggest Attack on Titan.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 444828382, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "444828382", 
+     "screen_name": "suezeecue", 
+     "name": "Susan Goffe"
+    }, 
+    {
+     "id": 1848971394, 
+     "indices": [
+      11, 
+      20
+     ], 
+     "id_str": "1848971394", 
+     "screen_name": "Mellumjr", 
+     "name": "Sage"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106167338422935554": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3311135087, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/607295889397399552/t2Rj46hR_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3311135087", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 471, 
+   "description": "", 
+   "friends_count": 85, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/607295889397399552/t2Rj46hR_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "glenmiller311", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1511, 
+   "name": "Glen Miller", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jun 06 21:18:36 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Grace and Frankie", 
+  "Date": "Thu Mar 14 12:16:59 +0000 2019", 
+  "Text": "@qvcuk Frankie, Grace and Sharon you look Beautiful and Fabulous on the cat walk", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 242662450, 
+     "indices": [
+      0, 
+      6
+     ], 
+     "id_str": "242662450", 
+     "screen_name": "qvcuk", 
+     "name": "QVC UK"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106167510871740416": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 435740474, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096821759792287744/lQZZ0KIG_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/2nlZx8bJ3y", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://cpaddockwrites.wordpress.com", 
+       "display_url": "cpaddockwrites.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 612, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "435740474", 
+   "profile_background_color": "000000", 
+   "listed_count": 16, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8681, 
+   "description": "Overenthusiastic and underprepared. @1RoomWithAView Features Editor. @TheSkinnyMag and @TheatreBubble writer. Views my own", 
+   "friends_count": 924, 
+   "location": "Edinburgh, Scotland", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096821759792287744/lQZZ0KIG_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/435740474/1529529901", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "screen_name": "CarmenChloie", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13229, 
+   "name": "Carmen CP", 
+   "notifications": false, 
+   "url": "https://t.co/2nlZx8bJ3y", 
+   "created_at": "Tue Dec 13 11:46:48 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Grace and Frankie", 
+  "Date": "Thu Mar 14 12:17:40 +0000 2019", 
+  "Text": "@ellekhaywood @RhysHandley2113 Thank you! I looooove Grace and Frankie and just realised I have the latest series t\u2026 https://t.co/n5hj6zBJ3e", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2594584029, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "2594584029", 
+     "screen_name": "ellekhaywood", 
+     "name": "Elle Haywood"
+    }, 
+    {
+     "id": 1524765566, 
+     "indices": [
+      14, 
+      30
+     ], 
+     "id_str": "1524765566", 
+     "screen_name": "RhysHandley2113", 
+     "name": "rhys handley"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/n5hj6zBJ3e", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106167510871740416", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106168212671082497": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 849673360447594496, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095702572927725571/LN6T7YC6_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 276, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "849673360447594496", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 82, 
+   "description": "Portuguese, Journalism Film & TV fanatic\nHeader 'BABEL' by Cildo Meireles, part of the Tate Modern collection. Unknown fact: I'm\nDonna Tartt's biological son", 
+   "friends_count": 1000, 
+   "location": "Glasgow, Scotland", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095702572927725571/LN6T7YC6_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/849673360447594496/1550070986", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "EricGraca", 
+   "lang": "en-gb", 
+   "profile_background_tile": false, 
+   "favourites_count": 5957, 
+   "name": "Eric Graca", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Apr 05 17:21:30 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Grace and Frankie", 
+  "Date": "Thu Mar 14 12:20:28 +0000 2019", 
+  "Text": "@VascoArthur I mean 13 reasons isn't a good example. Stranger Things, Grace and Frankie, Glow, OITNB, One day at a\u2026 https://t.co/0apCsXbr7y", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 110085637, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "110085637", 
+     "screen_name": "VascoArthur", 
+     "name": "arthur vasco \ud83c\uddea\ud83c\uddfa"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/0apCsXbr7y", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106168212671082497", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,439 @@
+{
+ "1106173856308514816": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 378680491, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/796335802003456000/G5-C1iJp_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 196, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "378680491", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 96297, 
+   "description": "", 
+   "friends_count": 406, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/796335802003456000/G5-C1iJp_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/378680491/1489063527", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "USPatriot01810", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5268, 
+   "name": "Andover1996", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Sep 23 16:32:45 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Crazy Ex-Girlfriend", 
+  "Date": "Thu Mar 14 12:42:53 +0000 2019", 
+  "Text": "Crazy ex-girlfriend... https://t.co/uOD6Mc72ic", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/USPatriot01810/status/1106173856308514816/photo/1", 
+     "display_url": "pic.twitter.com/uOD6Mc72ic", 
+     "url": "https://t.co/uOD6Mc72ic", 
+     "media_url_https": "https://pbs.twimg.com/media/D1nrQkCWsAALDAj.jpg", 
+     "id_str": "1106173853280153600", 
+     "sizes": {
+      "large": {
+       "h": 555, 
+       "resize": "fit", 
+       "w": 740
+      }, 
+      "small": {
+       "h": 510, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 555, 
+       "resize": "fit", 
+       "w": 740
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      23, 
+      46
+     ], 
+     "type": "photo", 
+     "id": 1106173853280153600, 
+     "media_url": "http://pbs.twimg.com/media/D1nrQkCWsAALDAj.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106163577684004864": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1489345740, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/741494152655867904/HiJ9JiAR_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/IhzXHu8tpk", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.facebook.com/loki.the.paradox", 
+       "display_url": "facebook.com/loki.the.parad\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 28, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1489345740", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 12, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 19906, 
+   "description": "Worlds Most Wanted Wiener", 
+   "friends_count": 64, 
+   "location": "Oxnard, CA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/741494152655867904/HiJ9JiAR_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489345740/1543584989", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Winterchild86", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10, 
+   "name": "Andrew Peter", 
+   "notifications": false, 
+   "url": "https://t.co/IhzXHu8tpk", 
+   "created_at": "Fri Jun 07 03:14:24 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Crazy Ex-Girlfriend", 
+  "Date": "Thu Mar 14 12:02:03 +0000 2019", 
+  "Text": "Santa Ana Winds - Crazy Ex-Girlfriend https://t.co/7Ete8MA7Pl via @YouTube", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      66, 
+      74
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/7Ete8MA7Pl", 
+     "indices": [
+      38, 
+      61
+     ], 
+     "expanded_url": "https://youtu.be/Z4qvpHZzZGI", 
+     "display_url": "youtu.be/Z4qvpHZzZGI"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106144495291322368": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 23230351, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058939291383091200/xy0JaD5r_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 356, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "23230351", 
+   "profile_background_color": "000000", 
+   "listed_count": 19, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 83813, 
+   "description": "Erstwhile medieval historian. He/him, tragically cishet. FFXIV: Boreal Tempest, Ultros. FFXIVSnaps editor. Elf troubler. Av: @moogiedaisuki, header: @manreeree!", 
+   "friends_count": 269, 
+   "location": "Massachusetts", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1058939291383091200/xy0JaD5r_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/23230351/1544402369", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "screen_name": "Serisothikos", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 41020, 
+   "name": "Wintry Mix is a lore-appropriate Hellsguard R", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Mar 07 20:23:11 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Crazy Ex-Girlfriend", 
+  "Date": "Thu Mar 14 10:46:13 +0000 2019", 
+  "Text": "RT @Sylphiel: eventually @Serisothikos and i will become completely incomprehensible to people who do not understand our constant strings o\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 23222969, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "23222969", 
+     "screen_name": "Sylphiel", 
+     "name": "the whale is a metaphor"
+    }, 
+    {
+     "id": 23230351, 
+     "indices": [
+      25, 
+      38
+     ], 
+     "id_str": "23230351", 
+     "screen_name": "Serisothikos", 
+     "name": "Wintry Mix is a lore-appropriate Hellsguard R"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106152888219455488": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2149206504, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063512886377615360/kUToH5xh_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 458, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2149206504", 
+   "profile_background_color": "000000", 
+   "listed_count": 27, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 13284, 
+   "description": "aka Miranda.\nEDS. POTS. Boy Meets World. Queer. Pickles. Broccoli. Bourbon. Libraries. Cataloging. Sweater weather. Crosswords.", 
+   "friends_count": 423, 
+   "location": "Providence, RI", 
+   "profile_link_color": "6F1738", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1063512886377615360/kUToH5xh_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2149206504/1471875374", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "TedDancin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 21436, 
+   "name": "Cl&estineGloveLunch", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Oct 22 15:08:15 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Crazy Ex-Girlfriend", 
+  "Date": "Thu Mar 14 11:19:34 +0000 2019", 
+  "Text": "@sixonekevin YTW is incredible! I only watched the first season of Crazy Ex-Girlfriend, but if it\u2019s comparable to B\u2026 https://t.co/e4TkT2sdI5", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15380360, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "15380360", 
+     "screen_name": "sixonekevin", 
+     "name": "90 mins no intermission"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/e4TkT2sdI5", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106152888219455488", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106161652964175873": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23222969, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/675436957640597504/qhYUwQ6O_normal.png", 
+   "profile_sidebar_fill_color": "F3F3F3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/gvWXoze6b9", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://archiveofourown.org/users/akisazame", 
+       "display_url": "archiveofourown.org/users/akisazame"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 294, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "23222969", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 12, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 114067, 
+   "description": "hi I'm Sylph (she/her) // fanfic writer, chaotic bisexual, pretzel enthusiast // Minuette Crevecoeur \ud83c\udff9 Ultros // av @vythefirst header @cucumber_quest", 
+   "friends_count": 336, 
+   "location": "sassachusetts", 
+   "profile_link_color": "CDBFE3", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/675436957640597504/qhYUwQ6O_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/23222969/1465223115", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "Sylphiel", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 18147, 
+   "name": "the whale is a metaphor", 
+   "notifications": false, 
+   "url": "https://t.co/gvWXoze6b9", 
+   "created_at": "Sat Mar 07 19:09:15 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Crazy Ex-Girlfriend", 
+  "Date": "Thu Mar 14 11:54:24 +0000 2019", 
+  "Text": "you can watch riverdale on this flight but not crazy ex-girlfriend i am SUING", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

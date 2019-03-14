@@ -1,0 +1,318 @@
+{
+ "1106175515466104832": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 129897482, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "706E9E", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039167314464108544/D4I_H73e_normal.jpg", 
+   "profile_sidebar_fill_color": "080836", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/oppVfD6mee", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://bit.ly/2xTDNsS", 
+       "display_url": "bit.ly/2xTDNsS"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1554, 
+   "profile_sidebar_border_color": "C90C25", 
+   "id_str": "129897482", 
+   "profile_background_color": "131516", 
+   "listed_count": 29, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10324, 
+   "description": "Co-founder of @GeekPantsMedia \ud83c\udfac\ud83c\udfae Former host of The GeekCap at @hidefninja", 
+   "friends_count": 2117, 
+   "location": "Thunder Bay", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1039167314464108544/D4I_H73e_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/129897482/1522090364", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "KennethLivitski", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 12258, 
+   "name": "\ud835\ude7a\ud835\ude8e\ud835\ude97 \ud835\ude7b\ud835\ude92\ud835\ude9f\ud835\ude92\ud835\ude9d\ud835\ude9c\ud835\ude94\ud835\ude92", 
+   "notifications": false, 
+   "url": "https://t.co/oppVfD6mee", 
+   "created_at": "Mon Apr 05 18:55:20 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Thu Mar 14 12:49:29 +0000 2019", 
+  "Text": "Great-looking poster, but not one hero is wearing their mask/helmet... and that's a bummer. They should release the\u2026 https://t.co/KktdCT8ZVw", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/KktdCT8ZVw", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175515466104832", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175505097605121": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 229704623, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090094730585600000/8wCXjwqV_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 667, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "229704623", 
+   "profile_background_color": "000000", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21201, 
+   "description": "please do not bully yourself", 
+   "friends_count": 1128, 
+   "location": "@pattyntero", 
+   "profile_link_color": "F5A9BC", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090094730585600000/8wCXjwqV_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/229704623/1531729817", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "morelikeomega", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 95448, 
+   "name": "whore d'oeuvre \u262d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Dec 23 03:25:58 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Thu Mar 14 12:49:26 +0000 2019", 
+  "Text": "i tone with pure witch hazel. then i apply the oil concoction. then i use chilled aloe vera as a sleeping mask.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175426525716485": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 840944702660657152, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102592347009835014/LhxzSGGx_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 42, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "840944702660657152", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15433, 
+   "description": "\u201c\ubb34\uc2a8 \uace0\uae30\ub97c \uba39\ub290\ub0d0\uac00 \uc911\uc694\ud55c\uac8c \uc544\ub2c8\ub77c, \ub204\uad6c\ub791 \uba39\ub290\ub0d0\uac00 \uc911\uc694\ud55c\uac70\uc57c\u201d -nkmtyt \u26c5\ufe0f\ud83d\udc07", 
+   "friends_count": 305, 
+   "location": "Busan, Republic of Korea", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102592347009835014/LhxzSGGx_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/840944702660657152/1512582850", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "mygsooo", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2408, 
+   "name": "leean", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Mar 12 15:16:55 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Thu Mar 14 12:49:08 +0000 2019", 
+  "Text": "RT @WanderGirl11: @choiisooyyounq It\u2019s actually sad that the people we idolize are actually wearing a mask. Hiding hideous acts! As a fan w\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1086925404315631617, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "1086925404315631617", 
+     "screen_name": "WanderGirl11", 
+     "name": "Wander Girl"
+    }, 
+    {
+     "id": 3315082992, 
+     "indices": [
+      18, 
+      33
+     ], 
+     "id_str": "3315082992", 
+     "screen_name": "choiisooyyounq", 
+     "name": "\u1d0aei \ud83d\udc3e"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175428748693504": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1000083138314358784, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106058425362866176/4FJh3R1K_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/id2Sox0xk0", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.instagram.com/aunirosydan_/", 
+       "display_url": "instagram.com/aunirosydan_/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 203, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1000083138314358784", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7484, 
+   "description": "\ud83d\udc90\ud83c\udf6d", 
+   "friends_count": 215, 
+   "location": "SK'17", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106058425362866176/4FJh3R1K_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1000083138314358784/1551334012", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "aunirosydan", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 14974, 
+   "name": "yasmeen", 
+   "notifications": false, 
+   "url": "https://t.co/id2Sox0xk0", 
+   "created_at": "Fri May 25 18:36:15 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Thu Mar 14 12:49:08 +0000 2019", 
+  "Text": "RT @AimanPsikologis: The mask they're wearing is only for dust. Not for chemical gas issue.\n\nIt does not filter the gas particle at all.\n\nS\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 126067349, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "126067349", 
+     "screen_name": "AimanPsikologis", 
+     "name": "A Mental Health Advocate"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

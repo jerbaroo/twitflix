@@ -1,0 +1,419 @@
+{
+ "1106172874006630400": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 139612813, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060180654044995584/MlpSGias_normal.jpg", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ywDOLjlRn6", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://youtube.com/tvemcores", 
+       "display_url": "youtube.com/tvemcores"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 922, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "139612813", 
+   "profile_background_color": "0EC4E8", 
+   "listed_count": 18, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 134933, 
+   "description": "Julia Newlands, apresentadora em @tvemcores \ud83c\udff3\u200d\ud83c\udf08\n[s\u00f3 me deixa sentar 5 min.]\nAcredito na Democracia mas acima de tudo acredito no meteoro\u2122\ufe0f\n\n(she/her/ela)", 
+   "friends_count": 364, 
+   "location": "Brasil", 
+   "profile_link_color": "0B50B8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1060180654044995584/MlpSGias_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/139612813/1545080839", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "goaway_bitch", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 126941, 
+   "name": "mickey you're too late \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "notifications": false, 
+   "url": "https://t.co/ywDOLjlRn6", 
+   "created_at": "Mon May 03 04:36:47 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "BoJack Horseman", 
+  "Date": "Thu Mar 14 12:38:59 +0000 2019", 
+  "Text": "RT @B_resnick: Bojack Horseman is the only show I trust to do this college admissions fraud story right.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 300552750, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "300552750", 
+     "screen_name": "B_resnick", 
+     "name": "Brian Resnick"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174052299878401": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1026200596943187969, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106174840158019584/_h895cP1_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 19, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1026200596943187969", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 95, 
+   "description": "", 
+   "friends_count": 44, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106174840158019584/_h895cP1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1026200596943187969/1549039675", 
+   "profile_background_image_url": null, 
+   "screen_name": "MerveKrba2", 
+   "lang": "tr", 
+   "profile_background_tile": false, 
+   "favourites_count": 528, 
+   "name": "Merve K\u0131rba\u015f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Aug 05 20:17:42 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "BoJack Horseman", 
+  "Date": "Thu Mar 14 12:43:40 +0000 2019", 
+  "Text": "It gets easier. Everyday it gets easier, but you gotta do it everyday. That's the hard part. But it does get easier\u2026 https://t.co/vHva1gYryu", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/vHva1gYryu", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174052299878401", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173130136059909": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 17094461, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "BA0F0F", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/685017152034836480/qBAoaOq4_normal.jpg", 
+   "profile_sidebar_fill_color": "060A09", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ywDOLjlRn6", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://youtube.com/tvemcores", 
+       "display_url": "youtube.com/tvemcores"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/A2uVEArx47", 
+       "indices": [
+        56, 
+        79
+       ], 
+       "expanded_url": "http://micoliver.tumblr.com", 
+       "display_url": "micoliver.tumblr.com"
+      }, 
+      {
+       "url": "https://t.co/CZg5UKwQ9I", 
+       "indices": [
+        85, 
+        108
+       ], 
+       "expanded_url": "http://instagram.com/mic_oliver", 
+       "display_url": "instagram.com/mic_oliver"
+      }, 
+      {
+       "url": "https://t.co/BzVgdTOusV", 
+       "indices": [
+        117, 
+        140
+       ], 
+       "expanded_url": "https://sptfy.com/2uGN", 
+       "display_url": "sptfy.com/2uGN"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 2623, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "17094461", 
+   "profile_background_color": "141114", 
+   "listed_count": 99, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 107989, 
+   "description": "Apresentador no @tvemcores |   the show must go wrong | https://t.co/A2uVEArx47    | https://t.co/CZg5UKwQ9I   |    \nhttps://t.co/BzVgdTOusV", 
+   "friends_count": 307, 
+   "location": "Rio de Janeiro", 
+   "profile_link_color": "FA0A0A", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/685017152034836480/qBAoaOq4_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/17094461/1398609216", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "mic_oliver", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 2738, 
+   "name": "andalite bandit", 
+   "notifications": false, 
+   "url": "https://t.co/ywDOLjlRn6", 
+   "created_at": "Fri Oct 31 23:49:21 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "BoJack Horseman", 
+  "Date": "Thu Mar 14 12:40:00 +0000 2019", 
+  "Text": "RT @B_resnick: Bojack Horseman is the only show I trust to do this college admissions fraud story right.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 300552750, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "300552750", 
+     "screen_name": "B_resnick", 
+     "name": "Brian Resnick"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106171688339886080": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 901049080339714048, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099505978003914752/QLqlOiUy_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 667, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "901049080339714048", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 10, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8194, 
+   "description": "GROWN.", 
+   "friends_count": 732, 
+   "location": "ZOO JERSEY", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099505978003914752/QLqlOiUy_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/901049080339714048/1537750501", 
+   "profile_background_image_url": null, 
+   "screen_name": "1800PESOS", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1779, 
+   "name": "KY PESOS", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Aug 25 11:50:16 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "BoJack Horseman", 
+  "Date": "Thu Mar 14 12:34:16 +0000 2019", 
+  "Text": "RT @B_resnick: Bojack Horseman is the only show I trust to do this college admissions fraud story right.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 300552750, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "300552750", 
+     "screen_name": "B_resnick", 
+     "name": "Brian Resnick"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106170887412293632": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1068063253, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/875275831215611907/XQU6WOxf_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 95, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1068063253", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 423, 
+   "description": "", 
+   "friends_count": 262, 
+   "location": "Barcelona", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/875275831215611907/XQU6WOxf_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "oscperez14", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 325, 
+   "name": "Oscar Perez", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jan 07 11:13:36 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "BoJack Horseman", 
+  "Date": "Thu Mar 14 12:31:05 +0000 2019", 
+  "Text": "RT @wizardsrtrash: Aqu\u00ed ten\u00e9is el art\u00edculo con el que llevo dando la turra un mes. Espero que lo le\u00e1is si os interesa y que me dej\u00e9is vuest\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 997607471060529152, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "997607471060529152", 
+     "screen_name": "wizardsrtrash", 
+     "name": "VC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

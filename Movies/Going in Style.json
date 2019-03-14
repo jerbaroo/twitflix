@@ -1,0 +1,460 @@
+{
+ "1106174937184661504": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1586261724, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102091679652175872/Z_llLhe-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 902, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1586261724", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10176, 
+   "description": "life is what u make it....\ud83d\udc9f\u270c\ud83d\udc9f\n\u0ba4\u0bae\u0bbf\u0bb4\u0ba9\u0bcd\u0b9f\u0bbe \u0b8e\u0ba8\u0bcd\u0ba8\u0bbe\u0bb3\u0bc1\u0bae\u0bcd\n\u0b9a\u0bca\u0ba9\u0bcd\u0ba9\u0bbe\u0bb2\u0bc7 \u0ba4\u0bbf\u0bae\u0bbf\u0bb0\u0bcd \u0b8f\u0bb0\u0bc1\u0bae\u0bcd \ud83d\udc97\n\u0ba4\u0bb2\u0bc8\u0bb5\u0ba9\u0bcd #\u0b9a\u0bbf\u0bb2\u0bae\u0bcd\u0baa\u0bb0\u0b9a\u0ba9\u0bcd \u0bb0\u0b9a\u0bbf\u0b95\u0ba9\u0bcd\ud83d\udcaa\ud83d\udda4\ud83d\udda4", 
+   "friends_count": 1810, 
+   "location": "Selangor, Malaysia", 
+   "profile_link_color": "0012B3", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102091679652175872/Z_llLhe-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586261724/1546619657", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "johndurian1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 47455, 
+   "name": "john durian", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jul 11 16:44:19 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Going in Style", 
+  "Date": "Thu Mar 14 12:47:11 +0000 2019", 
+  "Text": "RT @LMKMovieManiac: #IspadeRajavumIdhayaRaniyum #IRIR 1st half - @iamharishkalyan is very good. All rage and style in his screen presence\ud83d\udd25.\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 221647151, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "221647151", 
+     "screen_name": "LMKMovieManiac", 
+     "name": "Kaushik LM"
+    }, 
+    {
+     "id": 60473832, 
+     "indices": [
+      65, 
+      81
+     ], 
+     "id_str": "60473832", 
+     "screen_name": "iamharishkalyan", 
+     "name": "Harish kalyan"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      20, 
+      47
+     ], 
+     "text": "IspadeRajavumIdhayaRaniyum"
+    }, 
+    {
+     "indices": [
+      48, 
+      53
+     ], 
+     "text": "IRIR"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175066809778177": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 20956791, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/737397584361361408/O55ZYrHS_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/CfMg9Fgw5w", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://plus.google.com/u/0/+SteveJonesHimself", 
+       "display_url": "plus.google.com/u/0/+SteveJone\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 717, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "20956791", 
+   "profile_background_color": "000000", 
+   "listed_count": 140, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12091, 
+   "description": "Seq(\"Harsh Types\", \"Simplicity\", \"Continuous Computing\", \"Hollow-State Devices\", \"Sweet Solder Fumes\", \"Musique\")", 
+   "friends_count": 1398, 
+   "location": "Greater Pittsburgh Area", 
+   "profile_link_color": "9E494C", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/737397584361361408/O55ZYrHS_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/20956791/1426166069", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "sjfloat", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5166, 
+   "name": "Steve Jones", 
+   "notifications": false, 
+   "url": "https://t.co/CfMg9Fgw5w", 
+   "created_at": "Mon Feb 16 02:35:21 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Going in Style", 
+  "Date": "Thu Mar 14 12:47:42 +0000 2019", 
+  "Text": "RT @fried_brice: Hating on type classes goes in and out of style. But really, type classes are Haskell's gift to the world.\n\nThey're the cu\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 272053984, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "272053984", 
+     "screen_name": "fried_brice", 
+     "name": "Daniel Brice"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174050882203650": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 67200390, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087263969260261376/Zr7l52nd_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/VWBUM4bdl7", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.youtube.com/channel/UCwDSx-1W76kaY9W2q1PJaLA", 
+       "display_url": "youtube.com/channel/UCwDSx\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/AKkBElr7jj", 
+       "indices": [
+        134, 
+        157
+       ], 
+       "expanded_url": "http://Twitch.tv/MrsMazy", 
+       "display_url": "Twitch.tv/MrsMazy"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 95, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "67200390", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 913, 
+   "description": "Your local insomniac \u27b0 WX Nerd (@EvaMcCammonWX) \u26a1\nAvid Splatoon 2 Player \ud83d\udc19 Youtuber & Live Streamer \ud83c\udfa5\nLet's Splat \ud83d\udc40\ud83d\udca6 [2746-4125-3901]\nhttps://t.co/AKkBElr7jj", 
+   "friends_count": 199, 
+   "location": "Portsmouth, VA", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087263969260261376/Zr7l52nd_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/67200390/1548060905", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "MrsMazy", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1403, 
+   "name": "\ud83d\udc19 Mazy \ud83d\udc19", 
+   "notifications": false, 
+   "url": "https://t.co/VWBUM4bdl7", 
+   "created_at": "Thu Aug 20 02:22:07 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Going in Style", 
+  "Date": "Thu Mar 14 12:43:40 +0000 2019", 
+  "Text": "Update: I'm in denial. I keep telling myself I'm better and then my body reminds me I'm not. My lungs hurt. I'm dri\u2026 https://t.co/M49r16M8TG", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/M49r16M8TG", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174050882203650", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174005411758080": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 27273490, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/763046803826700288/aM2huXN1_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/pYGlCKg46I", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.brownpapertickets.com/event/4102569", 
+       "display_url": "brownpapertickets.com/event/4102569"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3497, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "27273490", 
+   "profile_background_color": "000000", 
+   "listed_count": 98, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 59776, 
+   "description": "#IamSueCostello Experience Mahch 30th  #nyc in the link below - Instagram @iamsuecostello", 
+   "friends_count": 1978, 
+   "location": "#IamSueCostello", 
+   "profile_link_color": "DD2E44", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/763046803826700288/aM2huXN1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/27273490/1545317563", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "suecostello", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 131, 
+   "name": "Sue Costello", 
+   "notifications": false, 
+   "url": "https://t.co/pYGlCKg46I", 
+   "created_at": "Sat Mar 28 17:50:53 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Going in Style", 
+  "Date": "Thu Mar 14 12:43:29 +0000 2019", 
+  "Text": "I love all of this- all the prisionahs rising up- the richie riches gettin busted. The feds going aftah the corupti\u2026 https://t.co/afSbASHZwL", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/afSbASHZwL", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174005411758080", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173354782932993": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2948566534, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060385236918460416/D6q54Zwi_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/0dxTZmjfUD", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.twitch.tv/sheriff_rekk", 
+       "display_url": "twitch.tv/sheriff_rekk"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1784, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2948566534", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1245, 
+   "description": "27 yr old father of 2 gorgeous girls! husband to an amazing women! The sheriff is braving the swamp! #GATORGANG!!!!", 
+   "friends_count": 2461, 
+   "location": "", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1060385236918460416/D6q54Zwi_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2948566534/1541650544", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Sheriff_REKK", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 985, 
+   "name": "Sheriff_REKK", 
+   "notifications": false, 
+   "url": "https://t.co/0dxTZmjfUD", 
+   "created_at": "Mon Dec 29 05:13:22 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Going in Style", 
+  "Date": "Thu Mar 14 12:40:54 +0000 2019", 
+  "Text": "RT @MBNerdStuff: #MINGONITES! The Twitter Poll Is Still Going 4 My Next Horror Game So I'm Doing Something A Little Different! \n\nI'm Live \ud83d\udd34\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 780413477064155136, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "780413477064155136", 
+     "screen_name": "MBNerdStuff", 
+     "name": "Mingo"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      17, 
+      28
+     ], 
+     "text": "MINGONITES"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

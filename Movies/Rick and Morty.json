@@ -1,0 +1,563 @@
+{
+ "1106175443378622464": {
+  "Lang": "tr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 818076447642386432, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098578075128877056/jtFNGWZ__normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 52, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "818076447642386432", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 56, 
+   "description": "#4", 
+   "friends_count": 51, 
+   "location": "T\u00fcrkiye", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098578075128877056/jtFNGWZ__normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/818076447642386432/1552068765", 
+   "profile_background_image_url": null, 
+   "screen_name": "berrayardmci", 
+   "lang": "tr", 
+   "profile_background_tile": false, 
+   "favourites_count": 801, 
+   "name": "berra", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jan 08 12:46:39 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Rick and Morty", 
+  "Date": "Thu Mar 14 12:49:12 +0000 2019", 
+  "Text": "RT @tapirtr: RT &amp; Takip Et @tapirtr Rick and Morty Fig\u00fcr kazanma \u015fans\u0131 yakala!\u26a1\ufe0f https://t.co/AS1orHSl7Z", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }, 
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      31, 
+      39
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 1102974193958903808, 
+     "source_status_id_str": "1105955953806135296", 
+     "expanded_url": "https://twitter.com/tapirtr/status/1105955953806135296/photo/1", 
+     "display_url": "pic.twitter.com/AS1orHSl7Z", 
+     "url": "https://t.co/AS1orHSl7Z", 
+     "media_url_https": "https://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg", 
+     "source_user_id_str": "1102974193958903808", 
+     "source_status_id": 1105955953806135296, 
+     "id_str": "1105955946982002690", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "medium": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      85, 
+      108
+     ], 
+     "type": "photo", 
+     "id": 1105955946982002690, 
+     "media_url": "http://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175398663110657": {
+  "Lang": "tr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1640937145, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105510060262936577/qhadFxW7_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2266, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1640937145", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 655, 
+   "description": "", 
+   "friends_count": 1631, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105510060262936577/qhadFxW7_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640937145/1552088868", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Nursevimmaltg", 
+   "lang": "tr", 
+   "profile_background_tile": true, 
+   "favourites_count": 1468, 
+   "name": "Nursevim Altu\u011f \u2693\ufe0f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Aug 02 17:13:41 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Rick and Morty", 
+  "Date": "Thu Mar 14 12:49:01 +0000 2019", 
+  "Text": "RT @tapirtr: RT &amp; Takip Et @tapirtr Rick and Morty Fig\u00fcr kazanma \u015fans\u0131 yakala!\u26a1\ufe0f https://t.co/AS1orHSl7Z", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }, 
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      31, 
+      39
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 1102974193958903808, 
+     "source_status_id_str": "1105955953806135296", 
+     "expanded_url": "https://twitter.com/tapirtr/status/1105955953806135296/photo/1", 
+     "display_url": "pic.twitter.com/AS1orHSl7Z", 
+     "url": "https://t.co/AS1orHSl7Z", 
+     "media_url_https": "https://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg", 
+     "source_user_id_str": "1102974193958903808", 
+     "source_status_id": 1105955953806135296, 
+     "id_str": "1105955946982002690", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "medium": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      85, 
+      108
+     ], 
+     "type": "photo", 
+     "id": 1105955946982002690, 
+     "media_url": "http://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174866456223746": {
+  "Lang": "tr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 941060988920414208, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033084036875517959/Pby_NoS1_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 198, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "941060988920414208", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1141, 
+   "description": "250717'M\ud83d\udc9f", 
+   "friends_count": 103, 
+   "location": "Sivas, T\u00fcrkiye", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1033084036875517959/Pby_NoS1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": null, 
+   "screen_name": "buussraaa", 
+   "lang": "tr", 
+   "profile_background_tile": false, 
+   "favourites_count": 13613, 
+   "name": "\ud83c\udf38", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Dec 13 21:43:18 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Rick and Morty", 
+  "Date": "Thu Mar 14 12:46:54 +0000 2019", 
+  "Text": "RT @tapirtr: RT &amp; Takip Et @tapirtr Rick and Morty Fig\u00fcr kazanma \u015fans\u0131 yakala!\u26a1\ufe0f https://t.co/AS1orHSl7Z", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }, 
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      31, 
+      39
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 1102974193958903808, 
+     "source_status_id_str": "1105955953806135296", 
+     "expanded_url": "https://twitter.com/tapirtr/status/1105955953806135296/photo/1", 
+     "display_url": "pic.twitter.com/AS1orHSl7Z", 
+     "url": "https://t.co/AS1orHSl7Z", 
+     "media_url_https": "https://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg", 
+     "source_user_id_str": "1102974193958903808", 
+     "source_status_id": 1105955953806135296, 
+     "id_str": "1105955946982002690", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "medium": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      85, 
+      108
+     ], 
+     "type": "photo", 
+     "id": 1105955946982002690, 
+     "media_url": "http://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174951026053120": {
+  "Lang": "tr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 482021588, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104843242963693568/QrAdOsqj_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 600, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "482021588", 
+   "profile_background_color": "ACDED6", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1099, 
+   "description": "Bir k\u0131\u015f kadar savunmas\u0131z'\u26c4", 
+   "friends_count": 376, 
+   "location": "Kayseri", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104843242963693568/QrAdOsqj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/482021588/1552082014", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "NihalBozdoan", 
+   "lang": "tr", 
+   "profile_background_tile": true, 
+   "favourites_count": 5454, 
+   "name": "Nihal\ud83c\udf19", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Feb 03 12:48:39 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Rick and Morty", 
+  "Date": "Thu Mar 14 12:47:14 +0000 2019", 
+  "Text": "RT @tapirtr: RT &amp; Takip Et @tapirtr Rick and Morty Fig\u00fcr kazanma \u015fans\u0131 yakala!\u26a1\ufe0f https://t.co/AS1orHSl7Z", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }, 
+    {
+     "id": 1102974193958903808, 
+     "indices": [
+      31, 
+      39
+     ], 
+     "id_str": "1102974193958903808", 
+     "screen_name": "tapirtr", 
+     "name": "TAP\u0130R"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 1102974193958903808, 
+     "source_status_id_str": "1105955953806135296", 
+     "expanded_url": "https://twitter.com/tapirtr/status/1105955953806135296/photo/1", 
+     "display_url": "pic.twitter.com/AS1orHSl7Z", 
+     "url": "https://t.co/AS1orHSl7Z", 
+     "media_url_https": "https://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg", 
+     "source_user_id_str": "1102974193958903808", 
+     "source_status_id": 1105955953806135296, 
+     "id_str": "1105955946982002690", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "medium": {
+       "h": 726, 
+       "resize": "fit", 
+       "w": 726
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      85, 
+      108
+     ], 
+     "type": "photo", 
+     "id": 1105955946982002690, 
+     "media_url": "http://pbs.twimg.com/media/D1klEv0X0AIKkbu.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175383513284609": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 992210716227719170, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103247166624202752/cUd_WBEI_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 34, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "992210716227719170", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 551, 
+   "description": "liberal. contra regalias. \nBotafoguense, Madridista e Azulino.\nmed.", 
+   "friends_count": 113, 
+   "location": "Aracaju, Brasil", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103247166624202752/cUd_WBEI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/992210716227719170/1525398289", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jvoprado", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 3685, 
+   "name": "Jo\u00e3o Victor O.P.", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri May 04 01:14:03 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Rick and Morty", 
+  "Date": "Thu Mar 14 12:48:57 +0000 2019", 
+  "Text": "Meu nome \u00e9 Stanley; Moro em piripiri e o Brasil que eu quero \u00e9 muito Rick and Morty!!!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

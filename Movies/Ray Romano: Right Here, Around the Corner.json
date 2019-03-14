@@ -1,0 +1,473 @@
+{
+ "1105349471834116096": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2918033986, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101688575702245376/wg6DQMuv_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GBecXLcqyF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.icheckmovies.com/profiles/alf_/", 
+       "display_url": "icheckmovies.com/profiles/alf_/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 905, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2918033986", 
+   "profile_background_color": "000000", 
+   "listed_count": 31, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 67931, 
+   "description": "Habitante de Copiapo. Intento reservar en dorsia. tengo que devolver unos videos.", 
+   "friends_count": 1878, 
+   "location": "Copiap\u00f3, Chile", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101688575702245376/wg6DQMuv_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918033986/1436599425", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "ugedades_", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 4058, 
+   "name": "alfredo", 
+   "notifications": false, 
+   "url": "https://t.co/GBecXLcqyF", 
+   "created_at": "Fri Dec 12 16:56:05 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Ray Romano: Right Here, Around the Corner", 
+  "Date": "Tue Mar 12 06:07:05 +0000 2019", 
+  "Text": "Ray Romano: Right Here, Around the Corner (2019) - IMDb - https://t.co/WUKKl6RQ5U", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/WUKKl6RQ5U", 
+     "indices": [
+      58, 
+      81
+     ], 
+     "expanded_url": "https://www.imdb.com/title/tt8101766/", 
+     "display_url": "imdb.com/title/tt810176\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106159691082674177": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 381719728, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/643845812397690880/S-p8ABpD_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/OjtBXAN3od", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.youtube.com/PogoDependientes", 
+       "display_url": "youtube.com/PogoDependient\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 311, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "381719728", 
+   "profile_background_color": "131516", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6419, 
+   "description": "Los tuits de la risa los escribo en @pogodependiente. Aqu\u00ed estoy para comentar cosas que veo. \n\nSi has visto algo y quieres comentarlo, soy tu hombre.", 
+   "friends_count": 489, 
+   "location": "", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/643845812397690880/S-p8ABpD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/381719728/1422459823", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "LobatoRuben", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 255, 
+   "name": "Rub\u00e9n Lobato", 
+   "notifications": false, 
+   "url": "https://t.co/OjtBXAN3od", 
+   "created_at": "Wed Sep 28 20:29:07 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Ray Romano: Right Here, Around the Corner", 
+  "Date": "Thu Mar 14 11:46:36 +0000 2019", 
+  "Text": "34-RAY ROMANO: RIGHT HERE, AROUND THE CORNER(2019)\nMe gusta la idea de hacer medio especial en cada club y de graba\u2026 https://t.co/zVnxb7P9p2", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/zVnxb7P9p2", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106159691082674177", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104274830356959234": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 624191933, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103384215612055552/ZYksLqwO_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/NVZRajf3B7", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.youtube.com/user/missrainbowpie", 
+       "display_url": "youtube.com/user/missrainb\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/ep221Sox21", 
+       "indices": [
+        136, 
+        159
+       ], 
+       "expanded_url": "http://bit.ly/myships", 
+       "display_url": "bit.ly/myships"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 507, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "624191933", 
+   "profile_background_color": "000000", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 19875, 
+   "description": "\"We can be our genuine, authentic, graceful, beautiful selves.... without having to apologize for it.\" // list of my fandoms and ships: https://t.co/ep221Sox21", 
+   "friends_count": 197, 
+   "location": "Las Vegas, NV", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103384215612055552/ZYksLqwO_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/624191933/1546333379", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "MissRainbowPie", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3215, 
+   "name": "Michelle Ilia \ud83c\udf3b", 
+   "notifications": false, 
+   "url": "https://t.co/NVZRajf3B7", 
+   "created_at": "Sun Jul 01 23:52:07 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Ray Romano: Right Here, Around the Corner", 
+  "Date": "Sat Mar 09 06:56:50 +0000 2019", 
+  "Text": "Ray Romano: Right Here, Around the Corner (2019) \u2022 8/10 https://t.co/5UWP1Ohxdb", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/MissRainbowPie/status/1104274830356959234/photo/1", 
+     "display_url": "pic.twitter.com/5UWP1Ohxdb", 
+     "url": "https://t.co/5UWP1Ohxdb", 
+     "media_url_https": "https://pbs.twimg.com/media/D1MsFyXVYAEgeSG.jpg", 
+     "id_str": "1104274811566514177", 
+     "sizes": {
+      "large": {
+       "h": 597, 
+       "resize": "fit", 
+       "w": 426
+      }, 
+      "small": {
+       "h": 597, 
+       "resize": "fit", 
+       "w": 426
+      }, 
+      "medium": {
+       "h": 597, 
+       "resize": "fit", 
+       "w": 426
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      56, 
+      79
+     ], 
+     "type": "photo", 
+     "id": 1104274811566514177, 
+     "media_url": "http://pbs.twimg.com/media/D1MsFyXVYAEgeSG.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104812841327050752": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 832036208, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/526029153598849024/HdHhBgtH_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 182, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "832036208", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 17, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2577, 
+   "description": "I read what you write.", 
+   "friends_count": 242, 
+   "location": "Buffalo, NY", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/526029153598849024/HdHhBgtH_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "buffalosam88", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5529, 
+   "name": "Sam", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Sep 18 22:46:50 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Ray Romano: Right Here, Around the Corner", 
+  "Date": "Sun Mar 10 18:34:42 +0000 2019", 
+  "Text": "Ray Romano\u2019s: Right Here, Around the Corner\u201d on @netflix is hilarious!\n\nhttps://t.co/SKqExFW74v", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 16573941, 
+     "indices": [
+      48, 
+      56
+     ], 
+     "id_str": "16573941", 
+     "screen_name": "netflix", 
+     "name": "Netflix US"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/SKqExFW74v", 
+     "indices": [
+      72, 
+      95
+     ], 
+     "expanded_url": "https://www.netflix.com/title/80216779?s=i", 
+     "display_url": "netflix.com/title/80216779\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104014588671025152": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 883314847575719936, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/883316389091594241/jh9J3tEe_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/qUB7VmEKrE", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.rayromano.com/", 
+       "display_url": "rayromano.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 710, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "883314847575719936", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 212, 
+   "description": "Fan Page for stand up Comedian, Actor and Screenwriter Ray Romano. Best known as Ray Barone from Everybody Loves Raymond.", 
+   "friends_count": 41, 
+   "location": "Queens, New York", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/883316389091594241/jh9J3tEe_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/883314847575719936/1499434106", 
+   "profile_background_image_url": null, 
+   "screen_name": "Raymond__Romano", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 372, 
+   "name": "Raymond Romano", 
+   "notifications": false, 
+   "url": "https://t.co/qUB7VmEKrE", 
+   "created_at": "Fri Jul 07 13:20:45 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Ray Romano: Right Here, Around the Corner", 
+  "Date": "Fri Mar 08 13:42:44 +0000 2019", 
+  "Text": "RT @Barbiekeny: @Raymond__Romano I Watched Ray Romano comedy special: Right Here, Around the Corner on Netflix, It was hilarious, thanks fo\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 42114938, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "42114938", 
+     "screen_name": "Barbiekeny", 
+     "name": "Bonnie McK"
+    }, 
+    {
+     "id": 883314847575719936, 
+     "indices": [
+      16, 
+      32
+     ], 
+     "id_str": "883314847575719936", 
+     "screen_name": "Raymond__Romano", 
+     "name": "Raymond Romano"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

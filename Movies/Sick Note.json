@@ -1,0 +1,425 @@
+{
+ "1106171408453783552": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 204273771, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1576396159/James00000001a_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GoovkmJVhM", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.youtube.com/channel/UCcSJBBg3lh4d3DOHagGLYqA", 
+       "display_url": "youtube.com/channel/UCcSJB\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 7343, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "204273771", 
+   "profile_background_color": "000000", 
+   "listed_count": 158, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 100728, 
+   "description": "Reject Post-Truth apathy. Without racism, beauty is everywhere. Free speech and freedom is everything. #illridewithyou #AntiRacist\ufe0f\u200d\ufe0f\u200d", 
+   "friends_count": 7711, 
+   "location": "Sydney, Australia", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1576396159/James00000001a_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/204273771/1549374724", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "james00000001", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 7256, 
+   "name": "James One \ud83c\udf08", 
+   "notifications": false, 
+   "url": "https://t.co/GoovkmJVhM", 
+   "created_at": "Mon Oct 18 10:18:13 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Sick Note", 
+  "Date": "Thu Mar 14 12:33:10 +0000 2019", 
+  "Text": "Note to RWNJ climate deniers who are puzzled by tomorrow's #ClimateStrike , the kids are sick of the riddles and th\u2026 https://t.co/FjI7IE1PuW", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      59, 
+      73
+     ], 
+     "text": "ClimateStrike"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/FjI7IE1PuW", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106171408453783552", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173244300804097": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1054207717194260480, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054208178605318146/bZQubtRD_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ua3c23YkYf", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://blazefmradio1.wixsite.com/blazefm", 
+       "display_url": "blazefmradio1.wixsite.com/blazefm"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 93, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1054207717194260480", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5819, 
+   "description": "the station of the nation", 
+   "friends_count": 994, 
+   "location": "Jamaica", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1054208178605318146/bZQubtRD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054207717194260480/1540177896", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "blazefm2", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 42, 
+   "name": "Blaze fm radio", 
+   "notifications": false, 
+   "url": "https://t.co/ua3c23YkYf", 
+   "created_at": "Mon Oct 22 03:08:00 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Sick Note", 
+  "Date": "Thu Mar 14 12:40:27 +0000 2019", 
+  "Text": "NowPlaying The Sick Note - Ronnie Drew https://t.co/ik2oRXgZW7 12:39", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/ik2oRXgZW7", 
+     "indices": [
+      39, 
+      62
+     ], 
+     "expanded_url": "https://blazefmradio1.wixsite.com/blazefm", 
+     "display_url": "blazefmradio1.wixsite.com/blazefm"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106166135702110208": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1099799420, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091973413852332032/BKIvQUhb_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/IUtrewdwiT", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://soundcloud.com/westyworld/wety-wetys-world", 
+       "display_url": "soundcloud.com/westyworld/wet\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 284, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1099799420", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 834, 
+   "description": "IG: westy3151 snapchat: westy3151", 
+   "friends_count": 254, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1091973413852332032/BKIvQUhb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099799420/1533576946", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "WestyDubs", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5279, 
+   "name": "We$ty \ud83e\udd11", 
+   "notifications": false, 
+   "url": "https://t.co/IUtrewdwiT", 
+   "created_at": "Fri Jan 18 02:17:53 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Sick Note", 
+  "Date": "Thu Mar 14 12:12:12 +0000 2019", 
+  "Text": "You can be sick for 3 days and not have a doctors note https://t.co/uoeKY6Wh4d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/uoeKY6Wh4d", 
+     "indices": [
+      55, 
+      78
+     ], 
+     "expanded_url": "https://twitter.com/unbraekableent/status/1103666583333945350", 
+     "display_url": "twitter.com/unbraekableent\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106169047576702976": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 882054026971537408, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106031628604850177/1VTBK5xP_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/zt2C6qWVxq", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/howellslove", 
+       "display_url": "curiouscat.me/howellslove"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2070, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "882054026971537408", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 104, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 55094, 
+   "description": "@danielhowell: \u201coh wow, oh that\u2019s so beautiful i love it, it\u2019s amazing, oh thank you honestly that means so much\u201d \u2661", 
+   "friends_count": 135, 
+   "location": "mary ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106031628604850177/1VTBK5xP_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/882054026971537408/1551761280", 
+   "profile_background_image_url": null, 
+   "screen_name": "howellslove", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19523, 
+   "name": "roxanne", 
+   "notifications": false, 
+   "url": "https://t.co/zt2C6qWVxq", 
+   "created_at": "Tue Jul 04 01:50:42 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Sick Note", 
+  "Date": "Thu Mar 14 12:23:47 +0000 2019", 
+  "Text": "im tired as hell and my moms sick so im worried but on the bright note dan is baby and i love my @ v much", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106167237054881793": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 814310120444174336, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/980438680224505856/ns_S9u74_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/rIbFNh62FN", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://archiveofourown.org/users/amyeonhaseyo", 
+       "display_url": "archiveofourown.org/users/amyeonha\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 949, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "814310120444174336", 
+   "profile_background_color": "000000", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 33792, 
+   "description": "\ud83d\udc07Hi, Junmyeon \ud83d\udc30\n\n\n\n\n\nIf you guys wanna be friends / mutuals/ to just talk--please slide into my dms \ud83d\ude18 |\n\nFan account \n\n| Trying not to die at med school", 
+   "friends_count": 282, 
+   "location": "", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/980438680224505856/ns_S9u74_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/814310120444174336/1522589527", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "suhosfabtwin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10248, 
+   "name": "Kim Jun Hee", 
+   "notifications": false, 
+   "url": "https://t.co/rIbFNh62FN", 
+   "created_at": "Thu Dec 29 03:20:36 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Sick Note", 
+  "Date": "Thu Mar 14 12:16:35 +0000 2019", 
+  "Text": "On another note, lee jonghyun. Fuck. I've seen him in shows and damn. He'd have been standing in a lineup and I'd t\u2026 https://t.co/QEgC8cW3ui", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/QEgC8cW3ui", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106167237054881793", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

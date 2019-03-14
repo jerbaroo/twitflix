@@ -1,0 +1,422 @@
+{
+ "1106165372015788032": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 257895805, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/856903493793329154/crWo3o0Y_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/2ZhaTnXoND", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.dannymorrison.com", 
+       "display_url": "dannymorrison.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 15882, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "257895805", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 78, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 45824, 
+   "description": "Writer, commentator, former republican prisoner & secretary Bobby Sands Trust", 
+   "friends_count": 687, 
+   "location": "Belfast", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/856903493793329154/crWo3o0Y_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/257895805/1356523306", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "molloy1916", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3538, 
+   "name": "Danny Morrison", 
+   "notifications": false, 
+   "url": "https://t.co/2ZhaTnXoND", 
+   "created_at": "Sat Feb 26 12:49:20 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Ballad of Buster Scruggs", 
+  "Date": "Thu Mar 14 12:09:10 +0000 2019", 
+  "Text": "@DonaldClarke63 Very good!\nBy the way, did you review The Ballad of Buster Scruggs? I thought it was great.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1462428901, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "1462428901", 
+     "screen_name": "DonaldClarke63", 
+     "name": "\ud83e\udd43Donald Clarke\ud83d\udcfd"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106094399778258944": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 256433721, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/820715685869256705/LU_b7eGk_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/5V6sUSLy3x", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://awardscircuit.com", 
+       "display_url": "awardscircuit.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/wIMNUppxtv", 
+       "indices": [
+        107, 
+        130
+       ], 
+       "expanded_url": "http://AwardsCircuit.com", 
+       "display_url": "AwardsCircuit.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 1339, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "256433721", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 42, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 39473, 
+   "description": "My name is Joseph Braverman. Los Angeles, SoCal by way of Santa Cruz, NorCal. Currently a staff writer for https://t.co/wIMNUppxtv", 
+   "friends_count": 1523, 
+   "location": "Los Angeles, CA", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/820715685869256705/LU_b7eGk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/256433721/1546899413", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "JBAwardsCircuit", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7856, 
+   "name": "Joseph Braverman", 
+   "notifications": false, 
+   "url": "https://t.co/5V6sUSLy3x", 
+   "created_at": "Wed Feb 23 09:35:29 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ballad of Buster Scruggs", 
+  "Date": "Thu Mar 14 07:27:09 +0000 2019", 
+  "Text": "Watched #TheBalladOfBusterScruggs with the folks again. Vignette rankings:\n\n1. Ballad of Buster Scruggs\n2. The Gal\u2026 https://t.co/GroajTCdOh", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      8, 
+      33
+     ], 
+     "text": "TheBalladOfBusterScruggs"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/GroajTCdOh", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106094399778258944", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106124914493394947": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 162799726, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101280287361822720/kNr0K-Od_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 535, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "162799726", 
+   "profile_background_color": "DD2E20", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 54465, 
+   "description": "Libertad por sobre todas las cosas.", 
+   "friends_count": 456, 
+   "location": "Plut\u00f3n", 
+   "profile_link_color": "DD2E20", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101280287361822720/kNr0K-Od_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/162799726/1549505427", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "MRAS_1984", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 56735, 
+   "name": "\u30de\u30b7\u30e5", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jul 04 18:26:47 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ballad of Buster Scruggs", 
+  "Date": "Thu Mar 14 09:28:25 +0000 2019", 
+  "Text": "RT @OnePerfectShot: THE BALLAD OF BUSTER SCRUGGS (2018)\n\nDirected by Joel Coen, Ethan Coen\nCinematography by Bruno Delbonnel\nWhat else to w\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2172922045, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2172922045", 
+     "screen_name": "OnePerfectShot", 
+     "name": "One Perfect Shot"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106124875914203139": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 162799726, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101280287361822720/kNr0K-Od_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 535, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "162799726", 
+   "profile_background_color": "DD2E20", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 54465, 
+   "description": "Libertad por sobre todas las cosas.", 
+   "friends_count": 456, 
+   "location": "Plut\u00f3n", 
+   "profile_link_color": "DD2E20", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101280287361822720/kNr0K-Od_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/162799726/1549505427", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "MRAS_1984", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 56735, 
+   "name": "\u30de\u30b7\u30e5", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jul 04 18:26:47 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ballad of Buster Scruggs", 
+  "Date": "Thu Mar 14 09:28:15 +0000 2019", 
+  "Text": "RT @OnePerfectShot: THE BALLAD OF BUSTER SCRUGGS (2018)\n\nCinematography by Bruno Delbonnel\nDirected by Joel and Ethan Coen\nStream it via @n\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2172922045, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2172922045", 
+     "screen_name": "OnePerfectShot", 
+     "name": "One Perfect Shot"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106086146742734848": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2444836778, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105384209869242368/bx4k0nV-_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/fDxJafwpv6", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://patreon.com/lordponty", 
+       "display_url": "patreon.com/lordponty"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/Hq2jl2LgR0", 
+       "indices": [
+        62, 
+        85
+       ], 
+       "expanded_url": "http://Instagram.com/lord_pontyhf", 
+       "display_url": "Instagram.com/lord_pontyhf"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 678, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2444836778", 
+   "profile_background_color": "ACDED6", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11046, 
+   "description": "cosplayer \u00b7 dog mom \u00b7 deals jester \u00b7 just here for the laughs https://t.co/Hq2jl2LgR0", 
+   "friends_count": 309, 
+   "location": "California, USA", 
+   "profile_link_color": "91D2FA", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105384209869242368/bx4k0nV-_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2444836778/1541542381", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "LordPonty", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 7368, 
+   "name": "PON!ty@kingdom\ud83d\uddddhurts", 
+   "notifications": false, 
+   "url": "https://t.co/fDxJafwpv6", 
+   "created_at": "Tue Apr 15 03:36:40 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ballad of Buster Scruggs", 
+  "Date": "Thu Mar 14 06:54:22 +0000 2019", 
+  "Text": "I'm showing kat the ballad of buster scruggs and now i'm emo again", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "1106175315674566657": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 997518458182078465, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009473173568610304/kb-Kf5Ra_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 0, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "997518458182078465", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15, 
+   "description": "", 
+   "friends_count": 24, 
+   "location": "", 
+   "profile_link_color": "7FDBB6", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1009473173568610304/kb-Kf5Ra_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/997518458182078465/1529512171", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "bymagthings", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 227, 
+   "name": "All", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri May 18 16:45:08 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Sex Education", 
+  "Date": "Thu Mar 14 12:48:41 +0000 2019", 
+  "Text": "@melinwonderland @NetflixBrasil J\u00e1 assistiu Sex Education? Queria saber sua opini\u00e3o sobre a s\u00e9rie. \ud83d\ude09", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 28827961, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "28827961", 
+     "screen_name": "melinwonderland", 
+     "name": "Melina Souza \ud83d\udc7d #ELEN\u00c3O"
+    }, 
+    {
+     "id": 231579149, 
+     "indices": [
+      17, 
+      31
+     ], 
+     "id_str": "231579149", 
+     "screen_name": "NetflixBrasil", 
+     "name": "Netflix Brasil"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175232006651906": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2606680823, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/507893928624795651/iStw3kVC_normal.jpeg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/AiRt9rb1Ks", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://urbanmixtape.com/", 
+       "display_url": "urbanmixtape.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1222, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2606680823", 
+   "profile_background_color": "ACDED6", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 32314, 
+   "description": "At best, life is brief.", 
+   "friends_count": 1658, 
+   "location": "", 
+   "profile_link_color": "9266CC", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/507893928624795651/iStw3kVC_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2606680823/1543813365", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "dantrolene", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3504, 
+   "name": "Dan", 
+   "notifications": false, 
+   "url": "https://t.co/AiRt9rb1Ks", 
+   "created_at": "Fri Jun 13 16:57:15 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Sex Education", 
+  "Date": "Thu Mar 14 12:48:21 +0000 2019", 
+  "Text": "RT @ntvkenya: Prof. Magoha on the issue of Sex Education. #NTVToday https://t.co/yVBNH7r0lK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25985333, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "25985333", 
+     "screen_name": "ntvkenya", 
+     "name": "NTV Kenya"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      58, 
+      67
+     ], 
+     "text": "NTVToday"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 25985333, 
+     "source_status_id_str": "1106113088829317120", 
+     "expanded_url": "https://twitter.com/ntvkenya/status/1106113088829317120/video/1", 
+     "display_url": "pic.twitter.com/yVBNH7r0lK", 
+     "url": "https://t.co/yVBNH7r0lK", 
+     "media_url_https": "https://pbs.twimg.com/media/D1mz_MIUkAAhhlB.jpg", 
+     "source_user_id_str": "25985333", 
+     "source_status_id": 1106113088829317120, 
+     "id_str": "1106112930343378944", 
+     "sizes": {
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 720, 
+       "resize": "fit", 
+       "w": 1280
+      }, 
+      "medium": {
+       "h": 675, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      68, 
+      91
+     ], 
+     "type": "photo", 
+     "id": 1106112930343378944, 
+     "media_url": "http://pbs.twimg.com/media/D1mz_MIUkAAhhlB.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175369600749572": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2367804438, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037571553452601346/tCdrLZyH_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/52DLC8NqML", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.facebook.com/Micaelaa.Gmz", 
+       "display_url": "facebook.com/Micaelaa.Gmz"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 225, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "2367804438", 
+   "profile_background_color": "131516", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2270, 
+   "description": "Del Club Atl\u00e9tico Boca Juniors desde ac\u00e1, hasta donde te lo imagines. \u2665 \n#Xeneixe #TodaLaVida #CABJPasi\u00f3n #\ud83d\udc99\ud83d\udc9b\ud83d\udc99\ud83c\udfc6", 
+   "friends_count": 627, 
+   "location": "Buenos Aires, Argentina", 
+   "profile_link_color": "94D487", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1037571553452601346/tCdrLZyH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2367804438/1486000123", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "CabjNothingMore", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 6088, 
+   "name": "Micaelita \u10e6", 
+   "notifications": false, 
+   "url": "https://t.co/52DLC8NqML", 
+   "created_at": "Sat Mar 01 23:47:38 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Sex Education", 
+  "Date": "Thu Mar 14 12:48:54 +0000 2019", 
+  "Text": "RT @juanp_pintos: NECESITO LA SEGUNDA TEMPORADA DE SEX EDUCATION POR FAVORRRRR", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 520569807, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "520569807", 
+     "screen_name": "juanp_pintos", 
+     "name": "Kiddy"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

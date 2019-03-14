@@ -1,0 +1,264 @@
+{
+ "1106175484235341824": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3263255038, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/921123038804004865/rZqYPlhH_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ABY7eTragw", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.magnifyingzoology.wordpress.com", 
+       "display_url": "magnifyingzoology.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1080, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3263255038", 
+   "profile_background_color": "000000", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1579, 
+   "description": "Museum studies and archaeology student - author of Magnifying Zoology museum blog - creator of #museum30 -   Natural History Nerd\n\n(All opinions my own)", 
+   "friends_count": 501, 
+   "location": "Uk", 
+   "profile_link_color": "226644", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/921123038804004865/rZqYPlhH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3263255038/1551286661", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "magnifyzoology", 
+   "lang": "en-gb", 
+   "profile_background_tile": false, 
+   "favourites_count": 7378, 
+   "name": "Gracie Price", 
+   "notifications": false, 
+   "url": "https://t.co/ABY7eTragw", 
+   "created_at": "Sat May 16 19:36:29 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bird Box", 
+  "Date": "Thu Mar 14 12:49:21 +0000 2019", 
+  "Text": "RT @DMennill: In the Paris Museum of Natural History, in a box by itself, I found this House Wren. On the tag: \"God Bird\". #TaxidermyWeek\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2610218390, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "2610218390", 
+     "screen_name": "DMennill", 
+     "name": "Daniel Mennill"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      123, 
+      137
+     ], 
+     "text": "TaxidermyWeek"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175281931395073": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 417425088, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "F2EB6F", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101271168944873472/novzVubB_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/w7GU0zrE8p", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://instagram.com/rubbmeaow", 
+       "display_url": "instagram.com/rubbmeaow"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 971, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "417425088", 
+   "profile_background_color": "F0F0F0", 
+   "listed_count": 16, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 59831, 
+   "description": "Soy el amigo majo. En verdad no soy naide, NAIDE.", 
+   "friends_count": 262, 
+   "location": "Madrid, Comunidad de Madrid", 
+   "profile_link_color": "801F2E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101271168944873472/novzVubB_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/417425088/1521249341", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Rubbmeaow", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 15841, 
+   "name": "Rub\u00e9n", 
+   "notifications": false, 
+   "url": "https://t.co/w7GU0zrE8p", 
+   "created_at": "Sun Nov 20 22:41:28 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bird Box", 
+  "Date": "Thu Mar 14 12:48:33 +0000 2019", 
+  "Text": "RT @hard_feeIings: me siento como Sandra Bullock en Bird Box intentando no ver el trailer de los Avengers", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2274928080, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2274928080", 
+     "screen_name": "hard_feeIings", 
+     "name": "guille. \u262d"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175149320167424": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 259637271, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3E4415", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/667011504722608128/k1DA2Vqz_normal.jpg", 
+   "profile_sidebar_fill_color": "99CC33", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 602, 
+   "profile_sidebar_border_color": "829D5E", 
+   "id_str": "259637271", 
+   "profile_background_color": "352726", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1490, 
+   "description": "", 
+   "friends_count": 1085, 
+   "location": "", 
+   "profile_link_color": "D02B55", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/667011504722608128/k1DA2Vqz_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif", 
+   "screen_name": "MMARINHOSP", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 41, 
+   "name": "MARCOS MARINHO", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Mar 02 08:35:51 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bird Box", 
+  "Date": "Thu Mar 14 12:48:01 +0000 2019", 
+  "Text": "S\u00d3 SOC\u00c3O - BIRD BOX https://t.co/Qs69J0u78q via @YouTube", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      48, 
+      56
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Qs69J0u78q", 
+     "indices": [
+      20, 
+      43
+     ], 
+     "expanded_url": "https://youtu.be/lvDreSQbclk", 
+     "display_url": "youtu.be/lvDreSQbclk"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

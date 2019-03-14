@@ -1,0 +1,324 @@
+{
+ "1106175340437745664": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1078456964751990790, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105093096017219590/SU_5uifO_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 128, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1078456964751990790", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6076, 
+   "description": "brota a xota BB' :D \n\nInstagram: @gabriellerodrrigues", 
+   "friends_count": 114, 
+   "location": "zona norte", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105093096017219590/SU_5uifO_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078456964751990790/1552309739", 
+   "profile_background_image_url": null, 
+   "screen_name": "gabirodrrrigues", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 8891, 
+   "name": "gabinha", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 28 01:05:51 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Black Mirror", 
+  "Date": "Thu Mar 14 12:48:47 +0000 2019", 
+  "Text": "libera o black mirror pra nos ai @NetflixBrasil", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 231579149, 
+     "indices": [
+      33, 
+      47
+     ], 
+     "id_str": "231579149", 
+     "screen_name": "NetflixBrasil", 
+     "name": "Netflix Brasil"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175306442948609": {
+  "Lang": "fa", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 724391426180657156, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/724401038850142209/y3x0ohVO_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2233, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "724391426180657156", 
+   "profile_background_color": "131516", 
+   "listed_count": 45, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 83662, 
+   "description": "\u06cc\u06a9 \u0628\u0627\u062a \u0647\u0633\u062a\u0645 \u0648 \u0628\u0647 \u06a9\u062a\u0627\u0628 \u0639\u0644\u0627\u0642\u0647 \u062f\u0627\u0631\u0645.\n\u0647\u0631 30-40 \u062f\u0642\u06cc\u0642\u0647 \u06cc\u06a9 \u0628\u0627\u0631\u060c \u0647\u0631 \u0686\u0647 \u0627\u0632 \u06a9\u062a\u0627\u0628 \u06af\u0641\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f \u0631\u0648 \u062a\u06a9\u0631\u0627\u0631 \u0645\u06cc \u06a9\u0646\u0645", 
+   "friends_count": 0, 
+   "location": "", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/724401038850142209/y3x0ohVO_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/724391426180657156/1461545601", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "ketabfinder", 
+   "lang": "fa", 
+   "profile_background_tile": true, 
+   "favourites_count": 11, 
+   "name": "\u06a9\u062a\u0627\u0628 \u06cc\u0627\u0628", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Apr 25 00:15:49 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Mirror", 
+  "Date": "Thu Mar 14 12:48:39 +0000 2019", 
+  "Text": "RT @BlowMeOnBridge: \u0628\u0686\u0647 \u0647\u0627 \u0627\u06cc\u062f\u0647 \u06cc\u0647 \u0641\u06cc\u0644\u0645 \u0646\u0627\u0645\u0647 \u0631\u0648 \u067e\u0631\u0648\u0631\u0648\u0646\u062f\u06cc\u0645 \u0628\u0627 \u062f\u0648\u0633\u062a\u0627\u0646\u060c \u0645\u06cc\u200c\u062e\u0648\u0627\u06cc\u06cc\u0645 \u0628\u0646\u0648\u06cc\u0633\u06cc\u0645\u0634\n\u06a9\u062a\u0627\u0628 \u06cc\u0627 \u062c\u0632\u0648\u0647 \u0627\u06cc \u0631\u0627\u062c\u0639 \u0628\u0647 \u0646\u0648\u0634\u062a\u0646 \u0641\u06cc\u0644\u0645 \u0646\u0627\u0645\u0647 \u06cc\u0627 \u0641\u06cc\u0644\u0645 \u0646\u0627\u0645\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3432486437, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "3432486437", 
+     "screen_name": "BlowMeOnBridge", 
+     "name": "Blow me on bridge"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175248293085184": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 960685081156292608, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105833467307270145/9Q0T7zIJ_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 993, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "960685081156292608", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 51741, 
+   "description": "\"Sou de carne, osso e surtos.\" Turbilh\u00e3o de emo\u00e7\u00f5es e caos latente.\"\ud83d\udd77\ufe0f\ud83d\udd78\ufe0f\ud83e\udd82\ud83e\udd87\ud83c\udf3c\ud83c\udf39\ud83d\udc9eNot\u00edcias, fotos, m\u00fasicas, arte. \ud83d\ude0e", 
+   "friends_count": 944, 
+   "location": "Caos", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105833467307270145/9Q0T7zIJ_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/960685081156292608/1552308572", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Luna_Medj", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 48138, 
+   "name": "Luna .", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Feb 06 01:22:26 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Mirror", 
+  "Date": "Thu Mar 14 12:48:25 +0000 2019", 
+  "Text": "RT @bvalimmarques: @AndrewDFish O senador Major Ol\u00edmpio do PSL de SP comprou a ideia do Trump, em suas palavras segundo @folha a trag\u00e9dia s\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2947676373, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2947676373", 
+     "screen_name": "bvalimmarques", 
+     "name": "Bruno Marques"
+    }, 
+    {
+     "id": 266649726, 
+     "indices": [
+      19, 
+      31
+     ], 
+     "id_str": "266649726", 
+     "screen_name": "AndrewDFish", 
+     "name": "Andrew Fishman"
+    }, 
+    {
+     "id": 14594813, 
+     "indices": [
+      120, 
+      126
+     ], 
+     "id_str": "14594813", 
+     "screen_name": "folha", 
+     "name": "Folha de S.Paulo"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175265607176193": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 270041606, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076465119670996994/Z9a34BZM_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/DE3g86vBNA", 
+       "indices": [
+        9, 
+        32
+       ], 
+       "expanded_url": "http://instagram.com/rafalmena/", 
+       "display_url": "instagram.com/rafalmena/"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 289, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "270041606", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 22, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 32286, 
+   "description": "Dracarys https://t.co/DE3g86vBNA", 
+   "friends_count": 812, 
+   "location": "San Junipero", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1076465119670996994/Z9a34BZM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/270041606/1505823969", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rafalmena", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 3971, 
+   "name": "Rafa Almena", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Mar 21 22:07:05 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Mirror", 
+  "Date": "Thu Mar 14 12:48:29 +0000 2019", 
+  "Text": "RT @OnePerfectShot: BLACK MIRROR: BANDERSNATCH (2018)\n\nCinematography by Aaron Morton and Jake Polonsky\nDirected by David Slade\nStream it o\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2172922045, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2172922045", 
+     "screen_name": "OnePerfectShot", 
+     "name": "One Perfect Shot"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

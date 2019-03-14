@@ -1,0 +1,415 @@
+{
+ "1106175430543978496": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2752028613, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/984035236664233985/aCaAKc9R_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/B3rzJWJowE", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://bit.ly/2qpM46r", 
+       "display_url": "bit.ly/2qpM46r"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4970, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2752028613", 
+   "profile_background_color": "000000", 
+   "listed_count": 37, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 71539, 
+   "description": "vote yesh \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f", 
+   "friends_count": 3885, 
+   "location": "Alba", 
+   "profile_link_color": "FF0080", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/984035236664233985/aCaAKc9R_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2752028613/1549627950", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "tradasro", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 37157, 
+   "name": "Tradasro \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f", 
+   "notifications": false, 
+   "url": "https://t.co/B3rzJWJowE", 
+   "created_at": "Tue Aug 26 21:49:13 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Fix", 
+  "Date": "Thu Mar 14 12:49:09 +0000 2019", 
+  "Text": "@BBCScotlandNews @willie_rennie @NicolaSturgeon Willie enabled our Tory council. The LibDem Tories still refuse to\u2026 https://t.co/cVv1gm6eaX", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15687507, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "15687507", 
+     "screen_name": "BBCScotlandNews", 
+     "name": "BBC Scotland News"
+    }, 
+    {
+     "id": 52002602, 
+     "indices": [
+      17, 
+      31
+     ], 
+     "id_str": "52002602", 
+     "screen_name": "willie_rennie", 
+     "name": "Willie Rennie"
+    }, 
+    {
+     "id": 160952087, 
+     "indices": [
+      32, 
+      47
+     ], 
+     "id_str": "160952087", 
+     "screen_name": "NicolaSturgeon", 
+     "name": "Nicola Sturgeon"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/cVv1gm6eaX", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175430543978496", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175445047918593": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 281478214, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/898565523243511808/SanHTjq0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 138, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "281478214", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 270, 
+   "description": "Consultant paediatrician, clinical lead @setrust\nMum of boys, at least the dog is a girl. All opinions my own \u263a", 
+   "friends_count": 268, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/898565523243511808/SanHTjq0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Berniedot", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 510, 
+   "name": "berniem", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Apr 13 11:02:06 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Fix", 
+  "Date": "Thu Mar 14 12:49:12 +0000 2019", 
+  "Text": "RT @mcbmd: This is a perfect synopsis! Parents (&amp; pediatricians - &amp; some allergists) take note. THERE\u2019S NO REASON TO TEST YOUR KID W/ ECZEM\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 378835054, 
+     "indices": [
+      3, 
+      9
+     ], 
+     "id_str": "378835054", 
+     "screen_name": "mcbmd", 
+     "name": "Matt Bell"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175406938427392": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 390056298, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073576359476281344/Q-e86Kgg_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 222, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "390056298", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9426, 
+   "description": "", 
+   "friends_count": 402, 
+   "location": "England", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1073576359476281344/Q-e86Kgg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/390056298/1350141079", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "devroesquire", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9982, 
+   "name": "Dev", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Oct 13 11:55:21 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Fix", 
+  "Date": "Thu Mar 14 12:49:03 +0000 2019", 
+  "Text": "I think by now democratic rules are out if the window. The fix is in always has been and always will be. There is n\u2026 https://t.co/EhZIejMpPB", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/EhZIejMpPB", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175406938427392", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175426811101184": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1309355454, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071078838547951622/dMubhJwB_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 749, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1309355454", 
+   "profile_background_color": "000000", 
+   "listed_count": 18, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5808, 
+   "description": "Video game collector that lives by the sea.\n\n\ud83d\udd79\ufe0f #Games #Ps1 #Dreamcast #Lightguns and old #Arcade titles.\n\nProud supporter of Emulation.\n\nLover of @nataclysm", 
+   "friends_count": 149, 
+   "location": "", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1071078838547951622/dMubhJwB_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309355454/1544200701", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "beefysaurus", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2705, 
+   "name": "Styrbj\u00f6rn Petersson (Stu)", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 28 04:07:34 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Fix", 
+  "Date": "Thu Mar 14 12:49:08 +0000 2019", 
+  "Text": "Ok so #retropie (in particular the lr-psx-rearmed emulator) is having some issues with new updates. Managed to fix\u2026 https://t.co/7C4iQsbhyM", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      6, 
+      15
+     ], 
+     "text": "retropie"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/7C4iQsbhyM", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175426811101184", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175428501405697": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 45880592, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083389383204589568/Zuv6LEMe_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 966, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "45880592", 
+   "profile_background_color": "131516", 
+   "listed_count": 9, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 49742, 
+   "description": "University of Mississippi School of Law '19 | Student Bar Association President |", 
+   "friends_count": 1505, 
+   "location": "Canton, MS", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1083389383204589568/Zuv6LEMe_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/45880592/1522433994", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "JR_Brown11", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 187, 
+   "name": "Shirley\u2019s Son", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jun 09 16:51:54 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Fix", 
+  "Date": "Thu Mar 14 12:49:08 +0000 2019", 
+  "Text": "RT @rebeccaballhaus: A software fix to the Boeing 737 MAX was delayed for months as discussions between regulators and Boeing dragged on\u2014an\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 705706292, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "705706292", 
+     "screen_name": "rebeccaballhaus", 
+     "name": "Rebecca Ballhaus"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}
