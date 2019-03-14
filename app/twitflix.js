@@ -23,11 +23,22 @@ function newInnerTile(criticScore, userScore, userScores, releaseDate) {
   var main = document.createElement('div');
   main.className = 'twitflix-tile-main';
   var left = document.createElement('div');
+  left.className = 'twitflix-tile-scores';
   var right = document.createElement('div');
+  right.className = 'twitflix-tile-graph';
   main.appendChild(left);
   main.appendChild(right);
+  var scoresVert = document.createElement('div');
+  scoresVert.className = 'twitflix-tile-scores-vert';
   var criticScoreEl = document.createElement('div');
+  criticScore.className = 'twitlix-tile-score';
+  criticScoreEl.innerHTML = `${userScore}<br>Critic`;
   var userScoreEl = document.createElement('div');
+  userScore.className = 'twitlix-tile-score';
+  userScoreEl.innerHTML = `${criticScore}<br>Twitter`;
+  scoresVert.appendChild(criticScoreEl);
+  scoresVert.appendChild(userScoreEl);
+  left.appendChild(scoresVert);
   return main;
 }
 
