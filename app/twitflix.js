@@ -28,17 +28,14 @@ function newInnerTile(criticScore, userScore, userScores, releaseDate) {
   right.className = 'twitflix-tile-graph';
   main.appendChild(left);
   main.appendChild(right);
-  var scoresVert = document.createElement('div');
-  scoresVert.className = 'twitflix-tile-scores-vert';
   var criticScoreEl = document.createElement('div');
   criticScore.className = 'twitlix-tile-score';
   criticScoreEl.innerHTML = `${userScore}<br>Critic`;
   var userScoreEl = document.createElement('div');
   userScore.className = 'twitlix-tile-score';
   userScoreEl.innerHTML = `${criticScore}<br>Twitter`;
-  scoresVert.appendChild(criticScoreEl);
-  scoresVert.appendChild(userScoreEl);
-  left.appendChild(scoresVert);
+  left.appendChild(criticScoreEl);
+  left.appendChild(userScoreEl);
   return main;
 }
 
@@ -66,21 +63,22 @@ function newTile(tileID, height, width, left, top, name) {
 // Removes the current active tile if it exists. Also registers a function to
 // resize the tile if the media box resizes or the page resizes.
 function showNewTile(boxart, name) {
-  const height = boxart.clientHeight;
-  const width = boxart.clientWidth;
-  const boxPosition = boxart.getBoundingClientRect();
-  const tileID = newTileID();
-  const tile = newTile(
-    tileID, height, width, boxPosition.left, boxPosition.top, name);
+  if (activeTile == null || activeTile[1] != name) {
+    const height = boxart.clientHeight;
+    const width = boxart.clientWidth;
+    const boxPosition = boxart.getBoundingClientRect();
+    const tileID = newTileID();
+    const tile = newTile(
+      tileID, height, width, boxPosition.left, boxPosition.top, name);
 
-  if (activeTile != null) {
-    const [activeTileID, activeTileName, activeTileBoxart] = activeTile;
-    const activeTileElem = document.getElementById(activeTileID);
-    activeTileElem.parentNode.removeChild(activeTileElem);
+    if (activeTile != null) {
+      const [activeTileID, activeTileName, activeTileBoxart] = activeTile;
+      const activeTileElem = document.getElementById(activeTileID);
+      activeTileElem.parentNode.removeChild(activeTileElem);
+    }
+    document.body.insertBefore(tile, document.body.firstChild);
+    activeTile = [tileID, name, boxart];
   }
-
-  document.body.insertBefore(tile, document.body.firstChild);
-  activeTile = [tileID, name, boxart];
 }
 
 
