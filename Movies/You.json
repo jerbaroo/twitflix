@@ -1,0 +1,377 @@
+{
+ "1106175509975560192": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 775243645691715584, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099845571118911488/H7_zefb-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 809, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "775243645691715584", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 22166, 
+   "description": "can I marry my cat?", 
+   "friends_count": 401, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099845571118911488/H7_zefb-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/775243645691715584/1539954058", 
+   "profile_background_image_url": null, 
+   "screen_name": "trishaleii_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6790, 
+   "name": "meh", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Sep 12 08:04:23 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "You", 
+  "Date": "Thu Mar 14 12:49:27 +0000 2019", 
+  "Text": "RT @nefariousgioo: Yung lintanya ni Ericka Villongco, tangina \"I wish you all the best\" lang reply ni Nadine Lustre? OMG, I stan the Queen\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 983604622651678721, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "983604622651678721", 
+     "screen_name": "nefariousgioo", 
+     "name": "giosphere \ud83c\udf0f"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175510009139201": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 439125006, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095686061370499072/cZ_ohP_M_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 277, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "439125006", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8987, 
+   "description": "Midam Jeonwoong Byounggon Seunghun Hyunsuk Junkyu Raesung Noa Jihoon Yedam Doyoung | Silver Boys and Mates unite \ud83d\ude0c\ud83d\ude0c", 
+   "friends_count": 1412, 
+   "location": "Macau", 
+   "profile_link_color": "798EAD", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095686061370499072/cZ_ohP_M_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/439125006/1549724332", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "sebootyyeolrina", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 32885, 
+   "name": "Loraine \ud83e\udd27| #OurTreasureJihoonDay \ud83d\udc95", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Dec 17 11:44:58 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "You", 
+  "Date": "Thu Mar 14 12:49:27 +0000 2019", 
+  "Text": "RT @gdragonults: another investigation later... please. IF.... IF you\u2019re truly guilty stop denying it already.... end our suffering. enough\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2851547226, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "2851547226", 
+     "screen_name": "gdragonults", 
+     "name": "\u2606"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175509963128834": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 727305763056656384, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063440267208986629/jQ3h4UxR_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 199, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "727305763056656384", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18532, 
+   "description": "Bag Szn\ud83c\udf92", 
+   "friends_count": 325, 
+   "location": "Warner Robins, GA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1063440267208986629/jQ3h4UxR_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/727305763056656384/1506550342", 
+   "profile_background_image_url": null, 
+   "screen_name": "PapiBrookss", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2792, 
+   "name": "Childish Tristino\ud83e\udd29", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue May 03 01:16:21 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "You", 
+  "Date": "Thu Mar 14 12:49:27 +0000 2019", 
+  "Text": "RT @myla_loecke: Coworker: \u201chey can you take my shift?\u201d\n\nMe: \u201cof course!\u201d\n\nMe: hey so it turns out I have open heart surgery Tuesday Ik it\u2019\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3013068575, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "3013068575", 
+     "screen_name": "myla_loecke", 
+     "name": "\u2730\ud835\udcdc\ud835\udd02\ud835\udcf5\ud835\udcea\u2730"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175510030282756": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1098976095007842304, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098976382078590977/Uwysv4Ce_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 122, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1098976095007842304", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 55, 
+   "description": "done seet seh love nuh love me \u203c", 
+   "friends_count": 122, 
+   "location": "Jamaica \ud83c\uddef\ud83c\uddf2", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098976382078590977/Uwysv4Ce_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098976095007842304/1551047485", 
+   "profile_background_image_url": null, 
+   "screen_name": "catalayaa", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 284, 
+   "name": "Catalayaa.aa", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Feb 22 16:01:33 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "You", 
+  "Date": "Thu Mar 14 12:49:27 +0000 2019", 
+  "Text": "RT @AleDiSensei: Don\u2019t forget you\u2019re human. It\u2019s okay to have a meltdown. Just don\u2019t unpack and live there. Cry it out. Then refocus on whe\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1087781584122638338, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "1087781584122638338", 
+     "screen_name": "AleDiSensei", 
+     "name": "A L E J A N D R O"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175509967368193": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 917123107, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/974609590917713920/M1qbIPN-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 0, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "917123107", 
+   "profile_background_color": "3B94D9", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 177, 
+   "description": "", 
+   "friends_count": 12, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/974609590917713920/M1qbIPN-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/917123107/1508145008", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+   "screen_name": "tosposrals", 
+   "lang": "cs", 
+   "profile_background_tile": false, 
+   "favourites_count": 141, 
+   "name": "! DeadlyDeal !", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Oct 31 15:35:28 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "You", 
+  "Date": "Thu Mar 14 12:49:27 +0000 2019", 
+  "Text": "@PLAYERUNKNOWN You stolen our money on pubg never finished fucking thing and now this. You must be stupid as f no m\u2026 https://t.co/tQLJUinWMI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1880574811, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "1880574811", 
+     "screen_name": "PLAYERUNKNOWN", 
+     "name": "PLAYERUNKNOWN"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/tQLJUinWMI", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175509967368193", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

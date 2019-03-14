@@ -1,0 +1,487 @@
+{
+ "1106175250033770496": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 945153613793579009, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981863555040411648/ytIDuAgX_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 519, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "945153613793579009", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4381, 
+   "description": "The market has taken over my life! Cannabis Due Diligence is what I do. My opinion is my own. Do your own DD", 
+   "friends_count": 989, 
+   "location": "Burlington, Ontario", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981863555040411648/ytIDuAgX_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/945153613793579009/1522930683", 
+   "profile_background_image_url": null, 
+   "screen_name": "_Greg_E", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4204, 
+   "name": "Greg Everett", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 25 04:45:56 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Ranch", 
+  "Date": "Thu Mar 14 12:48:26 +0000 2019", 
+  "Text": "\u2066@Planet13lv\u2069 Teams-up with Boxing Legend Mike Tyson, Announcing Exclusive Nevada Launch of Tyson Ranch | Follow Th\u2026 https://t.co/bGe7JoPjch", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 859973756051111936, 
+     "indices": [
+      1, 
+      12
+     ], 
+     "id_str": "859973756051111936", 
+     "screen_name": "Planet13lv", 
+     "name": "Planet 13 Las Vegas"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/bGe7JoPjch", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175250033770496", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175198464827392": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2446202510, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/532256321085521921/TFMQN-p5_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/QhQXNqV2CS", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.mediadc.com", 
+       "display_url": "mediadc.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1982, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2446202510", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 58, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18462, 
+   "description": "Senior Dir. of Strategic Comms and Publicity MediaDC, @dcexaminer, Love @angels, Maddie & Stella arosenwald@mediadc.com / 2024804514", 
+   "friends_count": 5003, 
+   "location": "Washington DC", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/532256321085521921/TFMQN-p5_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2446202510/1415734897", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "AlexRosenwald", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 27734, 
+   "name": "Alex Rosenwald", 
+   "notifications": false, 
+   "url": "https://t.co/QhQXNqV2CS", 
+   "created_at": "Tue Apr 15 23:29:57 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ranch", 
+  "Date": "Thu Mar 14 12:48:13 +0000 2019", 
+  "Text": "RT @LarryOConnor: I'm speaking tonight at the Reagan Ranch in Santa Barbara for @yaf and you can attend the speech via the VIRTUAL PASS at\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 89297892, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "89297892", 
+     "screen_name": "LarryOConnor", 
+     "name": "Larry O'Connor"
+    }, 
+    {
+     "id": 16148677, 
+     "indices": [
+      80, 
+      84
+     ], 
+     "id_str": "16148677", 
+     "screen_name": "yaf", 
+     "name": "YAF"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175196291960834": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2342154769, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103506002341588999/Tnh8uJfK_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2342154769", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 162, 
+   "description": "hello! if you are reading this you probably saw one of my offensive posts and I apologize. ( not really though ) #army #overseas #POTUSfan #Landofthe406", 
+   "friends_count": 26, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103506002341588999/Tnh8uJfK_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2342154769/1551931309", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ChlnwdylnDylan", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 104, 
+   "name": "Dylan", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Feb 13 15:26:16 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Ranch", 
+  "Date": "Thu Mar 14 12:48:13 +0000 2019", 
+  "Text": "@realDonaldTrump Dear everyone on Twitter. Shut the hell up. You don\u2019t know anything about ag and please don\u2019t pret\u2026 https://t.co/0Q6yCdzFNy", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25073877, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "25073877", 
+     "screen_name": "realDonaldTrump", 
+     "name": "Donald J. Trump"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/0Q6yCdzFNy", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175196291960834", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175016985677824": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 206371073, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "19571B", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076883201946206209/m5nqemSM_normal.jpg", 
+   "profile_sidebar_fill_color": "7AC3EE", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/7iW0IKaGOo", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://yougoglencrocro.tumblr.com/", 
+       "display_url": "yougoglencrocro.tumblr.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 143, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "206371073", 
+   "profile_background_color": "570404", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21038, 
+   "description": "hi, welcome to my profile I'm a huge sonic fan and love of video games in general. dick girls are cute, traps are gay, and 'graphic design is my passion'.", 
+   "friends_count": 1562, 
+   "location": "United States", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1076883201946206209/m5nqemSM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/206371073/1541248918", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Thatonepinkcat", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 63450, 
+   "name": "\ud83c\udf38Pinky Cat \ud83d\udc08 @ Katsucon 2019", 
+   "notifications": false, 
+   "url": "https://t.co/7iW0IKaGOo", 
+   "created_at": "Fri Oct 22 20:42:48 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ranch", 
+  "Date": "Thu Mar 14 12:47:30 +0000 2019", 
+  "Text": "RT @evilturkey5: @enews TO THE RANCH https://t.co/b977D1cWfV", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 880788482712621056, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "880788482712621056", 
+     "screen_name": "evilturkey5", 
+     "name": "\ubb3c\uace0\uae30\ud83d\udc41\ud83d\udc45\ud83d\udc41"
+    }, 
+    {
+     "id": 2883841, 
+     "indices": [
+      17, 
+      23
+     ], 
+     "id_str": "2883841", 
+     "screen_name": "enews", 
+     "name": "E! News"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 880788482712621056, 
+     "source_status_id_str": "1105934290834079750", 
+     "expanded_url": "https://twitter.com/evilturkey5/status/1105934290834079750/photo/1", 
+     "display_url": "pic.twitter.com/b977D1cWfV", 
+     "url": "https://t.co/b977D1cWfV", 
+     "media_url_https": "https://pbs.twimg.com/media/D1kRX-QX4AAl9Ms.jpg", 
+     "source_user_id_str": "880788482712621056", 
+     "source_status_id": 1105934290834079750, 
+     "id_str": "1105934287042502656", 
+     "sizes": {
+      "large": {
+       "h": 574, 
+       "resize": "fit", 
+       "w": 574
+      }, 
+      "small": {
+       "h": 574, 
+       "resize": "fit", 
+       "w": 574
+      }, 
+      "medium": {
+       "h": 574, 
+       "resize": "fit", 
+       "w": 574
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      37, 
+      60
+     ], 
+     "type": "photo", 
+     "id": 1105934287042502656, 
+     "media_url": "http://pbs.twimg.com/media/D1kRX-QX4AAl9Ms.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175046626664448": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2362466756, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099720916500541441/xgx7hsKM_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/SqXQUscA88", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://facebook.com/BoAVietnamFanclub", 
+       "display_url": "facebook.com/BoAVietnamFanc\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 499, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2362466756", 
+   "profile_background_color": "000000", 
+   "listed_count": 15, 
+   "is_translation_enabled": true, 
+   "utc_offset": null, 
+   "statuses_count": 55270, 
+   "description": "@BoAkwon 180221, 180223, 180224, 180225, 180227, 180228, 181020, 181101, 181102, 181229, 181230; @ddlovato 150428, 150509; @rihanna \ud83d\udd1c. US-UK, K-POP.\u270c\ud83c\udffc", 
+   "friends_count": 392, 
+   "location": "NO MUSIC, NO LIFE \u2693\ufe0f", 
+   "profile_link_color": "696969", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099720916500541441/xgx7hsKM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "91jasonng", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 64737, 
+   "name": "JASON B", 
+   "notifications": false, 
+   "url": "https://t.co/SqXQUscA88", 
+   "created_at": "Wed Feb 26 10:17:17 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Ranch", 
+  "Date": "Thu Mar 14 12:47:37 +0000 2019", 
+  "Text": "RT @ChrisEvans: The correct answer is:\n1. Cool ranch\n2. Cheetos\n3. Nacho cheese Doritos \n4. Fritos\n5. BBQ lays\n6. Original lays\n\nI will not\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 580097412, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "580097412", 
+     "screen_name": "ChrisEvans", 
+     "name": "Chris Evans"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

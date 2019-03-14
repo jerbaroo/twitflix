@@ -1,0 +1,462 @@
+{
+ "1106035063026642944": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1716667273, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091238210309476352/-T1ksxls_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/b9BHB9uqxq", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://YouTube.com/ScottSullivanTV", 
+       "display_url": "YouTube.com/ScottSullivanTV"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 245, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1716667273", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 84, 
+   "description": "\ud83c\udfacFilmmaker \ud83c\udf7fMovie Lover \ud83c\udfd5Adventurer", 
+   "friends_count": 95, 
+   "location": "Clovis, CA", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1091238210309476352/-T1ksxls_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716667273/1549997747", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ScottSullivanTV", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5973, 
+   "name": "Scott Sullivan", 
+   "notifications": false, 
+   "url": "https://t.co/b9BHB9uqxq", 
+   "created_at": "Sat Aug 31 19:52:06 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 14 03:31:22 +0000 2019", 
+  "Text": "Imagine This: A horror film that appears as one complete shot, to the likes of Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu's BIRDMA\u2026 https://t.co/1NeQK743J9", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/1NeQK743J9", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106035063026642944", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105842985483333632": {
+  "Lang": "en", 
+  "Place": {
+   "full_name": "Culiac\u00e1n, Sinaloa", 
+   "url": "https://api.twitter.com/1.1/geo/id/22886de3634e157a.json", 
+   "country": "Mexico", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       -107.806281, 
+       24.0281619
+      ], 
+      [
+       -106.877832, 
+       24.0281619
+      ], 
+      [
+       -106.877832, 
+       25.2968151
+      ], 
+      [
+       -107.806281, 
+       25.2968151
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "MX", 
+   "attributes": {}, 
+   "id": "22886de3634e157a", 
+   "name": "Culiac\u00e1n"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 222379217, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095760443396841473/T7Tsld-i_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 286, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "222379217", 
+   "profile_background_color": "B2DFDA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14695, 
+   "description": "Soy el abismo y te veo de vuelta. Get a good job with more pay and you're okay. XXII.", 
+   "friends_count": 359, 
+   "location": "M\u00e9xico", 
+   "profile_link_color": "009900", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095760443396841473/T7Tsld-i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/222379217/1537930566", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", 
+   "screen_name": "elmalditovicio", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8646, 
+   "name": "Belzelou", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 03 07:17:18 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 13 14:48:07 +0000 2019", 
+  "Text": "Las 7 mejores pel\u00edculas (que he visto) esta d\u00e9cada 2010-2019:\n\nInception (2010)\n\nDjango (2012)\n\nThe Wolf of Wall St\u2026 https://t.co/KkwB0ffO9u", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/KkwB0ffO9u", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105842985483333632", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105941619747024900": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 495069944, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Twzwl7bOLq", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.dearcastandcrew.com", 
+       "display_url": "dearcastandcrew.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 18330, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "495069944", 
+   "profile_background_color": "9BA4A8", 
+   "listed_count": 316, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61691, 
+   "description": "Open-letter film reviews, essays and exchanges.", 
+   "friends_count": 5149, 
+   "location": "Ottawa, Ontario", 
+   "profile_link_color": "28C3F7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/495069944/1411410195", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DearCastandCrew", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 749, 
+   "name": "Dear Cast and Crew", 
+   "notifications": false, 
+   "url": "http://t.co/Twzwl7bOLq", 
+   "created_at": "Fri Feb 17 15:25:51 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 13 21:20:04 +0000 2019", 
+  "Text": "This movie was largely shot inside Broadway's St. James Theatre in New York https://t.co/TXlqx98WlI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/TXlqx98WlI", 
+     "indices": [
+      76, 
+      99
+     ], 
+     "expanded_url": "http://ow.ly/nZEa30nYMWq", 
+     "display_url": "ow.ly/nZEa30nYMWq"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105613625098756096": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 131617926, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "DE8321", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095358620454268928/0sedAj85_normal.jpg", 
+   "profile_sidebar_fill_color": "415294", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GZ2smu5nnQ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://instagram.com/jomirami", 
+       "display_url": "instagram.com/jomirami"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1946, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "131617926", 
+   "profile_background_color": "F58EA8", 
+   "listed_count": 18, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 69452, 
+   "description": "s\u00e9 llorar", 
+   "friends_count": 1856, 
+   "location": "lima", 
+   "profile_link_color": "111111", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095358620454268928/0sedAj85_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/131617926/1500344084", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "mercurialdeath", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 23181, 
+   "name": "jomirami", 
+   "notifications": false, 
+   "url": "https://t.co/GZ2smu5nnQ", 
+   "created_at": "Sat Apr 10 20:36:17 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Tue Mar 12 23:36:44 +0000 2019", 
+  "Text": "Birdman or (The unexpected virtue of ignorance) (2014)\ndirected by Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu https://t.co/I3kk5zv5Cy", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/mercurialdeath/status/1105613625098756096/photo/1", 
+     "display_url": "pic.twitter.com/I3kk5zv5Cy", 
+     "url": "https://t.co/I3kk5zv5Cy", 
+     "media_url_https": "https://pbs.twimg.com/media/D1ftueLX0AEBpKV.jpg", 
+     "id_str": "1105613616173273089", 
+     "sizes": {
+      "large": {
+       "h": 640, 
+       "resize": "fit", 
+       "w": 1136
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 640, 
+       "resize": "fit", 
+       "w": 1136
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      95, 
+      118
+     ], 
+     "type": "photo", 
+     "id": 1105613616173273089, 
+     "media_url": "http://pbs.twimg.com/media/D1ftueLX0AEBpKV.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105557321487396865": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 412593862, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073368031609450496/X70QsYin_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 397, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "412593862", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15828, 
+   "description": "University of Rhode Island 2020 Boston Red Sox Baseball New England Patriots Football #GOPATS", 
+   "friends_count": 404, 
+   "location": "", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1073368031609450496/X70QsYin_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/412593862/1535137011", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "ChristopherHetu", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10704, 
+   "name": "Chris Hetu", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Nov 14 22:34:54 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Tue Mar 12 19:53:00 +0000 2019", 
+  "Text": "\u201cAnd did you what you wanted from this life even so?\n                                                        I did.\u2026 https://t.co/ppymLkcRM5", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/ppymLkcRM5", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105557321487396865", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

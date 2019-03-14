@@ -1,0 +1,441 @@
+{
+ "1106173323996774400": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 727840791175925760, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096390505376698369/gp3MVCgk_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/vxVdwPMczY", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.facebook.com/madhurya.singh.94", 
+       "display_url": "facebook.com/madhurya.singh\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 185, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "727840791175925760", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 591, 
+   "description": "\u091b\u093e\u0924\u094d\u0930\u0928\u0947\u0924\u093e - \u0932\u0916\u0928\u090a \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f (\u0932\u0916\u0928\u090a)", 
+   "friends_count": 84, 
+   "location": "Mohammadi Kheri Dist.Lakhimpur", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096390505376698369/gp3MVCgk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/727840791175925760/1535660880", 
+   "profile_background_image_url": null, 
+   "screen_name": "MadhurSamajwadi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1649, 
+   "name": "Madhurya Singh (\u092e\u0927\u0941\u0930)", 
+   "notifications": false, 
+   "url": "https://t.co/vxVdwPMczY", 
+   "created_at": "Wed May 04 12:42:22 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Period. End of Sentence.", 
+  "Date": "Thu Mar 14 12:40:46 +0000 2019", 
+  "Text": "RT @yadavakhilesh: Changing society is one of the hardest things to do. It is a matter of great pride that \u2018Period. End of Sentence\u2019 was aw\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 57948579, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "57948579", 
+     "screen_name": "yadavakhilesh", 
+     "name": "Akhilesh Yadav"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106168484004880384": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 821042, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032658695270920192/RZIuRYJn_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/2xsRNGC9xZ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://markjaquith.com", 
+       "display_url": "markjaquith.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 23620, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "821042", 
+   "profile_background_color": "131516", 
+   "listed_count": 1708, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 31756, 
+   "description": "I make WordPress and other things on the web. Skeptic. INTJ. Always hungry; ever curious. @sarcasmically = \u2764\ufe0f", 
+   "friends_count": 570, 
+   "location": "Tampa, FL", 
+   "profile_link_color": "426666", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1032658695270920192/RZIuRYJn_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/821042/1535039995", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "markjaquith", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 3025, 
+   "name": "Mark Jaquith", 
+   "notifications": false, 
+   "url": "https://t.co/2xsRNGC9xZ", 
+   "created_at": "Thu Mar 08 06:01:21 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Period. End of Sentence.", 
+  "Date": "Thu Mar 14 12:21:32 +0000 2019", 
+  "Text": "@SparkMailApp Your list item conversion code is running on numbers that get soft-wrapped to the start of a line. Mi\u2026 https://t.co/ggJk7W9XrA", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3290013352, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "3290013352", 
+     "screen_name": "SparkMailApp", 
+     "name": "SparkMail"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/ggJk7W9XrA", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106168484004880384", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173269495943170": {
+  "Lang": "hi", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 727840791175925760, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096390505376698369/gp3MVCgk_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/vxVdwPMczY", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.facebook.com/madhurya.singh.94", 
+       "display_url": "facebook.com/madhurya.singh\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 185, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "727840791175925760", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 591, 
+   "description": "\u091b\u093e\u0924\u094d\u0930\u0928\u0947\u0924\u093e - \u0932\u0916\u0928\u090a \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f (\u0932\u0916\u0928\u090a)", 
+   "friends_count": 84, 
+   "location": "Mohammadi Kheri Dist.Lakhimpur", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096390505376698369/gp3MVCgk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/727840791175925760/1535660880", 
+   "profile_background_image_url": null, 
+   "screen_name": "MadhurSamajwadi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1649, 
+   "name": "Madhurya Singh (\u092e\u0927\u0941\u0930)", 
+   "notifications": false, 
+   "url": "https://t.co/vxVdwPMczY", 
+   "created_at": "Wed May 04 12:42:22 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Period. End of Sentence.", 
+  "Date": "Thu Mar 14 12:40:33 +0000 2019", 
+  "Text": "RT @yadavakhilesh: \u0939\u092e\u093e\u0930\u0947 \u0926\u0947\u0936-\u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u093e \u0938\u094c\u092d\u093e\u0917\u094d\u092f \u0939\u0948 \u0915\u093f \u2018Period. End of Sentence\u2019 \u092b\u093c\u093f\u0932\u094d\u092e \u0915\u094b \u0935\u093f\u0936\u094d\u0935 \u092a\u094d\u0930\u0924\u093f\u0937\u094d\u0920\u093f\u0924 \u0911\u0938\u094d\u0915\u0930 \u0938\u092e\u094d\u092e\u093e\u0928 \u092e\u093f\u0932\u093e \u0939\u0948\u0964 \u0938\u092e\u093e\u091c \u0915\u094b \u092c\u0926\u0932\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 57948579, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "57948579", 
+     "screen_name": "yadavakhilesh", 
+     "name": "Akhilesh Yadav"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106170570100613124": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1052454411409219584, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093487020184387584/8gT2RUga_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/eUxNTOJ81L", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://linktr.ee/queen_tassy", 
+       "display_url": "linktr.ee/queen_tassy"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 607, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1052454411409219584", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9656, 
+   "description": "QHSE \ud83d\udc69\ud83c\udffd\u200d\ud83c\udf93| Aquarian writer \u2652\ufe0f Com o cabelo despenteado e um sorriso na cara. | Curly messy hair and a smile. |DM me and I\u2019ll listen \u2665\ufe0f \ud83c\udf6b\ud83c\udf55\ud83d\udc36\u2708\ufe0f\ud83d\udecc\ud83c\uddf2\ud83c\uddff\ud83c\udff3\ufe0f\u200d\ud83c\udf08L.", 
+   "friends_count": 296, 
+   "location": "Republic of Mozambique", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093487020184387584/8gT2RUga_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052454411409219584/1539759855", 
+   "profile_background_image_url": null, 
+   "screen_name": "Queen_Tassy1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 17847, 
+   "name": "\ud83e\udd5b Milky Bubble Bath \ud83d\ude08", 
+   "notifications": false, 
+   "url": "https://t.co/eUxNTOJ81L", 
+   "created_at": "Wed Oct 17 07:01:00 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Period. End of Sentence.", 
+  "Date": "Thu Mar 14 12:29:50 +0000 2019", 
+  "Text": "RT @DOMINATlON: When We First Met..\nNappily Ever After..\nHow It Ends..\nGerald's Game..\nCam..\nPeriod. End of Sentence..\nIsn't Romantic..\nThe\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 179485193, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "179485193", 
+     "screen_name": "DOMINATlON", 
+     "name": "\u2022 Hugo Boss AC \u2022"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106168099521191936": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23786106, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082189379131531265/eVsKbQbt_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/jxIhQsTN3F", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.kompasiana.com", 
+       "display_url": "kompasiana.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 880114, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23786106", 
+   "profile_background_color": "1D67DE", 
+   "listed_count": 1457, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 428644, 
+   "description": "Beyond Blogging I Gunakan tagar #GueKompasianer dan bagikan cerita menarik serta gambar ciamik kalian.", 
+   "friends_count": 115, 
+   "location": "Indonesia", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1082189379131531265/eVsKbQbt_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/23786106/1529424146", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "kompasiana", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 957, 
+   "name": "Kompasiana", 
+   "notifications": false, 
+   "url": "https://t.co/jxIhQsTN3F", 
+   "created_at": "Wed Mar 11 16:27:45 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Period. End of Sentence.", 
+  "Date": "Thu Mar 14 12:20:01 +0000 2019", 
+  "Text": "[HEADLINE] Period. End of Sentence tak hanya menyajikan edukasi seputar hal tabu yang kerap menyulitkan aktivitas k\u2026 https://t.co/3AzmOwCTFx", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/3AzmOwCTFx", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106168099521191936", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "1106174660612284416": {
+  "Lang": "th", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1660415887, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100788148781498368/gikDp695_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 368, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1660415887", 
+   "profile_background_color": "FBBACC", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 23500, 
+   "description": "", 
+   "friends_count": 52, 
+   "location": "2000's", 
+   "profile_link_color": "F5ABB5", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100788148781498368/gikDp695_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660415887/1521488127", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "julwxnancy", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 22, 
+   "name": "\ud80c\udf7c\u2d30\u2729\ud83d\udd2d\ud80c\ude86 Juliew \ud80c\ude87\ud83c\udf90\u2729\u2d30\ud80c\udf7c", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 10 15:37:44 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Isn't It Romantic", 
+  "Date": "Thu Mar 14 12:46:05 +0000 2019", 
+  "Text": "RT @beurrexx: \u0e40\u0e1e\u0e34\u0e48\u0e07\u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e43\u0e19 Netflix \u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 Isn't It Romantic \u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e2b\u0e0d\u0e34\u0e07\u0e23\u0e39\u0e1b\u0e23\u0e48\u0e32\u0e07\u0e2d\u0e49\u0e27\u0e19\u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e1b\u0e25\u0e39\u0e01\u0e1d\u0e31\u0e07\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e14\u0e47\u0e01\u0e27\u0e48\u0e32\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e08\u0e23\u0e34\u0e07\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e42\u0e23\u0e41\u0e21\u0e19\u0e15\u0e34\u0e01\u0e40\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 374536712, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "374536712", 
+     "screen_name": "beurrexx", 
+     "name": "\u0e13\u0e10 \u2661 \u0e1b\u0e34\u0e14\u0e23\u0e31\u0e1a\u0e14\u0e39\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e49\u0e27\u0e07\u0e31\u0e1a"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106172797712195585": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 560017596, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104677588008488960/6mDvCh5F_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 778, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "560017596", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 13631, 
+   "description": "if you go without your heart, you will never know \ud83c\udf19\u2728", 
+   "friends_count": 267, 
+   "location": "Norwich, CT", 
+   "profile_link_color": "7FDBB6", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104677588008488960/6mDvCh5F_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/560017596/1549454108", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "viianca", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 5601, 
+   "name": "Vianca del Rosario", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Apr 21 23:40:25 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Isn't It Romantic", 
+  "Date": "Thu Mar 14 12:38:41 +0000 2019", 
+  "Text": "I love the part in the movie \"isn't it romantic\" when they played swing out sisters", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106170570100613124": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1052454411409219584, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093487020184387584/8gT2RUga_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/eUxNTOJ81L", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://linktr.ee/queen_tassy", 
+       "display_url": "linktr.ee/queen_tassy"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 607, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1052454411409219584", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9656, 
+   "description": "QHSE \ud83d\udc69\ud83c\udffd\u200d\ud83c\udf93| Aquarian writer \u2652\ufe0f Com o cabelo despenteado e um sorriso na cara. | Curly messy hair and a smile. |DM me and I\u2019ll listen \u2665\ufe0f \ud83c\udf6b\ud83c\udf55\ud83d\udc36\u2708\ufe0f\ud83d\udecc\ud83c\uddf2\ud83c\uddff\ud83c\udff3\ufe0f\u200d\ud83c\udf08L.", 
+   "friends_count": 296, 
+   "location": "Republic of Mozambique", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093487020184387584/8gT2RUga_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052454411409219584/1539759855", 
+   "profile_background_image_url": null, 
+   "screen_name": "Queen_Tassy1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 17847, 
+   "name": "\ud83e\udd5b Milky Bubble Bath \ud83d\ude08", 
+   "notifications": false, 
+   "url": "https://t.co/eUxNTOJ81L", 
+   "created_at": "Wed Oct 17 07:01:00 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Isn't It Romantic", 
+  "Date": "Thu Mar 14 12:29:50 +0000 2019", 
+  "Text": "RT @DOMINATlON: When We First Met..\nNappily Ever After..\nHow It Ends..\nGerald's Game..\nCam..\nPeriod. End of Sentence..\nIsn't Romantic..\nThe\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 179485193, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "179485193", 
+     "screen_name": "DOMINATlON", 
+     "name": "\u2022 Hugo Boss AC \u2022"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106171760951681025": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4734556535, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104849900938952704/525r5WUi_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3107, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4734556535", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14668, 
+   "description": "No Expectations, No Disappointments \ud83d\ude05", 
+   "friends_count": 500, 
+   "location": "Nairobi, Kenya", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104849900938952704/525r5WUi_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4734556535/1551420976", 
+   "profile_background_image_url": null, 
+   "screen_name": "Staice_Brenda", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 49869, 
+   "name": "Foodie \ud83e\udd59", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jan 07 12:43:58 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Isn't It Romantic", 
+  "Date": "Thu Mar 14 12:34:34 +0000 2019", 
+  "Text": "RT @smirgolbaggins: We talk about all these aspects of romantic/sexual relationships. But friendships? The chemistry. The communication. Al\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1014079851681239040, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "1014079851681239040", 
+     "screen_name": "smirgolbaggins", 
+     "name": "Sammich."
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

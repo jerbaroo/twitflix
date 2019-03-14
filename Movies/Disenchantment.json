@@ -1,0 +1,423 @@
+{
+ "1106170414047342592": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 329415211, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426847023/647504_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 134, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "329415211", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7107, 
+   "description": "Over-educated weather geek, ecoinformaticist (environmental & agricultural data & information scientist), avid reader & media consumer, & collector of hobbies.", 
+   "friends_count": 504, 
+   "location": "Bellefonte, PA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1426847023/647504_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DanKArthur", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9794, 
+   "name": "Dan Arthur", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 05 01:34:46 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Disenchantment", 
+  "Date": "Thu Mar 14 12:29:13 +0000 2019", 
+  "Text": "May need one or two of these. https://t.co/D7QL5MQD7q", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/D7QL5MQD7q", 
+     "indices": [
+      30, 
+      53
+     ], 
+     "expanded_url": "https://twitter.com/disenchantment/status/1105881352916873219", 
+     "display_url": "twitter.com/disenchantment\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106172763788771329": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 767523856642822145, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101975014050533378/5AdfF10T_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/He68t0NubT", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.youtube.com/channel/UC0RR_SdqLop7OEkwtE7vvLw?disable_polymer=true", 
+       "display_url": "youtube.com/channel/UC0RR_\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 112, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "767523856642822145", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3989, 
+   "description": "Male, 16 Loves Gravity Falls, EDM, Red Vox, and Piemations, TF2 Nerd. Music: @sw33tcr33m opinion: @dipwastaken Fan: @NocontextDMJ\nDiscord name: Tord#0588\n||-//", 
+   "friends_count": 656, 
+   "location": "somewhere in Wyoming", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101975014050533378/5AdfF10T_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/767523856642822145/1552268525", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BurritordYT", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2654, 
+   "name": "St. Pat-Tord", 
+   "notifications": false, 
+   "url": "https://t.co/He68t0NubT", 
+   "created_at": "Mon Aug 22 00:48:42 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Disenchantment", 
+  "Date": "Thu Mar 14 12:38:33 +0000 2019", 
+  "Text": "@TheAlphaJayShow @KateFerrandino We got Derpor, Marble, Stun, McDonalds, and Lord Merkimer from Disenchantment", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3308557446, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "3308557446", 
+     "screen_name": "TheAlphaJayShow", 
+     "name": "Alpha Jaty"
+    }, 
+    {
+     "id": 751236619319947265, 
+     "indices": [
+      17, 
+      32
+     ], 
+     "id_str": "751236619319947265", 
+     "screen_name": "KateFerrandino", 
+     "name": "Katie Is Hilda Berg"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106164090874068998": {
+  "Lang": "ru", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1098910776239243267, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103946150430887936/y9VpEJeI_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 79, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1098910776239243267", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1112, 
+   "description": "\u044d\u0442\u043e\u0442 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0438\u0440\u0443\u0435\u0442 \u043b\u044e\u0431\u043e\u0432\u044c \u043a \u0436\u0438\u0437\u043d\u0438 \u0438 \u043a \u043a\u0430\u0433\u0435\u044f\u043c\u0435 \u0442\u043e\u0431\u0438\u043e @fentansan @kl3a7be7s", 
+   "friends_count": 72, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103946150430887936/y9VpEJeI_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098910776239243267/1552168802", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "sufio_chan", 
+   "lang": "ru", 
+   "profile_background_tile": false, 
+   "favourites_count": 2030, 
+   "name": "\u0441\u0443\u0444\u0438\u043e", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Feb 22 11:42:00 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Disenchantment", 
+  "Date": "Thu Mar 14 12:04:05 +0000 2019", 
+  "Text": "@_DISENCHANTMENT \u041f\u0420\u0415\u0414\u0421\u0422\u0410\u0412\u041b\u042f\u0415\u0428\u042c \u0414\u0410 \u0418 \u041e\u0427\u0415\u041d\u042c \u041c\u041d\u041e\u0413\u041e\n\u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u0430\u0436\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u0447\u0442\u043e \u0438\u043c \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u043b\u043e\u0441\u044c \u043a\u0430\u043a \u0442\u0430\u043c \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u2026 https://t.co/CCdhLXMUfm", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2196623978, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "2196623978", 
+     "screen_name": "_DISENCHANTMENT", 
+     "name": "\u0410\u043d-\u0447\u0430\u043d"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/CCdhLXMUfm", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106164090874068998", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106169074617368576": {
+  "Lang": "ru", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2196623978, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104036448943132672/EjTH_6Hk_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/M0S7DpQ0Kl", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://vk.com/itasaaasu", 
+       "display_url": "vk.com/itasaaasu"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 104, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2196623978", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21588, 
+   "description": "\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0435\u0431\u044f \u0442\u0438\u0445\u043e, \u044f \u0436\u0435 \u0432\u0441\u0451-\u0442\u0430\u043a\u0438 \u0423\u0447\u0438\u0445\u0430", 
+   "friends_count": 72, 
+   "location": "\u041f\u0435\u0440\u043c\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104036448943132672/EjTH_6Hk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2196623978/1551880273", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "_DISENCHANTMENT", 
+   "lang": "ru", 
+   "profile_background_tile": true, 
+   "favourites_count": 6095, 
+   "name": "\u0410\u043d-\u0447\u0430\u0439", 
+   "notifications": false, 
+   "url": "https://t.co/M0S7DpQ0Kl", 
+   "created_at": "Fri Nov 15 21:09:53 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Disenchantment", 
+  "Date": "Thu Mar 14 12:23:53 +0000 2019", 
+  "Text": "\u042d\u0442\u043e \u0441\u0438\u043b\u0430 \u2013\n\u0421\u0438\u043b\u0430 \u0447\u0438\u043b\u043b\u0430", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106164795601051649": {
+  "Lang": "ru", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2196623978, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104036448943132672/EjTH_6Hk_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/M0S7DpQ0Kl", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://vk.com/itasaaasu", 
+       "display_url": "vk.com/itasaaasu"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 104, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2196623978", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21588, 
+   "description": "\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0435\u0431\u044f \u0442\u0438\u0445\u043e, \u044f \u0436\u0435 \u0432\u0441\u0451-\u0442\u0430\u043a\u0438 \u0423\u0447\u0438\u0445\u0430", 
+   "friends_count": 72, 
+   "location": "\u041f\u0435\u0440\u043c\u044c, \u0420\u043e\u0441\u0441\u0438\u044f", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104036448943132672/EjTH_6Hk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2196623978/1551880273", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "_DISENCHANTMENT", 
+   "lang": "ru", 
+   "profile_background_tile": true, 
+   "favourites_count": 6095, 
+   "name": "\u0410\u043d-\u0447\u0430\u0439", 
+   "notifications": false, 
+   "url": "https://t.co/M0S7DpQ0Kl", 
+   "created_at": "Fri Nov 15 21:09:53 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Disenchantment", 
+  "Date": "Thu Mar 14 12:06:53 +0000 2019", 
+  "Text": "@sufio_chan \u041f\u0438\u0437\u0434\u0435\u0446, \u044f \u043d\u0430 \u0435\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440 \u0434\u0430\u0436\u0435 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0442\u0440\u0430\u0442\u0438\u0442\u044c \u043d\u0435 \u0441\u0442\u0430\u043b\u0430\n\u0418 \u0442\u0430\u043a \u043f\u043e \u0441\u043b\u0438\u0442\u044b\u043c \u043c\u043e\u043c\u0435\u043d\u0442\u0430\u043c \u0438 \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044e \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u2026 https://t.co/Vd5ApcE47y", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1098910776239243267, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "1098910776239243267", 
+     "screen_name": "sufio_chan", 
+     "name": "\u0441\u0443\u0444\u0438\u043e"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Vd5ApcE47y", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106164795601051649", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

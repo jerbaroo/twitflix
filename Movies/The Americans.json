@@ -1,0 +1,365 @@
+{
+ "1106175464522039296": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3027283336, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100590956624138240/XILrFxXh_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 430, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3027283336", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12530, 
+   "description": "Alayus\ud83e\uddda\ud83c\udffe\u200d\u2640\ufe0f #NCAT21", 
+   "friends_count": 226, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100590956624138240/XILrFxXh_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3027283336/1551214917", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "taminanoel", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3333, 
+   "name": "lay", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Feb 09 21:50:15 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Americans", 
+  "Date": "Thu Mar 14 12:49:17 +0000 2019", 
+  "Text": "RT @jv824c: My sister\u2019s husband was one of the eight Americans onboard the Ethiopian Airlines flight 302 that crashed shortly after takeoff\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1057785384988483584, 
+     "indices": [
+      3, 
+      10
+     ], 
+     "id_str": "1057785384988483584", 
+     "screen_name": "jv824c", 
+     "name": "Jaclyn Carroll"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175469529894913": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3141169698, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020472083355193345/cG87gczj_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 243, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3141169698", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2022, 
+   "description": "if you ain\u2019t getting no paper , who are you to judge ?", 
+   "friends_count": 250, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1020472083355193345/cG87gczj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3141169698/1532134480", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Mellojayy", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 466, 
+   "name": "Mello Jones", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Apr 06 05:40:39 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Americans", 
+  "Date": "Thu Mar 14 12:49:18 +0000 2019", 
+  "Text": "RT @jv824c: My sister\u2019s husband was one of the eight Americans onboard the Ethiopian Airlines flight 302 that crashed shortly after takeoff\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1057785384988483584, 
+     "indices": [
+      3, 
+      10
+     ], 
+     "id_str": "1057785384988483584", 
+     "screen_name": "jv824c", 
+     "name": "Jaclyn Carroll"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175452568154113": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 874817883561377792, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104336219821862912/cvyEG3eX_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 20, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "874817883561377792", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 770, 
+   "description": "Age: 19 | Bisexual | INFJ | Brony, gamer and overall just a huge nerd and total dork. Sometimes NSFW. @TheNovaSpirit is my world. \ud83d\udc96", 
+   "friends_count": 255, 
+   "location": "Australia", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104336219821862912/cvyEG3eX_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/874817883561377792/1497418933", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "CrimsonAurora99", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3686, 
+   "name": "Crimson Aurora \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jun 14 02:36:51 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Americans", 
+  "Date": "Thu Mar 14 12:49:14 +0000 2019", 
+  "Text": "Why do so many people think the Xenoblade English VAs are Australian? Why is it so difficult for Americans to disti\u2026 https://t.co/9hJRsTspFW", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/9hJRsTspFW", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175452568154113", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175455483346949": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 41270364, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104302978360578049/iOjjWhEE_normal.jpg", 
+   "profile_sidebar_fill_color": "C0DFEC", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1051, 
+   "profile_sidebar_border_color": "A8C7F7", 
+   "id_str": "41270364", 
+   "profile_background_color": "022330", 
+   "listed_count": 59, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 259573, 
+   "description": "insta: mtoddphotos // Former Guess My Roomie Champion (2x curved) // Becky Sauerbrunn thinks my tweets are hilarious", 
+   "friends_count": 2861, 
+   "location": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104302978360578049/iOjjWhEE_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/41270364/1551344286", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+   "screen_name": "Todders14", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 136911, 
+   "name": "m", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed May 20 02:00:58 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Americans", 
+  "Date": "Thu Mar 14 12:49:14 +0000 2019", 
+  "Text": "RT @naima: Christians are by large the most intolerant and ignorant of other faiths and religious observations. We\u2019re like the Americans of\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 78417631, 
+     "indices": [
+      3, 
+      9
+     ], 
+     "id_str": "78417631", 
+     "screen_name": "naima", 
+     "name": "Naima Cochrane"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175463448297473": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 35048660, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/720254382852321281/ZmMwIHbC_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 314, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "35048660", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 21, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 31676, 
+   "description": "", 
+   "friends_count": 80, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/720254382852321281/ZmMwIHbC_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "walterboro", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13793, 
+   "name": "Darlene Barker", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Apr 24 21:37:22 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Americans", 
+  "Date": "Thu Mar 14 12:49:16 +0000 2019", 
+  "Text": "RT @charliekirk11: The media will never report this:\n\nFour Democrat seats in state legislatures in Minnesota, Connecticut, and Kentucky hav\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 292929271, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "292929271", 
+     "screen_name": "charliekirk11", 
+     "name": "Charlie Kirk"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

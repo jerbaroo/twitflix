@@ -1,0 +1,430 @@
+{
+ "1106086669655199744": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 37986852, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261580686654/76f2859cdd06abe1821be34a55aa3438_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/XCNQTZQ03t", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.youtube.com/thepierceco", 
+       "display_url": "youtube.com/thepierceco"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 198, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "37986852", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21987, 
+   "description": "Comedian, Actor, Director, Wrestling Talent", 
+   "friends_count": 708, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/344513261580686654/76f2859cdd06abe1821be34a55aa3438_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/37986852/1353308050", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JPierceO", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 96, 
+   "name": "Jordan Owens", 
+   "notifications": false, 
+   "url": "http://t.co/XCNQTZQ03t", 
+   "created_at": "Tue May 05 18:37:27 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 14 06:56:26 +0000 2019", 
+  "Text": "I'm watching Bo Burnham: Make Happy (2016) https://t.co/QeRHTND79X #trakt", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      67, 
+      73
+     ], 
+     "text": "trakt"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/QeRHTND79X", 
+     "indices": [
+      43, 
+      66
+     ], 
+     "expanded_url": "https://trakt.tv/movies/bo-burnham-make-happy-2016", 
+     "display_url": "trakt.tv/movies/bo-burn\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105981989679702016": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 716514061, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/658664473180401664/-IRPw68n_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/nZIpYKQPgx", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.navigames.es/", 
+       "display_url": "navigames.es"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 96, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "716514061", 
+   "profile_background_color": "D9681C", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2336, 
+   "description": "Creo que me gustan un poco los videojuegos. Tengo opiniones y alg\u00fan d\u00eda un gato. Me dejan escribir en @NaviGames_es", 
+   "friends_count": 276, 
+   "location": "Hillys", 
+   "profile_link_color": "01FF70", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/658664473180401664/-IRPw68n_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/716514061/1521641731", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Dani3rdSpartan", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 1057, 
+   "name": "El Dunieru", 
+   "notifications": false, 
+   "url": "https://t.co/nZIpYKQPgx", 
+   "created_at": "Wed Jul 25 18:20:52 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 14 00:00:29 +0000 2019", 
+  "Text": "Make Happy (2016, Bo Burnham) Revisionado. Bo es un maldito genio. Los \u00faltimos diez minutos me parecen una lecci\u00f3n\u2026 https://t.co/cfqCscnRUq", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/cfqCscnRUq", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105981989679702016", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105679411993628672": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 780987940503707648, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 48, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "780987940503707648", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7730, 
+   "description": "", 
+   "friends_count": 194, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "bagelbites_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19100, 
+   "name": "eleanor", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 13 03:58:09 +0000 2019", 
+  "Text": "RT @thenevefringe2: bo burnham: make happy https://t.co/U8Lg2hRVJV", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1104046873223090177, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "1104046873223090177", 
+     "screen_name": "thenevefringe2", 
+     "name": "neve"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/U8Lg2hRVJV", 
+     "indices": [
+      43, 
+      66
+     ], 
+     "expanded_url": "https://twitter.com/rachellanglois_/status/1104469829614952448", 
+     "display_url": "twitter.com/rachellanglois\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105703993404059648": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 882535443123679233, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090497930417426432/bYcJmMTa_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/hvxw21B4Gc", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://idkhow.com/", 
+       "display_url": "idkhow.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1190, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "882535443123679233", 
+   "profile_background_color": "000000", 
+   "listed_count": 49, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 35740, 
+   "description": "+ honey we want your money", 
+   "friends_count": 221, 
+   "location": "  r | she/her", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090497930417426432/bYcJmMTa_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/882535443123679233/1548830019", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NEXTTIMEIWONT", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 138484, 
+   "name": "em", 
+   "notifications": false, 
+   "url": "https://t.co/hvxw21B4Gc", 
+   "created_at": "Wed Jul 05 09:43:41 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 13 05:35:49 +0000 2019", 
+  "Text": "@lonlyghosts not all movies but \n\numbrella academy \nthe netflix fyre fest documentary \nshameless\namerican horror st\u2026 https://t.co/SQyQ26Dm00", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 892172027800453121, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "892172027800453121", 
+     "screen_name": "lonlyghosts", 
+     "name": "Apparently Awsten. Not A Bucket."
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/SQyQ26Dm00", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105703993404059648", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105885569572311041": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 780987940503707648, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 48, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "780987940503707648", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7730, 
+   "description": "", 
+   "friends_count": 194, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "bagelbites_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19100, 
+   "name": "eleanor", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 13 17:37:20 +0000 2019", 
+  "Text": "RT @JordiVanTienen: biggest regret is still hurting bo burnham enough for him to create his make happy tour in 2015", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1206344220, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "1206344220", 
+     "screen_name": "JordiVanTienen", 
+     "name": "jordi"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,376 @@
+{
+ "1106168360331468800": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 189453989, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068043869369954305/URT-n-fT_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 484, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "189453989", 
+   "profile_background_color": "131516", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6315, 
+   "description": "PL ITB - 09 | \u30a4\u30e9\u30b9\u30c8\u30ec\u30fc\u30bf\u30fc", 
+   "friends_count": 491, 
+   "location": "Indonesia", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1068043869369954305/URT-n-fT_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/189453989/1501828095", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "akbarrizkyp", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 1876, 
+   "name": "Agumon Hijrah", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Sep 11 08:53:50 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python and the Holy Grail", 
+  "Date": "Thu Mar 14 12:21:03 +0000 2019", 
+  "Text": "RT @keinesasih: Terus saya kepikiran, jangan-jangan jawabannya sesederhana \"emang jagoan game itu punya asisten yang ngebawain barangnya, c\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 808579378531606529, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "808579378531606529", 
+     "screen_name": "keinesasih", 
+     "name": "Ines \ud83d\udc8e\ud83c\udf19"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106159127942914048": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 726950470808260609, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/726985561483841538/xVq1jarc_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 16, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "726950470808260609", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 148611, 
+   "description": "", 
+   "friends_count": 2, 
+   "location": "", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/726985561483841538/xVq1jarc_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "realbensamsone", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "Ben Samsone", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon May 02 01:44:33 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python and the Holy Grail", 
+  "Date": "Thu Mar 14 11:44:22 +0000 2019", 
+  "Text": "Just watched Monty Python and the Holy Grail, It's okay. 1/5", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106166282989252610": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 452388345, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098014220094984192/h-jwf6PV_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Y0s3PX0ph9", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.huffingtonpost.com/victor-brand/", 
+       "display_url": "huffingtonpost.com/victor-brand/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1445, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "452388345", 
+   "profile_background_color": "2740A3", 
+   "listed_count": 50, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 29638, 
+   "description": "HuffPost Deputy Managing Editor. /... and all the uncaring intricate rented world begins to rouse... /", 
+   "friends_count": 762, 
+   "location": "Brooklyn, NYC", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098014220094984192/h-jwf6PV_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/452388345/1550621966", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "recordedvoice", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12268, 
+   "name": "Victor Brand", 
+   "notifications": false, 
+   "url": "https://t.co/Y0s3PX0ph9", 
+   "created_at": "Sun Jan 01 19:50:35 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python and the Holy Grail", 
+  "Date": "Thu Mar 14 12:12:48 +0000 2019", 
+  "Text": "This is just the \u201cmessage for you, sir\u201d bit from Monty Python and the Holy Grail\n https://t.co/zzpElu5hFV", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/zzpElu5hFV", 
+     "indices": [
+      82, 
+      105
+     ], 
+     "expanded_url": "https://www.reuters.com/article/us-australia-crime-arrow-idUSKCN1QV0KO", 
+     "display_url": "reuters.com/article/us-aus\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106157098868461570": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 68122088, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "850000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083948779542216709/n4c8DLlR_normal.jpg", 
+   "profile_sidebar_fill_color": "E80707", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/W0aLNyjYzY", 
+       "indices": [
+        94, 
+        117
+       ], 
+       "expanded_url": "http://Instagram.com/Adriandhy", 
+       "display_url": "Instagram.com/Adriandhy"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 100065, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "68122088", 
+   "profile_background_color": "000000", 
+   "listed_count": 352, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 34767, 
+   "description": "He/Him \u2022 Indonesian \ud83c\uddee\ud83c\udde9, Illustrator \ud83d\udd8d\ufe0f, Animator \ud83c\udf9e\ufe0f \u2022 Advocate of fun, play, and nap time.\u2728 \u2022 https://t.co/W0aLNyjYzY \ud83c\udfa8", 
+   "friends_count": 1209, 
+   "location": "", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1083948779542216709/n4c8DLlR_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/68122088/1547268468", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Adriandhy", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8211, 
+   "name": "#PROGNOSIS animated short - COMING SOON 2019!", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Aug 23 10:52:22 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python and the Holy Grail", 
+  "Date": "Thu Mar 14 11:36:18 +0000 2019", 
+  "Text": "RT @keinesasih: Terus saya kepikiran, jangan-jangan jawabannya sesederhana \"emang jagoan game itu punya asisten yang ngebawain barangnya, c\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 808579378531606529, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "808579378531606529", 
+     "screen_name": "keinesasih", 
+     "name": "Ines \ud83d\udc8e\ud83c\udf19"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106141610021142528": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1722037789, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077146869422264320/NEsz9y1n_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 709, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1722037789", 
+   "profile_background_color": "9AE4E8", 
+   "listed_count": 83, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 209, 
+   "description": "a monad is a monoid in the category of endofunctors, what's the problem?", 
+   "friends_count": 369, 
+   "location": "", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1077146869422264320/NEsz9y1n_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif", 
+   "screen_name": "gfredev", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9194, 
+   "name": "gfredev", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Sep 02 11:06:24 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python and the Holy Grail", 
+  "Date": "Thu Mar 14 10:34:45 +0000 2019", 
+  "Text": "RT @emilylimelemon: PSA Monty Python and the Holy Grail is on netflix!!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 186261920, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "186261920", 
+     "screen_name": "emilylimelemon", 
+     "name": "emily bee."
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

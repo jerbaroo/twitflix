@@ -1,0 +1,410 @@
+{
+ "1106171147111014400": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2764300288, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105628734693011459/RxNHpE5I_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 163, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2764300288", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4636, 
+   "description": "Gary Lineker shags crisps", 
+   "friends_count": 541, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105628734693011459/RxNHpE5I_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2764300288/1552437407", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jillianlouisexo", 
+   "lang": "en-GB", 
+   "profile_background_tile": false, 
+   "favourites_count": 7142, 
+   "name": "Jill \ud83d\udc9b", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Sep 07 20:45:57 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Jane The Virgin", 
+  "Date": "Thu Mar 14 12:32:07 +0000 2019", 
+  "Text": "@melissafumeros Michaels death in Jane the virgin \ud83d\ude2d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1040460420, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "1040460420", 
+     "screen_name": "melissafumeros", 
+     "name": "\u064b"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106170457760432128": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 926020610, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "1C1332", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100951512031940608/qVUP7jEq_normal.jpg", 
+   "profile_sidebar_fill_color": "1D484F", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2331, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "926020610", 
+   "profile_background_color": "5E1A4D", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 80451, 
+   "description": "mommy to a curly haired babygirl \ud83d\udc67\ud83c\udffb", 
+   "friends_count": 1311, 
+   "location": "", 
+   "profile_link_color": "2E1141", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100951512031940608/qVUP7jEq_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/926020610/1547343726", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "MommyAmandaa", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 8654, 
+   "name": "Amanda", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Nov 04 19:48:30 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Jane The Virgin", 
+  "Date": "Thu Mar 14 12:29:23 +0000 2019", 
+  "Text": "I guess since I\u2019m Unit Clerk today I\u2019ll catch up on Jane the Virgin \ud83d\ude0b", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174276468641794": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1643324059, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096504512431435777/DksBo7yj_normal.jpg", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1026, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1643324059", 
+   "profile_background_color": "050000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 30171, 
+   "description": "", 
+   "friends_count": 505, 
+   "location": "vr", 
+   "profile_link_color": "070103", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096504512431435777/DksBo7yj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643324059/1540608167", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "mthaliita", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 14744, 
+   "name": "thalita", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 03 17:34:27 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Jane The Virgin", 
+  "Date": "Thu Mar 14 12:44:33 +0000 2019", 
+  "Text": "@lcgabrielr hj tem jane the virgin ok kkkkkkkkkk", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3429069706, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "3429069706", 
+     "screen_name": "lcgabrielr", 
+     "name": "a half saci"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174915592577028": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3130928141, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103722264799993856/aCKSjJw-_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 100, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3130928141", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5249, 
+   "description": "stop following me", 
+   "friends_count": 238, 
+   "location": "", 
+   "profile_link_color": "9266CC", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103722264799993856/aCKSjJw-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130928141/1544708813", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "_fEMMAnist", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 6167, 
+   "name": "emmajo \ud83d\udc45", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Apr 01 00:33:30 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Jane The Virgin", 
+  "Date": "Thu Mar 14 12:47:06 +0000 2019", 
+  "Text": "LMAO buying your childs education was literally a plot line on jane the virgin. I couldn't imagine a more Rafael re\u2026 https://t.co/4iLeZ4Sn6J", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/4iLeZ4Sn6J", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106174915592577028", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175010593345541": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2265309679, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088558673893351424/iVzCTrt6_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/RASsCPIVRM", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://maxhellskitchen.com/tour", 
+       "display_url": "maxhellskitchen.com/tour"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 482, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2265309679", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9262, 
+   "description": "in need of a change of scenery \ud83c\udf3f HKA", 
+   "friends_count": 794, 
+   "location": "some 50\u2019s diner", 
+   "profile_link_color": "BA8AE0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1088558673893351424/iVzCTrt6_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2265309679/1547890378", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "karsiaj", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 38427, 
+   "name": "karsia", 
+   "notifications": false, 
+   "url": "https://t.co/RASsCPIVRM", 
+   "created_at": "Sat Dec 28 03:45:21 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Jane The Virgin", 
+  "Date": "Thu Mar 14 12:47:28 +0000 2019", 
+  "Text": "RT @spidermanffh: jane the virgin is back in two weeks I can\u2019t wait to be the lone michael stan on the timeline https://t.co/nuP8Sl6o9v", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2572011067, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "2572011067", 
+     "screen_name": "spidermanffh", 
+     "name": "izzy"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 2572011067, 
+     "source_status_id_str": "1105997208187490304", 
+     "expanded_url": "https://twitter.com/spidermanffh/status/1105997208187490304/photo/1", 
+     "display_url": "pic.twitter.com/nuP8Sl6o9v", 
+     "url": "https://t.co/nuP8Sl6o9v", 
+     "media_url_https": "https://pbs.twimg.com/media/D1lKmLPWkAEKyJ-.jpg", 
+     "source_user_id_str": "2572011067", 
+     "source_status_id": 1105997208187490304, 
+     "id_str": "1105997203208835073", 
+     "sizes": {
+      "small": {
+       "h": 319, 
+       "resize": "fit", 
+       "w": 567
+      }, 
+      "large": {
+       "h": 319, 
+       "resize": "fit", 
+       "w": 567
+      }, 
+      "medium": {
+       "h": 319, 
+       "resize": "fit", 
+       "w": 567
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      112, 
+      135
+     ], 
+     "type": "photo", 
+     "id": 1105997203208835073, 
+     "media_url": "http://pbs.twimg.com/media/D1lKmLPWkAEKyJ-.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

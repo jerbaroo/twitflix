@@ -1,0 +1,102 @@
+{
+ "1106169277613305856": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 715370689, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093663181300555781/Sp1rbfbj_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 77, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "715370689", 
+   "profile_background_color": "131516", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15818, 
+   "description": "", 
+   "friends_count": 97, 
+   "location": "Connecticut, USA", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093663181300555781/Sp1rbfbj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/715370689/1550505756", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "jurassiklarc", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 16360, 
+   "name": "Matt Clark", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jul 25 03:08:29 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Pineapple Express", 
+  "Date": "Thu Mar 14 12:24:42 +0000 2019", 
+  "Text": "If Pineapple Express is real I want it https://t.co/0lQtIQTv9V", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/jurassiklarc/status/1106169277613305856/photo/1", 
+     "display_url": "pic.twitter.com/0lQtIQTv9V", 
+     "url": "https://t.co/0lQtIQTv9V", 
+     "media_url_https": "https://pbs.twimg.com/media/D1nnFyfX4Ac5gkh.jpg", 
+     "id_str": "1106169270134890503", 
+     "sizes": {
+      "large": {
+       "h": 1124, 
+       "resize": "fit", 
+       "w": 1124
+      }, 
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 1124, 
+       "resize": "fit", 
+       "w": 1124
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      39, 
+      62
+     ], 
+     "type": "photo", 
+     "id": 1106169270134890503, 
+     "media_url": "http://pbs.twimg.com/media/D1nnFyfX4Ac5gkh.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,439 @@
+{
+ "1106173759164243968": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 35949716, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "0099B9", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100884418095329282/1DcqBIZI_normal.jpg", 
+   "profile_sidebar_fill_color": "95E8EC", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/lPmPIYRHDG", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.theresistanceprays.org", 
+       "display_url": "theresistanceprays.org"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 10208, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "35949716", 
+   "profile_background_color": "0099B9", 
+   "listed_count": 182, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8838, 
+   "description": "Expert on the Religious Left. Activist + Writer. Senior Associate @ReThink_Media + Founder @ResistancePrays. Bylines @CNN @WashingtonPost @TheDailyBeast.", 
+   "friends_count": 5910, 
+   "location": "Louisville, KY", 
+   "profile_link_color": "DD2E44", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100884418095329282/1DcqBIZI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/35949716/1549654937", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "GuthrieGF", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 10708, 
+   "name": "Guthrie Graves-Fitzsimmons", 
+   "notifications": false, 
+   "url": "https://t.co/lPmPIYRHDG", 
+   "created_at": "Tue Apr 28 01:59:00 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Voyager", 
+  "Date": "Thu Mar 14 12:42:30 +0000 2019", 
+  "Text": "Janeway will always be my favorite captain. \u201cThe biggest challenge faced by Janeway &amp; Voyager crew comes from many\u2026 https://t.co/u26xMPZXGT", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/u26xMPZXGT", 
+     "indices": [
+      120, 
+      143
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173759164243968", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106165417813426176": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 742502673640005637, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/743196077277360129/dTzHrgcM_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/hCJ14zz6HN", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.pixelships.com", 
+       "display_url": "pixelships.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 915, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "742502673640005637", 
+   "profile_background_color": "000000", 
+   "listed_count": 23, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11573, 
+   "description": "Creator of PixelShips and host of the web shows: Ancient DOS Games and Shovelware Diggers.", 
+   "friends_count": 59, 
+   "location": "Canada", 
+   "profile_link_color": "0000A7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/743196077277360129/dTzHrgcM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/742502673640005637/1497343189", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Pixelmusement", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2169, 
+   "name": "Kris Asick", 
+   "notifications": false, 
+   "url": "https://t.co/hCJ14zz6HN", 
+   "created_at": "Mon Jun 13 23:43:27 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Voyager", 
+  "Date": "Thu Mar 14 12:09:21 +0000 2019", 
+  "Text": "Taking bets on how many highlights I'm gonna be able to make out of the last Star Trek Voyager: Elite Force stream\u2026 https://t.co/SBrRIyJ1cK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/SBrRIyJ1cK", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106165417813426176", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106149048728207360": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 911561356528283649, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/912570542888243200/gEXdaGO6_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 100, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "911561356528283649", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6014, 
+   "description": "INFJ, Enneagram-4, left-of-centre (just like the heart). Retweets are not endorsements.", 
+   "friends_count": 593, 
+   "location": "Brooklyn, NY", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/912570542888243200/gEXdaGO6_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/911561356528283649/1515159803", 
+   "profile_background_image_url": null, 
+   "screen_name": "worldcitizen_01", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1524, 
+   "name": "Daniel_WorldCitizen", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Sep 23 12:02:18 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Voyager", 
+  "Date": "Thu Mar 14 11:04:19 +0000 2019", 
+  "Text": "RT @walsht: If we didn't have enough reason to respect and love @AOC and @staceyabrams, behold: It Was a Big Week in Politics for Star Trek\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 13795102, 
+     "indices": [
+      3, 
+      10
+     ], 
+     "id_str": "13795102", 
+     "screen_name": "walsht", 
+     "name": "Tyler Walsh"
+    }, 
+    {
+     "id": 138203134, 
+     "indices": [
+      64, 
+      68
+     ], 
+     "id_str": "138203134", 
+     "screen_name": "AOC", 
+     "name": "Alexandria Ocasio-Cortez"
+    }, 
+    {
+     "id": 216065430, 
+     "indices": [
+      73, 
+      86
+     ], 
+     "id_str": "216065430", 
+     "screen_name": "staceyabrams", 
+     "name": "Stacey Abrams"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106160025033007104": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2682027522, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073958030310486021/BkXLMu4L_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 589, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2682027522", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 24, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12732, 
+   "description": "Social Justice Weirdo, Snarky Queer Nerd :)  \ud83c\uddf3\ud83c\uddff\ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "friends_count": 718, 
+   "location": "Palmerston North NZ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1073958030310486021/BkXLMu4L_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2682027522/1551800292", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Homocynical", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 57665, 
+   "name": "JD Hart", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jul 26 10:42:09 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Voyager", 
+  "Date": "Thu Mar 14 11:47:56 +0000 2019", 
+  "Text": "I've never liked #StarTrekVoyager and this article articulates why pretty well :)  https://t.co/GHBpqW6u8K via @Darren_Mooney", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 481216430, 
+     "indices": [
+      111, 
+      125
+     ], 
+     "id_str": "481216430", 
+     "screen_name": "Darren_Mooney", 
+     "name": "Darren Mooney"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      17, 
+      33
+     ], 
+     "text": "StarTrekVoyager"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/GHBpqW6u8K", 
+     "indices": [
+      83, 
+      106
+     ], 
+     "expanded_url": "https://them0vieblog.com/2017/09/12/trump-trek-how-star-trek-voyager-is-perfectly-trumpian-star-trek/", 
+     "display_url": "them0vieblog.com/2017/09/12/tru\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106163207712976897": {
+  "Lang": "de", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3031259885, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/990855492539994113/6RauTT39_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 78, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3031259885", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2362, 
+   "description": "", 
+   "friends_count": 37, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/990855492539994113/6RauTT39_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3031259885/1541893662", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NerdpunkE", 
+   "lang": "de", 
+   "profile_background_tile": false, 
+   "favourites_count": 5418, 
+   "name": "Nerdpunk", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Feb 11 20:55:47 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Star Trek: Voyager", 
+  "Date": "Thu Mar 14 12:00:34 +0000 2019", 
+  "Text": "Inspiriert von @TrekamDienstag haben wir alle Star Trek Serien nochmal geguckt. Heute mit Voyager fertig geworden.\u2026 https://t.co/tJYtQiwzfv", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 846344397428047872, 
+     "indices": [
+      15, 
+      30
+     ], 
+     "id_str": "846344397428047872", 
+     "screen_name": "TrekamDienstag", 
+     "name": "Trek am Dienstag"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/tJYtQiwzfv", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106163207712976897", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

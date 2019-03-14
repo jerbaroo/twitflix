@@ -1,0 +1,367 @@
+{
+ "1106173577878032384": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 930292432213856257, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102612250886631425/NDMAdVXx_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 24, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "930292432213856257", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 487, 
+   "description": "No pienses en mi porque estoy 100% segura que yo no estoy pensando en ti \ud83d\ude42\ud83d\udcad", 
+   "friends_count": 111, 
+   "location": "M\u00e9xico", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102612250886631425/NDMAdVXx_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/930292432213856257/1551030537", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Tessywowowow", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 680, 
+   "name": "Tessa", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Nov 14 04:32:54 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "American Crime Story", 
+  "Date": "Thu Mar 14 12:41:47 +0000 2019", 
+  "Text": "RT @hectorguilleng: WEYYYYYY NETFLIX VA A SER UN AMERICAN CRIME STORY MEXICANO DE LA HISTORIA DE COLOSIOOOOOOOOOOOOOOO  https://t.co/rRBGvH\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 490616269, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "490616269", 
+     "screen_name": "hectorguilleng", 
+     "name": "Kanye en su jugo"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174763871993857": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 720601946663596032, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050080571198717955/Uy0ImAj0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 61, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "720601946663596032", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3233, 
+   "description": "25 | NJIT Class of 2016 \ud83c\uddea\ud83c\udde8\ud83c\uddfa\ud83c\uddf8\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83d\udc6c", 
+   "friends_count": 75, 
+   "location": "East Rutherford, NJ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1050080571198717955/Uy0ImAj0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/720601946663596032/1521665205", 
+   "profile_background_image_url": null, 
+   "screen_name": "attackonbrian", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5255, 
+   "name": "Brian Valdiviezo", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 14 13:17:47 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "American Crime Story", 
+  "Date": "Thu Mar 14 12:46:30 +0000 2019", 
+  "Text": "RT @ReelTalker: I'm very excited to watch Ryan Murphy's take on American Crime Story: Felicity Huffman and Lori Loughlin \n\nThe privilege, t\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 73987740, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "73987740", 
+     "screen_name": "ReelTalker", 
+     "name": "Candice Frederick"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106172713809281026": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 128621764, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023705828333772801/aSyhKEt4_normal.jpg", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 429, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "128621764", 
+   "profile_background_color": "ACDED6", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 20612, 
+   "description": "Instagram : lu_sketch , en el d\u00eda dibujo en la noche soy LA REINA DEL KARAOKE", 
+   "friends_count": 501, 
+   "location": "", 
+   "profile_link_color": "038543", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1023705828333772801/aSyhKEt4_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/128621764/1472089494", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "luucyvaltierra", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 12986, 
+   "name": "L", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 01 17:43:25 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "American Crime Story", 
+  "Date": "Thu Mar 14 12:38:21 +0000 2019", 
+  "Text": "RT @byalanaldana: pues Netflix ya va a hacer su American Crime Story mexicana y M\u00c1S les vale hacer temporada del caso de Paulette y de Dieg\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25583032, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "25583032", 
+     "screen_name": "byalanaldana", 
+     "name": "alan aldana"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106171002088841216": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 560649460, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101549454560157697/WEOrht_L_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 576, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "560649460", 
+   "profile_background_color": "131516", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17080, 
+   "description": "mx young blood ajua", 
+   "friends_count": 556, 
+   "location": "Campeche, M\u00e9xico", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101549454560157697/WEOrht_L_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/560649460/1550528536", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "gp_sebastian", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 16356, 
+   "name": "sebastian garcia pati\u00f1o", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Apr 22 22:37:43 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "American Crime Story", 
+  "Date": "Thu Mar 14 12:31:33 +0000 2019", 
+  "Text": "RT @byalanaldana: pues Netflix ya va a hacer su American Crime Story mexicana y M\u00c1S les vale hacer temporada del caso de Paulette y de Dieg\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25583032, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "25583032", 
+     "screen_name": "byalanaldana", 
+     "name": "alan aldana"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173632324227073": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 978893448282599424, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090426052466360320/Qg5zdntH_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 132, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "978893448282599424", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1666, 
+   "description": "Heterosexual de closet", 
+   "friends_count": 134, 
+   "location": "Campeche, M\u00e9xico", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090426052466360320/Qg5zdntH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/978893448282599424/1538778157", 
+   "profile_background_image_url": null, 
+   "screen_name": "JavierFCGlez", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2988, 
+   "name": "Principe Caspian", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Mar 28 07:15:59 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "American Crime Story", 
+  "Date": "Thu Mar 14 12:42:00 +0000 2019", 
+  "Text": "RT @byalanaldana: pues Netflix ya va a hacer su American Crime Story mexicana y M\u00c1S les vale hacer temporada del caso de Paulette y de Dieg\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25583032, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "25583032", 
+     "screen_name": "byalanaldana", 
+     "name": "alan aldana"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

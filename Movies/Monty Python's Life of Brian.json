@@ -1,0 +1,419 @@
+{
+ "1106074221610823680": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 942122522, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/544163568996720640/G8Fo5GAv_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/DnnZNe99dT", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://soundcloud.com/guitarsuncat", 
+       "display_url": "soundcloud.com/guitarsuncat"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 10067, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "942122522", 
+   "profile_background_color": "89C9FA", 
+   "listed_count": 621, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 224435, 
+   "description": "Live-In Aide / Caregiver / Singer Songwriter / 11 Songs On iTunes / 3 Kindle Books / rustle of luv /", 
+   "friends_count": 7388, 
+   "location": "Milwaukee, Wi", 
+   "profile_link_color": "1F98C7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/544163568996720640/G8Fo5GAv_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/942122522/1485289179", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "screen_name": "GuitarSunCat", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 218683, 
+   "name": "Gratuitous Phil", 
+   "notifications": false, 
+   "url": "https://t.co/DnnZNe99dT", 
+   "created_at": "Sun Nov 11 20:09:21 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python's Life of Brian", 
+  "Date": "Thu Mar 14 06:06:58 +0000 2019", 
+  "Text": "RT @JonTrevithick: Terry Jones directing Michael Palin as Pontius Pilate in Monty Python's Life of Brian.\n#BrianAt40  #April18th https://t.\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2211572534, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2211572534", 
+     "screen_name": "JonTrevithick", 
+     "name": "Jonathan Trevithick"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      106, 
+      116
+     ], 
+     "text": "BrianAt40"
+    }, 
+    {
+     "indices": [
+      118, 
+      128
+     ], 
+     "text": "April18th"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106071733344354305": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 757114221922553857, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104190102136389632/aiD7EoFl_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 267, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "757114221922553857", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 28390, 
+   "description": "|| \u0b67(\u0e51\u2022\u0300\u15dd\u2022\u0301)\u0aed || fau \u03a6\u0391\u0394 || rave enthusiast", 
+   "friends_count": 363, 
+   "location": "get out of my head", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104190102136389632/aiD7EoFl_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/757114221922553857/1552426884", 
+   "profile_background_image_url": null, 
+   "screen_name": "heyyomika", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 58475, 
+   "name": "mika\u00ebl lasagna", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jul 24 07:24:31 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python's Life of Brian", 
+  "Date": "Thu Mar 14 05:57:05 +0000 2019", 
+  "Text": "RT @montypython: \u201cMonty Python\u2019s Life of Brian\"\nOriginally released in 1979...\nBanned in several countries &amp; the subject of protects from r\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2201496073, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "2201496073", 
+     "screen_name": "montypython", 
+     "name": "Monty Python"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105935724216504323": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1033113949, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1018294641219776513/ilrUcQKR_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 133, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1033113949", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2297, 
+   "description": "Flaming ace. Informal comic. Born on Marie Antoinette\u2019s beheading anniversary. Writing something.", 
+   "friends_count": 79, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1018294641219776513/ilrUcQKR_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033113949/1549291897", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "valerie__annie", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 11376, 
+   "name": "not Valkyrie", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 24 17:20:50 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python's Life of Brian", 
+  "Date": "Wed Mar 13 20:56:38 +0000 2019", 
+  "Text": "RT @JonTrevithick: Terry Jones directing Michael Palin as Pontius Pilate in Monty Python's Life of Brian.\n#BrianAt40  #April18th https://t.\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2211572534, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2211572534", 
+     "screen_name": "JonTrevithick", 
+     "name": "Jonathan Trevithick"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      106, 
+      116
+     ], 
+     "text": "BrianAt40"
+    }, 
+    {
+     "indices": [
+      118, 
+      128
+     ], 
+     "text": "April18th"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106076527219875845": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 37932100, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097876506754338817/teBbA2Ja_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 169, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "37932100", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8611, 
+   "description": "The unlikely adventures of a UK-based globetrotting 4-wheeled nerd, and Tea collector, who definitely ISN'T a country singer", 
+   "friends_count": 720, 
+   "location": "Well........here, obviously.", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097876506754338817/teBbA2Ja_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/37932100/1488370129", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "SoulPhoenix316", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3984, 
+   "name": "Gareth Brooks", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue May 05 14:19:11 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python's Life of Brian", 
+  "Date": "Thu Mar 14 06:16:08 +0000 2019", 
+  "Text": "@ToplessTopics Monty Python's also at least partially to blame for why we find nudity so funny, haha. The Life of B\u2026 https://t.co/sJA3pRgppO", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2992658928, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "2992658928", 
+     "screen_name": "ToplessTopics", 
+     "name": "Topless Topics"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/sJA3pRgppO", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106076527219875845", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105959765870563329": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 524645729, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2573805396/image_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 97, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "524645729", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 597, 
+   "description": "Husband, father and wannabe hockey player also tried my hand at cricket once. My mind knows what I need to do, just my body can\u2019t do it anymore.", 
+   "friends_count": 436, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2573805396/image_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "wedgeyme", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 577, 
+   "name": "Wayne Bennett", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Mar 14 19:18:55 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Monty Python's Life of Brian", 
+  "Date": "Wed Mar 13 22:32:10 +0000 2019", 
+  "Text": "RT @montypython: \u201cMonty Python\u2019s Life of Brian\"\nOriginally released in 1979...\nBanned in several countries &amp; the subject of protects from r\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2201496073, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "2201496073", 
+     "screen_name": "montypython", 
+     "name": "Monty Python"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

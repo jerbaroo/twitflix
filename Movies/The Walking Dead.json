@@ -1,0 +1,429 @@
+{
+ "1106175425452130304": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 764557030363324416, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/764575954438004736/Bf7iCyE5_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 57, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "764557030363324416", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2146, 
+   "description": "Host of the Sincerely Yours Podcast & Train Like a Princess Podcast", 
+   "friends_count": 117, 
+   "location": "Somerville, MA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/764575954438004736/Bf7iCyE5_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/764557030363324416/1496551079", 
+   "profile_background_image_url": null, 
+   "screen_name": "SincerelyCeceD", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2638, 
+   "name": "Cece Denno", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 13 20:19:35 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Walking Dead", 
+  "Date": "Thu Mar 14 12:49:07 +0000 2019", 
+  "Text": "RT @joshgad: I love how everyone is treating a half day without Facebook and instagram like we are in the pilot episode of \u201cThe Walking Dea\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 40100270, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "40100270", 
+     "screen_name": "joshgad", 
+     "name": "Josh Gad"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175351523344384": {
+  "Lang": "fr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4764874764, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068866158814797824/Nm1T5si1_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 37, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4764874764", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7888, 
+   "description": "On supportera le PSG mm rel\u00e9gu\u00e9", 
+   "friends_count": 20, 
+   "location": "Paris ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1068866158814797824/Nm1T5si1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4764874764/1552040280", 
+   "profile_background_image_url": null, 
+   "screen_name": "Rickgrimes772", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 2402, 
+   "name": "Rick.G", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jan 15 22:22:19 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Walking Dead", 
+  "Date": "Thu Mar 14 12:48:50 +0000 2019", 
+  "Text": "@DiamantinaNoite Ouais tu connais pas c\u2019est le h\u00e9ros de the Walking Dead il tue tous les zombie affam\u00e9 par leurs sa\u2026 https://t.co/C2rA5gZqpM", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 723186362048864258, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "723186362048864258", 
+     "screen_name": "DiamantinaNoite", 
+     "name": "Philumenae Virginis"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/C2rA5gZqpM", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175351523344384", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175294019387394": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 47455112, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/472902811630333952/hvAbmRyN_normal.jpeg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/1U75FWfSmY", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.al-monitor.com/pulse/back-channel", 
+       "display_url": "al-monitor.com/pulse/back-cha\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 136736, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "47455112", 
+   "profile_background_color": "B2DFDA", 
+   "listed_count": 4476, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 372188, 
+   "description": "Reporting on Washington, foreign policy & Middle East. Find my work @AlMonitor. RTs not endorsements. Email lkrozen at gmail dot com", 
+   "friends_count": 5134, 
+   "location": "Washington, D.C.", 
+   "profile_link_color": "93A644", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/472902811630333952/hvAbmRyN_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/47455112/1401572010", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", 
+   "screen_name": "lrozen", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 160, 
+   "name": "Laura Rozen", 
+   "notifications": false, 
+   "url": "http://t.co/1U75FWfSmY", 
+   "created_at": "Mon Jun 15 21:50:27 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Walking Dead", 
+  "Date": "Thu Mar 14 12:48:36 +0000 2019", 
+  "Text": "RT @diatribestress: @BakerLuke @lrozen One time I was walking my dog, and a woman was wearing a full length leopard coat. He stopped dead i\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1049010378, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "1049010378", 
+     "screen_name": "diatribestress", 
+     "name": "Leslie"
+    }, 
+    {
+     "id": 460005853, 
+     "indices": [
+      20, 
+      30
+     ], 
+     "id_str": "460005853", 
+     "screen_name": "BakerLuke", 
+     "name": "Luke Baker"
+    }, 
+    {
+     "id": 47455112, 
+     "indices": [
+      31, 
+      38
+     ], 
+     "id_str": "47455112", 
+     "screen_name": "lrozen", 
+     "name": "Laura Rozen"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175342560059398": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 918190765519536129, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102710667423944704/Vj9ALPUu_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 56, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "918190765519536129", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 401, 
+   "description": "", 
+   "friends_count": 50, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102710667423944704/Vj9ALPUu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/918190765519536129/1548955470", 
+   "profile_background_image_url": null, 
+   "screen_name": "ADRIANA02906179", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 506, 
+   "name": "supersonic woman", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Oct 11 19:05:12 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Walking Dead", 
+  "Date": "Thu Mar 14 12:48:48 +0000 2019", 
+  "Text": "Eu jogo lol e n\u00e3o saio por a\u00ed soltando ult\nEu jogo GTA e nem por isso eu saio por a\u00ed matando pessoas\nEu jogo Mario\u2026 https://t.co/Rm7Yj2eqLd", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Rm7Yj2eqLd", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175342560059398", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175220975583233": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 49903521, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "0084B4", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/865307687726219264/w5XFEXjW_normal.jpg", 
+   "profile_sidebar_fill_color": "C0DFEC", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 369, 
+   "profile_sidebar_border_color": "A8C7F7", 
+   "id_str": "49903521", 
+   "profile_background_color": "30185C", 
+   "listed_count": 13, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 39508, 
+   "description": "Aspring actress and a major book lover and writer in my free time.", 
+   "friends_count": 327, 
+   "location": "Ravenclaw Common Room", 
+   "profile_link_color": "AF0713", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/865307687726219264/w5XFEXjW_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/49903521/1489724684", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "angelt18", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 14537, 
+   "name": "Angel at RCCC", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jun 23 06:13:06 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Walking Dead", 
+  "Date": "Thu Mar 14 12:48:19 +0000 2019", 
+  "Text": "@UpToTASK @MrNiceGuy18_58 Ohhh he a dead man. Either that, or he\u2019s walking off into the sunset, but yeah, no. He\u2019s\u2026 https://t.co/JHUabNPJnZ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 4294577954, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "4294577954", 
+     "screen_name": "UpToTASK", 
+     "name": "TASK the Ol\u2019 Nerdy Skrull"
+    }, 
+    {
+     "id": 123453494, 
+     "indices": [
+      10, 
+      25
+     ], 
+     "id_str": "123453494", 
+     "screen_name": "MrNiceGuy18_58", 
+     "name": "Jimmy Folino"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/JHUabNPJnZ", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175220975583233", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

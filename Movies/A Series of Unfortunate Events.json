@@ -1,0 +1,479 @@
+{
+ "1106174864745000960": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1072908034941378560, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095036144323047426/Nz-N_Bpc_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/rOMZVoVMfO", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://holo.gg/", 
+       "display_url": "holo.gg"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 33, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1072908034941378560", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 88, 
+   "description": "CS:GO Caster for @HoloEsports", 
+   "friends_count": 70, 
+   "location": "Washington, DC", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095036144323047426/Nz-N_Bpc_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072908034941378560/1549911819", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "L1nguist1k", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 119, 
+   "name": "Joshua LINguistik", 
+   "notifications": false, 
+   "url": "https://t.co/rOMZVoVMfO", 
+   "created_at": "Wed Dec 12 17:36:23 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "A Series of Unfortunate Events", 
+  "Date": "Thu Mar 14 12:46:54 +0000 2019", 
+  "Text": "RT @Team_ImperialGG: Due to a series of unfortunate events, Team Imperial CS:GO was awarded the win over SSWG, putting them 11-4 this seaso\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1091081917167034376, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "1091081917167034376", 
+     "screen_name": "Team_ImperialGG", 
+     "name": "Team Imperial"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173605530877953": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1009403699473440768, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105631994224926720/ZIeWf69V_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 976, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1009403699473440768", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3955, 
+   "description": "Sometimes I'm funny. \ud83d\ude0b\n\ud83d\udcaf % real.\n~Girl Mama~CannaMissus~Gif Goddess~Musical dweeb~Anime dork", 
+   "friends_count": 1323, 
+   "location": "Vancouver, British Columbia", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105631994224926720/ZIeWf69V_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009403699473440768/1548016900", 
+   "profile_background_image_url": null, 
+   "screen_name": "My_Tinymonster", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8984, 
+   "name": "ThoughtBubbles&Stuff\ud83c\udde8\ud83c\udde6", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jun 20 11:52:50 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "A Series of Unfortunate Events", 
+  "Date": "Thu Mar 14 12:41:53 +0000 2019", 
+  "Text": "@teheTina @twinningmum @wonderparent007 @Beetrues @ParentBear @FionaMorgan79 @SussexStomach @mycoparenter @GenYMama\u2026 https://t.co/1G2B5putFZ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1118088734, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "1118088734", 
+     "screen_name": "teheTina", 
+     "name": "2TeensandAtoddler"
+    }, 
+    {
+     "id": 902921444115533825, 
+     "indices": [
+      10, 
+      22
+     ], 
+     "id_str": "902921444115533825", 
+     "screen_name": "twinningmum", 
+     "name": "Tmum"
+    }, 
+    {
+     "id": 1080624406798495751, 
+     "indices": [
+      23, 
+      39
+     ], 
+     "id_str": "1080624406798495751", 
+     "screen_name": "wonderparent007", 
+     "name": "Wonder-Parent"
+    }, 
+    {
+     "id": 902598466693586946, 
+     "indices": [
+      40, 
+      49
+     ], 
+     "id_str": "902598466693586946", 
+     "screen_name": "Beetrues", 
+     "name": "Bee"
+    }, 
+    {
+     "id": 1002518333181349888, 
+     "indices": [
+      50, 
+      61
+     ], 
+     "id_str": "1002518333181349888", 
+     "screen_name": "ParentBear", 
+     "name": "Parent Bear"
+    }, 
+    {
+     "id": 782894571290255360, 
+     "indices": [
+      62, 
+      76
+     ], 
+     "id_str": "782894571290255360", 
+     "screen_name": "FionaMorgan79", 
+     "name": "Fiona Morgan"
+    }, 
+    {
+     "id": 902971486167855104, 
+     "indices": [
+      77, 
+      91
+     ], 
+     "id_str": "902971486167855104", 
+     "screen_name": "SussexStomach", 
+     "name": "Simply Chris"
+    }, 
+    {
+     "id": 191707961, 
+     "indices": [
+      92, 
+      105
+     ], 
+     "id_str": "191707961", 
+     "screen_name": "mycoparenter", 
+     "name": "My coParenter"
+    }, 
+    {
+     "id": 923395229616615424, 
+     "indices": [
+      106, 
+      115
+     ], 
+     "id_str": "923395229616615424", 
+     "screen_name": "GenYMama", 
+     "name": "Kristen // Gen-Y Mama"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/1G2B5putFZ", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173605530877953", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106170386637479939": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2505065969, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106172381024800768/kaIvldRg_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 224, 
+   "profile_sidebar_border_color": "181A1E", 
+   "id_str": "2505065969", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9419, 
+   "description": "Aries woman", 
+   "friends_count": 212, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106172381024800768/kaIvldRg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2505065969/1552566846", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "AletKwek", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6428, 
+   "name": "Barbara", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 24 00:11:40 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "A Series of Unfortunate Events", 
+  "Date": "Thu Mar 14 12:29:06 +0000 2019", 
+  "Text": "series of unfortunate events. Not a book, but my life if I would say it.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173059797409792": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3256625689, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099614221124362241/L6j0BYSy_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/6MttcGYuBZ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://ijustwanttobeananengineer.com", 
+       "display_url": "ijustwanttobeananengineer.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 533, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3256625689", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7405, 
+   "description": "do you ever wonder about that little voice inside your brain? just like the one you're using while reading my bio?", 
+   "friends_count": 202, 
+   "location": "usj-r / shs", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099614221124362241/L6j0BYSy_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3256625689/1551579390", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "muhammaddarlyn", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5455, 
+   "name": "\u1d05\u1d00\u0280\ud83d\udc69\u200d\ud83d\udd27", 
+   "notifications": false, 
+   "url": "https://t.co/6MttcGYuBZ", 
+   "created_at": "Fri Jun 26 11:32:23 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "A Series of Unfortunate Events", 
+  "Date": "Thu Mar 14 12:39:43 +0000 2019", 
+  "Text": "now, i am officially a firm believer that life is a series of unfortunate events; because out of all the people in\u2026 https://t.co/qaoWWQMoZp", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/qaoWWQMoZp", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173059797409792", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106163664195850241": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 282611615, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2867933634/153c91d7e5b97f7200a9ce67641ec818_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 164, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "282611615", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3590, 
+   "description": "", 
+   "friends_count": 228, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2867933634/153c91d7e5b97f7200a9ce67641ec818_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/282611615/1353304402", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DannyAcord", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12530, 
+   "name": "Danny Acord", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Apr 15 15:03:32 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "A Series of Unfortunate Events", 
+  "Date": "Thu Mar 14 12:02:23 +0000 2019", 
+  "Text": "RT @NathanSRuiz: After Lindy Waters' freshman year, his dad heard from three programs wondering if he wanted to transfer from #okstate.\n\nWa\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2285492959, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "2285492959", 
+     "screen_name": "NathanSRuiz", 
+     "name": "Nathan Ruiz"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      126, 
+      134
+     ], 
+     "text": "okstate"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

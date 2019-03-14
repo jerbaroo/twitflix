@@ -1,0 +1,402 @@
+{
+ "1106175302693240832": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1374920922, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090128632775884800/13oPCDN3_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 185, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1374920922", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8530, 
+   "description": "", 
+   "friends_count": 438, 
+   "location": "Lagos", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090128632775884800/13oPCDN3_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374920922/1500135959", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "abdulafizu", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2601, 
+   "name": "Kunle Abdul", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Apr 23 16:29:19 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Departed", 
+  "Date": "Thu Mar 14 12:48:38 +0000 2019", 
+  "Text": "RT @TosinOlugbenga: You wake up and have no idea your gonna take your last breath today.\n\nIt's a sacred secret kept away from humanity.\n\nMa\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 740680459, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "740680459", 
+     "screen_name": "TosinOlugbenga", 
+     "name": "Tosin Olugbenga"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175340936916993": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 32491517, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094002467958853632/QybIuzCj_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/2HfVI1DW7b", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://senatepresident.gov.ng", 
+       "display_url": "senatepresident.gov.ng"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 16289, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "32491517", 
+   "profile_background_color": "DD2E44", 
+   "listed_count": 26, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 13832, 
+   "description": "PATRIOT. Special Assistant on New Media to @SPNigeria @BukolaSaraki. Bald Guy in a Hairy World. Views are mine - unless otherwise stated.", 
+   "friends_count": 2187, 
+   "location": "Federal Capital Territory, Nigeria", 
+   "profile_link_color": "DD2E44", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1094002467958853632/QybIuzCj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/32491517/1551488164", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ONEMOLAOlu", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4466, 
+   "name": "ONEMOLA", 
+   "notifications": false, 
+   "url": "https://t.co/2HfVI1DW7b", 
+   "created_at": "Fri Apr 17 17:34:55 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Departed", 
+  "Date": "Thu Mar 14 12:48:47 +0000 2019", 
+  "Text": "RT @DeleMomodu: The President of the Nigerian Senate DR ABUBAKAR BUKOLA SARAKI pays tribute to our departed hero PROF PIUS ADESANMI... http\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25238117, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "25238117", 
+     "screen_name": "DeleMomodu", 
+     "name": "Dele Momodu Ovation"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175178587947009": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 25238117, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": true, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045373926933696514/1bWPbV9d_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/onbihMYJPC", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.ovationinternational.com", 
+       "display_url": "ovationinternational.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 897228, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "25238117", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 967, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 131225, 
+   "description": "A teacher, writer, author, publisher, politician, entrepreneur, speaker, actor, mentor, Philanthropist, former Presidential candidate and global citizen!", 
+   "friends_count": 24868, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1045373926933696514/1bWPbV9d_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/25238117/1538071545", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DeleMomodu", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 10850, 
+   "name": "Dele Momodu Ovation", 
+   "notifications": false, 
+   "url": "https://t.co/onbihMYJPC", 
+   "created_at": "Thu Mar 19 04:32:01 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Departed", 
+  "Date": "Thu Mar 14 12:48:08 +0000 2019", 
+  "Text": "The President of the Nigerian Senate DR ABUBAKAR  BUKOLA SARAKI pays tribute to our departed hero PROF PIUS ADESANM\u2026 https://t.co/fw0sBOdqZz", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/fw0sBOdqZz", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175178587947009", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175281742692352": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1048587739313197057, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048603334750470145/02o0KSfU_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 50, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1048587739313197057", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 842, 
+   "description": "Playing", 
+   "friends_count": 321, 
+   "location": "Ojo", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1048603334750470145/02o0KSfU_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048587739313197057/1538841490", 
+   "profile_background_image_url": null, 
+   "screen_name": "akanni01041", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 91, 
+   "name": "akanni0104", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Oct 06 14:56:13 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Departed", 
+  "Date": "Thu Mar 14 12:48:33 +0000 2019", 
+  "Text": "@dr_mama_one O Allah accept the prayers of everyone on the departed souls including our rightly guided president, m\u2026 https://t.co/WWJknsSHBF", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 723411632378908672, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "723411632378908672", 
+     "screen_name": "dr_mama_one", 
+     "name": "booboo\ud83c\udf3c"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/WWJknsSHBF", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175281742692352", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175250679713793": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 931886837601329152, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064792908409290752/VYNyp4AD_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 250, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "931886837601329152", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 20504, 
+   "description": "Your next door neighbour", 
+   "friends_count": 99, 
+   "location": "", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1064792908409290752/VYNyp4AD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/931886837601329152/1551299144", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "YoungRogerina", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6314, 
+   "name": "MeisWealth", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Nov 18 14:08:30 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Departed", 
+  "Date": "Thu Mar 14 12:48:26 +0000 2019", 
+  "Text": "RT @DeleMomodu: The President of the Nigerian Senate DR ABUBAKAR BUKOLA SARAKI pays tribute to our departed hero PROF PIUS ADESANMI... http\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 25238117, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "25238117", 
+     "screen_name": "DeleMomodu", 
+     "name": "Dele Momodu Ovation"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

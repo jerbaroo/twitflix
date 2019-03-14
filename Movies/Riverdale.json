@@ -1,0 +1,450 @@
+{
+ "1106175493324324864": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 57520981, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106003407553335296/EzV3fgP3_normal.png", 
+   "profile_sidebar_fill_color": "F6F6F6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/WwtrXjKOcu", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.behance.net/csaito", 
+       "display_url": "behance.net/csaito"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/acQyVIxXZF", 
+       "indices": [
+        45, 
+        68
+       ], 
+       "expanded_url": "http://instagram.com/cami.saito", 
+       "display_url": "instagram.com/cami.saito"
+      }, 
+      {
+       "url": "https://t.co/tMWLUHARUk", 
+       "indices": [
+        69, 
+        92
+       ], 
+       "expanded_url": "http://instagram.com/milinas", 
+       "display_url": "instagram.com/milinas"
+      }, 
+      {
+       "url": "https://t.co/G1mYfZqBSK", 
+       "indices": [
+        93, 
+        116
+       ], 
+       "expanded_url": "http://www.facebook.com/camisaitoarte", 
+       "display_url": "facebook.com/camisaitoarte"
+      }, 
+      {
+       "url": "https://t.co/rMJgcbvOK6", 
+       "indices": [
+        117, 
+        140
+       ], 
+       "expanded_url": "http://www.colab55.com/@camisaito", 
+       "display_url": "colab55.com/@camisaito"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 350, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "57520981", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18896, 
+   "description": "Art Director | Hand lettering & Illustration\nhttps://t.co/acQyVIxXZF\nhttps://t.co/tMWLUHARUk\nhttps://t.co/G1mYfZqBSK\nhttps://t.co/rMJgcbvOK6", 
+   "friends_count": 352, 
+   "location": "", 
+   "profile_link_color": "D9536F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106003407553335296/EzV3fgP3_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/57520981/1552527076", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "milasaito", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 690, 
+   "name": "saito", 
+   "notifications": false, 
+   "url": "https://t.co/WwtrXjKOcu", 
+   "created_at": "Fri Jul 17 02:15:22 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Riverdale", 
+  "Date": "Thu Mar 14 12:49:24 +0000 2019", 
+  "Text": "Queria dizer que Riverdale fez de Cole Sprouse meu novo crush e nunca achei que isso ia acontecer. Bom dia.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175463796498432": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 782292549440503808, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025062651418824704/5DhNHHDV_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 59, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "782292549440503808", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7121, 
+   "description": "", 
+   "friends_count": 768, 
+   "location": "United Kingdom  ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1025062651418824704/5DhNHHDV_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/782292549440503808/1533228918", 
+   "profile_background_image_url": null, 
+   "screen_name": "Turburvi3Robert", 
+   "lang": "en-gb", 
+   "profile_background_tile": false, 
+   "favourites_count": 1569, 
+   "name": "Robert   Roy  Turburville", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Oct 01 18:54:12 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Riverdale", 
+  "Date": "Thu Mar 14 12:49:16 +0000 2019", 
+  "Text": "Riverdale and 90210 star Luke Perry cause of death revealed https://t.co/F8goNSvUQp via @yahooNewsUK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 20779110, 
+     "indices": [
+      88, 
+      100
+     ], 
+     "id_str": "20779110", 
+     "screen_name": "YahooNewsUK", 
+     "name": "Yahoo News UK"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/F8goNSvUQp", 
+     "indices": [
+      60, 
+      83
+     ], 
+     "expanded_url": "https://uk.news.yahoo.com/riverdale-90210-star-luke-perry-180800831.html?soc_src=social-sh&soc_trk=tw", 
+     "display_url": "uk.news.yahoo.com/riverdale-9021\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175510214782982": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1276003568, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099069173014114304/md80Ultd_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 339, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1276003568", 
+   "profile_background_color": "0808C7", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4458, 
+   "description": "Tryna live the best life i can #Art #Travel #Tennis", 
+   "friends_count": 1032, 
+   "location": "Caribbean", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099069173014114304/md80Ultd_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276003568/1497026267", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ariel2184", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 3581, 
+   "name": "ARIELLA", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Mar 17 21:03:22 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Riverdale", 
+  "Date": "Thu Mar 14 12:49:28 +0000 2019", 
+  "Text": "RT @UnknownChilld: Antoinette Topaz we didn't raise you as a bottom sis #choni #Riverdale https://t.co/8XkHiUMV9y", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3620946074, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "3620946074", 
+     "screen_name": "UnknownChilld", 
+     "name": "Unknown Character"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      72, 
+      78
+     ], 
+     "text": "choni"
+    }, 
+    {
+     "indices": [
+      79, 
+      89
+     ], 
+     "text": "Riverdale"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 3620946074, 
+     "source_status_id_str": "1103483625759301632", 
+     "expanded_url": "https://twitter.com/UnknownChilld/status/1103483625759301632/video/1", 
+     "display_url": "pic.twitter.com/8XkHiUMV9y", 
+     "url": "https://t.co/8XkHiUMV9y", 
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1103483583782637569/pu/img/_7s_jOHWHQndOKr1.jpg", 
+     "source_user_id_str": "3620946074", 
+     "source_status_id": 1103483625759301632, 
+     "id_str": "1103483583782637569", 
+     "sizes": {
+      "large": {
+       "h": 360, 
+       "resize": "fit", 
+       "w": 640
+      }, 
+      "small": {
+       "h": 360, 
+       "resize": "fit", 
+       "w": 640
+      }, 
+      "medium": {
+       "h": 360, 
+       "resize": "fit", 
+       "w": 640
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      90, 
+      113
+     ], 
+     "type": "photo", 
+     "id": 1103483583782637569, 
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1103483583782637569/pu/img/_7s_jOHWHQndOKr1.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175448243949569": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3130587865, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/857975079266811904/jynh4a5T_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 307, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3130587865", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1752, 
+   "description": "\"As coisas n\u00e3o s\u00e3o como se imagina\". - Sangue Jovem", 
+   "friends_count": 815, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/857975079266811904/jynh4a5T_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130587865/1494601008", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BitchBlank", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 4538, 
+   "name": "dan", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 02 13:26:36 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Riverdale", 
+  "Date": "Thu Mar 14 12:49:13 +0000 2019", 
+  "Text": "RT @blossomtopxz: Vanessa Morgan e madelaine petsch nasceram pra isso  #Riverdale https://t.co/RMuT0ogaLJ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1050991638850535424, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "1050991638850535424", 
+     "screen_name": "blossomtopxz", 
+     "name": "C\u029c\u1d0f\u0274\u026a  \u25df\u033d\u25de\u033d"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      71, 
+      81
+     ], 
+     "text": "Riverdale"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 1191248197, 
+     "source_status_id_str": "1106002946444140544", 
+     "expanded_url": "https://twitter.com/oitnbixas/status/1106002946444140544/video/1", 
+     "display_url": "pic.twitter.com/RMuT0ogaLJ", 
+     "url": "https://t.co/RMuT0ogaLJ", 
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1106002262931980289/pu/img/aK4w8-qHJasq3siT.jpg", 
+     "source_user_id_str": "1191248197", 
+     "source_status_id": 1106002946444140544, 
+     "id_str": "1106002262931980289", 
+     "sizes": {
+      "large": {
+       "h": 400, 
+       "resize": "fit", 
+       "w": 752
+      }, 
+      "small": {
+       "h": 362, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 400, 
+       "resize": "fit", 
+       "w": 752
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      82, 
+      105
+     ], 
+     "type": "photo", 
+     "id": 1106002262931980289, 
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1106002262931980289/pu/img/aK4w8-qHJasq3siT.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

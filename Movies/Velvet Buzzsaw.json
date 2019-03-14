@@ -1,0 +1,447 @@
+{
+ "1106173635927203840": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 939137716645744640, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1058079007541997570/Ms1HGK6T_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 293, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "939137716645744640", 
+   "profile_background_color": "000000", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 26291, 
+   "description": "Ancient Twitter scholar and former East African. Swims in ponds.", 
+   "friends_count": 46, 
+   "location": "", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1058079007541997570/Ms1HGK6T_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/939137716645744640/1512779355", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "IriathZhul", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 25553, 
+   "name": "Reluctant Exister", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 08 14:20:54 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Velvet Buzzsaw", 
+  "Date": "Thu Mar 14 12:42:01 +0000 2019", 
+  "Text": "@juukuchi @neontaster Haha yeah. Also am thinking of VELVET BUZZSAW, CLASH OF THE TITANS, and PROMETHEUS.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 169775526, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "169775526", 
+     "screen_name": "juukuchi", 
+     "name": "\u30b4\u30b4\u30b4The Juude\u30b4\u30b4\u30b4"
+    }, 
+    {
+     "id": 19217369, 
+     "indices": [
+      10, 
+      21
+     ], 
+     "id_str": "19217369", 
+     "screen_name": "neontaster", 
+     "name": "neontaster"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106171415974146049": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 413857197, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "6060C4", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105442388023992320/gQXgg1hJ_normal.jpg", 
+   "profile_sidebar_fill_color": "0A0909", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 524, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "413857197", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 40957, 
+   "description": "infj // juan\u2019s", 
+   "friends_count": 434, 
+   "location": "university of the philippines", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105442388023992320/gQXgg1hJ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/413857197/1551887291", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "chrisdomingoo", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 9263, 
+   "name": "domeng", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Nov 16 10:23:32 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Velvet Buzzsaw", 
+  "Date": "Thu Mar 14 12:33:11 +0000 2019", 
+  "Text": "velvet buzzsaw \ud83d\ude0d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106166877502373888": {
+  "Lang": "tl", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 892536603171848193, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101779599417982976/_f_4Bykl_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1605, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "892536603171848193", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3298, 
+   "description": "", 
+   "friends_count": 700, 
+   "location": "Mandaluyong City, National Cap", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101779599417982976/_f_4Bykl_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/892536603171848193/1551759271", 
+   "profile_background_image_url": null, 
+   "screen_name": "mnbvcxz_yunis", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2697, 
+   "name": "yuniss", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Aug 02 00:04:43 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Velvet Buzzsaw", 
+  "Date": "Thu Mar 14 12:15:09 +0000 2019", 
+  "Text": "RT @httpkleng: watching Velvet Buzzsaw with @mnbvcxz_yunis na ang takaw kumain ng popcorn \ud83d\ude02", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 443286061, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "443286061", 
+     "screen_name": "httpkleng", 
+     "name": ";"
+    }, 
+    {
+     "id": 892536603171848193, 
+     "indices": [
+      44, 
+      58
+     ], 
+     "id_str": "892536603171848193", 
+     "screen_name": "mnbvcxz_yunis", 
+     "name": "yuniss"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106168708832079872": {
+  "Lang": "und", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 581825242, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083861626539991041/q94T8Y2s_normal.jpg", 
+   "profile_sidebar_fill_color": "EADEAA", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ceN1DYSkaq", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://sayat.me/ALIFANBOY", 
+       "display_url": "sayat.me/ALIFANBOY"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 471, 
+   "profile_sidebar_border_color": "D9B17E", 
+   "id_str": "581825242", 
+   "profile_background_color": "8B542B", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 44326, 
+   "description": "\u049cP\u03a9P\u03a3R . \u1d0b-\u1d20\u1d00\u0280\u026a\u1d07\u1d1b\u028f s\u029c\u1d0f\u1d21's . \u304a\u305f\u304f . K\u0362-D\u0362R\u0362A\u0362M\u0362A\u0362 . \u13aa-\u13da\u13ac\u13a1\u13c6\u13ac\u13da \u2666\ufe0f \u144eET\u14aa\u15b4\u14aaI\u166d . \u2666\ufe0f I\u20d2N\u20d2F\u20d2J\u20d2-T\u20d2 \u2666\ufe0f", 
+   "friends_count": 50, 
+   "location": "Jeddah", 
+   "profile_link_color": "9D582E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1083861626539991041/q94T8Y2s_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/581825242/1547219745", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", 
+   "screen_name": "FanBoyAli96", 
+   "lang": "ar", 
+   "profile_background_tile": false, 
+   "favourites_count": 41302, 
+   "name": "\ud83d\udcae \ud83c\udd55\u2022\ud83c\udd50\u2022\ud83c\udd5d\u2022\ud83c\udd51\u2022\ud83c\udd5e\u2022\ud83c\udd68 \ud83d\udcae8\u2b07\ufe0f", 
+   "notifications": false, 
+   "url": "https://t.co/ceN1DYSkaq", 
+   "created_at": "Wed May 16 13:10:49 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Velvet Buzzsaw", 
+  "Date": "Thu Mar 14 12:22:26 +0000 2019", 
+  "Text": "#Velvet_Buzzsaw https://t.co/rDB3akw2e0", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      0, 
+      15
+     ], 
+     "text": "Velvet_Buzzsaw"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/FanBoyAli96/status/1106168708832079872/photo/1", 
+     "display_url": "pic.twitter.com/rDB3akw2e0", 
+     "url": "https://t.co/rDB3akw2e0", 
+     "media_url_https": "https://pbs.twimg.com/media/D1nmjjCXgAAT9yd.jpg", 
+     "id_str": "1106168681871147008", 
+     "sizes": {
+      "small": {
+       "h": 604, 
+       "resize": "fit", 
+       "w": 424
+      }, 
+      "large": {
+       "h": 604, 
+       "resize": "fit", 
+       "w": 424
+      }, 
+      "medium": {
+       "h": 604, 
+       "resize": "fit", 
+       "w": 424
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      16, 
+      39
+     ], 
+     "type": "photo", 
+     "id": 1106168681871147008, 
+     "media_url": "http://pbs.twimg.com/media/D1nmjjCXgAAT9yd.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106170499585839105": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 4399856194, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/755037800878186496/HjBKo4OV_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/weANRJz3yW", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://moviesruinedmylife.com", 
+       "display_url": "moviesruinedmylife.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 5604, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "4399856194", 
+   "profile_background_color": "000000", 
+   "listed_count": 56, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3661, 
+   "description": "A long-form discussion panel #podcast on genre film, cult classics, & new releases. Available wherever you listen to podcasts!", 
+   "friends_count": 4117, 
+   "location": "Toronto", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/755037800878186496/HjBKo4OV_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4399856194/1451874345", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "mrmlpodcast", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2808, 
+   "name": "MoviesRuinedMyLife", 
+   "notifications": false, 
+   "url": "https://t.co/weANRJz3yW", 
+   "created_at": "Mon Dec 07 01:33:45 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Velvet Buzzsaw", 
+  "Date": "Thu Mar 14 12:29:33 +0000 2019", 
+  "Text": "From @slashfilm Water Cooler: Super Bowl, Russian Doll, Velvet Buzzsaw, LEGO Movie 2, Battle Angel, Game of Thrones\u2026 https://t.co/OWQ3O9y9wk", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 821193, 
+     "indices": [
+      5, 
+      15
+     ], 
+     "id_str": "821193", 
+     "screen_name": "slashfilm", 
+     "name": "Peter Sciretta"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/OWQ3O9y9wk", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106170499585839105", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

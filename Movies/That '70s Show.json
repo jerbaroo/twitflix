@@ -1,0 +1,457 @@
+{
+ "1106174700928098304": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2678764838, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/938608564528062466/kFiyaI6y_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 129, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2678764838", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 481, 
+   "description": "Barber/ stock trader. IG: barberdavey Co-Owner First Class Barber Studio", 
+   "friends_count": 139, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/938608564528062466/kFiyaI6y_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2678764838/1546931632", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dvillagomez300", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 233, 
+   "name": "barberdavey", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jul 25 05:10:58 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "That '70s Show", 
+  "Date": "Thu Mar 14 12:46:15 +0000 2019", 
+  "Text": "RT @aubrielChloe: that 70s show &gt;&gt;&gt; friends https://t.co/jd53zUES7X", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 769411716606070785, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "769411716606070785", 
+     "screen_name": "aubrielChloe", 
+     "name": "Aubrie\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/jd53zUES7X", 
+     "indices": [
+      53, 
+      76
+     ], 
+     "expanded_url": "https://twitter.com/that70sclips/status/1106069808225804288", 
+     "display_url": "twitter.com/that70sclips/s\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174689905467392": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1373579610, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082761928777388033/6hYWdQaq_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 884, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1373579610", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 28473, 
+   "description": "PUCPR-19- Explorando...", 
+   "friends_count": 597, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1082761928777388033/6hYWdQaq_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1373579610/1546968160", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "OnixDroz", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5614, 
+   "name": "Onix", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Apr 23 02:22:57 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "That '70s Show", 
+  "Date": "Thu Mar 14 12:46:12 +0000 2019", 
+  "Text": "RT @ZaimaraLamoso: That\u2019 70s Show es mejor que Friends, don\u2019t at me. https://t.co/4E63q5Tkhv", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 972936132, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "972936132", 
+     "screen_name": "ZaimaraLamoso", 
+     "name": "z\u03b1\u03b9"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/4E63q5Tkhv", 
+     "indices": [
+      69, 
+      92
+     ], 
+     "expanded_url": "https://twitter.com/_shakk_/status/1105284665110335490", 
+     "display_url": "twitter.com/_shakk_/status\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175355356884994": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 848367026, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101365805210583040/gUPbUu6r_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 795, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "848367026", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18549, 
+   "description": "Romans 5:6 | LewisU\u201820 | JDL \ud83d\udc9b | sc: micheesosa | I don\u2019t want your ItWorks \ud83d\ude0a", 
+   "friends_count": 621, 
+   "location": "Mind your own b", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101365805210583040/gUPbUu6r_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/848367026/1551327137", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "MicheeSosa", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 7041, 
+   "name": "MG", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Sep 27 00:18:05 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "That '70s Show", 
+  "Date": "Thu Mar 14 12:48:51 +0000 2019", 
+  "Text": "RT @aubrielChloe: that 70s show &gt;&gt;&gt; friends https://t.co/jd53zUES7X", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 769411716606070785, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "769411716606070785", 
+     "screen_name": "aubrielChloe", 
+     "name": "Aubrie\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/jd53zUES7X", 
+     "indices": [
+      53, 
+      76
+     ], 
+     "expanded_url": "https://twitter.com/that70sclips/status/1106069808225804288", 
+     "display_url": "twitter.com/that70sclips/s\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174680451428358": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 986109770179506176, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093722214850088961/Iqq9epZa_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/baZ9ihK90l", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://twitter.com/FLOTUS", 
+       "display_url": "twitter.com/FLOTUS"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 7368, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "986109770179506176", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9992, 
+   "description": "#News #update #Trump #trump2020 #MAGA #TrumpTrain #KAG", 
+   "friends_count": 7630, 
+   "location": "United States", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093722214850088961/Iqq9epZa_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/986109770179506176/1551801209", 
+   "profile_background_image_url": null, 
+   "screen_name": "Melaniafollow", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4463, 
+   "name": "Emilie Boge", 
+   "notifications": false, 
+   "url": "https://t.co/baZ9ihK90l", 
+   "created_at": "Tue Apr 17 05:11:05 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "That '70s Show", 
+  "Date": "Thu Mar 14 12:46:10 +0000 2019", 
+  "Text": "20 Things Everyone Gets Wrong About That '70s\u00a0Show https://t.co/vLQA8Im4r7 https://t.co/0mqGPMP6u6", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/vLQA8Im4r7", 
+     "indices": [
+      51, 
+      74
+     ], 
+     "expanded_url": "https://dvdclip.com/20-issues-everybody-will-get-incorrect-about-that-70s-present", 
+     "display_url": "dvdclip.com/20-issues-ever\u2026"
+    }
+   ], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Melaniafollow/status/1106174680451428358/photo/1", 
+     "display_url": "pic.twitter.com/0mqGPMP6u6", 
+     "url": "https://t.co/0mqGPMP6u6", 
+     "media_url_https": "https://pbs.twimg.com/media/D1nsAl-WkAEh5_D.jpg", 
+     "id_str": "1106174678433959937", 
+     "sizes": {
+      "large": {
+       "h": 538, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "small": {
+       "h": 357, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 538, 
+       "resize": "fit", 
+       "w": 1024
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      75, 
+      98
+     ], 
+     "type": "photo", 
+     "id": 1106174678433959937, 
+     "media_url": "http://pbs.twimg.com/media/D1nsAl-WkAEh5_D.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174679872618496": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4128553180, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096534453801893888/q2Adl4BT_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 304, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4128553180", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11577, 
+   "description": "start a convo with me insta: @jamiichass", 
+   "friends_count": 409, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096534453801893888/q2Adl4BT_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4128553180/1546025330", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jamiiichase", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 16657, 
+   "name": "jami", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Nov 06 17:55:27 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "That '70s Show", 
+  "Date": "Thu Mar 14 12:46:10 +0000 2019", 
+  "Text": "RT @aubrielChloe: that 70s show &gt;&gt;&gt; friends https://t.co/jd53zUES7X", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 769411716606070785, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "769411716606070785", 
+     "screen_name": "aubrielChloe", 
+     "name": "Aubrie\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/jd53zUES7X", 
+     "indices": [
+      53, 
+      76
+     ], 
+     "expanded_url": "https://twitter.com/that70sclips/status/1106069808225804288", 
+     "display_url": "twitter.com/that70sclips/s\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

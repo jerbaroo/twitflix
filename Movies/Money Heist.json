@@ -1,0 +1,305 @@
+{
+ "1106174166334607360": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3052440141, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105501938391629828/JdGt6j4z_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 60, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3052440141", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 154, 
+   "description": "\ud83c\uddec\ud83c\uddf7\ud83c\uddf2\ud83c\udde9", 
+   "friends_count": 402, 
+   "location": "", 
+   "profile_link_color": "F5ABB5", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105501938391629828/JdGt6j4z_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "iamanb_", 
+   "lang": "el", 
+   "profile_background_tile": false, 
+   "favourites_count": 495, 
+   "name": "A.B", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Feb 22 11:29:14 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Money Heist", 
+  "Date": "Thu Mar 14 12:44:07 +0000 2019", 
+  "Text": "@1OGH_ Money Heist, Prison break", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 4429189882, 
+     "indices": [
+      0, 
+      6
+     ], 
+     "id_str": "4429189882", 
+     "screen_name": "1OGH_", 
+     "name": "OG"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106161927972106248": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 920992475619176449, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091815439095746561/jcPpVVOI_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/01z6ayKPRG", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.unintellectualregurtitation.wordpress.com", 
+       "display_url": "\u2026tellectualregurtitation.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 221, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "920992475619176449", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3514, 
+   "description": "18 | homeless creative\n\ud83c\udf08\nAzanian \ud83c\uddff\ud83c\udde6\nshe/her/daddy", 
+   "friends_count": 169, 
+   "location": "Johannesburg, South Africa", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1091815439095746561/jcPpVVOI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/920992475619176449/1549143936", 
+   "profile_background_image_url": null, 
+   "screen_name": "boldintro", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1059, 
+   "name": "s.he \u264c", 
+   "notifications": false, 
+   "url": "https://t.co/01z6ayKPRG", 
+   "created_at": "Thu Oct 19 12:38:12 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Money Heist", 
+  "Date": "Thu Mar 14 11:55:29 +0000 2019", 
+  "Text": "Y'all this money nigga with the guns just made a joke and I genuinely could not laugh, I wanted to tell him I'm not\u2026 https://t.co/3KIbCZYj9n", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/3KIbCZYj9n", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106161927972106248", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173818912075778": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2219299400, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099258487643746304/XH502tm7_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 309, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2219299400", 
+   "profile_background_color": "000000", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11458, 
+   "description": "Head huncho of @hairartthou & @tamauruk || Fashion Journalism \ud83c\udf93", 
+   "friends_count": 269, 
+   "location": "UK, London", 
+   "profile_link_color": "A87D9E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099258487643746304/XH502tm7_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2219299400/1491697575", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "UcheAzubike", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9455, 
+   "name": "Uch\u00e9 Azubike", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Nov 28 09:23:01 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Money Heist", 
+  "Date": "Thu Mar 14 12:42:44 +0000 2019", 
+  "Text": "@1OGH_ Money Heist", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 4429189882, 
+     "indices": [
+      0, 
+      6
+     ], 
+     "id_str": "4429189882", 
+     "screen_name": "1OGH_", 
+     "name": "OG"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106160143295750145": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 148433657, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/831578233388810246/DIjiniJg_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1538, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "148433657", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 17, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 62981, 
+   "description": "TheSlickGuy (TSG) #TeamManUtd\nBoxing fan: #TeamCanelo #TeamGolovkin #TeamWilder \n#CharteredAccountant \n#Banker #TeamWizkid \n#KCOBA  \n#ILoveJesus", 
+   "friends_count": 1153, 
+   "location": "Las gidi", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/831578233388810246/DIjiniJg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/148433657/1443043893", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "theslickguy", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1767, 
+   "name": "Mr. Onyinye", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed May 26 17:50:22 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Money Heist", 
+  "Date": "Thu Mar 14 11:48:24 +0000 2019", 
+  "Text": "@IsimaOdeh Money Heist and 24 are also up there", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2496687274, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "2496687274", 
+     "screen_name": "IsimaOdeh", 
+     "name": "World Publicist"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

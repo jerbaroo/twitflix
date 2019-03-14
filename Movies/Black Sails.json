@@ -1,0 +1,439 @@
+{
+ "1106142863165931520": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 630647847, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3749420810/fa2e0c5dc2e007b0a283f654bd090be3_normal.png", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/CHiB2YJbzl", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://selfihateyouithink.tumblr.com", 
+       "display_url": "selfihateyouithink.tumblr.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 269, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "630647847", 
+   "profile_background_color": "131516", 
+   "listed_count": 50, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 257270, 
+   "description": "Still Andrea! When @slasher48 can't murder all her/their time with Twitter elsewhere, this is where it comes to die. (Also follow @deanshutup.)", 
+   "friends_count": 141, 
+   "location": "Ship-shaming incest and abuse.", 
+   "profile_link_color": "CE7834", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3749420810/fa2e0c5dc2e007b0a283f654bd090be3_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/630647847/1351947023", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "hisfanatic", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 101193, 
+   "name": "Cas (hates the GOP)", 
+   "notifications": false, 
+   "url": "https://t.co/CHiB2YJbzl", 
+   "created_at": "Sun Jul 08 22:20:18 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Sails", 
+  "Date": "Thu Mar 14 10:39:44 +0000 2019", 
+  "Text": "Maybe I should watch Community first, after Person of Interest, before Black Sails.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106119925909860352": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3160984468, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/587335612853841920/u5kaq2gN_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/sfSdqoZYwh", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.marknpablo.com", 
+       "display_url": "marknpablo.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4816, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3160984468", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 149, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15904, 
+   "description": "", 
+   "friends_count": 5187, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/587335612853841920/u5kaq2gN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "barryparsonsok", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6024, 
+   "name": "Barry Parsons", 
+   "notifications": false, 
+   "url": "https://t.co/sfSdqoZYwh", 
+   "created_at": "Sun Apr 12 19:21:59 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Black Sails", 
+  "Date": "Thu Mar 14 09:08:35 +0000 2019", 
+  "Text": "RT @marknpablo: #amreading on #smashwords\n\nHIGHLY RECOMMENDED...\n\nQueen of Black Sails\nBy P. J. Daniels\n\nGRAB YOUR COPY NOW...\n\n#indiepub #\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2377016443, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "2377016443", 
+     "screen_name": "marknpablo", 
+     "name": "marknpablo"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      16, 
+      26
+     ], 
+     "text": "amreading"
+    }, 
+    {
+     "indices": [
+      30, 
+      41
+     ], 
+     "text": "smashwords"
+    }, 
+    {
+     "indices": [
+      128, 
+      137
+     ], 
+     "text": "indiepub"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106155836102139906": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1099686688127897602, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099691396645175296/tgKJIyGj_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/egah58FcbQ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.artstation.com/nm_alex", 
+       "display_url": "artstation.com/nm_alex"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1099686688127897602", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4, 
+   "description": "just a mad artist & future game designer", 
+   "friends_count": 91, 
+   "location": "Poland", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099691396645175296/tgKJIyGj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1099686688127897602/1551022476", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NNestorowicz", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 11, 
+   "name": "NMA Nestorowicz", 
+   "notifications": false, 
+   "url": "https://t.co/egah58FcbQ", 
+   "created_at": "Sun Feb 24 15:05:12 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Sails", 
+  "Date": "Thu Mar 14 11:31:17 +0000 2019", 
+  "Text": "@Darrencahill Black Sails is gold \ud83d\udc4c also Da Vinci's Demons, Ripper Street and Alienist \u2661\uff9e", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 71671420, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "71671420", 
+     "screen_name": "Darrencahill", 
+     "name": "Darren Cahill"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106119785606250496": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 18990139, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043265336458522624/Pr_LRzdO_normal.jpg", 
+   "profile_sidebar_fill_color": "F0D382", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/jd0Cb2jrjl", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.amazon.co.uk/Michael-Wombat/e/B0098GUQSI", 
+       "display_url": "amazon.co.uk/Michael-Wombat\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/elJFktMziK", 
+       "indices": [
+        36, 
+        59
+       ], 
+       "expanded_url": "https://www.patreon.com/wombat37", 
+       "display_url": "patreon.com/wombat37"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 2893, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "18990139", 
+   "profile_background_color": "709397", 
+   "listed_count": 214, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 405735, 
+   "description": "A writer, just like everybody else. https://t.co/elJFktMziK", 
+   "friends_count": 939, 
+   "location": "Up North", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1043265336458522624/Pr_LRzdO_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/18990139/1536852233", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+   "screen_name": "wombat37", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 1273, 
+   "name": "Wombat\ud83d\udd52\ud83d\udd56", 
+   "notifications": false, 
+   "url": "https://t.co/jd0Cb2jrjl", 
+   "created_at": "Wed Jan 14 19:09:13 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Sails", 
+  "Date": "Thu Mar 14 09:08:02 +0000 2019", 
+  "Text": "@eddsnotdead Black Sails. Now I know why I'm walking funny.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 142079409, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "142079409", 
+     "screen_name": "eddsnotdead", 
+     "name": "Ed to the back of the queue"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106111691388010496": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 422591841, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104255127811223552/qzpoNIHC_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 7393, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "422591841", 
+   "profile_background_color": "131516", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18219, 
+   "description": "Out of the eater, something to eat; out of the strong, something sweet \ud83e\udd81\ud83d\udcaa\ud83c\udffe\ud83c\udf6f", 
+   "friends_count": 2221, 
+   "location": "Harare, Zimbabwe", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104255127811223552/qzpoNIHC_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/422591841/1552189898", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "tapiwaDEMO", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 57231, 
+   "name": "Tapiwanashe \ud83c\uddff\ud83c\uddfc", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Nov 27 12:56:13 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Black Sails", 
+  "Date": "Thu Mar 14 08:35:52 +0000 2019", 
+  "Text": "@bkaripo Black Sails\nGOT\nBreaking Bad\nThe Chi\nAtlanata", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 59746627, 
+     "indices": [
+      0, 
+      8
+     ], 
+     "id_str": "59746627", 
+     "screen_name": "bkaripo", 
+     "name": "beekay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

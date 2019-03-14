@@ -1,0 +1,374 @@
+{
+ "1106175436789293056": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 989636780659019776, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 8, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "989636780659019776", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 143, 
+   "description": "", 
+   "friends_count": 37, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "clissi666", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6, 
+   "name": "clissi666", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 26 22:46:09 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "IO", 
+  "Date": "Thu Mar 14 12:49:10 +0000 2019", 
+  "Text": "RT @G2Pengu: I'm happy to announce my #SI2019 win giveaway! One lucky n00ter will receive a fully built PC, courtesy of me, @G2esports, and\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1428617245, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "1428617245", 
+     "screen_name": "G2Pengu", 
+     "name": "G2 Pengu"
+    }, 
+    {
+     "id": 1124722303, 
+     "indices": [
+      124, 
+      134
+     ], 
+     "id_str": "1124722303", 
+     "screen_name": "G2esports", 
+     "name": "G2 Esports"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      38, 
+      45
+     ], 
+     "text": "SI2019"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175436214673409": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 887846798781550592, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096950095738798080/FvXv8Exe_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 911, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "887846798781550592", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2750, 
+   "description": "Vallentina mam\u00e3e te ama \u2764\ufe0f, Arthur Guilherme dinda ama \ud83d\udc99  , Solteira", 
+   "friends_count": 508, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096950095738798080/FvXv8Exe_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/887846798781550592/1550368441", 
+   "profile_background_image_url": null, 
+   "screen_name": "Miihpvcs_", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 788, 
+   "name": "2L \ud83d\ude1d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jul 20 01:29:07 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "IO", 
+  "Date": "Thu Mar 14 12:49:10 +0000 2019", 
+  "Text": "Minha m\u00e3e agr vai ficar enchendo meu seco por causa de escola, io", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175430447386624": {
+  "Lang": "ja", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 715419264, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088117518265344000/VMy88GqA_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 37, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "715419264", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2178, 
+   "description": "\u53ea\u4eca\u5200\u5263\u4e71\u821e\u6cbc\u306b\u305a\u3076\u305a\u3076\u751f\u606f\u4e2d\u3002(\u304a\u3058\u3044\u3061\u3083\u3093\u3001\u3044\u3061\u306b\u3044\u3001\u305a\u304a\u3070\u307f\u3001\u304f\u308a\u307f\u3064)\u3001\u305d\u306e\u4ed6\u8584\u685c\u9b3c(\u658e\u85e4\u6c0f)/\u590f\u76ee/\u30b5\u30a4\u30b3\u30d1\u30b9/\u306a\u3069\u306a\u3069\u969b\u9650\u306a\u304f\u3044\u308d\u3093\u306a\u6cbc\u306b\u6d45\u304f\u5e83\u304f\u6d78\u304b\u308a\u4e2d\u3002", 
+   "friends_count": 292, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1088117518265344000/VMy88GqA_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/715419264/1534004110", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "crescent_io", 
+   "lang": "ja", 
+   "profile_background_tile": false, 
+   "favourites_count": 4853, 
+   "name": "\u4f0a\u7e54", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jul 25 03:49:29 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "IO", 
+  "Date": "Thu Mar 14 12:49:09 +0000 2019", 
+  "Text": "\u4eba\u69d8\u306e\u70ba\u306e\u30db\u30ef\u30a4\u30c8\u30c7\u30fc\u3092\u6bce\u5e74\u7e70\u308a\u8fd4\u3057\u3066\u306f\u4eca\u5e74\u3082\u6226\u5834\u3067\u306e\u6226\u3044\u304c\u7d42\u308f\u3063\u305f\u2026\u75b2\u308c\u305f", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175429050806272": {
+  "Lang": "it", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 479370177, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068443923750764544/bhExNX78_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 264, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "479370177", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7186, 
+   "description": "Non sono una persona cattiva.\nSono una persona buona che \u00e8 vissuta in tempi cattivi.", 
+   "friends_count": 687, 
+   "location": "", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1068443923750764544/bhExNX78_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/479370177/1545302499", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "maxcomper", 
+   "lang": "it", 
+   "profile_background_tile": false, 
+   "favourites_count": 15509, 
+   "name": "MaXcom", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 31 09:31:04 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "IO", 
+  "Date": "Thu Mar 14 12:49:08 +0000 2019", 
+  "Text": "@_vedocose Del resto, chi sono io per giudicare?! \nMi son mato!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 242046267, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "242046267", 
+     "screen_name": "_vedocose", 
+     "name": "Rossella Lovisetto \ud83c\udff3\ufe0f"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175430682394624": {
+  "Lang": "de", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 19704886, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "222222", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1049643376251990016/8jMGVvTY_normal.jpg", 
+   "profile_sidebar_fill_color": "EEEEEE", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/J2CuxJVvTY", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.handelsblatt.com/arts_und_style", 
+       "display_url": "handelsblatt.com/arts_und_style"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4378, 
+   "profile_sidebar_border_color": "EE7B19", 
+   "id_str": "19704886", 
+   "profile_background_color": "E3E3E3", 
+   "listed_count": 183, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 41607, 
+   "description": "Handelsblatt Arts & Style: Lifestyle / Kunstmarkt / Literatur / Health", 
+   "friends_count": 128, 
+   "location": "D\u00fcsseldorf", 
+   "profile_link_color": "445CB2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1049643376251990016/8jMGVvTY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/19704886/1539089319", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "hb_journal", 
+   "lang": "de", 
+   "profile_background_tile": false, 
+   "favourites_count": 72, 
+   "name": "Handelsblatt Arts & Style", 
+   "notifications": false, 
+   "url": "https://t.co/J2CuxJVvTY", 
+   "created_at": "Thu Jan 29 10:21:21 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "IO", 
+  "Date": "Thu Mar 14 12:49:09 +0000 2019", 
+  "Text": "Massenandrang ist f\u00fcr den Direktor der Uffizien nicht l\u00e4nger ein Problem. Eike Schmidt \u00fcber Algorithmen zur Steueru\u2026 https://t.co/DqS9O2Tl9u", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/DqS9O2Tl9u", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175430682394624", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,446 @@
+{
+ "1106174982319730688": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 51937636, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2388416331/v34ij9tpbxdkttq9x63i_normal.gif", 
+   "profile_sidebar_fill_color": "DDFFCC", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/32J5s4aU1J", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://EventsINSIDER.com", 
+       "display_url": "EventsINSIDER.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/uLcCxPaOEK", 
+       "indices": [
+        69, 
+        92
+       ], 
+       "expanded_url": "http://eventsinsider.com", 
+       "display_url": "eventsinsider.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 33383, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "51937636", 
+   "profile_background_color": "3E88DD", 
+   "listed_count": 577, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21963, 
+   "description": "New England's most popular events blog, run by Johnny Monsarrat. See https://t.co/uLcCxPaOEK and click 'subscribe' for other New England regions.", 
+   "friends_count": 32618, 
+   "location": "Boston, MA", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2388416331/v34ij9tpbxdkttq9x63i_normal.gif", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/51937636/1360433842", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "OddBostonEvents", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 63, 
+   "name": "Boston EventsINSIDER", 
+   "notifications": false, 
+   "url": "http://t.co/32J5s4aU1J", 
+   "created_at": "Mon Jun 29 03:08:20 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Blade Runner: The Final Cut", 
+  "Date": "Thu Mar 14 12:47:22 +0000 2019", 
+  "Text": "RT @BrattleTheatre: Thursday: Ridley Scott's BLADE RUNNER takes place in 2019, so we're celebrating with a screening of THE FINAL CUT at 7p\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 31928413, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "31928413", 
+     "screen_name": "BrattleTheatre", 
+     "name": "Brattle Theatre"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106167015335780352": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2942388123, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/733433989625581569/fJm6ftHH_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 9, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2942388123", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 759, 
+   "description": "", 
+   "friends_count": 98, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/733433989625581569/fJm6ftHH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2942388123/1531419539", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Aerrovv", 
+   "lang": "de", 
+   "profile_background_tile": false, 
+   "favourites_count": 772, 
+   "name": "Ole Vo\u00df", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 26 17:31:14 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Blade Runner: The Final Cut", 
+  "Date": "Thu Mar 14 12:15:42 +0000 2019", 
+  "Text": "RT @OnePerfectShot: BLADE RUNNER (1982) \n\nCinematography by Jordan Cronenweth \nDirected by Ridley Scott\nBuy or rent via @AppleTV: https://t\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2172922045, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2172922045", 
+     "screen_name": "OnePerfectShot", 
+     "name": "One Perfect Shot"
+    }, 
+    {
+     "id": 82652901, 
+     "indices": [
+      120, 
+      128
+     ], 
+     "id_str": "82652901", 
+     "screen_name": "AppleTV", 
+     "name": "Apple TV"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106156799634362368": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 31928413, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/188615009/Brattle_Theatre_exterior-full2_5500_normal.jpg", 
+   "profile_sidebar_fill_color": "DDFFCC", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Tzjyi4815j", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://brattlefilm.org", 
+       "display_url": "brattlefilm.org"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 8446, 
+   "profile_sidebar_border_color": "BDDCAD", 
+   "id_str": "31928413", 
+   "profile_background_color": "9AE4E8", 
+   "listed_count": 382, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 19797, 
+   "description": "Boston's Unofficial Film School. Established in 1953, non-profit since 2001. Voted \"Best Cinema, Independent\" in Boston Magazine's 2017 Best of Boston\u00ae awards.", 
+   "friends_count": 120, 
+   "location": "Cambridge, MA", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/188615009/Brattle_Theatre_exterior-full2_5500_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/31928413/1475168061", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BrattleTheatre", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 7065, 
+   "name": "Brattle Theatre", 
+   "notifications": false, 
+   "url": "http://t.co/Tzjyi4815j", 
+   "created_at": "Thu Apr 16 16:04:00 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Blade Runner: The Final Cut", 
+  "Date": "Thu Mar 14 11:35:07 +0000 2019", 
+  "Text": "Thursday: Ridley Scott's BLADE RUNNER takes place in 2019, so we're celebrating with a screening of THE FINAL CUT a\u2026 https://t.co/IXFBoTdKLE", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/IXFBoTdKLE", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106156799634362368", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106160678941933568": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 787294501098229760, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/787295267519275009/889LXf0b_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/SwKHsUh1zC", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://oc2o.com", 
+       "display_url": "oc2o.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 217, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "787294501098229760", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 305811, 
+   "description": "Online Commerce To Offline Marketplace, daily deals, discount coupons. Sell & buy millions products. Buy & sell locally, free  advertising. Online classifieds", 
+   "friends_count": 37, 
+   "location": "Thailand", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/787295267519275009/889LXf0b_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "on2offline", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5, 
+   "name": "oc2o", 
+   "notifications": false, 
+   "url": "https://t.co/SwKHsUh1zC", 
+   "created_at": "Sat Oct 15 14:10:11 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Blade Runner: The Final Cut", 
+  "Date": "Thu Mar 14 11:50:31 +0000 2019", 
+  "Text": "Blade Runner Final Cut 2 BluRay Italian Edition \ud83d\udc94 Best deals  \u2705 Social network \ud83d\udca1 free coupons https://t.co/2OuZhTkWYc", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/2OuZhTkWYc", 
+     "indices": [
+      94, 
+      117
+     ], 
+     "expanded_url": "https://oc2o.com/en/best/blade-runner-edizione-speciale-the-final-cut-blu-ray-import-italien/B0041KW0WQ", 
+     "display_url": "oc2o.com/en/best/blade-\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106164003619823617": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 26408828, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079775952178008064/J9rKBYZz_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/FRHlDJPsEZ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.facebook.com/EncryptionEnt/", 
+       "display_url": "facebook.com/EncryptionEnt/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2112, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "26408828", 
+   "profile_background_color": "EBEBEB", 
+   "listed_count": 84, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 31233, 
+   "description": "Film Director.", 
+   "friends_count": 1839, 
+   "location": "Perth, Western Australia", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1079775952178008064/J9rKBYZz_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/26408828/1546273657", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "WadeKSavage", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 16566, 
+   "name": "Wade K. Savage", 
+   "notifications": false, 
+   "url": "https://t.co/FRHlDJPsEZ", 
+   "created_at": "Wed Mar 25 02:45:06 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Blade Runner: The Final Cut", 
+  "Date": "Thu Mar 14 12:03:44 +0000 2019", 
+  "Text": "RT @OnePerfectShot: BLADE RUNNER (1982) \n\nCinematography by Jordan Cronenweth \nDirected by Ridley Scott\nBuy or rent via @AppleTV: https://t\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2172922045, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2172922045", 
+     "screen_name": "OnePerfectShot", 
+     "name": "One Perfect Shot"
+    }, 
+    {
+     "id": 82652901, 
+     "indices": [
+      120, 
+      128
+     ], 
+     "id_str": "82652901", 
+     "screen_name": "AppleTV", 
+     "name": "Apple TV"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

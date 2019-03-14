@@ -1,0 +1,518 @@
+{
+ "1106175437728858112": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 61799892, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "61799892", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 25, 
+   "description": "", 
+   "friends_count": 4, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JimmyTheMac", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3, 
+   "name": "James", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jul 31 15:47:54 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Good Place", 
+  "Date": "Thu Mar 14 12:49:10 +0000 2019", 
+  "Text": "@ManUtd It\u2019s for charity. They should all take time out to be there and play. The Treble is what earned them a plac\u2026 https://t.co/UePEzbFPBo", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 558797310, 
+     "indices": [
+      0, 
+      7
+     ], 
+     "id_str": "558797310", 
+     "screen_name": "ManUtd", 
+     "name": "Manchester United"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/UePEzbFPBo", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175437728858112", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175452761243649": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 241287415, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "362720", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105869566494867456/_tlS98Pt_normal.jpg", 
+   "profile_sidebar_fill_color": "E5507E", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/oLXq4BlvWZ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://youtu.be/dnQflYjicms", 
+       "display_url": "youtu.be/dnQflYjicms"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 8104, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "241287415", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 83, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 53118, 
+   "description": "blackjack & bomshell", 
+   "friends_count": 197, 
+   "location": "", 
+   "profile_link_color": "BD006B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105869566494867456/_tlS98Pt_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/241287415/1551863752", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif", 
+   "screen_name": "bomsalbum", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13425, 
+   "name": "\ubd04\ubd04\ubd04", 
+   "notifications": false, 
+   "url": "https://t.co/oLXq4BlvWZ", 
+   "created_at": "Fri Jan 21 22:23:56 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Good Place", 
+  "Date": "Thu Mar 14 12:49:14 +0000 2019", 
+  "Text": "@alexander_0729 i have a good idea! Men shouldn\u2018t rape in the first place :)", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 49630962, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "49630962", 
+     "screen_name": "alexander_0729", 
+     "name": "ALEXANDER \uc54c\ub809\uc0b0\ub354\u2654"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175388517044226": {
+  "Lang": "en", 
+  "Place": {
+   "full_name": "Fussa-shi, Tokyo", 
+   "url": "https://api.twitter.com/1.1/geo/id/632c12d964b5772f.json", 
+   "country": "Japan", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       139.31402, 
+       35.712604
+      ], 
+      [
+       139.359855, 
+       35.712604
+      ], 
+      [
+       139.359855, 
+       35.754731
+      ], 
+      [
+       139.31402, 
+       35.754731
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "JP", 
+   "attributes": {}, 
+   "id": "632c12d964b5772f", 
+   "name": "Fussa-shi"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 735524501224574976, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064750428431110144/TBO7LIXN_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 276, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "735524501224574976", 
+   "profile_background_color": "000000", 
+   "listed_count": 19, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12615, 
+   "description": "Veteran!!Father #RudeEsse Grownman est 2004! The WorldRotation,Woman Enjoyer, Creator, Music,News,Politics,Relig&Enjoying My Life. RIP Deh 4/20-3/16 #Timeless", 
+   "friends_count": 528, 
+   "location": "Fussa-shi, Tokyo", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1064750428431110144/TBO7LIXN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/735524501224574976/1542696848", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "LogoOLogan", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3620, 
+   "name": "LogoOLogan 1preme", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed May 25 17:34:41 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Good Place", 
+  "Date": "Thu Mar 14 12:48:59 +0000 2019", 
+  "Text": "@neoscreate @AFGHANSHAWTY Either way not around anymore otherwise y not flex that power and end dumb deaths. If all\u2026 https://t.co/YklySHxwM2", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2744825961, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "2744825961", 
+     "screen_name": "neoscreate", 
+     "name": "Nigus Dionysus \ud83c\udf31"
+    }, 
+    {
+     "id": 795527192, 
+     "indices": [
+      12, 
+      25
+     ], 
+     "id_str": "795527192", 
+     "screen_name": "AFGHANSHAWTY", 
+     "name": "."
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/YklySHxwM2", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175388517044226", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175292920512514": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 349563431, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/875749088024829957/-58TyZA3_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/vkT0NE9PMj", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://drwilliamlarge.wordpress.com", 
+       "display_url": "drwilliamlarge.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1616, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "349563431", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 33, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 94329, 
+   "description": "I teach philosophy. 'To believe nothing without a reason . . . is as stupid a prejudice... as to believe everything without examination.'", 
+   "friends_count": 1554, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/875749088024829957/-58TyZA3_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/349563431/1499169405", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "wlarge63", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 91635, 
+   "name": "William Large", 
+   "notifications": false, 
+   "url": "https://t.co/vkT0NE9PMj", 
+   "created_at": "Sat Aug 06 09:08:08 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Good Place", 
+  "Date": "Thu Mar 14 12:48:36 +0000 2019", 
+  "Text": "RT @stevemiddi1: @Ian_Fraser @andyverity @JaneDJourno @JoeBLynam @BBCSimonJack Yes some journalists at the BBC have produced some very good\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2817728977, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "2817728977", 
+     "screen_name": "stevemiddi1", 
+     "name": "stephen middleton"
+    }, 
+    {
+     "id": 93618872, 
+     "indices": [
+      17, 
+      28
+     ], 
+     "id_str": "93618872", 
+     "screen_name": "Ian_Fraser", 
+     "name": "Ian Fraser"
+    }, 
+    {
+     "id": 274472153, 
+     "indices": [
+      29, 
+      40
+     ], 
+     "id_str": "274472153", 
+     "screen_name": "andyverity", 
+     "name": "Andrew Verity"
+    }, 
+    {
+     "id": 94541587, 
+     "indices": [
+      41, 
+      53
+     ], 
+     "id_str": "94541587", 
+     "screen_name": "JaneDJourno", 
+     "name": "Jane Deith"
+    }, 
+    {
+     "id": 20178144, 
+     "indices": [
+      54, 
+      64
+     ], 
+     "id_str": "20178144", 
+     "screen_name": "JoeBLynam", 
+     "name": "Joe Lynam"
+    }, 
+    {
+     "id": 28323892, 
+     "indices": [
+      65, 
+      78
+     ], 
+     "id_str": "28323892", 
+     "screen_name": "BBCSimonJack", 
+     "name": "Simon Jack"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175391461507073": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 19686263, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3D1957", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/780531389095698432/CDfM-yjg_normal.jpg", 
+   "profile_sidebar_fill_color": "7AC3EE", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/T9H3RDx3zd", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.herbsistah.com", 
+       "display_url": "herbsistah.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3457, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "19686263", 
+   "profile_background_color": "642D8B", 
+   "listed_count": 82, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 174095, 
+   "description": "Creator of WombLoveOlogy, Naturopath, Master Herbalist & Formulator, Momma, Writer, Fire-Eater, \u263a #wombloveology  Creator", 
+   "friends_count": 5002, 
+   "location": "Ellenwood, GA -East of ATL", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/780531389095698432/CDfM-yjg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/19686263/1474927920", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "Herbsistah", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 195896, 
+   "name": "Dr HerbSistah", 
+   "notifications": false, 
+   "url": "https://t.co/T9H3RDx3zd", 
+   "created_at": "Thu Jan 29 00:20:22 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Good Place", 
+  "Date": "Thu Mar 14 12:48:59 +0000 2019", 
+  "Text": "RT @IJasonAlexander: Ok, so it\u2019s illegal to bribe your way into college. Is it illegal to bribe your way into a character arc on The Good P\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 155823836, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "155823836", 
+     "screen_name": "IJasonAlexander", 
+     "name": "jason alexander"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

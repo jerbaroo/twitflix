@@ -1,0 +1,649 @@
+{
+ "1106173570647015424": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1087895184870989830, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087895711016996865/-RtWZCLd_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1087895184870989830", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 67, 
+   "description": "50 something years young empty nester. GranMia to Tennessee. Beach girl. Lover of anything nautical and Red White and Blue. Schitt\u2019$ Creek FAN.", 
+   "friends_count": 113, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087895711016996865/-RtWZCLd_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "WendyMi97339242", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 365, 
+   "name": "Wendy Michelle", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jan 23 02:09:58 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Northern Rescue", 
+  "Date": "Thu Mar 14 12:41:45 +0000 2019", 
+  "Text": "@WallmanPR @northern_rescue @TheTalkCBS @BillyBaldwin @netflix @CBC @carrieanninaba @sherylunderwood @TheRealEve\u2026 https://t.co/0mSyQIEqwn", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 141023113, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "141023113", 
+     "screen_name": "WallmanPR", 
+     "name": "Wallman PR"
+    }, 
+    {
+     "id": 1087710829137543168, 
+     "indices": [
+      11, 
+      27
+     ], 
+     "id_str": "1087710829137543168", 
+     "screen_name": "northern_rescue", 
+     "name": "Northern Rescue"
+    }, 
+    {
+     "id": 177249094, 
+     "indices": [
+      28, 
+      39
+     ], 
+     "id_str": "177249094", 
+     "screen_name": "TheTalkCBS", 
+     "name": "The Talk"
+    }, 
+    {
+     "id": 784890784273215488, 
+     "indices": [
+      40, 
+      53
+     ], 
+     "id_str": "784890784273215488", 
+     "screen_name": "BillyBaldwin", 
+     "name": "Billy Baldwin"
+    }, 
+    {
+     "id": 16573941, 
+     "indices": [
+      54, 
+      62
+     ], 
+     "id_str": "16573941", 
+     "screen_name": "netflix", 
+     "name": "Netflix US"
+    }, 
+    {
+     "id": 16034244, 
+     "indices": [
+      63, 
+      67
+     ], 
+     "id_str": "16034244", 
+     "screen_name": "CBC", 
+     "name": "CBC"
+    }, 
+    {
+     "id": 55050269, 
+     "indices": [
+      68, 
+      83
+     ], 
+     "id_str": "55050269", 
+     "screen_name": "carrieanninaba", 
+     "name": "Carrie Ann Inaba"
+    }, 
+    {
+     "id": 34047021, 
+     "indices": [
+      84, 
+      100
+     ], 
+     "id_str": "34047021", 
+     "screen_name": "sherylunderwood", 
+     "name": "Sheryl Underwood"
+    }, 
+    {
+     "id": 104235481, 
+     "indices": [
+      101, 
+      112
+     ], 
+     "id_str": "104235481", 
+     "screen_name": "TheRealEve", 
+     "name": "EVE"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/0mSyQIEqwn", 
+     "indices": [
+      114, 
+      137
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173570647015424", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106170225156857856": {
+  "Lang": "und", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1087710829137543168, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/6KR8GZ8jls", 
+       "indices": [
+        75, 
+        98
+       ], 
+       "expanded_url": "http://cbcgem.ca", 
+       "display_url": "cbcgem.ca"
+      }, 
+      {
+       "url": "https://t.co/i4spcePMBR", 
+       "indices": [
+        101, 
+        124
+       ], 
+       "expanded_url": "http://netflix.com", 
+       "display_url": "netflix.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 633, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1087710829137543168", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 726, 
+   "description": "Family drama series streaming on CBC Gem in Canada and Netflix worldwide. \nhttps://t.co/6KR8GZ8jls / https://t.co/i4spcePMBR", 
+   "friends_count": 105, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087710829137543168/1548798705", 
+   "profile_background_image_url": null, 
+   "screen_name": "northern_rescue", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 660, 
+   "name": "Northern Rescue", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 22 13:57:25 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Northern Rescue", 
+  "Date": "Thu Mar 14 12:28:27 +0000 2019", 
+  "Text": "@JosephIsLove @JeffBoulton \ud83d\ude29\ud83d\ude22\ud83d\ude2d\ud83d\ude2d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 45225103, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "45225103", 
+     "screen_name": "JosephIsLove", 
+     "name": "\u00bb \u0455\u03b1\u0432\u044f\u03b9\u03b7\u03b1 \u00ab"
+    }, 
+    {
+     "id": 15327054, 
+     "indices": [
+      14, 
+      26
+     ], 
+     "id_str": "15327054", 
+     "screen_name": "JeffBoulton", 
+     "name": "Jeff Boulton \ud83c\udfa5 \ud83c\udfac"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106169723035832320": {
+  "Lang": "und", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1087710829137543168, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/6KR8GZ8jls", 
+       "indices": [
+        75, 
+        98
+       ], 
+       "expanded_url": "http://cbcgem.ca", 
+       "display_url": "cbcgem.ca"
+      }, 
+      {
+       "url": "https://t.co/i4spcePMBR", 
+       "indices": [
+        101, 
+        124
+       ], 
+       "expanded_url": "http://netflix.com", 
+       "display_url": "netflix.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 633, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1087710829137543168", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 726, 
+   "description": "Family drama series streaming on CBC Gem in Canada and Netflix worldwide. \nhttps://t.co/6KR8GZ8jls / https://t.co/i4spcePMBR", 
+   "friends_count": 105, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087710829137543168/1548798705", 
+   "profile_background_image_url": null, 
+   "screen_name": "northern_rescue", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 660, 
+   "name": "Northern Rescue", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 22 13:57:25 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Northern Rescue", 
+  "Date": "Thu Mar 14 12:26:28 +0000 2019", 
+  "Text": "@zazabing1 @CBC @netflix \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1608863990, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "1608863990", 
+     "screen_name": "zazabing1", 
+     "name": "ZaZa"
+    }, 
+    {
+     "id": 16034244, 
+     "indices": [
+      11, 
+      15
+     ], 
+     "id_str": "16034244", 
+     "screen_name": "CBC", 
+     "name": "CBC"
+    }, 
+    {
+     "id": 16573941, 
+     "indices": [
+      16, 
+      24
+     ], 
+     "id_str": "16573941", 
+     "screen_name": "netflix", 
+     "name": "Netflix US"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106169613765758976": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1087710829137543168, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/6KR8GZ8jls", 
+       "indices": [
+        75, 
+        98
+       ], 
+       "expanded_url": "http://cbcgem.ca", 
+       "display_url": "cbcgem.ca"
+      }, 
+      {
+       "url": "https://t.co/i4spcePMBR", 
+       "indices": [
+        101, 
+        124
+       ], 
+       "expanded_url": "http://netflix.com", 
+       "display_url": "netflix.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 633, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1087710829137543168", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 726, 
+   "description": "Family drama series streaming on CBC Gem in Canada and Netflix worldwide. \nhttps://t.co/6KR8GZ8jls / https://t.co/i4spcePMBR", 
+   "friends_count": 105, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087710829137543168/1548798705", 
+   "profile_background_image_url": null, 
+   "screen_name": "northern_rescue", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 660, 
+   "name": "Northern Rescue", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 22 13:57:25 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Northern Rescue", 
+  "Date": "Thu Mar 14 12:26:02 +0000 2019", 
+  "Text": "RT @zazabing1: The bear\ud83d\ude25\ud83e\udd7a #NorthernRescue @northern_rescue #RenewFor2  @CBC @netflix https://t.co/qUex0uVVME", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1608863990, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "1608863990", 
+     "screen_name": "zazabing1", 
+     "name": "ZaZa"
+    }, 
+    {
+     "id": 1087710829137543168, 
+     "indices": [
+      42, 
+      58
+     ], 
+     "id_str": "1087710829137543168", 
+     "screen_name": "northern_rescue", 
+     "name": "Northern Rescue"
+    }, 
+    {
+     "id": 16034244, 
+     "indices": [
+      71, 
+      75
+     ], 
+     "id_str": "16034244", 
+     "screen_name": "CBC", 
+     "name": "CBC"
+    }, 
+    {
+     "id": 16573941, 
+     "indices": [
+      76, 
+      84
+     ], 
+     "id_str": "16573941", 
+     "screen_name": "netflix", 
+     "name": "Netflix US"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      26, 
+      41
+     ], 
+     "text": "NorthernRescue"
+    }, 
+    {
+     "indices": [
+      59, 
+      69
+     ], 
+     "text": "RenewFor2"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/qUex0uVVME", 
+     "indices": [
+      85, 
+      108
+     ], 
+     "expanded_url": "https://twitter.com/northern_rescue/status/1106137156010106880", 
+     "display_url": "twitter.com/northern_rescu\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106170073658597376": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1087710829137543168, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/6KR8GZ8jls", 
+       "indices": [
+        75, 
+        98
+       ], 
+       "expanded_url": "http://cbcgem.ca", 
+       "display_url": "cbcgem.ca"
+      }, 
+      {
+       "url": "https://t.co/i4spcePMBR", 
+       "indices": [
+        101, 
+        124
+       ], 
+       "expanded_url": "http://netflix.com", 
+       "display_url": "netflix.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 633, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1087710829137543168", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 726, 
+   "description": "Family drama series streaming on CBC Gem in Canada and Netflix worldwide. \nhttps://t.co/6KR8GZ8jls / https://t.co/i4spcePMBR", 
+   "friends_count": 105, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090367595025297413/FrUYgC4s_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087710829137543168/1548798705", 
+   "profile_background_image_url": null, 
+   "screen_name": "northern_rescue", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 660, 
+   "name": "Northern Rescue", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 22 13:57:25 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Northern Rescue", 
+  "Date": "Thu Mar 14 12:27:51 +0000 2019", 
+  "Text": "@SharonGB4 @BillyBaldwin Can't wait! #BillyBaldwin #NorthernRescue #RenewFor2", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 979771718712643585, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "979771718712643585", 
+     "screen_name": "SharonGB4", 
+     "name": "Sharon GB"
+    }, 
+    {
+     "id": 784890784273215488, 
+     "indices": [
+      11, 
+      24
+     ], 
+     "id_str": "784890784273215488", 
+     "screen_name": "BillyBaldwin", 
+     "name": "Billy Baldwin"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      37, 
+      50
+     ], 
+     "text": "BillyBaldwin"
+    }, 
+    {
+     "indices": [
+      51, 
+      66
+     ], 
+     "text": "NorthernRescue"
+    }, 
+    {
+     "indices": [
+      67, 
+      77
+     ], 
+     "text": "RenewFor2"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

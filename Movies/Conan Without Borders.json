@@ -1,0 +1,407 @@
+{
+ "1106026613341282304": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 6682232, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/997323197472112641/AFXxAV5z_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/7A8YPkTzEf", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://komejo.com", 
+       "display_url": "komejo.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 242, 
+   "profile_sidebar_border_color": "181A1E", 
+   "id_str": "6682232", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 43, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9338, 
+   "description": "I draw, run, cook, and play games. Also a web developer.", 
+   "friends_count": 73, 
+   "location": "Portland, OR", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/997323197472112641/AFXxAV5z_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/6682232/1509839479", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "komejo", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3581, 
+   "name": "Joe K", 
+   "notifications": false, 
+   "url": "https://t.co/7A8YPkTzEf", 
+   "created_at": "Fri Jun 08 21:40:06 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Conan Without Borders", 
+  "Date": "Thu Mar 14 02:57:48 +0000 2019", 
+  "Text": "Conan Without Borders is an  unparalleled work of genius. #TeamCoco", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      58, 
+      67
+     ], 
+     "text": "TeamCoco"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106038146884485121": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 4537840142, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 9, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4537840142", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 378, 
+   "description": "", 
+   "friends_count": 224, 
+   "location": "Frankston, Melbourne", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "BeebyIsaac", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2705, 
+   "name": "Isaac Beeby", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Dec 12 12:38:45 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Conan Without Borders", 
+  "Date": "Thu Mar 14 03:43:38 +0000 2019", 
+  "Text": "@TeamCoco Hey Team Coco, when can the people in Australia like me watch the Conan without Borders: Australia episode?", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 113897988, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "113897988", 
+     "screen_name": "TeamCoco", 
+     "name": "Team Coco"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105831573931343872": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 22308035, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "040406", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100590196855324672/lRu-1oFQ_normal.jpg", 
+   "profile_sidebar_fill_color": "F5B724", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1441, 
+   "profile_sidebar_border_color": "0E0B0C", 
+   "id_str": "22308035", 
+   "profile_background_color": "040406", 
+   "listed_count": 114, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 170310, 
+   "description": "Mass Communications & Media Studies major at @ASUonline. Aspiring attorney. Yinzer at heart. Snobby barista at work. These are my tweets. I'm sorry.", 
+   "friends_count": 706, 
+   "location": "Pittsburgh, PA", 
+   "profile_link_color": "040406", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100590196855324672/lRu-1oFQ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/22308035/1532320507", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "omgitsjen", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 57111, 
+   "name": "\u2618Jennie Dee\u2618", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Feb 28 23:28:23 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Conan Without Borders", 
+  "Date": "Wed Mar 13 14:02:47 +0000 2019", 
+  "Text": "@jooblee @pantster OMG YES SAME I remember just watching it and being like dude Conan O'Brien is brilliant... nothi\u2026 https://t.co/kbNPCzBjhx", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 22930969, 
+     "indices": [
+      0, 
+      8
+     ], 
+     "id_str": "22930969", 
+     "screen_name": "jooblee", 
+     "name": "julie, but likeable"
+    }, 
+    {
+     "id": 36925715, 
+     "indices": [
+      9, 
+      18
+     ], 
+     "id_str": "36925715", 
+     "screen_name": "pantster", 
+     "name": "Hobo Fett"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/kbNPCzBjhx", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105831573931343872", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106022169471913984": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 26216261, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3FEAFA", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1014157932223594502/IjfRgzIg_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/csdQooiocI", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.instagram.com/ijol/", 
+       "display_url": "instagram.com/ijol/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 623, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "26216261", 
+   "profile_background_color": "000000", 
+   "listed_count": 16, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 26809, 
+   "description": "a hydrated goth", 
+   "friends_count": 224, 
+   "location": "Jakarta Pusat, DKI Jakarta", 
+   "profile_link_color": "CC0C2C", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1014157932223594502/IjfRgzIg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/26216261/1398333787", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ijol", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 620, 
+   "name": "\u0131\u05df\u2022l", 
+   "notifications": false, 
+   "url": "https://t.co/csdQooiocI", 
+   "created_at": "Tue Mar 24 11:14:24 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Conan Without Borders", 
+  "Date": "Thu Mar 14 02:40:08 +0000 2019", 
+  "Text": "So annoyed with that fake audiences' laugh sound on Conan Without Borders. What does it have to do with travel documentaries, really?", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105941622011846656": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 901163665713385472, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/901165231845425154/GyiEypz4_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 7, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "901163665713385472", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 173, 
+   "description": "retired Soldier (a veteran)\nSeventh Day Adventist\nGerman\nmarried to a Jamaican\nown cats but love all animals", 
+   "friends_count": 26, 
+   "location": "Portland, OR", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/901165231845425154/GyiEypz4_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "machtvereint", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13, 
+   "name": "clayton lam", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Aug 25 19:25:35 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Conan Without Borders", 
+  "Date": "Wed Mar 13 21:20:04 +0000 2019", 
+  "Text": "@ConanOBrien the Mexico episode in Conan Without Borders was very misleading about the wall issue. The wall is not\u2026 https://t.co/fmHS31u0Yp", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 115485051, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "115485051", 
+     "screen_name": "ConanOBrien", 
+     "name": "Conan O'Brien"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/fmHS31u0Yp", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105941622011846656", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

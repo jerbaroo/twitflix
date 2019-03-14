@@ -1,0 +1,427 @@
+{
+ "1106175417386524672": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1091055086, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068220775684030464/p5yHQCG8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 152, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1091055086", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1252, 
+   "description": "The don of all dons", 
+   "friends_count": 566, 
+   "location": "Philly", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1068220775684030464/p5yHQCG8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091055086/1540876446", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ThePersianDon1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1651, 
+   "name": "Arash", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 15 04:46:54 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "GoodFellas", 
+  "Date": "Thu Mar 14 12:49:05 +0000 2019", 
+  "Text": "RT @nickusen: \u201chow many times have you watched Goodfellas?\u201d\n https://t.co/GwbTLSj0y2", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 425310228, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "425310228", 
+     "screen_name": "nickusen", 
+     "name": "Nick Usen"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 362111287, 
+     "source_status_id_str": "1100833008205078533", 
+     "expanded_url": "https://twitter.com/AsteadWesley/status/1100833008205078533/video/1", 
+     "display_url": "pic.twitter.com/GwbTLSj0y2", 
+     "url": "https://t.co/GwbTLSj0y2", 
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1100832987837546503/pu/img/aOP_7Ss7rAIL7B4D.jpg", 
+     "source_user_id_str": "362111287", 
+     "source_status_id": 1100833008205078533, 
+     "id_str": "1100832987837546503", 
+     "sizes": {
+      "large": {
+       "h": 360, 
+       "resize": "fit", 
+       "w": 640
+      }, 
+      "small": {
+       "h": 360, 
+       "resize": "fit", 
+       "w": 640
+      }, 
+      "medium": {
+       "h": 360, 
+       "resize": "fit", 
+       "w": 640
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      61, 
+      84
+     ], 
+     "type": "photo", 
+     "id": 1100832987837546503, 
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1100832987837546503/pu/img/aOP_7Ss7rAIL7B4D.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173767380885504": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3701498715, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099727284435595265/ObxcnFlu_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 542, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3701498715", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1960, 
+   "description": "focused", 
+   "friends_count": 554, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099727284435595265/ObxcnFlu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3701498715/1550153604", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "thesmalldee", 
+   "lang": "en-GB", 
+   "profile_background_tile": false, 
+   "favourites_count": 6456, 
+   "name": "drew", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Sep 19 00:03:41 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "GoodFellas", 
+  "Date": "Thu Mar 14 12:42:32 +0000 2019", 
+  "Text": "Goodfellas\u2705", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106173172154548227": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1297163870, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/568236825295470592/1BTWj186_normal.jpeg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/PPHuQehiai", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.goodfellaspizza.ca", 
+       "display_url": "goodfellaspizza.ca"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 300, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1297163870", 
+   "profile_background_color": "000000", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1442, 
+   "description": "We are proudly serving our authentic Neapolitan-style wood oven #pizza, #salad, and #Italian-inspired dishes in Mississauga, Milton, Georgetown and Toronto.", 
+   "friends_count": 230, 
+   "location": "Ontario, CA", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/568236825295470592/1BTWj186_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1297163870/1512084474", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "goodfellas_corp", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 40, 
+   "name": "Goodfellas Pizza", 
+   "notifications": false, 
+   "url": "https://t.co/PPHuQehiai", 
+   "created_at": "Mon Mar 25 00:46:35 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "GoodFellas", 
+  "Date": "Thu Mar 14 12:40:10 +0000 2019", 
+  "Text": "A picture is worth 1000 words. (hint: Delicious, Yummy, Mouth Watering...) https://t.co/8m9lbLAAHX", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/goodfellas_corp/status/1106173172154548227/photo/1", 
+     "display_url": "pic.twitter.com/8m9lbLAAHX", 
+     "url": "https://t.co/8m9lbLAAHX", 
+     "media_url_https": "https://pbs.twimg.com/media/D1nqoztWwAAuXwu.jpg", 
+     "id_str": "1106173170292277248", 
+     "sizes": {
+      "large": {
+       "h": 1200, 
+       "resize": "fit", 
+       "w": 1600
+      }, 
+      "small": {
+       "h": 510, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 900, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      75, 
+      98
+     ], 
+     "type": "photo", 
+     "id": 1106173170292277248, 
+     "media_url": "http://pbs.twimg.com/media/D1nqoztWwAAuXwu.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106171259124109312": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 825163521562402816, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062608028967538688/8HNi5JJ8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3222, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "825163521562402816", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 29868, 
+   "description": "#Resist Putin, the Trump administration and the Vichy GOP. #neveragain #taketheknee #IBelieveChristine #KamalaHarris2020", 
+   "friends_count": 3148, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1062608028967538688/8HNi5JJ8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/825163521562402816/1542180472", 
+   "profile_background_image_url": null, 
+   "screen_name": "BiancaDee3", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 28854, 
+   "name": "Bianca Dee", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jan 28 02:08:09 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "GoodFellas", 
+  "Date": "Thu Mar 14 12:32:34 +0000 2019", 
+  "Text": "RT @jelani9: Not that it matters because we\u2019ve already reached the event horizon of hypocrisy but its worth noting that 45 *demanded* Obama\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 14155907, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "14155907", 
+     "screen_name": "jelani9", 
+     "name": "jelani cobb"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106172532636426240": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2238188796, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036075520314802176/bAVasocu_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 39, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2238188796", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 662, 
+   "description": "", 
+   "friends_count": 88, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1036075520314802176/bAVasocu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2238188796/1550205139", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "brooke_thigpen", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3719, 
+   "name": "Brooke Thigpen", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 09 21:19:26 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "GoodFellas", 
+  "Date": "Thu Mar 14 12:37:38 +0000 2019", 
+  "Text": "Every time I go to my car wearing my robe and slippers I feel like Ray Liotta at the end of Goodfellas", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

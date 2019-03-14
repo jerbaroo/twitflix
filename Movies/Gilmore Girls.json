@@ -1,0 +1,367 @@
+{
+ "1106174494304022528": {
+  "Lang": "pt", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 39290904, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "898C75", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086785373945122817/hS19CokO_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1001, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "39290904", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 31, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 88863, 
+   "description": "eu reclamo de tudo", 
+   "friends_count": 574, 
+   "location": "Brazil / Germany", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1086785373945122817/hS19CokO_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/39290904/1531749694", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "mariefletcher", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 1538, 
+   "name": "MariA", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon May 11 17:04:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Gilmore Girls", 
+  "Date": "Thu Mar 14 12:45:25 +0000 2019", 
+  "Text": "N\u00e3o acredito q to maratonando gilmore girls de novo", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175006931894273": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1002795359544971264, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103420070091460614/EzHAKuyP_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 581, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1002795359544971264", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6888, 
+   "description": "hel\u00f3 mindenkinek, \u00e9s \u00fcdv \u00fajra a csatorn\u00e1n", 
+   "friends_count": 360, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103420070091460614/EzHAKuyP_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1002795359544971264/1548510665", 
+   "profile_background_image_url": null, 
+   "screen_name": "becksiex", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8701, 
+   "name": "r\u00e9b\u00e9k", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jun 02 06:13:39 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Gilmore Girls", 
+  "Date": "Thu Mar 14 12:47:28 +0000 2019", 
+  "Text": "RT @lamegirl1234: Yale is a fictional school from the hit show Gilmore Girls", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 533856474, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "533856474", 
+     "screen_name": "lamegirl1234", 
+     "name": "dilara"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175408398053378": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4254312015, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106063696365785088/s_guTXqy_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 20, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4254312015", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 510, 
+   "description": "", 
+   "friends_count": 61, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106063696365785088/s_guTXqy_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4254312015/1552541112", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "skoperaleksei", 
+   "lang": "ru", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "Amateur Teens Cams (18+)", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Nov 23 03:23:36 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Gilmore Girls", 
+  "Date": "Thu Mar 14 12:49:03 +0000 2019", 
+  "Text": "girls in skrits vid www gujarat surat girls porn movies big titted sex sex teen stories animation big nude art  ind\u2026 https://t.co/qErAnESjZ0", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/qErAnESjZ0", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175408398053378", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175047440445444": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1543823636, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095520041875980288/yfuElRAk_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/gkX4WkP0er", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.auburnkelton.com", 
+       "display_url": "auburnkelton.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/pQUxEtrXRM", 
+       "indices": [
+        96, 
+        119
+       ], 
+       "expanded_url": "http://etsy.com/shop/akeltoncreative", 
+       "display_url": "etsy.com/shop/akeltoncr\u2026"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 714, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1543823636", 
+   "profile_background_color": "000000", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8592, 
+   "description": "a load of nonsense. sometimes art. commissions are currently: CLOSED // 22 // she/her // STORE: https://t.co/pQUxEtrXRM", 
+   "friends_count": 458, 
+   "location": "Alabama", 
+   "profile_link_color": "B79CE2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095520041875980288/yfuElRAk_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543823636/1541659299", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "hello_aubs", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 22478, 
+   "name": "serotonin mouse", 
+   "notifications": false, 
+   "url": "https://t.co/gkX4WkP0er", 
+   "created_at": "Mon Jun 24 18:16:27 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Gilmore Girls", 
+  "Date": "Thu Mar 14 12:47:37 +0000 2019", 
+  "Text": "is one day at a time just gilmore girls for a new generation discuss", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174654652125185": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2936615667, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105339104814870529/pQlGYmDc_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 230, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2936615667", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 24268, 
+   "description": "NEXT SONG x DA BABY |\ud83c\uddf2\ud83c\uddfd\ud83c\uddea\ud83c\uddf8| follow. find out.", 
+   "friends_count": 158, 
+   "location": "HOUSTON \u2708\ufe0f DALLAS TX", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105339104814870529/pQlGYmDc_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2936615667/1552048157", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BSHcam", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 18695, 
+   "name": "PAPPY", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 22 08:21:09 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Gilmore Girls", 
+  "Date": "Thu Mar 14 12:46:04 +0000 2019", 
+  "Text": "RT @lamegirl1234: Yale is a fictional school from the hit show Gilmore Girls", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 533856474, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "533856474", 
+     "screen_name": "lamegirl1234", 
+     "name": "dilara"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

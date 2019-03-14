@@ -1,0 +1,433 @@
+{
+ "1106174380470460416": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1642797091, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/971960300961382401/0dqp1n_q_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 21450, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1642797091", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 133, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 339113, 
+   "description": "\u092d\u094d\u0930\u0937\u094d\u091f\u093e\u091a\u093e\u0930 \u092e\u0941\u0915\u094d\u0924 \u092d\u093e\u0930\u0924 \u0939\u092e\u093e\u0930\u093e \u0938\u092a\u0928\u093e \u0939\u0948 .. RT are Not Endorsement... #\u0907\u0902\u0915\u093f\u0932\u093e\u092c \u091c\u093c\u093f\u0902\u0926\u093e\u092c\u093e\u0926 \ud83c\uddee\ud83c\uddf3", 
+   "friends_count": 3784, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/971960300961382401/0dqp1n_q_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642797091/1507484469", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "muntaziraapka", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 127337, 
+   "name": "AKM", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 03 12:48:45 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Blacklist", 
+  "Date": "Thu Mar 14 12:44:58 +0000 2019", 
+  "Text": "RT @ReutersIndia: An Indian traders\u2019 body and the economic wing of the RSS called for a boycott of Chinese products after China foiled a bi\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15954704, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "15954704", 
+     "screen_name": "ReutersIndia", 
+     "name": "Reuters India"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175290408124418": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 993287485, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "5E412F", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3337887306/4101958cb21634acbc48a1ac72e6098d_normal.png", 
+   "profile_sidebar_fill_color": "78C0A8", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/iCQvQNuK3q", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://film-book.com", 
+       "display_url": "film-book.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 110, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "993287485", 
+   "profile_background_color": "008000", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11438, 
+   "description": "The latest #DVD Reviews, #Blu-ray Reviews, and News.", 
+   "friends_count": 38, 
+   "location": "LA, California", 
+   "profile_link_color": "008000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3337887306/4101958cb21634acbc48a1ac72e6098d_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/993287485/1387253715", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "FilmBookRomney", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 22, 
+   "name": "Romney J. Baldwin", 
+   "notifications": false, 
+   "url": "http://t.co/iCQvQNuK3q", 
+   "created_at": "Thu Dec 06 15:26:01 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Blacklist", 
+  "Date": "Thu Mar 14 12:48:35 +0000 2019", 
+  "Text": "News Brief: AN ANONYMOUS GIRL TV Series in Development; CHERNOBYL Premiere Date; THE BLACKLIST Renewed; &amp; More https://t.co/skoGA9S3yM", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/skoGA9S3yM", 
+     "indices": [
+      115, 
+      138
+     ], 
+     "expanded_url": "https://ift.tt/2Jak3vu", 
+     "display_url": "ift.tt/2Jak3vu"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175404467871747": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1634129768, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/730159302741266434/vNDLORif_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/rUnmLc6BJG", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://film-book.com", 
+       "display_url": "film-book.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/KKpZiuURk7", 
+       "indices": [
+        73, 
+        95
+       ], 
+       "expanded_url": "http://goo.gl/t9EnPh", 
+       "display_url": "goo.gl/t9EnPh"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 320, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1634129768", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 42, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12500, 
+   "description": "Editor-in-chief of #FilmBook, #ProMovieBlogger, and #TrendingAwards. G+: http://t.co/KKpZiuURk7", 
+   "friends_count": 164, 
+   "location": "", 
+   "profile_link_color": "008000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/730159302741266434/vNDLORif_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634129768/1414843330", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "FilmBookTomasi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "Rollo Tomasi", 
+   "notifications": false, 
+   "url": "http://t.co/rUnmLc6BJG", 
+   "created_at": "Wed Jul 31 00:08:22 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Blacklist", 
+  "Date": "Thu Mar 14 12:49:02 +0000 2019", 
+  "Text": "News Brief: AN ANONYMOUS GIRL #TVSeries in Development; CHERNOBYL Premiere Date; THE BLACKLIST Renewed; &amp; More\u2026 https://t.co/shuY7c83Cd", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      30, 
+      39
+     ], 
+     "text": "TVSeries"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/shuY7c83Cd", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175404467871747", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175350164389892": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 993373116, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/758514367830843393/gWBqiCPN_normal.jpg", 
+   "profile_sidebar_fill_color": "333333", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/3QN5bcHC", 
+       "indices": [
+        0, 
+        20
+       ], 
+       "expanded_url": "http://film-book.com", 
+       "display_url": "film-book.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 315, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "993373116", 
+   "profile_background_color": "008000", 
+   "listed_count": 12, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11577, 
+   "description": "#Film Reviews and #Movie Reviews from a #cinephile writer @FilmBookdotCom.", 
+   "friends_count": 1885, 
+   "location": "", 
+   "profile_link_color": "008000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/758514367830843393/gWBqiCPN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/993373116/1354811362", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "FilmBookWilliam", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 6, 
+   "name": "William Karrington", 
+   "notifications": false, 
+   "url": "http://t.co/3QN5bcHC", 
+   "created_at": "Thu Dec 06 16:23:15 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Blacklist", 
+  "Date": "Thu Mar 14 12:48:49 +0000 2019", 
+  "Text": "News Brief: AN ANONYMOUS GIRL TV Series in Development; CHERNOBYL Premiere Date; THE BLACKLIST Renewed; &amp; More https://t.co/wLpLrXhRRp", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/wLpLrXhRRp", 
+     "indices": [
+      115, 
+      138
+     ], 
+     "expanded_url": "https://ift.tt/2Jak3vu", 
+     "display_url": "ift.tt/2Jak3vu"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175198775201797": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2266139084, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/416975869882560514/GLj57OCQ_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/rUnmLc6BJG", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://film-book.com", 
+       "display_url": "film-book.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 92, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2266139084", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11374, 
+   "description": "I'm a #ComicBook Lover, #TV and #Film Critic @FilmBookdotCom", 
+   "friends_count": 15, 
+   "location": "NYC", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/416975869882560514/GLj57OCQ_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2266139084/1388252389", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "FilmBookJoseph", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "Sam Joseph", 
+   "notifications": false, 
+   "url": "http://t.co/rUnmLc6BJG", 
+   "created_at": "Sat Dec 28 16:36:34 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Blacklist", 
+  "Date": "Thu Mar 14 12:48:13 +0000 2019", 
+  "Text": "News Brief: AN ANONYMOUS GIRL TV Series in Development; CHERNOBYL Premiere Date; THE BLACKLIST Renewed; &amp; More https://t.co/59HYUg4EWt", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/59HYUg4EWt", 
+     "indices": [
+      115, 
+      138
+     ], 
+     "expanded_url": "https://ift.tt/2Jak3vu", 
+     "display_url": "ift.tt/2Jak3vu"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

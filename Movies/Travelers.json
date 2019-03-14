@@ -1,0 +1,361 @@
+{
+ "1106175219511844864": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 1106165838770511872, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 0, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1106165838770511872", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6, 
+   "description": "", 
+   "friends_count": 0, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "dorianhepper2", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4, 
+   "name": "dorian hepper", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 14 12:11:02 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Travelers", 
+  "Date": "Thu Mar 14 12:48:18 +0000 2019", 
+  "Text": "RT @Luxeaumasculin: #Repost @luxeaumasculin\n\u30fb\u30fb\u30fb\nNew One&amp;Two Openworked Dual Time, the perfect watch for travelers! @speakemarin #speakemari\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3131036501, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "3131036501", 
+     "screen_name": "Luxeaumasculin", 
+     "name": "Luxe au Masculin"
+    }, 
+    {
+     "id": 3131036501, 
+     "indices": [
+      28, 
+      43
+     ], 
+     "id_str": "3131036501", 
+     "screen_name": "Luxeaumasculin", 
+     "name": "Luxe au Masculin"
+    }, 
+    {
+     "id": 40006077, 
+     "indices": [
+      119, 
+      131
+     ], 
+     "id_str": "40006077", 
+     "screen_name": "SpeakeMarin", 
+     "name": "Speake-Marin"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      20, 
+      27
+     ], 
+     "text": "Repost"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175383345467393": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4579756816, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096888598799007744/9PzKrtIy_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/abCIbnYNzi", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.antibooking.com", 
+       "display_url": "antibooking.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 340, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4579756816", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 12, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1572, 
+   "description": "@antibooking - A place for those who don\u2019t believe that a journey is only about hotel and flight ticket reservation.", 
+   "friends_count": 1397, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096888598799007744/9PzKrtIy_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4579756816/1550353643", 
+   "profile_background_image_url": null, 
+   "screen_name": "U2Antibooking", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1495, 
+   "name": "Antibooking.com", 
+   "notifications": false, 
+   "url": "https://t.co/abCIbnYNzi", 
+   "created_at": "Wed Dec 23 15:22:38 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Travelers", 
+  "Date": "Thu Mar 14 12:48:57 +0000 2019", 
+  "Text": "See how others plan a trip to #Manzanillo. Create your trip plans. Project enables you to search not only for touri\u2026 https://t.co/JPHp6prrOl", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      30, 
+      41
+     ], 
+     "text": "Manzanillo"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/JPHp6prrOl", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175383345467393", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175213547520000": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2586897971, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/799216781806235648/9bAlOwge_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Qoz1CzM8PN", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://abbeymacmunn.com", 
+       "display_url": "abbeymacmunn.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2308, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2586897971", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 162, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 16396, 
+   "description": "Wife, mum of four, paranormal romance author, hairdresser, tea drinker, chocoholic, sci fi geek, RNA member. Joan Hessayon Award Finalist. Tirgearr Publishing", 
+   "friends_count": 1895, 
+   "location": "Hampshire, UK", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/799216781806235648/9bAlOwge_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2586897971/1501313271", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "abbeymacmunn", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4324, 
+   "name": "abbey macmunn", 
+   "notifications": false, 
+   "url": "https://t.co/Qoz1CzM8PN", 
+   "created_at": "Fri Jun 06 12:19:21 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Travelers", 
+  "Date": "Thu Mar 14 12:48:17 +0000 2019", 
+  "Text": "An intriguing discussion with my son at 8am, before school, like you do, on whether ancient civilizations like the\u2026 https://t.co/ue0MdgLyHA", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/ue0MdgLyHA", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175213547520000", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175185407762432": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 776014161419591680, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/829094772484759553/iKdOj8O-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1483, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "776014161419591680", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 33, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11662, 
+   "description": "La vida es realmente sencilla, pero insistimos en hacerla dif\u00edcil.", 
+   "friends_count": 1820, 
+   "location": "Cartagena, Colombia", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/829094772484759553/iKdOj8O-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/776014161419591680/1499237421", 
+   "profile_background_image_url": null, 
+   "screen_name": "cesarraz31", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 8, 
+   "name": "C\u00e9sar Arr\u00e1zola", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 14 11:06:08 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Travelers", 
+  "Date": "Thu Mar 14 12:48:10 +0000 2019", 
+  "Text": "RT @colombia_travel: Dear travelers, welcome to the valley of the world's tallest wax palms trees.  #CoffeeCulturalLandscape. #FeelTheRhyth\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 23547038, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "23547038", 
+     "screen_name": "colombia_travel", 
+     "name": "Colombia Travel"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      100, 
+      124
+     ], 
+     "text": "CoffeeCulturalLandscape"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

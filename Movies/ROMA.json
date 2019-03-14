@@ -1,0 +1,275 @@
+{
+ "1106175431517065216": {
+  "Lang": "it", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 337170481, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048632510660403200/qm0VCPh6_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 346, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "337170481", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 30977, 
+   "description": "", 
+   "friends_count": 444, 
+   "location": "Menfi, Sicilia", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1048632510660403200/qm0VCPh6_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/337170481/1520583935", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "giovcusumano", 
+   "lang": "it", 
+   "profile_background_tile": false, 
+   "favourites_count": 56001, 
+   "name": "Giovanni Cusumano", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jul 17 15:40:42 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "ROMA", 
+  "Date": "Thu Mar 14 12:49:09 +0000 2019", 
+  "Text": "RT @Anpinazionale: \"Sono felice per questa notizia. Il fascismo \u00e8 un crimine contro l'umanit\u00e0 e l'Italia, la sua Costituzione, le sue Istit\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 51678300, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "51678300", 
+     "screen_name": "Anpinazionale", 
+     "name": "A.N.P.I. Nazionale"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106175425007493120": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1001152301912993797, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096023630587281408/CqpZlXo1_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4832, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1001152301912993797", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21164, 
+   "description": "\u200fProud and loyal Roma Gypsy woman.\n\n\u0641\u062e\u0648\u0631 \u0648\u0645\u062e\u0644\u0635 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u063a\u062c\u0631\u064a\u0629.\n#NotLooking", 
+   "friends_count": 4444, 
+   "location": "Earth", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096023630587281408/CqpZlXo1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001152301912993797/1544119007", 
+   "profile_background_image_url": null, 
+   "screen_name": "1_Queen_of_Roma", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 24746, 
+   "name": "\ud83d\udc51 The Roma Queen \ud83d\udc51", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon May 28 17:24:44 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "ROMA", 
+  "Date": "Thu Mar 14 12:49:07 +0000 2019", 
+  "Text": "RT @yahyanawazvirk: Yup.. That's me..\ud83d\ude10\ud83d\ude10 https://t.co/TylASOxNu4", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2834162107, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "2834162107", 
+     "screen_name": "yahyanawazvirk", 
+     "name": "yahya nawaz"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "source_user_id": 2834162107, 
+     "source_status_id_str": "1106175146358910976", 
+     "expanded_url": "https://twitter.com/yahyanawazvirk/status/1106175146358910976/photo/1", 
+     "display_url": "pic.twitter.com/TylASOxNu4", 
+     "url": "https://t.co/TylASOxNu4", 
+     "media_url_https": "https://pbs.twimg.com/media/D1nsbkYWkAASvb6.jpg", 
+     "source_user_id_str": "2834162107", 
+     "source_status_id": 1106175146358910976, 
+     "id_str": "1106175141862608896", 
+     "sizes": {
+      "small": {
+       "h": 478, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 527, 
+       "resize": "fit", 
+       "w": 750
+      }, 
+      "medium": {
+       "h": 527, 
+       "resize": "fit", 
+       "w": 750
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      40, 
+      63
+     ], 
+     "type": "photo", 
+     "id": 1106175141862608896, 
+     "media_url": "http://pbs.twimg.com/media/D1nsbkYWkAASvb6.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106175429227044870": {
+  "Lang": "it", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2181843523, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "4BB7DF", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/727076184304062464/KXL0B3Db_normal.jpg", 
+   "profile_sidebar_fill_color": "191F22", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/kPQPOZEsfs", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://mobility-roma.blogspot.it", 
+       "display_url": "mobility-roma.blogspot.it"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 655, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2181843523", 
+   "profile_background_color": "59BEE4", 
+   "listed_count": 28, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7665, 
+   "description": "father deeply concerned about #climatechange - Sr Consultant &  Mobility Manager @NTTDATA_IT -    supporting @salvaiciclistiR - Each and every statements my own", 
+   "friends_count": 303, 
+   "location": "citizen of Rome", 
+   "profile_link_color": "8FCAE0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/727076184304062464/KXL0B3Db_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2181843523/1512208459", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "paolodeluca72", 
+   "lang": "it", 
+   "profile_background_tile": false, 
+   "favourites_count": 24908, 
+   "name": "paolo de luca", 
+   "notifications": false, 
+   "url": "http://t.co/kPQPOZEsfs", 
+   "created_at": "Fri Nov 08 09:18:39 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "ROMA", 
+  "Date": "Thu Mar 14 12:49:08 +0000 2019", 
+  "Text": "buone notizie a Roma\n\n\"l\u2019auto intralcia mezzi pubblici? Guidatore rischia denuncia per interruzione di pubblico ser\u2026 https://t.co/lyqRUsNMsu", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/lyqRUsNMsu", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106175429227044870", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

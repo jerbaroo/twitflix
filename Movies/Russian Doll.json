@@ -1,0 +1,411 @@
+{
+ "1106174742413873152": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2804130829, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089566511407210496/XAfEalew_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/1o4JW3TJqY", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://sandraduffy.wordpress.com", 
+       "display_url": "sandraduffy.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1156, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2804130829", 
+   "profile_background_color": "000000", 
+   "listed_count": 26, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10435, 
+   "description": "PhD @IrishCentreHR; gender identities and law, trans rights, feminism; IRC Scholar. She/her. Aiteach agus aisteach. @Lawyers4Choice", 
+   "friends_count": 850, 
+   "location": "Galway, Ireland", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1089566511407210496/XAfEalew_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2804130829/1429794769", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Sandra_NiD", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 204, 
+   "name": "Sandra Duffy", 
+   "notifications": false, 
+   "url": "https://t.co/1o4JW3TJqY", 
+   "created_at": "Thu Sep 11 18:08:19 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Russian Doll", 
+  "Date": "Thu Mar 14 12:46:24 +0000 2019", 
+  "Text": "RT @oscharles: Russian Doll\u2019s all female writers room gave the character her depth\nhttps://t.co/sHKXqWboMj", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 17967037, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "17967037", 
+     "screen_name": "oscharles", 
+     "name": "Charles"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/sHKXqWboMj", 
+     "indices": [
+      83, 
+      106
+     ], 
+     "expanded_url": "https://themuse.jezebel.com/natasha-lyonne-says-russian-dolls-writers-room-of-all-w-1833200715", 
+     "display_url": "themuse.jezebel.com/natasha-lyonne\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106173049622200321": {
+  "Lang": "tr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 899554732104196096, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104508461344346112/bishqYnG_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 688, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "899554732104196096", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10832, 
+   "description": "anan\u0131 avrad\u0131n\u0131 karizmaya focus", 
+   "friends_count": 316, 
+   "location": "", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104508461344346112/bishqYnG_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/899554732104196096/1549067346", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "legenwaiitdary", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 88178, 
+   "name": "ruling", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Aug 21 08:52:15 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Russian Doll", 
+  "Date": "Thu Mar 14 12:39:41 +0000 2019", 
+  "Text": "@yavruzombie Politik-Secret City, 1983\nGerilim- Mindhunter\nKomedi- Russian Doll\nBilim kurgu- Lost in Space\nOnun d\u0131\u015f\u2026 https://t.co/EC2LjyEo1A", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2559425282, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "2559425282", 
+     "screen_name": "yavruzombie", 
+     "name": "Van goghkan ile tatli sert"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/EC2LjyEo1A", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106173049622200321", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106174051041665029": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 603908782, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "362720", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105600108689797120/f1Jxc2Ze_normal.jpg", 
+   "profile_sidebar_fill_color": "E5507E", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 924, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "603908782", 
+   "profile_background_color": "FF6699", 
+   "listed_count": 13, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21689, 
+   "description": "| UCM CCPP", 
+   "friends_count": 394, 
+   "location": "Madrid - M\u00e9rida", 
+   "profile_link_color": "B40B43", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105600108689797120/f1Jxc2Ze_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/603908782/1551804849", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif", 
+   "screen_name": "angryfxminist", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 73976, 
+   "name": "Nerea \ud83d\udd25", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jun 09 20:40:58 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Russian Doll", 
+  "Date": "Thu Mar 14 12:43:40 +0000 2019", 
+  "Text": "Russian doll https://t.co/4TukGHXrZi", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/4TukGHXrZi", 
+     "indices": [
+      13, 
+      36
+     ], 
+     "expanded_url": "https://twitter.com/patryminority/status/1106172824585158658", 
+     "display_url": "twitter.com/patryminority/\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106172596209504256": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1306028282, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/885512952866013185/8AIdh9Vz_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/UoGPJNIMvs", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://emilyrosswrites.com", 
+       "display_url": "emilyrosswrites.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/zVUZ5GWDMz", 
+       "indices": [
+        109, 
+        132
+       ], 
+       "expanded_url": "http://deaddarlings.com", 
+       "display_url": "deaddarlings.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 3090, 
+   "profile_sidebar_border_color": "181A1E", 
+   "id_str": "1306028282", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 74, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5194, 
+   "description": "Author of HALF IN LOVE WITH DEATH (Simon Pulse) finalist ITW Thriller Awards. Rep'd by @RebeccaPodos, Editor https://t.co/zVUZ5GWDMz, pets, art, crime fiction", 
+   "friends_count": 3114, 
+   "location": "Quincy, MA", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/885512952866013185/8AIdh9Vz_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306028282/1532615629", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "emilyross816", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10271, 
+   "name": "Emily Ross", 
+   "notifications": false, 
+   "url": "https://t.co/UoGPJNIMvs", 
+   "created_at": "Wed Mar 27 00:17:07 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Russian Doll", 
+  "Date": "Thu Mar 14 12:37:53 +0000 2019", 
+  "Text": "@MindyMcGinnis Russian Doll", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 263469029, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "263469029", 
+     "screen_name": "MindyMcGinnis", 
+     "name": "Mindy McGinnis"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106171561445392385": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 148364034, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102557915997765632/YmEQLmF8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 110, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "148364034", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2019, 
+   "description": "Anda jaleo, jaleo:\u00a0\nya se acab\u00f3 el alboroto\u00a0\ny vamos al tiroteo.", 
+   "friends_count": 398, 
+   "location": "Sevilla, Espa\u00f1a", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102557915997765632/YmEQLmF8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/148364034/1552464465", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "caralpo", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 2816, 
+   "name": "Euglena \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed May 26 14:23:43 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Russian Doll", 
+  "Date": "Thu Mar 14 12:33:46 +0000 2019", 
+  "Text": "Ayer me termin\u00e9 Russian Doll y me ha gustado mucho, pero no entiendo que han querido decir con ese final", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}

@@ -1,0 +1,400 @@
+{
+ "1106170998842376192": {
+  "Lang": "en", 
+  "Place": {
+   "full_name": "Kansas City, MO", 
+   "url": "https://api.twitter.com/1.1/geo/id/9a974dfc8efb32a0.json", 
+   "country": "United States", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       -94.733122, 
+       38.868002
+      ], 
+      [
+       -94.3854414, 
+       38.868002
+      ], 
+      [
+       -94.3854414, 
+       39.332095
+      ], 
+      [
+       -94.733122, 
+       39.332095
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "US", 
+   "attributes": {}, 
+   "id": "9a974dfc8efb32a0", 
+   "name": "Kansas City"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 27540253, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/3346614032/6ee12b441a5620f69d3b74cf6c17d0db_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 293, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "27540253", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 29, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1182, 
+   "description": "Sales and marketing leader and disciple of popular culture.", 
+   "friends_count": 454, 
+   "location": "Kansas City, MIssouri", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/3346614032/6ee12b441a5620f69d3b74cf6c17d0db_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/27540253/1418731479", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JHornbostel", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 455, 
+   "name": "Joel Hornbostel", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Mar 30 00:19:31 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Alienist", 
+  "Date": "Thu Mar 14 12:31:32 +0000 2019", 
+  "Text": "@clairecmc The Alienist if you\u2019ve never read that.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 16160352, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "16160352", 
+     "screen_name": "clairecmc", 
+     "name": "Claire McCaskill"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106174602399617025": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1105939361957400576, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105939633307860992/3RRZTgtC_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1105939361957400576", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 76, 
+   "description": "Ousmane Gambi . Com", 
+   "friends_count": 141, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105939633307860992/3RRZTgtC_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105939361957400576/1552513979", 
+   "profile_background_image_url": null, 
+   "screen_name": "OusmaneGambi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 71, 
+   "name": "Ousmane Gambi", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Mar 13 21:11:06 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Alienist", 
+  "Date": "Thu Mar 14 12:45:51 +0000 2019", 
+  "Text": "RT @nytimesarts: Fans of the recent television series \u201cThe Alienist,\u201d with Dakota Fanning as Sara Howard, might be familiar with the story\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1440641, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "1440641", 
+     "screen_name": "nytimesarts", 
+     "name": "New York Times Arts"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106155518282944512": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 425415359, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103315422370320385/tt_VPfIf_normal.jpg", 
+   "profile_sidebar_fill_color": "E6F6F9", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 295, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "425415359", 
+   "profile_background_color": "0099B9", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5952, 
+   "description": "\u201cThose who can\u2019t farm, farm celery.\u201d -Dwight K. Shrute, Shrute Farms", 
+   "friends_count": 215, 
+   "location": "Boston, MA", 
+   "profile_link_color": "0099B9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103315422370320385/tt_VPfIf_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/425415359/1501356007", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", 
+   "screen_name": "Lady_Rackel", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5481, 
+   "name": "rachel", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Nov 30 23:58:34 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Alienist", 
+  "Date": "Thu Mar 14 11:30:01 +0000 2019", 
+  "Text": "@burninglegacys The Alienist, Nightingale, Circe, The Last Time I Lied, Sharp Objects", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2367952773, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "2367952773", 
+     "screen_name": "burninglegacys", 
+     "name": "rah"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106158571127881728": {
+  "Lang": "in", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 244430716, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088439363808092160/TWxlqjrH_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1428, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "244430716", 
+   "profile_background_color": "131516", 
+   "listed_count": 87, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 203376, 
+   "description": "Carefully written, fact-checked essay in the streets. Unmoderated comment section in the sheets.", 
+   "friends_count": 2311, 
+   "location": "Kuala Lumpur ", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1088439363808092160/TWxlqjrH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/244430716/1489681894", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "MG92_2", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 9775, 
+   "name": "Mark\u2122", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jan 29 08:41:53 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Alienist", 
+  "Date": "Thu Mar 14 11:42:09 +0000 2019", 
+  "Text": "@_joni_joni_joni Yeap. Tapi best ke? Mungkin tengok nanti. Baru habis The Alienist. Helmut Zemo berlakon. Hehe.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 137342127, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "137342127", 
+     "screen_name": "_joni_joni_joni", 
+     "name": "Mamalia / Joni"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106158090775339009": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4816313325, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105554238946594818/z418SI_o_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 616, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4816313325", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2698, 
+   "description": "prefiro ter paz do que ter raz\u00e3o", 
+   "friends_count": 467, 
+   "location": "An\u00e1polis, Brasil", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105554238946594818/z418SI_o_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4816313325/1552419944", 
+   "profile_background_image_url": null, 
+   "screen_name": "camievellynn", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 2900, 
+   "name": "captain cami", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jan 15 18:01:23 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Alienist", 
+  "Date": "Thu Mar 14 11:40:14 +0000 2019", 
+  "Text": "@w4lkersofredor The Walking dead\nSherlock\nSu\u00edts\nBates Motel \nDoctor Who\nRick and Mory\nThe alienist\nThe night of\nPrision Break", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2899644964, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "2899644964", 
+     "screen_name": "w4lkersofredor", 
+     "name": "Walk3r"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }
+}
