@@ -18,6 +18,20 @@ function newTileID() {
 var _tileID = 1;
 
 
+// Inner contents of some tile, given data.
+function newInnerTile(criticScore, userScore, userScores, releaseDate) {
+  var main = document.createElement('div');
+  main.className = 'twitflix-tile-main';
+  var left = document.createElement('div');
+  var right = document.createElement('div');
+  main.appendChild(left);
+  main.appendChild(right);
+  var criticScoreEl = document.createElement('div');
+  var userScoreEl = document.createElement('div');
+  return main;
+}
+
+
 // Return a new Twitflix tile of given size, position and media data.
 //
 // The tile is not yet attached to the DOM.
@@ -31,7 +45,7 @@ function newTile(tileID, height, width, left, top, name) {
   tile.style.left = `${left}px`;
   tile.style.top =
     `${top - document.body.getBoundingClientRect().top - height}px`;
-  tile.innerHTML = 'Hi...';
+  tile.appendChild(newInnerTile(5, 4, [78, 79, 81, 84]));
   return tile;
 }
 
@@ -160,6 +174,7 @@ function getNamesAndBobPlays() {
   }
   return namesAndBobs;
 }
+
 
 console.log('Twitflix running...');
 registerTilesOnPage();
