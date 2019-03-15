@@ -2,11 +2,19 @@
 
 import requests
 import json
+import os
 
 
 class Omdb(object):
     """docstring for Omdb."""
     def __init__(self):
+        if not os.path.isdir('Results'):
+            try:
+                os.mkdir('Results')
+            except OSError:
+                print('Creation of the directory Results failed')
+            else:
+                print('Successfully created the directory Results')
         self.response = 0
         self.imdb = {}
         self.rotten_tomatoes = {}
@@ -57,8 +65,8 @@ class Omdb(object):
                         data['Metacritic'] = platform['Value']
                         result[title]['Metacritic'] = platform['Value']
 
-                with open('Results/%s.json' % title, "w") as outfile:
-                    json.dump(data, outfile, indent=1)
+                # with open('Results/%s.json' % title, "w") as outfile:
+                #     json.dump(data, outfile, indent=1)
             except KeyError:
                 print(title)
                 self.missing += 1
