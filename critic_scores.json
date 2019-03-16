@@ -1,0 +1,548 @@
+{
+ "Isn't It Romantic": {
+  "genre": "Comedy, Fantasy, Romance", 
+  "imdb": "6.1/10", 
+  "Rotten Tomatoes": "68%", 
+  "Metacritic": "60/100"
+ }, 
+ "The Blacklist": {
+  "genre": "Crime, Drama, Mystery, Thriller", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Birdman or (The Unexpected Virtue of Ignorance)": {
+  "genre": "Comedy, Drama", 
+  "imdb": "7.7/10", 
+  "Rotten Tomatoes": "91%", 
+  "Metacritic": "88/100"
+ }, 
+ "The Good Place": {
+  "genre": "Comedy, Drama, Fantasy, Romance", 
+  "imdb": "8.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Queer Eye": {
+  "genre": "Reality-TV", 
+  "imdb": "8.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "For the Love of Spock": {
+  "genre": "Documentary, Biography", 
+  "imdb": "7.6/10", 
+  "Rotten Tomatoes": "100%", 
+  "Metacritic": "74/100"
+ }, 
+ "Conan Without Borders": {
+  "genre": "", 
+  "imdb": 0, 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "House of Cards": {
+  "genre": "Drama", 
+  "imdb": "8.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Larry Charles' Dangerous World of Comedy": {
+  "genre": "N/A", 
+  "imdb": "7.5/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Walking Dead": {
+  "genre": "Drama, Horror, Sci-Fi, Thriller", 
+  "imdb": "8.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Jane The Virgin": {
+  "genre": "Comedy", 
+  "imdb": "7.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Russian Doll": {
+  "genre": "Comedy, Drama, Mystery", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "New Girl": {
+  "genre": "Comedy", 
+  "imdb": "7.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Nightflyers": {
+  "genre": "Horror, Sci-Fi", 
+  "imdb": "6.0/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "BoJack Horseman": {
+  "genre": "Animation, Comedy, Drama", 
+  "imdb": "8.5/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Blade Runner: The Final Cut": {
+  "genre": "", 
+  "imdb": 0, 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "FYRE: The Greatest Party That Never Happened": {
+  "genre": "", 
+  "imdb": 0, 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "GoodFellas": {
+  "genre": "Crime, Drama", 
+  "imdb": "8.7/10", 
+  "Rotten Tomatoes": "96%", 
+  "Metacritic": "89/100"
+ }, 
+ "The Umbrella Academy": {
+  "genre": "Action, Adventure, Comedy, Crime, Drama, Fantasy", 
+  "imdb": "8.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Rick and Morty": {
+  "genre": "Animation, Adventure, Comedy, Sci-Fi", 
+  "imdb": "9.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Godfather": {
+  "genre": "Crime, Drama", 
+  "imdb": "9.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": "100/100"
+ }, 
+ "Jurassic Park": {
+  "genre": "Adventure, Sci-Fi, Thriller", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": "91%", 
+  "Metacritic": "68/100"
+ }, 
+ "Friends from College": {
+  "genre": "Comedy, Drama", 
+  "imdb": "6.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Star Trek: Deep Space Nine": {
+  "genre": "Action, Adventure, Drama, Sci-Fi", 
+  "imdb": "7.9/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Ranch": {
+  "genre": "Comedy, Drama", 
+  "imdb": "7.6/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Archer": {
+  "genre": "Animation, Action, Comedy", 
+  "imdb": "8.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Hangover": {
+  "genre": "Comedy", 
+  "imdb": "7.7/10", 
+  "Rotten Tomatoes": "78%", 
+  "Metacritic": "73/100"
+ }, 
+ "Arrested Development": {
+  "genre": "Comedy", 
+  "imdb": "8.9/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Demolition Man": {
+  "genre": "Action, Crime, Sci-Fi, Thriller", 
+  "imdb": "6.6/10", 
+  "Rotten Tomatoes": "61%", 
+  "Metacritic": "34/100"
+ }, 
+ "Ken Jeong: You Complete Me, Ho": {
+  "genre": "N/A", 
+  "imdb": "5.7/10", 
+  "Rotten Tomatoes": "20%", 
+  "Metacritic": 0
+ }, 
+ "Ray Romano: Right Here, Around the Corner": {
+  "genre": "Documentary, Comedy", 
+  "imdb": "7.3/10", 
+  "Rotten Tomatoes": "60%", 
+  "Metacritic": 0
+ }, 
+ "Black Mirror": {
+  "genre": "Drama, Sci-Fi, Thriller", 
+  "imdb": "8.9/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Trailer Park Boys": {
+  "genre": "Comedy, Crime", 
+  "imdb": "8.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Workin' Moms": {
+  "genre": "Comedy", 
+  "imdb": "5.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Sherlock": {
+  "genre": "Crime, Drama, Mystery, Thriller", 
+  "imdb": "9.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Inside the Mossad": {
+  "genre": "", 
+  "imdb": 0, 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Monty Python's Life of Brian": {
+  "genre": "", 
+  "imdb": 0, 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Big Short": {
+  "genre": "Biography, Comedy, Drama, History", 
+  "imdb": "7.8/10", 
+  "Rotten Tomatoes": "88%", 
+  "Metacritic": "81/100"
+ }, 
+ "Teen Wolf": {
+  "genre": "Action, Drama, Fantasy, Romance, Thriller", 
+  "imdb": "7.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Period. End of Sentence.": {
+  "genre": "Documentary, Short", 
+  "imdb": "7.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Dave Chappelle: Equanimity & The Bird Revelation": {
+  "genre": "Documentary, Comedy", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Brooklyn Nine-Nine": {
+  "genre": "Comedy, Crime", 
+  "imdb": "8.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "American Crime Story": {
+  "genre": "Biography, Crime, Drama", 
+  "imdb": "8.5/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "World War II in Colour": {
+  "genre": "Documentary, War", 
+  "imdb": "8.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Theo Maassen: VANKWAADTOTERGER": {
+  "genre": "Documentary, Comedy", 
+  "imdb": "7.6/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "James Acaster: Repertoire": {
+  "genre": "Comedy", 
+  "imdb": "8.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Big Lebowski": {
+  "genre": "Comedy, Crime", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": "82%", 
+  "Metacritic": "71/100"
+ }, 
+ "Disenchantment": {
+  "genre": "Animation, Adventure, Comedy, Fantasy", 
+  "imdb": "7.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Ricky Gervais: Humanity": {
+  "genre": "Comedy", 
+  "imdb": "7.9/10", 
+  "Rotten Tomatoes": "43%", 
+  "Metacritic": 0
+ }, 
+ "Bodyguard": {
+  "genre": "Crime, Drama, Thriller", 
+  "imdb": "8.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Sex Education": {
+  "genre": "Comedy, Drama", 
+  "imdb": "8.5/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Velvet Buzzsaw": {
+  "genre": "Horror, Mystery, Thriller", 
+  "imdb": "5.8/10", 
+  "Rotten Tomatoes": "65%", 
+  "Metacritic": "61/100"
+ }, 
+ "ROMA": {
+  "genre": "Drama", 
+  "imdb": "7.9/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": "96/100"
+ }, 
+ "Serenity": {
+  "genre": "Action, Adventure, Sci-Fi, Thriller", 
+  "imdb": "7.9/10", 
+  "Rotten Tomatoes": "83%", 
+  "Metacritic": "74/100"
+ }, 
+ "Crazy Ex-Girlfriend": {
+  "genre": "Comedy, Musical", 
+  "imdb": "7.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Star Trek: Discovery": {
+  "genre": "Action, Adventure, Drama, Sci-Fi", 
+  "imdb": "7.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Star Trek: Voyager": {
+  "genre": "Action, Adventure, Sci-Fi", 
+  "imdb": "7.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Dirty John": {
+  "genre": "N/A", 
+  "imdb": "7.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Gilmore Girls": {
+  "genre": "Comedy, Drama", 
+  "imdb": "8.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Bo Burnham: Make Happy": {
+  "genre": "Documentary, Comedy, Music", 
+  "imdb": "8.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Pineapple Express": {
+  "genre": "Action, Comedy, Crime", 
+  "imdb": "7.0/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": "64/100"
+ }, 
+ "The Americans": {
+  "genre": "Crime, Drama, Mystery, Thriller", 
+  "imdb": "8.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Elementary": {
+  "genre": "Crime, Drama, Mystery", 
+  "imdb": "7.9/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Star Trek: The Next Generation": {
+  "genre": "Action, Adventure, Mystery, Sci-Fi", 
+  "imdb": "8.6/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Bird Box": {
+  "genre": "Drama, Horror, Sci-Fi, Thriller", 
+  "imdb": "6.7/10", 
+  "Rotten Tomatoes": "63%", 
+  "Metacritic": "51/100"
+ }, 
+ "Bates Motel": {
+  "genre": "Drama, Horror, Mystery, Thriller", 
+  "imdb": "8.2/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Homeland": {
+  "genre": "Crime, Drama, Mystery, Thriller", 
+  "imdb": "8.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Alienist": {
+  "genre": "Drama, Mystery", 
+  "imdb": "7.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Black Mirror: Bandersnatch": {
+  "genre": "Drama, Mystery, Sci-Fi, Thriller", 
+  "imdb": "7.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Behind the Curve": {
+  "genre": "Documentary", 
+  "imdb": "6.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Orange Is the New Black": {
+  "genre": "Comedy, Crime, Drama", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Great News": {
+  "genre": "Comedy", 
+  "imdb": "7.0/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Northern Rescue": {
+  "genre": "Drama, Family", 
+  "imdb": "7.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Grace and Frankie": {
+  "genre": "Comedy", 
+  "imdb": "8.3/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Ballad of Buster Scruggs": {
+  "genre": "Comedy, Drama, Musical, Mystery, Romance, Western", 
+  "imdb": "7.3/10", 
+  "Rotten Tomatoes": "91%", 
+  "Metacritic": "79/100"
+ }, 
+ "The Affair": {
+  "genre": "Drama", 
+  "imdb": "8.0/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "That '70s Show": {
+  "genre": "Comedy, Romance", 
+  "imdb": "8.1/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Hunger Games: Mockingjay - Part 2": {
+  "genre": "Action, Adventure, Sci-Fi, Thriller", 
+  "imdb": "6.6/10", 
+  "Rotten Tomatoes": "70%", 
+  "Metacritic": "65/100"
+ }, 
+ "The Toys That Made Us": {
+  "genre": "Documentary, History", 
+  "imdb": "8.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Once Upon a Time": {
+  "genre": "Adventure, Fantasy, Romance", 
+  "imdb": "7.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Money Heist": {
+  "genre": "Short, Comedy", 
+  "imdb": 0, 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Sick Note": {
+  "genre": "Comedy, Crime", 
+  "imdb": "6.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "The Mask": {
+  "genre": "Comedy, Fantasy", 
+  "imdb": "6.9/10", 
+  "Rotten Tomatoes": "77%", 
+  "Metacritic": "56/100"
+ }, 
+ "Going in Style": {
+  "genre": "Comedy, Crime", 
+  "imdb": "6.6/10", 
+  "Rotten Tomatoes": "82%", 
+  "Metacritic": "50/100"
+ }, 
+ "Riverdale": {
+  "genre": "Crime, Drama, Mystery, Romance", 
+  "imdb": "7.4/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Monty Python's Flying Circus": {
+  "genre": "Comedy", 
+  "imdb": "8.8/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }, 
+ "Monty Python and the Holy Grail": {
+  "genre": "Adventure, Comedy, Fantasy", 
+  "imdb": "8.3/10", 
+  "Rotten Tomatoes": "97%", 
+  "Metacritic": "93/100"
+ }, 
+ "A Series of Unfortunate Events": {
+  "genre": "Adventure, Comedy, Family, Fantasy", 
+  "imdb": "6.8/10", 
+  "Rotten Tomatoes": "72%", 
+  "Metacritic": "62/100"
+ }, 
+ "The Nice Guys": {
+  "genre": "Action, Comedy, Crime, Mystery, Thriller", 
+  "imdb": "7.4/10", 
+  "Rotten Tomatoes": "93%", 
+  "Metacritic": "70/100"
+ }, 
+ "The Departed": {
+  "genre": "Crime, Drama, Thriller", 
+  "imdb": "8.5/10", 
+  "Rotten Tomatoes": "91%", 
+  "Metacritic": "85/100"
+ }, 
+ "Better Call Saul": {
+  "genre": "Crime, Drama", 
+  "imdb": "8.7/10", 
+  "Rotten Tomatoes": 0, 
+  "Metacritic": 0
+ }
+}
