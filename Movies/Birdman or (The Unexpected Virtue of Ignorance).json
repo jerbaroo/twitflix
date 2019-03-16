@@ -1,0 +1,4625 @@
+{
+ "1106244880085499904": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 169880662, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "665454", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/928362315451437056/n4vHIjd__normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/iD3aoJTSPL", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://whattheshot.com", 
+       "display_url": "whattheshot.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3686, 
+   "profile_sidebar_border_color": "CF9727", 
+   "id_str": "169880662", 
+   "profile_background_color": "000000", 
+   "listed_count": 65, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 593467, 
+   "description": "A cinema quiz game through movie stills running every 10 min. Can you guess the movie/director/actor? Reply correctly & grab some points! #cinema #quiz #movies", 
+   "friends_count": 578, 
+   "location": "Hollywood", 
+   "profile_link_color": "4D4952", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/928362315451437056/n4vHIjd__normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/169880662/1481533272", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "whattheshot", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 142105, 
+   "name": "What the Shot?", 
+   "notifications": false, 
+   "url": "https://t.co/iD3aoJTSPL", 
+   "created_at": "Fri Jul 23 11:45:51 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 14 17:25:07 +0000 2019", 
+  "Text": "4 people found shot #232086 and @JMP_PMJ was 1st! It was \"Birdman: Or (The Unexpected Virtue of Ignorance)\" (2014)\u2026 https://t.co/9otcwovvwi", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 927951386, 
+     "indices": [
+      32, 
+      40
+     ], 
+     "id_str": "927951386", 
+     "screen_name": "JMP_PMJ", 
+     "name": "P\u2019tit Greg SAS \u00a9\ufe0f"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/9otcwovvwi", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106244880085499904", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106541178562859009": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 280378406, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092450132748976129/Lu-5yQZw_normal.jpg", 
+   "profile_sidebar_fill_color": "E01048", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1646, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "280378406", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 10, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 72651, 
+   "description": "it is what it is", 
+   "friends_count": 937, 
+   "location": "NASA", 
+   "profile_link_color": "6A0B3B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092450132748976129/Lu-5yQZw_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/280378406/1549642973", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "daniellized", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 18584, 
+   "name": "Danielle Rose", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Apr 11 06:39:52 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 15 13:02:30 +0000 2019", 
+  "Text": "Birdman or (The Unexpected Virtue of Ignorance) (2014) dir. Alejandro G. I\u00f1\u00e1rritu https://t.co/4XjWTpaCKQ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/daniellized/status/1106541178562859009/photo/1", 
+     "display_url": "pic.twitter.com/4XjWTpaCKQ", 
+     "url": "https://t.co/4XjWTpaCKQ", 
+     "media_url_https": "https://pbs.twimg.com/media/D1s5UNYUkAIHcb6.jpg", 
+     "id_str": "1106541152801427458", 
+     "sizes": {
+      "small": {
+       "h": 351, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1058, 
+       "resize": "fit", 
+       "w": 2048
+      }, 
+      "medium": {
+       "h": 620, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      82, 
+      105
+     ], 
+     "type": "photo", 
+     "id": 1106541152801427458, 
+     "media_url": "http://pbs.twimg.com/media/D1s5UNYUkAIHcb6.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106346046333112322": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1622297462, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102691249075687426/YhDOHUHN_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ZfiaTHui85", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://ask.fm/MohamedGamal100", 
+       "display_url": "ask.fm/MohamedGamal100"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3018, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1622297462", 
+   "profile_background_color": "131516", 
+   "listed_count": 28, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 119151, 
+   "description": "\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200fThe official Twitter account of Mohamed Gamal ... founder of MGTC.         \u2665 \n        Architect \ud83c\udfdb .\n         =) businessman", 
+   "friends_count": 594, 
+   "location": "Egypt,Portsaid,Mansura,Arish", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102691249075687426/YhDOHUHN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622297462/1551534577", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "M7MD__GAMAL", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 3378, 
+   "name": "\u0686\u064a\u0645\u064a \ud83d\udd31", 
+   "notifications": false, 
+   "url": "https://t.co/ZfiaTHui85", 
+   "created_at": "Fri Jul 26 07:17:00 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 15 00:07:07 +0000 2019", 
+  "Text": "Birdman or ( The Unexpected Virtue of Ignorance) 2014 https://t.co/fTZ6uEIk9O", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/M7MD__GAMAL/status/1106346046333112322/photo/1", 
+     "display_url": "pic.twitter.com/fTZ6uEIk9O", 
+     "url": "https://t.co/fTZ6uEIk9O", 
+     "media_url_https": "https://pbs.twimg.com/media/D1qHzOlX4AAku0u.jpg", 
+     "id_str": "1106345972630806528", 
+     "sizes": {
+      "large": {
+       "h": 732, 
+       "resize": "fit", 
+       "w": 960
+      }, 
+      "small": {
+       "h": 519, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 732, 
+       "resize": "fit", 
+       "w": 960
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      54, 
+      77
+     ], 
+     "type": "photo", 
+     "id": 1106345972630806528, 
+     "media_url": "http://pbs.twimg.com/media/D1qHzOlX4AAku0u.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105941619747024900": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 495069944, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Twzwl7bOLq", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.dearcastandcrew.com", 
+       "display_url": "dearcastandcrew.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 18327, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "495069944", 
+   "profile_background_color": "9BA4A8", 
+   "listed_count": 316, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61747, 
+   "description": "Open-letter film reviews, essays and exchanges.", 
+   "friends_count": 5151, 
+   "location": "Ottawa, Ontario", 
+   "profile_link_color": "28C3F7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/495069944/1411410195", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DearCastandCrew", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 750, 
+   "name": "Dear Cast and Crew", 
+   "notifications": false, 
+   "url": "http://t.co/Twzwl7bOLq", 
+   "created_at": "Fri Feb 17 15:25:51 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 13 21:20:04 +0000 2019", 
+  "Text": "This movie was largely shot inside Broadway's St. James Theatre in New York https://t.co/TXlqx98WlI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/TXlqx98WlI", 
+     "indices": [
+      76, 
+      99
+     ], 
+     "expanded_url": "http://ow.ly/nZEa30nYMWq", 
+     "display_url": "ow.ly/nZEa30nYMWq"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104098138166571013": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3809200936, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104496866908143616/S5lVw0eQ_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/NkKXFwhnZ4", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/Novxselic_", 
+       "display_url": "curiouscat.me/Novxselic_"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3571, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3809200936", 
+   "profile_background_color": "000000", 
+   "listed_count": 58, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 13480, 
+   "description": "a clockwork orange (1971) dir. stanley kubrick. // @andmercaforall mi mujer", 
+   "friends_count": 992, 
+   "location": "bah\u00eda blanca, argentina", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104496866908143616/S5lVw0eQ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3809200936/1520552203", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Novxselic_", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 17639, 
+   "name": "kurdt\ud83d\udc9a", 
+   "notifications": false, 
+   "url": "https://t.co/NkKXFwhnZ4", 
+   "created_at": "Tue Sep 29 00:34:50 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 08 19:14:43 +0000 2019", 
+  "Text": "emma stone - birdman or (the unexpected virtue of ignorance)\n\nemma interpreta a sam, una adicta en recuperaci\u00f3n y q\u2026 https://t.co/myCAY3HmWJ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/myCAY3HmWJ", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104098138166571013", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105203974259511296": {
+  "Lang": "pt", 
+  "Place": {
+   "full_name": "Bras\u00edlia, Brazil", 
+   "url": "https://api.twitter.com/1.1/geo/id/5722ff20ba67083b.json", 
+   "country": "Brazil", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       -48.285982, 
+       -16.0524045
+      ], 
+      [
+       -47.307264, 
+       -16.0524045
+      ], 
+      [
+       -47.307264, 
+       -15.5001029
+      ], 
+      [
+       -48.285982, 
+       -15.5001029
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "BR", 
+   "attributes": {}, 
+   "id": "5722ff20ba67083b", 
+   "name": "Bras\u00edlia"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1035322484, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103831732091006976/TJU6xcoo_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/bTUKzcBbH5", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/mackerman", 
+       "display_url": "curiouscat.me/mackerman"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3811, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1035322484", 
+   "profile_background_color": "FCFCFC", 
+   "listed_count": 47, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 157566, 
+   "description": "sorry, bro. apparently i\u2019m incapable of expressing my feelings or letting people take care of me", 
+   "friends_count": 794, 
+   "location": "", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103831732091006976/TJU6xcoo_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035322484/1552009916", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "bissexualwitch", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7397, 
+   "name": "rosa diaz", 
+   "notifications": false, 
+   "url": "https://t.co/bTUKzcBbH5", 
+   "created_at": "Tue Dec 25 18:19:39 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Mon Mar 11 20:28:55 +0000 2019", 
+  "Text": "Best Act By Emma Stone in Birdman Or The Unexpected Virtue Of Ignorance https://t.co/1BbxbiNe7D via @YouTube \n\nessa\u2026 https://t.co/ZUwOwKGHN9", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      100, 
+      108
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/1BbxbiNe7D", 
+     "indices": [
+      72, 
+      95
+     ], 
+     "expanded_url": "https://youtu.be/qiUT7Bj7fbM", 
+     "display_url": "youtu.be/qiUT7Bj7fbM"
+    }, 
+    {
+     "url": "https://t.co/ZUwOwKGHN9", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105203974259511296", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105557321487396865": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 412593862, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073368031609450496/X70QsYin_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 397, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "412593862", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15829, 
+   "description": "University of Rhode Island 2020 Boston Red Sox Baseball New England Patriots Football #GOPATS", 
+   "friends_count": 404, 
+   "location": "", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1073368031609450496/X70QsYin_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/412593862/1535137011", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "ChristopherHetu", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10705, 
+   "name": "Chris Hetu", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Nov 14 22:34:54 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Tue Mar 12 19:53:00 +0000 2019", 
+  "Text": "\u201cAnd did you what you wanted from this life even so?\n                                                        I did.\u2026 https://t.co/ppymLkcRM5", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/ppymLkcRM5", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105557321487396865", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103145145388564480": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1015824604672081920, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098123560864772096/tNsUORy9_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/s1EifdQbrk", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://boxd.it/v1wb", 
+       "display_url": "boxd.it/v1wb"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 439, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1015824604672081920", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 27, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5345, 
+   "description": "as it turns out, i am capable of much unpleasantness", 
+   "friends_count": 67, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098123560864772096/tNsUORy9_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015824604672081920/1550730350", 
+   "profile_background_image_url": null, 
+   "screen_name": "beforesunsct", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13814, 
+   "name": "natalie", 
+   "notifications": false, 
+   "url": "https://t.co/s1EifdQbrk", 
+   "created_at": "Sun Jul 08 05:07:13 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 04:07:52 +0000 2019", 
+  "Text": "44. birdman or (the unexpected virtue of ignorance) (2014) https://t.co/GDGocfLpTG", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/beforesunsct/status/1103145145388564480/photo/1", 
+     "display_url": "pic.twitter.com/GDGocfLpTG", 
+     "url": "https://t.co/GDGocfLpTG", 
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D08oqQDUwAA2o4f.jpg", 
+     "id_str": "1103145140057587712", 
+     "sizes": {
+      "large": {
+       "h": 148, 
+       "resize": "fit", 
+       "w": 268
+      }, 
+      "small": {
+       "h": 148, 
+       "resize": "fit", 
+       "w": 268
+      }, 
+      "medium": {
+       "h": 148, 
+       "resize": "fit", 
+       "w": 268
+      }, 
+      "thumb": {
+       "h": 148, 
+       "resize": "crop", 
+       "w": 148
+      }
+     }, 
+     "indices": [
+      59, 
+      82
+     ], 
+     "type": "photo", 
+     "id": 1103145140057587712, 
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/D08oqQDUwAA2o4f.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103744271490973706": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 30556242, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/986947981550280705/-EmKWrZ6_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 489, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "30556242", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 16111, 
+   "description": "Cinema, Music and Arts Lover.", 
+   "friends_count": 1259, 
+   "location": "Fort Lauderdale, FL", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/986947981550280705/-EmKWrZ6_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/30556242/1546192755", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Dynasty86", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 54936, 
+   "name": "Brian B.", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Apr 12 00:00:44 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 19:48:35 +0000 2019", 
+  "Text": "RT @DWWatchesMovies: STUNNING\n1. Moonlight\n2. Spotlight\n3. 12 Years a Slave\n4. The Shape of Water\n\nBEAUTIFUL\n5. The Artist\n\nFINE\n6. Birdman\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 57346779, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "57346779", 
+     "screen_name": "DWWatchesMovies", 
+     "name": "Donovan Watches (Too Many) Movies"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105532813368012802": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3071566004, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/894058693955899392/nWs8PeDs_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 169, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3071566004", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2710, 
+   "description": "\u03a6KT IU Kelley 2020vision unlike my eyes", 
+   "friends_count": 202, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/894058693955899392/nWs8PeDs_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3071566004/1522945012", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "AndWithNoCheese", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5524, 
+   "name": "leo(nardo)", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Mar 10 14:40:54 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Tue Mar 12 18:15:37 +0000 2019", 
+  "Text": "way better than i remembered, and it\u2019s way better than people accredit it. i enjoyed the witty pop references and t\u2026 https://t.co/XmQpPapLVv", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/XmQpPapLVv", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105532813368012802", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103710539031683072": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 57346779, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "151E00", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/827559928445464576/ausfPXO5_normal.jpg", 
+   "profile_sidebar_fill_color": "D9DEFF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/AoPwt5ppny", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.youtube.com/channel/UC-3eI39QRyz2b5vk0Hugglw", 
+       "display_url": "youtube.com/channel/UC-3eI\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1041, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "57346779", 
+   "profile_background_color": "8099FF", 
+   "listed_count": 67, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 44308, 
+   "description": "#CinematicMasochism2019. Gay and a bit Disnerdy. I tweet too much - especially during Oscar season. Taylor Swift apologist. Loves film. He/him/his", 
+   "friends_count": 1639, 
+   "location": "Union Broadcasting System", 
+   "profile_link_color": "001ECF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/827559928445464576/ausfPXO5_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/57346779/1548085840", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+   "screen_name": "DWWatchesMovies", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 11175, 
+   "name": "Donovan Watches (Too Many) Movies", 
+   "notifications": false, 
+   "url": "https://t.co/AoPwt5ppny", 
+   "created_at": "Thu Jul 16 14:23:41 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 17:34:33 +0000 2019", 
+  "Text": "STUNNING\n1. Moonlight\n2. Spotlight\n3. 12 Years a Slave\n4. The Shape of Water\n\nBEAUTIFUL\n5. The Artist\n\nFINE\n6. Bird\u2026 https://t.co/NX9p7ns1Ln", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/NX9p7ns1Ln", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103710539031683072", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104220279298052096": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 495069944, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Twzwl7bOLq", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.dearcastandcrew.com", 
+       "display_url": "dearcastandcrew.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 18327, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "495069944", 
+   "profile_background_color": "9BA4A8", 
+   "listed_count": 316, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61747, 
+   "description": "Open-letter film reviews, essays and exchanges.", 
+   "friends_count": 5151, 
+   "location": "Ottawa, Ontario", 
+   "profile_link_color": "28C3F7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/495069944/1411410195", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DearCastandCrew", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 750, 
+   "name": "Dear Cast and Crew", 
+   "notifications": false, 
+   "url": "http://t.co/Twzwl7bOLq", 
+   "created_at": "Fri Feb 17 15:25:51 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sat Mar 09 03:20:04 +0000 2019", 
+  "Text": "Because this movie was carefully rehearsed and shot in sequence, the #editing process only took two weeks https://t.co/TXlqx98WlI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      69, 
+      77
+     ], 
+     "text": "editing"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/TXlqx98WlI", 
+     "indices": [
+      106, 
+      129
+     ], 
+     "expanded_url": "http://ow.ly/nZEa30nYMWq", 
+     "display_url": "ow.ly/nZEa30nYMWq"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104046839635034114": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 16938204, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/998685024/FacebookHomescreenImage_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/YVWmYb49wK", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://melkubrick.newsvine.com", 
+       "display_url": "melkubrick.newsvine.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 251, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "16938204", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1201, 
+   "description": "Contributing Editor at @goldderby, member of @VAYD and entertainment awards enthusiast, enjoyer of life's finer things", 
+   "friends_count": 243, 
+   "location": "Arlington, VA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/998685024/FacebookHomescreenImage_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "charlesbright", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 320, 
+   "name": "Charlie Bright - Available for Oscar Host", 
+   "notifications": false, 
+   "url": "https://t.co/YVWmYb49wK", 
+   "created_at": "Thu Oct 23 23:04:34 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 08 15:50:53 +0000 2019", 
+  "Text": "@OscarRunnerUp 1. SPOTLIGHT\n2. MOONLIGHT\n3. BIRDMAN: OR (THE UNEXPECTED VIRTUE OF IGNORANCE)\n4. THE SHAPE OF WATER\u2026 https://t.co/lmiTHjgI1E", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 972966256633700352, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "972966256633700352", 
+     "screen_name": "OscarRunnerUp", 
+     "name": "And the Runner-Up Is"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/lmiTHjgI1E", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104046839635034114", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105842985483333632": {
+  "Lang": "en", 
+  "Place": {
+   "full_name": "Culiac\u00e1n, Sinaloa", 
+   "url": "https://api.twitter.com/1.1/geo/id/22886de3634e157a.json", 
+   "country": "Mexico", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       -107.806281, 
+       24.0281619
+      ], 
+      [
+       -106.877832, 
+       24.0281619
+      ], 
+      [
+       -106.877832, 
+       25.2968151
+      ], 
+      [
+       -107.806281, 
+       25.2968151
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "MX", 
+   "attributes": {}, 
+   "id": "22886de3634e157a", 
+   "name": "Culiac\u00e1n"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 222379217, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095760443396841473/T7Tsld-i_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 286, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "222379217", 
+   "profile_background_color": "B2DFDA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14698, 
+   "description": "Soy el abismo y te veo de vuelta. Get a good job with more pay and you're okay. XXII.", 
+   "friends_count": 359, 
+   "location": "M\u00e9xico", 
+   "profile_link_color": "009900", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095760443396841473/T7Tsld-i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/222379217/1537930566", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", 
+   "screen_name": "elmalditovicio", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8657, 
+   "name": "Belzelou", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 03 07:17:18 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 13 14:48:07 +0000 2019", 
+  "Text": "Las 7 mejores pel\u00edculas (que he visto) esta d\u00e9cada 2010-2019:\n\nInception (2010)\n\nDjango (2012)\n\nThe Wolf of Wall St\u2026 https://t.co/KkwB0ffO9u", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/KkwB0ffO9u", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105842985483333632", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104728804147322880": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 495069944, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Twzwl7bOLq", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.dearcastandcrew.com", 
+       "display_url": "dearcastandcrew.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 18327, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "495069944", 
+   "profile_background_color": "9BA4A8", 
+   "listed_count": 316, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61747, 
+   "description": "Open-letter film reviews, essays and exchanges.", 
+   "friends_count": 5151, 
+   "location": "Ottawa, Ontario", 
+   "profile_link_color": "28C3F7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/495069944/1411410195", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DearCastandCrew", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 750, 
+   "name": "Dear Cast and Crew", 
+   "notifications": false, 
+   "url": "http://t.co/Twzwl7bOLq", 
+   "created_at": "Fri Feb 17 15:25:51 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sun Mar 10 13:00:46 +0000 2019", 
+  "Text": "The words seen in the opening credits are the words written on Raymond Carver's tombstone in real life https://t.co/TXlqx98WlI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/TXlqx98WlI", 
+     "indices": [
+      103, 
+      126
+     ], 
+     "expanded_url": "http://ow.ly/nZEa30nYMWq", 
+     "display_url": "ow.ly/nZEa30nYMWq"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103779185376534533": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2921737811, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078656031956312065/qJss65Ec_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/L8ahdcAG0R", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://ywanko.tumblr.com/", 
+       "display_url": "ywanko.tumblr.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 76, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2921737811", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6474, 
+   "description": "\ud835\udc52\ud835\udcc1\ud835\udc52\u0300\ud835\udcc3\ud835\udcb6 ~ \u2640 ~ \ud83d\udc0d ~\u26a0 questo profilo \u00e8 sconsigliato ai deboli di cuore. vorrei lamentarmi ogni 2x3 del fatto che non mi fila nessuno.", 
+   "friends_count": 56, 
+   "location": "", 
+   "profile_link_color": "1B5C57", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1078656031956312065/qJss65Ec_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2921737811/1549920404", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+   "screen_name": "ywankos", 
+   "lang": "it", 
+   "profile_background_tile": false, 
+   "favourites_count": 805, 
+   "name": "\ud835\udcbb\ud835\udcbe\ud835\udcbb\ud835\udcc9\ud835\udcce \ud835\udcb9\ud835\udc5c\ud835\udcc1\ud835\udcc1\ud835\udcb6\ud835\udcc7 \ud835\udcb7\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcc8 \ud83d\udcb5\ud83c\udf35", 
+   "notifications": false, 
+   "url": "https://t.co/L8ahdcAG0R", 
+   "created_at": "Sun Dec 14 18:14:50 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 22:07:19 +0000 2019", 
+  "Text": "30- Birdman or (The Unexpected Virtue of Ignorance) (2014)\nDirector: Alejandro G. I\u00f1\u00e1rritu https://t.co/bxKEziN0iz", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/ywankos/status/1103779185376534533/photo/1", 
+     "display_url": "pic.twitter.com/bxKEziN0iz", 
+     "url": "https://t.co/bxKEziN0iz", 
+     "media_url_https": "https://pbs.twimg.com/media/D1FpT55WoAAJ71w.jpg", 
+     "id_str": "1103779174362292224", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 458
+      }, 
+      "large": {
+       "h": 1000, 
+       "resize": "fit", 
+       "w": 674
+      }, 
+      "medium": {
+       "h": 1000, 
+       "resize": "fit", 
+       "w": 674
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      91, 
+      114
+     ], 
+     "type": "photo", 
+     "id": 1103779174362292224, 
+     "media_url": "http://pbs.twimg.com/media/D1FpT55WoAAJ71w.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104405546596163584": {
+  "Lang": "th", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 192812388, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "DE4747", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045330697567653891/jJ18WxCW_normal.jpg", 
+   "profile_sidebar_fill_color": "0F020F", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 618, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "192812388", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 67767, 
+   "description": "\u0e04\u0e27\u0e32\u0e21\u0e44\u0e21\u0e48\u0e1e\u0e22\u0e32\u0e22\u0e32\u0e21\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e17\u0e33\u0e23\u0e49\u0e32\u0e22\u0e43\u0e04\u0e23", 
+   "friends_count": 240, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1045330697567653891/jJ18WxCW_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/192812388/1546005409", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "THEKallapangha", 
+   "lang": "th", 
+   "profile_background_tile": true, 
+   "favourites_count": 7879, 
+   "name": "\u0e01\u0e25\u0e1b\u0e2b", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Sep 20 06:28:21 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sat Mar 09 15:36:15 +0000 2019", 
+  "Text": "Birdman or (The Unexpected Virtue of Ignorance) \u0e14\u0e35\u0e21\u0e32\u0e01\u0e01\u0e01\u0e01\u0e01\u0e01\u0e01\u0e2b\u0e2b\u0e01\u0e2b\u0e2b\u0e2b\u0e01\u0e01\u0e01\u0e01 \u0e14\u0e35\u0e08\u0e19\u0e15\u0e01\u0e43\u0e08 \u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e40\u0e2d\u0e47\u0e14\u0e19\u0e2d\u0e23\u0e4c\u0e01\u0e31\u0e1a\u0e40\u0e2d\u0e47\u0e21\u0e21\u0e32\u0e2a\u0e42\u2026 https://t.co/i31uE9Mw4q", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/i31uE9Mw4q", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104405546596163584", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105613625098756096": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 131617926, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "DE8321", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095358620454268928/0sedAj85_normal.jpg", 
+   "profile_sidebar_fill_color": "415294", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GZ2smu5nnQ", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://instagram.com/jomirami", 
+       "display_url": "instagram.com/jomirami"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1948, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "131617926", 
+   "profile_background_color": "F58EA8", 
+   "listed_count": 18, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 69453, 
+   "description": "s\u00e9 llorar", 
+   "friends_count": 1858, 
+   "location": "lima", 
+   "profile_link_color": "111111", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095358620454268928/0sedAj85_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/131617926/1500344084", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "mercurialdeath", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 23181, 
+   "name": "jomirami", 
+   "notifications": false, 
+   "url": "https://t.co/GZ2smu5nnQ", 
+   "created_at": "Sat Apr 10 20:36:17 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Tue Mar 12 23:36:44 +0000 2019", 
+  "Text": "Birdman or (The unexpected virtue of ignorance) (2014)\ndirected by Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu https://t.co/I3kk5zv5Cy", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/mercurialdeath/status/1105613625098756096/photo/1", 
+     "display_url": "pic.twitter.com/I3kk5zv5Cy", 
+     "url": "https://t.co/I3kk5zv5Cy", 
+     "media_url_https": "https://pbs.twimg.com/media/D1ftueLX0AEBpKV.jpg", 
+     "id_str": "1105613616173273089", 
+     "sizes": {
+      "large": {
+       "h": 640, 
+       "resize": "fit", 
+       "w": 1136
+      }, 
+      "small": {
+       "h": 383, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 640, 
+       "resize": "fit", 
+       "w": 1136
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      95, 
+      118
+     ], 
+     "type": "photo", 
+     "id": 1105613616173273089, 
+     "media_url": "http://pbs.twimg.com/media/D1ftueLX0AEBpKV.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104817698066915329": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 107446125, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000771290071/cb58a7a04016d806dc9f76b931b84759_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/0VQIXT91wY", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://mtjf.co", 
+       "display_url": "mtjf.co"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 158, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "107446125", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 315, 
+   "description": "Founder, MTJF: More Than Just Friends", 
+   "friends_count": 28, 
+   "location": "Pune,Maharashtra", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000771290071/cb58a7a04016d806dc9f76b931b84759_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/107446125/1438978535", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "thesangramkakad", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 145, 
+   "name": "Sangram Kakad", 
+   "notifications": false, 
+   "url": "https://t.co/0VQIXT91wY", 
+   "created_at": "Fri Jan 22 15:50:39 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sun Mar 10 18:54:00 +0000 2019", 
+  "Text": "\"And did you get what you wanted from this life, even so? \"\n\n\"I did.\"\n\n\"And what did you want?\"\n\n\"To call myself be\u2026 https://t.co/sqMN8dxnk0", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/sqMN8dxnk0", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104817698066915329", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103749146501099520": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 799209765796806656, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094775958748495873/MAQk833V_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 52, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "799209765796806656", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3501, 
+   "description": "I still don't know why Seymour Glass killed himself", 
+   "friends_count": 55, 
+   "location": "E.T.A", 
+   "profile_link_color": "C97564", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1094775958748495873/MAQk833V_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/799209765796806656/1549324323", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "puhhhhhdgie", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6412, 
+   "name": "God's perfect asshole", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Nov 17 11:17:11 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 20:07:57 +0000 2019", 
+  "Text": "Birdman or (the unexpected virtue of ignorance) https://t.co/oBOriwf6ND", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/puhhhhhdgie/status/1103749146501099520/photo/1", 
+     "display_url": "pic.twitter.com/oBOriwf6ND", 
+     "url": "https://t.co/oBOriwf6ND", 
+     "media_url_https": "https://pbs.twimg.com/media/D1FNxLqWwAAI1DG.jpg", 
+     "id_str": "1103748891021852672", 
+     "sizes": {
+      "small": {
+       "h": 287, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 405, 
+       "resize": "fit", 
+       "w": 960
+      }, 
+      "medium": {
+       "h": 405, 
+       "resize": "fit", 
+       "w": 960
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      48, 
+      71
+     ], 
+     "type": "photo", 
+     "id": 1103748891021852672, 
+     "media_url": "http://pbs.twimg.com/media/D1FNxLqWwAAI1DG.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104212609555984386": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3184660787, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099798015118925825/pFsYWFmo_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 43, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3184660787", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 559, 
+   "description": "Lover of all arts. Anderson, Tarantino, Inarritu, Amy Adams, and Mad Men. Coffee shops and music nights.", 
+   "friends_count": 113, 
+   "location": "Grand Rapids, MI", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099798015118925825/pFsYWFmo_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3184660787/1545976178", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "screenjunkymatt", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3848, 
+   "name": "Matthew Boulter", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Apr 19 20:48:12 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sat Mar 09 02:49:36 +0000 2019", 
+  "Text": "(I\u2019ll stick to theatrical and go in release order)\n\n1. Boyhood\n2. Interstellar \n3. Birdman (Or The Unexpected Virtu\u2026 https://t.co/BwVtJpLV3E", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/BwVtJpLV3E", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104212609555984386", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103378670700429312": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1098339931829747713, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098341655365726211/uM7wrORD_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 9, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1098339931829747713", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 618, 
+   "description": "", 
+   "friends_count": 0, 
+   "location": "United States", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098341655365726211/uM7wrORD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098339931829747713/1550700039", 
+   "profile_background_image_url": null, 
+   "screen_name": "movieposters3", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10, 
+   "name": "movieposters", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Feb 20 21:53:40 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 19:35:49 +0000 2019", 
+  "Text": "Birdman Or The Unexpected Virtue Of Ignorance (2014) https://t.co/t5IBZeMJBC", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/movieposters3/status/1103378670700429312/photo/1", 
+     "display_url": "pic.twitter.com/t5IBZeMJBC", 
+     "url": "https://t.co/t5IBZeMJBC", 
+     "media_url_https": "https://pbs.twimg.com/media/D0_9DSzWwAAIuP9.jpg", 
+     "id_str": "1103378666757734400", 
+     "sizes": {
+      "small": {
+       "h": 281, 
+       "resize": "fit", 
+       "w": 179
+      }, 
+      "large": {
+       "h": 281, 
+       "resize": "fit", 
+       "w": 179
+      }, 
+      "medium": {
+       "h": 281, 
+       "resize": "fit", 
+       "w": 179
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      53, 
+      76
+     ], 
+     "type": "photo", 
+     "id": 1103378666757734400, 
+     "media_url": "http://pbs.twimg.com/media/D0_9DSzWwAAIuP9.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103298578452267009": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 947293770059534336, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/954336143180476416/ibkDiBi0_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/sTCOSwHqmN", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://leret-moreaupatrick.blogspot.com/", 
+       "display_url": "leret-moreaupatrick.blogspot.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 55, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "947293770059534336", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6662, 
+   "description": "Mis recomendaciones del cine actual internacional. S\u00edgueme y te sigo. RT masivo #Gabriel #Leret #Cine", 
+   "friends_count": 28, 
+   "location": "", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/954336143180476416/ibkDiBi0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/947293770059534336/1516366563", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "patrickalcine", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 223, 
+   "name": "Cine internacional con Gabriel Leret", 
+   "notifications": false, 
+   "url": "https://t.co/sTCOSwHqmN", 
+   "created_at": "Sun Dec 31 02:30:09 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 14:17:34 +0000 2019", 
+  "Text": "RT @UnoPeliculas: #PremiosOscar \"Birdman o (la inesperada virtud de la ignorancia) \" (Birdman or (The Unexpected Virtue of Ignorance)) fue\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 436740200, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "436740200", 
+     "screen_name": "UnoPeliculas", 
+     "name": "UnoPeliculas"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      18, 
+      31
+     ], 
+     "text": "PremiosOscar"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104937083779596288": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 324457103, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090311040749977602/-VJSU4CY_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2297, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "324457103", 
+   "profile_background_color": "000000", 
+   "listed_count": 33, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1461, 
+   "description": "I'm like Tyler Durden if he didn't have the Ed Norton half... 100% Twisted.", 
+   "friends_count": 76, 
+   "location": "NEW YORK CITY... THE BIG APPLE", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090311040749977602/-VJSU4CY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/324457103/1534442785", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BrianJWooster", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5675, 
+   "name": "Keven.", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jun 26 17:10:35 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Mon Mar 11 02:48:24 +0000 2019", 
+  "Text": "The most famous superheroes of all time\n1. Aquaman\n2. Deadpool\n3. Harley Quinn\n4. The bad guy from black panther bu\u2026 https://t.co/nmlqcri9fM", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/nmlqcri9fM", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104937083779596288", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106035063026642944": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1716667273, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091238210309476352/-T1ksxls_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/b9BHB9uqxq", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://YouTube.com/ScottSullivanTV", 
+       "display_url": "YouTube.com/ScottSullivanTV"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 245, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1716667273", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 85, 
+   "description": "\ud83c\udfacFilmmaker \ud83c\udf7fMovie Lover \ud83c\udfd5Adventurer", 
+   "friends_count": 95, 
+   "location": "Clovis, CA", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1091238210309476352/-T1ksxls_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716667273/1549997747", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ScottSullivanTV", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5976, 
+   "name": "Scott Sullivan", 
+   "notifications": false, 
+   "url": "https://t.co/b9BHB9uqxq", 
+   "created_at": "Sat Aug 31 19:52:06 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 14 03:31:22 +0000 2019", 
+  "Text": "Imagine This: A horror film that appears as one complete shot, to the likes of Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu's BIRDMA\u2026 https://t.co/1NeQK743J9", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/1NeQK743J9", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106035063026642944", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103561470279892992": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1015735385492684800, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016344721843806208/SKDu3Dyn_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/1VGhMSUAzE", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.umfilmede.com", 
+       "display_url": "umfilmede.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 24, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1015735385492684800", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4062, 
+   "description": "Frases de filmes, atores, novidades, curiosidades e muito mais...", 
+   "friends_count": 13, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1016344721843806208/SKDu3Dyn_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015735385492684800/1531151255", 
+   "profile_background_image_url": null, 
+   "screen_name": "umfilmede", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "UmFilmeDe", 
+   "notifications": false, 
+   "url": "https://t.co/1VGhMSUAzE", 
+   "created_at": "Sat Jul 07 23:12:42 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 07:42:12 +0000 2019", 
+  "Text": "#PremiosOscar \"Birdman or (The Unexpected Virtue of Ignorance)\" (Birdman or (The Unexpected Virtue of Ignorance)) f\u2026 https://t.co/UFNw0peFLI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      0, 
+      13
+     ], 
+     "text": "PremiosOscar"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/UFNw0peFLI", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103561470279892992", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106314540516552706": {
+  "Lang": "en", 
+  "Place": {
+   "full_name": "Sheffield, England", 
+   "url": "https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json", 
+   "country": "United Kingdom", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       -1.573648, 
+       53.309898
+      ], 
+      [
+       -1.325576, 
+       53.309898
+      ], 
+      [
+       -1.325576, 
+       53.4564311
+      ], 
+      [
+       -1.573648, 
+       53.4564311
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "GB", 
+   "attributes": {}, 
+   "id": "07e9c7d1954fff64", 
+   "name": "Sheffield"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2435437579, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068884947879018497/_5Ndsa8__normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/QZlBxlmg0a", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.serenbooks.com/author/ben-wilkinson", 
+       "display_url": "serenbooks.com/author/ben-wil\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1378, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2435437579", 
+   "profile_background_color": "C7A322", 
+   "listed_count": 25, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2937, 
+   "description": "Writer. @Guardian poetry critic. Lecturer. Amateur distance runner. Shortlisted for @BoltonUni Early Career Researcher of the Year 2018-19.", 
+   "friends_count": 915, 
+   "location": "Sheffield, UK", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1068884947879018497/_5Ndsa8__normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2435437579/1504718197", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "BenWilko85", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4658, 
+   "name": "Dr Ben Wilkinson", 
+   "notifications": false, 
+   "url": "https://t.co/QZlBxlmg0a", 
+   "created_at": "Wed Apr 09 13:09:24 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 14 22:01:55 +0000 2019", 
+  "Text": "\u201cThere's a douchebag born every minute, that was P.T. Barnum's premise when he invented the circus, and nothing muc\u2026 https://t.co/Zjx33h4ghs", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Zjx33h4ghs", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106314540516552706", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105091302151065600": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 495069944, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Twzwl7bOLq", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.dearcastandcrew.com", 
+       "display_url": "dearcastandcrew.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 18327, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "495069944", 
+   "profile_background_color": "9BA4A8", 
+   "listed_count": 316, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61747, 
+   "description": "Open-letter film reviews, essays and exchanges.", 
+   "friends_count": 5151, 
+   "location": "Ottawa, Ontario", 
+   "profile_link_color": "28C3F7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/495069944/1411410195", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DearCastandCrew", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 750, 
+   "name": "Dear Cast and Crew", 
+   "notifications": false, 
+   "url": "http://t.co/Twzwl7bOLq", 
+   "created_at": "Fri Feb 17 15:25:51 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Mon Mar 11 13:01:12 +0000 2019", 
+  "Text": "The #actors were required to perform up to 15 pages of dialogue at a time while hitting precisely choreographed mar\u2026 https://t.co/pm8Sw2sYTC", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      4, 
+      11
+     ], 
+     "text": "actors"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/pm8Sw2sYTC", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105091302151065600", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104534888429035520": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3220842294, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085303621909123075/JQXetPFC_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1641, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3220842294", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5166, 
+   "description": "Fuck'n Fine arts\ud83d\udd25\n\n#Arcitecture.                              #Real_madrid         #Amr_diab \ud83d\udc7b\u26bd\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ninstagram:Hatem_ali23", 
+   "friends_count": 358, 
+   "location": "damnhour ", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1085303621909123075/JQXetPFC_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3220842294/1544643657", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "hatemali231", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 955, 
+   "name": "\u062d\u0627\u062a\u0650\u0645", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed May 20 01:23:16 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sun Mar 10 00:10:13 +0000 2019", 
+  "Text": "I rated Birdman or (The Unexpected Virtue of Ignorance)\u00a0(2014) 9/10\nhttps://t.co/3mWgvCUHtJ", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/3mWgvCUHtJ", 
+     "indices": [
+      68, 
+      91
+     ], 
+     "expanded_url": "https://www.imdb.com/title/tt2562232/", 
+     "display_url": "imdb.com/title/tt256223\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103371190528327681": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 4039662471, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087624084463194113/xhRNZq_m_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 19, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "4039662471", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 80, 
+   "description": "anything can happen at the night show", 
+   "friends_count": 178, 
+   "location": "Houston, TX", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087624084463194113/xhRNZq_m_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4039662471/1538769646", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "zynpdincerr", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 556, 
+   "name": "zeynep aka kezo hunter", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Oct 25 15:18:04 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 19:06:06 +0000 2019", 
+  "Text": "@MovieGrafMG Birdman or The Unexpected Virtue of Ignorance (2014) https://t.co/BBaN67hoBF", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2989535037, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "2989535037", 
+     "screen_name": "MovieGrafMG", 
+     "name": "Movie Graf"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/zynpdincerr/status/1103371190528327681/photo/1", 
+     "display_url": "pic.twitter.com/BBaN67hoBF", 
+     "url": "https://t.co/BBaN67hoBF", 
+     "media_url_https": "https://pbs.twimg.com/media/D0_2PyPWwAIsdEM.jpg", 
+     "id_str": "1103371184773709826", 
+     "sizes": {
+      "small": {
+       "h": 369, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 408, 
+       "resize": "fit", 
+       "w": 751
+      }, 
+      "medium": {
+       "h": 408, 
+       "resize": "fit", 
+       "w": 751
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      66, 
+      89
+     ], 
+     "type": "photo", 
+     "id": 1103371184773709826, 
+     "media_url": "http://pbs.twimg.com/media/D0_2PyPWwAIsdEM.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103289982431756288": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 436740200, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/957270331185598465/1bjwEJz2_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/MWCSgcPVCn", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.unopeliculas.com/", 
+       "display_url": "unopeliculas.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 9577, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "436740200", 
+   "profile_background_color": "00070A", 
+   "listed_count": 26, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21930, 
+   "description": "Frases de Pel\u00edculas, actores, noticias, curiosidades y mucho mas...", 
+   "friends_count": 417, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/957270331185598465/1bjwEJz2_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/436740200/1517067009", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "UnoPeliculas", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 186, 
+   "name": "UnoPeliculas", 
+   "notifications": false, 
+   "url": "http://t.co/MWCSgcPVCn", 
+   "created_at": "Wed Dec 14 14:25:01 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 13:43:24 +0000 2019", 
+  "Text": "#PremiosOscar \"Birdman o (la inesperada virtud de la ignorancia) \" (Birdman or (The Unexpected Virtue of Ignorance)\u2026 https://t.co/jly9dd7ABq", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      0, 
+      13
+     ], 
+     "text": "PremiosOscar"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/jly9dd7ABq", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103289982431756288", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105131537043992576": {
+  "Lang": "ro", 
+  "Place": {
+   "full_name": "Florian\u00f3polis, Brazil", 
+   "url": "https://api.twitter.com/1.1/geo/id/c44302d542084bfe.json", 
+   "country": "Brazil", 
+   "place_type": "city", 
+   "bounding_box": {
+    "type": "Polygon", 
+    "coordinates": [
+     [
+      [
+       -48.6103127, 
+       -27.8389356
+      ], 
+      [
+       -48.3474853, 
+       -27.8389356
+      ], 
+      [
+       -48.3474853, 
+       -27.3804458
+      ], 
+      [
+       -48.6103127, 
+       -27.3804458
+      ]
+     ]
+    ]
+   }, 
+   "contained_within": [], 
+   "country_code": "BR", 
+   "attributes": {}, 
+   "id": "c44302d542084bfe", 
+   "name": "Florian\u00f3polis"
+  }, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3369830956, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103469847554465792/e7kik7qM_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/1QZALsSCWW", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/isismilks", 
+       "display_url": "curiouscat.me/isismilks"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 536, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3369830956", 
+   "profile_background_color": "000000", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14457, 
+   "description": "gosto de filmes e de esmagar uns fascistas", 
+   "friends_count": 542, 
+   "location": "Florian\u00f3polis, Brasil", 
+   "profile_link_color": "7FDBB6", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103469847554465792/e7kik7qM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3369830956/1551922664", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "isismilks", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 12570, 
+   "name": "\u00edsis", 
+   "notifications": false, 
+   "url": "https://t.co/1QZALsSCWW", 
+   "created_at": "Fri Jul 10 20:51:38 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Mon Mar 11 15:41:05 +0000 2019", 
+  "Text": "Birdman or The Unexpected Virtue of Ignorance (2014)\n\u2022 Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu https://t.co/cfLxyzMKsl", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/isismilks/status/1105131537043992576/photo/1", 
+     "display_url": "pic.twitter.com/cfLxyzMKsl", 
+     "url": "https://t.co/cfLxyzMKsl", 
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1Y27m-XQAEzaSZ.jpg", 
+     "id_str": "1105131156268335105", 
+     "sizes": {
+      "large": {
+       "h": 270, 
+       "resize": "fit", 
+       "w": 500
+      }, 
+      "small": {
+       "h": 270, 
+       "resize": "fit", 
+       "w": 500
+      }, 
+      "medium": {
+       "h": 270, 
+       "resize": "fit", 
+       "w": 500
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      83, 
+      106
+     ], 
+     "type": "photo", 
+     "id": 1105131156268335105, 
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/D1Y27m-XQAEzaSZ.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103169116016398336": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 957771682999078912, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/971541563322007553/Kq1bo-vW_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 85, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "957771682999078912", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5819, 
+   "description": "Quotes of Movies, actors, news, curiosities and more ...", 
+   "friends_count": 453, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/971541563322007553/Kq1bo-vW_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/957771682999078912/1520468863", 
+   "profile_background_image_url": null, 
+   "screen_name": "OnefilmsMovies", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 3, 
+   "name": "OneMovies", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jan 29 00:25:38 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 05:43:07 +0000 2019", 
+  "Text": "#AcademyAwards \"Birdman or (The Unexpected Virtue of Ignorance)\" was the winner of the Academy Awards for Best Pict\u2026 https://t.co/3MVRcc5cIb", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      0, 
+      14
+     ], 
+     "text": "AcademyAwards"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/3MVRcc5cIb", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103169116016398336", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105344915519619072": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 21277420, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "0C3E53", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356965539/zqv7q6cqlwgpnnnjtp6k_normal.jpeg", 
+   "profile_sidebar_fill_color": "FFF7CC", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/D2WZ9Pix9j", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.facebook.com/cloudmv", 
+       "display_url": "facebook.com/cloudmv"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "http://t.co/di24aBT6Qf", 
+       "indices": [
+        45, 
+        67
+       ], 
+       "expanded_url": "http://www.reverbnation.com/#!/marcosvillanueva", 
+       "display_url": "reverbnation.com/#!/marcosvilla\u2026"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 570, 
+   "profile_sidebar_border_color": "F2E195", 
+   "id_str": "21277420", 
+   "profile_background_color": "BADFCD", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 22493, 
+   "description": "Check out my music, my life...my world at\r\n\r\nhttp://t.co/di24aBT6Qf\r\n\r\n\r\nand add me on facebook!", 
+   "friends_count": 2019, 
+   "location": "Lima", 
+   "profile_link_color": "FF0000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2356965539/zqv7q6cqlwgpnnnjtp6k_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif", 
+   "screen_name": "Cloudmv", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 159, 
+   "name": "Marcos A Villanueva", 
+   "notifications": false, 
+   "url": "http://t.co/D2WZ9Pix9j", 
+   "created_at": "Thu Feb 19 04:59:30 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Tue Mar 12 05:48:58 +0000 2019", 
+  "Text": "I rated Birdman or (The Unexpected Virtue of Ignorance) (2014) 7/10  #IMDb https://t.co/PUXQBR9Vik", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      69, 
+      74
+     ], 
+     "text": "IMDb"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/PUXQBR9Vik", 
+     "indices": [
+      75, 
+      98
+     ], 
+     "expanded_url": "http://www.imdb.com/title/tt2562232", 
+     "display_url": "imdb.com/title/tt2562232"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103649572176519168": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1030281502096019456, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079162560228798465/gxHhso_2_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1030281502096019456", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17, 
+   "description": "GCSU co 2019", 
+   "friends_count": 231, 
+   "location": "Milledgeville, GA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1079162560228798465/gxHhso_2_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030281502096019456/1546127380", 
+   "profile_background_image_url": null, 
+   "screen_name": "wcs_0297", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5258, 
+   "name": "William Smith", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Aug 17 02:33:46 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 13:32:17 +0000 2019", 
+  "Text": "@OscarRunnerUp Moonlight\n12 Years a Slave\nBirdman or (The Unexpected Virtue of Ignorance)\nSpotlight\nThe Shape of Wa\u2026 https://t.co/F1P6GVrj6m", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 972966256633700352, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "972966256633700352", 
+     "screen_name": "OscarRunnerUp", 
+     "name": "And the Runner-Up Is"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/F1P6GVrj6m", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103649572176519168", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104767361041747968": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1035190174374920192, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035239957835726848/1W6yQ5jD_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 25, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1035190174374920192", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1584, 
+   "description": "a baby bot. mention me for a captioned photo.", 
+   "friends_count": 110, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1035239957835726848/1W6yQ5jD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035190174374920192/1535656785", 
+   "profile_background_image_url": null, 
+   "screen_name": "moviebott", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 35, 
+   "name": "movie bot", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Aug 30 15:39:05 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sun Mar 10 15:33:59 +0000 2019", 
+  "Text": "Birdman or (The Unexpected Virtue of Ignorance) (2014) https://t.co/cICEiSKyjx", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/moviebott/status/1104767361041747968/photo/1", 
+     "display_url": "pic.twitter.com/cICEiSKyjx", 
+     "url": "https://t.co/cICEiSKyjx", 
+     "media_url_https": "https://pbs.twimg.com/media/D1TsD0_WkAARLEq.png", 
+     "id_str": "1104767359120740352", 
+     "sizes": {
+      "large": {
+       "h": 380, 
+       "resize": "fit", 
+       "w": 540
+      }, 
+      "small": {
+       "h": 380, 
+       "resize": "fit", 
+       "w": 540
+      }, 
+      "medium": {
+       "h": 380, 
+       "resize": "fit", 
+       "w": 540
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      55, 
+      78
+     ], 
+     "type": "photo", 
+     "id": 1104767359120740352, 
+     "media_url": "http://pbs.twimg.com/media/D1TsD0_WkAARLEq.png"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104112295532249088": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 477002762, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/969190087459262464/iuFgmAB1_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 377, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "477002762", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6831, 
+   "description": "\u201cOnly the very weak-minded refuse to be influenced by literature and poetry.\u201d \n\u2015Cassandra Clare", 
+   "friends_count": 1496, 
+   "location": "Delhi", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/969190087459262464/iuFgmAB1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/477002762/1490086158", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "kashish__sethi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 22361, 
+   "name": "Kashish Sethi", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jan 28 18:41:00 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 08 20:10:59 +0000 2019", 
+  "Text": "45) Birdman or (The Unexpected Virtue of Ignorance) (2014) https://t.co/1J6nwqaEoq", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/kashish__sethi/status/1104112295532249088/photo/1", 
+     "display_url": "pic.twitter.com/1J6nwqaEoq", 
+     "url": "https://t.co/1J6nwqaEoq", 
+     "media_url_https": "https://pbs.twimg.com/media/D1KYQ-HX4AI5gLF.jpg", 
+     "id_str": "1104112275978444802", 
+     "sizes": {
+      "large": {
+       "h": 1163, 
+       "resize": "fit", 
+       "w": 1117
+      }, 
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 653
+      }, 
+      "medium": {
+       "h": 1163, 
+       "resize": "fit", 
+       "w": 1117
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      59, 
+      82
+     ], 
+     "type": "photo", 
+     "id": 1104112275978444802, 
+     "media_url": "http://pbs.twimg.com/media/D1KYQ-HX4AI5gLF.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104018180727435264": {
+  "Lang": "ja", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 114186965, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3C3940", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071747608689790983/Oz4wVJT1_normal.jpg", 
+   "profile_sidebar_fill_color": "CDD3EB", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 973, 
+   "profile_sidebar_border_color": "1928CF", 
+   "id_str": "114186965", 
+   "profile_background_color": "A0C8DE", 
+   "listed_count": 55, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 181915, 
+   "description": "\u3086\u3044\u3081\u3050\u305d\u3088/YSM/\u30c4\u30a4\u5ec3/\u6d0b\u697d\u6d0b\u753b\u6d0b\u30c9\u30e9\u30de \u203bRT\u975e\u8868\u793a\u63a8\u5968", 
+   "friends_count": 1794, 
+   "location": "\u3055\u304f\u3089\u5b66\u9662/Metallica/Kasabian/\u53ca\u5ddd\u5149\u535a", 
+   "profile_link_color": "6017BF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1071747608689790983/Oz4wVJT1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/114186965/1462903447", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "screen_name": "htm2235", 
+   "lang": "ja", 
+   "profile_background_tile": true, 
+   "favourites_count": 71709, 
+   "name": "htm\u2192\u3057\u3093\u3069\u3044", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Feb 14 13:08:18 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 08 13:57:00 +0000 2019", 
+  "Text": "Birdman  or (The Unexpected Virtue of Ignorance) https://t.co/s7j9J5vLsu \n\u9577\u56de\u3057\u3068\u8a00\u3048\u3070\u30d0\u30fc\u30c9\u30de\u30f3\u306e\u3053\u306e\u30b7\u30fc\u30f3\u304c\u3059\u3054\u3044\u826f\u304b\u3063\u305f", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/s7j9J5vLsu", 
+     "indices": [
+      49, 
+      72
+     ], 
+     "expanded_url": "https://youtu.be/n92Dlu4KBb8", 
+     "display_url": "youtu.be/n92Dlu4KBb8"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103639165306994688": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 805801531320606721, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092463038119071744/9_UjEvda_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 323, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "805801531320606721", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2589, 
+   "description": "damn shame", 
+   "friends_count": 227, 
+   "location": "Republic of the Philippines", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092463038119071744/9_UjEvda_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/805801531320606721/1546318919", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Cok_tobias", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6073, 
+   "name": "cok", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 05 15:50:30 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 12:50:56 +0000 2019", 
+  "Text": "What's your favorite superhero movie? \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nBirdman or (The Unexpected Virtue of Ignorance)\n.\n@ferrerascarlo \ud83d\ude02", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 843983095913099264, 
+     "indices": [
+      113, 
+      127
+     ], 
+     "id_str": "843983095913099264", 
+     "screen_name": "ferrerascarlo", 
+     "name": "chris"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103136910946521089": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 571904666, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105185368595263489/RhB8iOud_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/cUMFBbq5EM", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://Instagram.com/andreemtzz", 
+       "display_url": "Instagram.com/andreemtzz"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 803, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "571904666", 
+   "profile_background_color": "C3DDEB", 
+   "listed_count": 13, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 27528, 
+   "description": "futuro y actual escritor desempleado. temporada 19.", 
+   "friends_count": 220, 
+   "location": "en la pendeja", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105185368595263489/RhB8iOud_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/571904666/1549469759", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ilegalIyblonde", 
+   "lang": "en-gb", 
+   "profile_background_tile": true, 
+   "favourites_count": 139091, 
+   "name": "vndr\u00e9 mtz", 
+   "notifications": false, 
+   "url": "https://t.co/cUMFBbq5EM", 
+   "created_at": "Sat May 05 16:56:40 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 03:35:09 +0000 2019", 
+  "Text": "Birdman or (The Unexpected Virtue of Ignorance) (2014) dir. Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu https://t.co/oAox7OWuH2", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/ilegalIyblonde/status/1103136910946521089/photo/1", 
+     "display_url": "pic.twitter.com/oAox7OWuH2", 
+     "url": "https://t.co/oAox7OWuH2", 
+     "media_url_https": "https://pbs.twimg.com/media/D08hK5aWwAAUatA.jpg", 
+     "id_str": "1103136904822833152", 
+     "sizes": {
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 459
+      }, 
+      "large": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 691
+      }, 
+      "medium": {
+       "h": 1024, 
+       "resize": "fit", 
+       "w": 691
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      88, 
+      111
+     ], 
+     "type": "photo", 
+     "id": 1103136904822833152, 
+     "media_url": "http://pbs.twimg.com/media/D08hK5aWwAAUatA.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104118061890715649": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4600923863, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102375209993228289/e7OFS81m_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 54, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4600923863", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8830, 
+   "description": "#mixers #VIP #blink #blackjack", 
+   "friends_count": 138, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102375209993228289/e7OFS81m_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4600923863/1552525988", 
+   "profile_background_image_url": null, 
+   "screen_name": "perfectiongrl", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 500, 
+   "name": "salute", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 25 14:43:41 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 08 20:33:54 +0000 2019", 
+  "Text": "I rated Birdman or (The Unexpected Virtue of Ignorance) (2014) 8/10  #IMDb https://t.co/RmvyDOeZ5H", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      69, 
+      74
+     ], 
+     "text": "IMDb"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/RmvyDOeZ5H", 
+     "indices": [
+      75, 
+      98
+     ], 
+     "expanded_url": "http://www.imdb.com/title/tt2562232", 
+     "display_url": "imdb.com/title/tt2562232"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103570368059592705": {
+  "Lang": "ro", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 947293770059534336, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/954336143180476416/ibkDiBi0_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/sTCOSwHqmN", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://leret-moreaupatrick.blogspot.com/", 
+       "display_url": "leret-moreaupatrick.blogspot.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 55, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "947293770059534336", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6662, 
+   "description": "Mis recomendaciones del cine actual internacional. S\u00edgueme y te sigo. RT masivo #Gabriel #Leret #Cine", 
+   "friends_count": 28, 
+   "location": "", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/954336143180476416/ibkDiBi0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/947293770059534336/1516366563", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "patrickalcine", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 223, 
+   "name": "Cine internacional con Gabriel Leret", 
+   "notifications": false, 
+   "url": "https://t.co/sTCOSwHqmN", 
+   "created_at": "Sun Dec 31 02:30:09 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 08:17:33 +0000 2019", 
+  "Text": "RT @umfilmede: #PremiosOscar \"Birdman or (The Unexpected Virtue of Ignorance)\" (Birdman or (The Unexpected Virtue of Ignorance)) foi o venc\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1015735385492684800, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "1015735385492684800", 
+     "screen_name": "umfilmede", 
+     "name": "UmFilmeDe"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      15, 
+      28
+     ], 
+     "text": "PremiosOscar"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104938259782778880": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1102193393055268864, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102201337260007424/LPJWGoXH_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 7, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1102193393055268864", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 15, 
+   "description": "o tru", 
+   "friends_count": 28, 
+   "location": "im in space", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102201337260007424/LPJWGoXH_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102193393055268864/1551620253", 
+   "profile_background_image_url": null, 
+   "screen_name": "geezgavi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 131, 
+   "name": "gavi", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Mar 03 13:05:57 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Mon Mar 11 02:53:04 +0000 2019", 
+  "Text": "absolutely gorgeous \nfilm: birdman ( or the unexpected virtue of ignorance ) https://t.co/3vG6nOgXRv", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/geezgavi/status/1104938259782778880/photo/1", 
+     "display_url": "pic.twitter.com/3vG6nOgXRv", 
+     "url": "https://t.co/3vG6nOgXRv", 
+     "media_url_https": "https://pbs.twimg.com/media/D1WHe5aX0AcpmwI.jpg", 
+     "id_str": "1104938248466583559", 
+     "sizes": {
+      "large": {
+       "h": 1000, 
+       "resize": "fit", 
+       "w": 1375
+      }, 
+      "small": {
+       "h": 495, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "medium": {
+       "h": 873, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      77, 
+      100
+     ], 
+     "type": "photo", 
+     "id": 1104938248466583559, 
+     "media_url": "http://pbs.twimg.com/media/D1WHe5aX0AcpmwI.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103665727288967169": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 63456354, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037363165846102017/gJ4gC3xO_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/spyRHWdACv", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://mylastoscar.wordpress.com", 
+       "display_url": "mylastoscar.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 522, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "63456354", 
+   "profile_background_color": "131516", 
+   "listed_count": 61, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17771, 
+   "description": "Film | Writing | Figure Skating | \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "friends_count": 71, 
+   "location": "Philippines", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1037363165846102017/gJ4gC3xO_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/63456354/1546796804", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "carlosojano", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 7420, 
+   "name": "Juan Carlos Ojano", 
+   "notifications": false, 
+   "url": "http://t.co/spyRHWdACv", 
+   "created_at": "Thu Aug 06 11:47:53 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 14:36:29 +0000 2019", 
+  "Text": "@OscarRunnerUp 1. Spotlight\n2. Birdman Or (The Unexpected Virtue of Ignorance)\n3. 12 Years a Slave\n4. The Artist\n5.\u2026 https://t.co/M1n3hbl2i7", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 972966256633700352, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "972966256633700352", 
+     "screen_name": "OscarRunnerUp", 
+     "name": "And the Runner-Up Is"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/M1n3hbl2i7", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103665727288967169", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103838386287083521": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1098327261961310208, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098327586977894405/PQSARiIh_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 104, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1098327261961310208", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 92, 
+   "description": "A perfect essay title infers its thesis. And if the title\u2019s good enough, who needs the whole essay?", 
+   "friends_count": 533, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098327586977894405/PQSARiIh_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098327261961310208/1550704365", 
+   "profile_background_image_url": null, 
+   "screen_name": "FilmEssayTitle", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 93, 
+   "name": "Unwritten Film Essays", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Feb 20 21:03:19 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Fri Mar 08 02:02:34 +0000 2019", 
+  "Text": "Birdman or (The Unexpected Virtue of Ignorance) (2014)\n\n\u201cTruth Is Always Interesting: I Know Why the Caged Birdman\u2026 https://t.co/g54fc3hKov", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/g54fc3hKov", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103838386287083521", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103772169241190400": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 843983095913099264, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103609021695614976/UIjqSYba_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 487, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "843983095913099264", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4828, 
+   "description": "set your goal as high as you can so you can fall harder whenever you fail", 
+   "friends_count": 416, 
+   "location": "Wellston", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103609021695614976/UIjqSYba_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/843983095913099264/1543036270", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ferrerascarlo", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 20656, 
+   "name": "chris", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Mar 21 00:30:25 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 21:39:26 +0000 2019", 
+  "Text": "RT @Cok_tobias: What's your favorite superhero movie? \n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nBirdman or (The Unexpected Virtue of Ignorance)\n.\n@ferrerasc\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 805801531320606721, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "805801531320606721", 
+     "screen_name": "Cok_tobias", 
+     "name": "cok"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103133606443212802": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 289009852, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087337100926771200/6_AoMfMt_normal.jpg", 
+   "profile_sidebar_fill_color": "EBEBEB", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 177, 
+   "profile_sidebar_border_color": "EDEDED", 
+   "id_str": "289009852", 
+   "profile_background_color": "111114", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 878, 
+   "description": "Cartophile", 
+   "friends_count": 66, 
+   "location": "\ud83d\udc0e", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087337100926771200/6_AoMfMt_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/289009852/1550678095", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "aramburojs", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 587, 
+   "name": "Aramburo", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Apr 27 21:17:03 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Wed Mar 06 03:22:01 +0000 2019", 
+  "Text": "\u201cBirdman or the unexpected virtue of ignorance\u201d (A.Gonzalez I\u00f1\u00e1rritu-2015). Est\u00e1 en Netflix (y en mi ignorante opini\u00f3n, es p\u00e9sima)", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104819371728400384": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 495069944, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/Twzwl7bOLq", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://www.dearcastandcrew.com", 
+       "display_url": "dearcastandcrew.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 18327, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "495069944", 
+   "profile_background_color": "9BA4A8", 
+   "listed_count": 316, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61747, 
+   "description": "Open-letter film reviews, essays and exchanges.", 
+   "friends_count": 5151, 
+   "location": "Ottawa, Ontario", 
+   "profile_link_color": "28C3F7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/506618032018292739/Li3e4Ki4_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/495069944/1411410195", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "DearCastandCrew", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 750, 
+   "name": "Dear Cast and Crew", 
+   "notifications": false, 
+   "url": "http://t.co/Twzwl7bOLq", 
+   "created_at": "Fri Feb 17 15:25:51 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sun Mar 10 19:00:39 +0000 2019", 
+  "Text": "The actos were required to perform up to 15 pages of dialogue at a time while hitting precisely choreographed marks https://t.co/TXlqx98WlI", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/TXlqx98WlI", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "http://ow.ly/nZEa30nYMWq", 
+     "display_url": "ow.ly/nZEa30nYMWq"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103522239754964992": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 712787756511010816, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104498054466625537/FvC4Es2c_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 186, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "712787756511010816", 
+   "profile_background_color": "000000", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4479, 
+   "description": "strike me down, and i will become more powerful than you could possibly imagine filho da puta - obi wan kenobi", 
+   "friends_count": 753, 
+   "location": "a galaxy far, far away \ud83d\udef8", 
+   "profile_link_color": "133B3B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104498054466625537/FvC4Es2c_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/712787756511010816/1552167709", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "f_ulcrum", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 11168, 
+   "name": "luqui scaiu\u00f3lquer quer aliens em ahs9 \ud83d\udc7d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Mar 23 23:46:58 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Thu Mar 07 05:06:19 +0000 2019", 
+  "Text": "9- Birdman or (The Unexpected Virtue of Ignorance) (2014) https://t.co/I9cZWXcn9T", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/f_ulcrum/status/1103522239754964992/photo/1", 
+     "display_url": "pic.twitter.com/I9cZWXcn9T", 
+     "url": "https://t.co/I9cZWXcn9T", 
+     "media_url_https": "https://pbs.twimg.com/media/D1B_mS7XgAAah88.jpg", 
+     "id_str": "1103522204598370304", 
+     "sizes": {
+      "large": {
+       "h": 1777, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 459
+      }, 
+      "medium": {
+       "h": 1200, 
+       "resize": "fit", 
+       "w": 810
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      58, 
+      81
+     ], 
+     "type": "photo", 
+     "id": 1103522204598370304, 
+     "media_url": "http://pbs.twimg.com/media/D1B_mS7XgAAah88.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104785149114368000": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1395026497, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088565085130371074/Rixrqwc1_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/jrgU7wDpCn", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://twitch.tv/seemarshplay/videos", 
+       "display_url": "twitch.tv/seemarshplay/v\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 385, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1395026497", 
+   "profile_background_color": "000000", 
+   "listed_count": 31, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 53407, 
+   "description": "\ud83d\udd25\u26a1\ufe0fsound god\u26a1\ufe0f\ud83d\udd25 he/him. Let me make your podcast sound good. DM me for my Mastodon. icon from comic by @nedroid", 
+   "friends_count": 604, 
+   "location": "", 
+   "profile_link_color": "CF0000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1088565085130371074/Rixrqwc1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395026497/1541175175", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "notthemarsh", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 86760, 
+   "name": "Kingdom Marsh II Final Mix", 
+   "notifications": false, 
+   "url": "https://t.co/jrgU7wDpCn", 
+   "created_at": "Wed May 01 16:28:40 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)", 
+  "Date": "Sun Mar 10 16:44:40 +0000 2019", 
+  "Text": "@atomic_palmer starter pack:\n\nDaredevil \"Cut Man\"\nIt's Always Sunny in Philadelphia \"Charlie Work\"\nBirdman, or, (Th\u2026 https://t.co/8KeJoNfZPG", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1004385810576179200, 
+     "indices": [
+      0, 
+      14
+     ], 
+     "id_str": "1004385810576179200", 
+     "screen_name": "atomic_palmer", 
+     "name": "fishbowl #treygang"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/8KeJoNfZPG", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104785149114368000", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}

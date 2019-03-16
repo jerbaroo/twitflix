@@ -1,17 +1,33 @@
 .twitflix-tile {
-  animation: fadein 1.5s ease-in;
+  animation: fadein 1s ease-in;
   /* Almost black. */
   background-color: #080808;
   background-color: black;
-  z-index: 1000;
-}
-
-.twitflix-tile-fade-in {
-  animation: fadein 1s linear;
-  opacity: 1;
+  transition: all .01s linear;
+  z-index: 1;
 }
 
 @keyframes fadein {
   0% { opacity: 0 }
   100% { opacity: 1 }
+}
+
+.twitflix-tile-main {
+  display: flex;
+  height: inherit;
+}
+
+.twitflix-tile-scores {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+}
+
+.twitflix-tile-score {
+    text-align: center;
+}
+
+.twitflix-tile-graph {
+  flex-grow: 2;
 }

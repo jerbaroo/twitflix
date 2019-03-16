@@ -1,0 +1,3905 @@
+{
+ "1106578256982147072": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 6195402, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052167055447941120/7_CcSdoi_normal.jpg", 
+   "profile_sidebar_fill_color": "E0FF92", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 311, 
+   "profile_sidebar_border_color": "87BC44", 
+   "id_str": "6195402", 
+   "profile_background_color": "9AE4E8", 
+   "listed_count": 17, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 16354, 
+   "description": "", 
+   "friends_count": 752, 
+   "location": "Poole,  UK", 
+   "profile_link_color": "0000FF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1052167055447941120/7_CcSdoi_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/6195402/1401229956", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rburns", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 32182, 
+   "name": "Ron Burns", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon May 21 09:51:23 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:50 +0000 2019", 
+  "Text": "RT @Amandajeyanam: The Right Wing terrorist who massacred the worshippers in Christchurch claims Candace Owen as his key influencer. @Jacob\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2286567210, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2286567210", 
+     "screen_name": "Amandajeyanam", 
+     "name": "Amanda Jeyaretnam \ud83d\udd36"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578284911972353": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1195350794, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/741112573915848704/2HcwILH8_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 71, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1195350794", 
+   "profile_background_color": "000000", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1566, 
+   "description": "This world is white no longer, and it will never be white again", 
+   "friends_count": 646, 
+   "location": "West Lafayette, IN", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/741112573915848704/2HcwILH8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "MukuruAndrew", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2135, 
+   "name": "College Reform", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Feb 19 00:17:57 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:57 +0000 2019", 
+  "Text": "RT @Arsenal: \"I needed a mask which represents me. It\u2019s the Black Panther and in Africa, in Gabon, we call the national team the Black Pant\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 34613288, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "34613288", 
+     "screen_name": "Arsenal", 
+     "name": "Arsenal FC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577999426543618": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 838636040, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/881927579569082368/wNz0w1cQ_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 750, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "838636040", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 128575, 
+   "description": "Retired business owner; designer.", 
+   "friends_count": 237, 
+   "location": "Rancho Mirage CA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/881927579569082368/wNz0w1cQ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "LPeterP", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 349496, 
+   "name": "leon pascucci", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Sep 21 22:01:35 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:48 +0000 2019", 
+  "Text": "@SethAbramson Seth, you nailed it some time ago, stating this \u201cMueller is almost done\u201d as propaganda from the Trump\u2026 https://t.co/8Jjuly2UOs", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 3223426134, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "3223426134", 
+     "screen_name": "SethAbramson", 
+     "name": "Seth Abramson"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/8Jjuly2UOs", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577999426543618", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577999489650691": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1047904140, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "9EEFAC", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095132020039139334/9d5N41hC_normal.jpg", 
+   "profile_sidebar_fill_color": "C7FF88", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1344, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1047904140", 
+   "profile_background_color": "6C715B", 
+   "listed_count": 10, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21881, 
+   "description": "Art + Tech Enthusiast . \u271d\ufe0f", 
+   "friends_count": 876, 
+   "location": "", 
+   "profile_link_color": "397CF0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095132020039139334/9d5N41hC_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1047904140/1523481067", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "sam_tells_em", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 1402, 
+   "name": "Sampson", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Dec 30 13:45:49 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:48 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577906736746500": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 890492160, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/896488841363636224/gJ2XvSB1_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/LBPAJiJzs4", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://bauchitraffic.com", 
+       "display_url": "bauchitraffic.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 308, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "890492160", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 10, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 21618, 
+   "description": "Co-Founder, CEO/MD @SoyagBarber, ESTATE MANAGER & BARBER ENTERPRENEUR  #GoGetter #Kaze", 
+   "friends_count": 169, 
+   "location": "On The Road To Redemptiom", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/896488841363636224/gJ2XvSB1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/890492160/1518709731", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BauchiOracle", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9107, 
+   "name": "Comr.Nuruddeen Yusuf", 
+   "notifications": false, 
+   "url": "https://t.co/LBPAJiJzs4", 
+   "created_at": "Fri Oct 19 07:36:09 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:26 +0000 2019", 
+  "Text": "RT @Arsenal: \"I needed a mask which represents me. It\u2019s the Black Panther and in Africa, in Gabon, we call the national team the Black Pant\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 34613288, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "34613288", 
+     "screen_name": "Arsenal", 
+     "name": "Arsenal FC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578090510176261": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 483201592, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "663B12", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067330417609588736/UuzyuoSr_normal.jpg", 
+   "profile_sidebar_fill_color": "DAECF4", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 175, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "483201592", 
+   "profile_background_color": "C6E2EE", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 38834, 
+   "description": "", 
+   "friends_count": 588, 
+   "location": "", 
+   "profile_link_color": "1F98C7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1067330417609588736/UuzyuoSr_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/483201592/1459568829", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "screen_name": "angelinnaroque", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 12610, 
+   "name": "Send Pizza \ud83c\udf55\ud83c\udf55\ud83c\udf55", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Feb 04 19:06:32 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:10 +0000 2019", 
+  "Text": "RT @cubewatermelon: Overheard on the elevator\nLittle kid: \"It was the happy mask salesman\"\nParents: \"Who's he? What does he do?\"\nKid, in a\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 14483158, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "14483158", 
+     "screen_name": "cubewatermelon", 
+     "name": "Mary Cagle @ECCC 2002"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578081978945536": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2331724544, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/939190965117612035/29kKSeQi_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1139, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2331724544", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11710, 
+   "description": "Just an ordinary guy trying to do something extraordinary", 
+   "friends_count": 1312, 
+   "location": "South Africa", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/939190965117612035/29kKSeQi_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2331724544/1497782923", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Maserole_II", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19506, 
+   "name": "Mash", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Feb 07 11:35:31 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:08 +0000 2019", 
+  "Text": "RT @Arsenal: \"I needed a mask which represents me. It\u2019s the Black Panther and in Africa, in Gabon, we call the national team the Black Pant\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 34613288, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "34613288", 
+     "screen_name": "Arsenal", 
+     "name": "Arsenal FC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578217752772609": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 4332016823, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088873891479588864/CQxuKrU5_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/XUj6FLfOwS", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://twitch.tv/cashewsan", 
+       "display_url": "twitch.tv/cashewsan"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 80, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "4332016823", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 26208, 
+   "description": "Cats | Politics | Art | I\u2019m sorry if nude art appears on your feed | $Cashewsan", 
+   "friends_count": 186, 
+   "location": "Campbellsville, KY", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1088873891479588864/CQxuKrU5_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4332016823/1542927592", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Cashewsan", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 57444, 
+   "name": "\u25cbCasey", 
+   "notifications": false, 
+   "url": "https://t.co/XUj6FLfOwS", 
+   "created_at": "Mon Nov 30 19:31:21 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:40 +0000 2019", 
+  "Text": "@Kittywarrior514 I think I\u2019m getting the Rabbit mask first though, something simple for my first time", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2421457776, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "2421457776", 
+     "screen_name": "Kittywarrior514", 
+     "name": "NOT Dylan"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577494398943243": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 259390521, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078396059213275137/e998DCZm_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 663, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "259390521", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 16553, 
+   "description": "", 
+   "friends_count": 642, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1078396059213275137/e998DCZm_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/259390521/1550431680", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "danday09", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 22591, 
+   "name": "\ud83e\udd8b", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Mar 01 20:36:40 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:48 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577755687276546": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 243836495, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "663B12", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059034023001903104/_U5B8ABF_normal.jpg", 
+   "profile_sidebar_fill_color": "DAECF4", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3077, 
+   "profile_sidebar_border_color": "C6E2EE", 
+   "id_str": "243836495", 
+   "profile_background_color": "C6E2EE", 
+   "listed_count": 70, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 165735, 
+   "description": "I really am just curious in Brooklyn...Retweet may mean anything..", 
+   "friends_count": 3442, 
+   "location": "Brooklyn, NY USA", 
+   "profile_link_color": "1F98C7", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1059034023001903104/_U5B8ABF_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/243836495/1503063136", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+   "screen_name": "Brooklynwatch", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1621, 
+   "name": "I am a real human in Brooklyn", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jan 27 22:43:44 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:50 +0000 2019", 
+  "Text": "RT @Amandajeyanam: The Right Wing terrorist who massacred the worshippers in Christchurch claims Candace Owen as his key influencer. @Jacob\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2286567210, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2286567210", 
+     "screen_name": "Amandajeyanam", 
+     "name": "Amanda Jeyaretnam \ud83d\udd36"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578037578100737": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 1095159414741446657, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 118, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1095159414741446657", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4909, 
+   "description": "OLD LOVEGOD FAMILY & AMERICA", 
+   "friends_count": 47, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "Tmikey6", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3716, 
+   "name": "Tmikey", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Feb 12 03:15:26 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:58 +0000 2019", 
+  "Text": "RT @rghtwngextrmst: @TheBadDadder @realDonaldTrump Looks like the mask that Kate Spade's husband wore after her suicide.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 36703352, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "36703352", 
+     "screen_name": "rghtwngextrmst", 
+     "name": "Nancy"
+    }, 
+    {
+     "id": 826339456223498240, 
+     "indices": [
+      20, 
+      33
+     ], 
+     "id_str": "826339456223498240", 
+     "screen_name": "TheBadDadder", 
+     "name": "\u271d\ufe0f TheBadDadder \ud83c\uddfa\ud83c\uddf8"
+    }, 
+    {
+     "id": 25073877, 
+     "indices": [
+      34, 
+      50
+     ], 
+     "id_str": "25073877", 
+     "screen_name": "realDonaldTrump", 
+     "name": "Donald J. Trump"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578139508101120": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 412288038, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/882896333966913537/V4LuvH6c_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 549, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "412288038", 
+   "profile_background_color": "131516", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6683, 
+   "description": "Don\u2019t even talk too much\ud83e\udd2b", 
+   "friends_count": 393, 
+   "location": "Mannofield, Aberdeen", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/882896333966913537/V4LuvH6c_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/412288038/1547462983", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "JordanGray_96", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 9674, 
+   "name": "J\u00fcrgen", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Nov 14 14:04:20 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:22 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577575877509121": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 1006651983581929472, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 16, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1006651983581929472", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 681, 
+   "description": "", 
+   "friends_count": 28, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": null, 
+   "screen_name": "sandralacey17", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5084, 
+   "name": "sandra lacey", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jun 12 21:38:30 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:07 +0000 2019", 
+  "Text": "RT @Amandajeyanam: The Right Wing terrorist who massacred the worshippers in Christchurch claims Candace Owen as his key influencer. @Jacob\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2286567210, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2286567210", 
+     "screen_name": "Amandajeyanam", 
+     "name": "Amanda Jeyaretnam \ud83d\udd36"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577614460907520": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 297915262, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3E4415", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/815353853541490693/Kub-CyDu_normal.jpg", 
+   "profile_sidebar_fill_color": "99CC33", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 813, 
+   "profile_sidebar_border_color": "829D5E", 
+   "id_str": "297915262", 
+   "profile_background_color": "352726", 
+   "listed_count": 67, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 64095, 
+   "description": "Proofreader/Editor/Web developer/Writer. Working my way through @TheSfEP membership grades.", 
+   "friends_count": 2870, 
+   "location": "Yorkshire, European Union", 
+   "profile_link_color": "D02B55", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/815353853541490693/Kub-CyDu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/297915262/1354059222", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif", 
+   "screen_name": "Peter__Howells", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5995, 
+   "name": "PeteHowells", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri May 13 10:31:47 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:17 +0000 2019", 
+  "Text": "RT @Amandajeyanam: The Right Wing terrorist who massacred the worshippers in Christchurch claims Candace Owen as his key influencer. @Jacob\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2286567210, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2286567210", 
+     "screen_name": "Amandajeyanam", 
+     "name": "Amanda Jeyaretnam \ud83d\udd36"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578195929882624": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 704052947806769152, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082052372497682432/DxZVEyFY_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 24, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "704052947806769152", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2891, 
+   "description": "\ud83c\udf17", 
+   "friends_count": 77, 
+   "location": "Mars", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1082052372497682432/DxZVEyFY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/704052947806769152/1546816364", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JEVNNVEJ", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6093, 
+   "name": "Jean", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Feb 28 21:17:58 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:35 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577875585720320": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 608202519, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/869817284231122944/Z864GSQc_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/j1n24cjIEv", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.simplymasquerade.co.uk", 
+       "display_url": "simplymasquerade.co.uk"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 648, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "608202519", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 33, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7099, 
+   "description": "Dare you enter the mysterious world of Simply Masquerade and discover the right mask for you? FREE UK delivery on all our masquerade masks too!", 
+   "friends_count": 547, 
+   "location": "Cheshire", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/869817284231122944/Z864GSQc_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/608202519/1520948768", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "SM4Masquerade", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 21265, 
+   "name": "Simply Masquerade", 
+   "notifications": false, 
+   "url": "https://t.co/j1n24cjIEv", 
+   "created_at": "Thu Jun 14 12:59:27 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:19 +0000 2019", 
+  "Text": "Another gorgeous filigree mask arrived and is in the shop now #masquerade https://t.co/MlOD96Z5Z9", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      62, 
+      73
+     ], 
+     "text": "masquerade"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/SM4Masquerade/status/1106577875585720320/photo/1", 
+     "display_url": "pic.twitter.com/MlOD96Z5Z9", 
+     "url": "https://t.co/MlOD96Z5Z9", 
+     "media_url_https": "https://pbs.twimg.com/media/D1taqxhWkAA4Nng.jpg", 
+     "id_str": "1106577824343822336", 
+     "sizes": {
+      "small": {
+       "h": 510, 
+       "resize": "fit", 
+       "w": 680
+      }, 
+      "large": {
+       "h": 1536, 
+       "resize": "fit", 
+       "w": 2048
+      }, 
+      "medium": {
+       "h": 900, 
+       "resize": "fit", 
+       "w": 1200
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      74, 
+      97
+     ], 
+     "type": "photo", 
+     "id": 1106577824343822336, 
+     "media_url": "http://pbs.twimg.com/media/D1taqxhWkAA4Nng.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106578140825116672": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 414695845, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019585338384306176/UrwZ-mC-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 311, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "414695845", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17264, 
+   "description": "21.\nManchester United\u2764\nColdplay \u2764", 
+   "friends_count": 785, 
+   "location": "Mumbai, India", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1019585338384306176/UrwZ-mC-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/414695845/1531923113", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "reddevil_parth", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 48125, 
+   "name": "parth pandya", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Nov 17 11:18:30 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:22 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577839472545793": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 997421097082470400, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096441749986148353/9KSGl5rb_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/N0npeTS2Bi", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://bit.ly/2t58Kti", 
+       "display_url": "bit.ly/2t58Kti"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 118, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "997421097082470400", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 979, 
+   "description": "\u2800\u2800\u2800\u2800~*+*~  T\u029c\u1d07 M\u1d07\ua731\ua731\u1d07\u0274\u0262\u1d07\u0280 \u1d00\u0274\u1d05 T\u029c\u1d07 \u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800P\u0280\u1d0f\u1d1b\u1d07\u1d04\u1d1b\u1d0f\u0280 ~*+*~ \uff0a \n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800affiliated w/ AlmightyX10", 
+   "friends_count": 119, 
+   "location": "", 
+   "profile_link_color": "A9A9A9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096441749986148353/9KSGl5rb_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/997421097082470400/1543635675", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "QardanX10", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 29, 
+   "name": "Qardan, Azeeta", 
+   "notifications": false, 
+   "url": "https://t.co/N0npeTS2Bi", 
+   "created_at": "Fri May 18 10:18:15 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:10 +0000 2019", 
+  "Text": "@YukiJudaiX10 Before she could give him the mask, Judai already moved to another side, where her eyes catches a gli\u2026 https://t.co/nZQUzVnCfs", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 926430088245100548, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "926430088245100548", 
+     "screen_name": "YukiJudaiX10", 
+     "name": "\u904a\u57ce\u5341\u4ee3; Judai"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/nZQUzVnCfs", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577839472545793", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577886083985408": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 385162479, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093590075433279489/QkFykBUI_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 190, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "385162479", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17122, 
+   "description": "\ud83d\udc1d", 
+   "friends_count": 62, 
+   "location": "Stockport, Manchester ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093590075433279489/QkFykBUI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/385162479/1549567274", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "themarkarnold", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 46, 
+   "name": "Mark Arnold", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Oct 05 00:21:35 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:21 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577737542713345": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 176422966, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/741541771306491904/aC_L7guy_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 177, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "176422966", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1217, 
+   "description": "Kool, Gentyl and Lyk to meet pple.", 
+   "friends_count": 526, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/741541771306491904/aC_L7guy_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Daybour2013", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 484, 
+   "name": "D' Main Man", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Aug 09 14:07:49 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:46 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577543975460871": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 795104675695509504, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/924056516864434177/0Jm1ZacM_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/emlQYIXuYh", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://BlakesDungeon.com", 
+       "display_url": "BlakesDungeon.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1123, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "795104675695509504", 
+   "profile_background_color": "000000", 
+   "listed_count": 13, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 13325, 
+   "description": "A geek & gamer quarterly magazine focusing on LGBTQ+ inclusion, female makers, and geeks of color. #RadicalInclusion #DrakesDrawing #CosplayEveryday 18+", 
+   "friends_count": 3682, 
+   "location": "Los Angeles, CA", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/924056516864434177/0Jm1ZacM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/795104675695509504/1535434995", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BlakesDungeon", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 16020, 
+   "name": "Blake's Dungeon", 
+   "notifications": false, 
+   "url": "https://t.co/emlQYIXuYh", 
+   "created_at": "Sun Nov 06 03:25:01 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:00 +0000 2019", 
+  "Text": "RT @KrystinaArielle: \" ... I bet it was funny. From the outside. I bet everybody had a real good laugh. Well. Auntie Monica's not \u2620\u2620\u2620\u2620 laug\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 53085527, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "53085527", 
+     "screen_name": "KrystinaArielle", 
+     "name": "Krystina Arielle \ud83e\udd96"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577514485506049": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 95663267, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/772756076697620480/OH7xDGd0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 122, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "95663267", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10178, 
+   "description": "\\m/ a little bit OCR PhD SP \\m/\n\nI set this account up to focus on lovely things, but it's ended up mostly being about Brexit and the death of the planet \ud83d\ude22", 
+   "friends_count": 161, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/772756076697620480/OH7xDGd0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/95663267/1473074312", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "nomadc22", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3973, 
+   "name": "nomadc22", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Dec 09 15:03:55 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:53 +0000 2019", 
+  "Text": "RT @Amandajeyanam: The Right Wing terrorist who massacred the worshippers in Christchurch claims Candace Owen as his key influencer. @Jacob\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2286567210, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2286567210", 
+     "screen_name": "Amandajeyanam", 
+     "name": "Amanda Jeyaretnam \ud83d\udd36"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577576644861952": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 795983871787446273, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/810829778500521985/kxfYOU-i_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 89, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "795983871787446273", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3130, 
+   "description": "#COYG #VCC #ARSENAL #YAGUNNERYA", 
+   "friends_count": 763, 
+   "location": "jakarta", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/810829778500521985/kxfYOU-i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/795983871787446273/1541879356", 
+   "profile_background_image_url": null, 
+   "screen_name": "vidigooners", 
+   "lang": "id", 
+   "profile_background_tile": false, 
+   "favourites_count": 1495, 
+   "name": "Vidi Gunners", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Nov 08 13:38:38 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:08 +0000 2019", 
+  "Text": "RT @OkayAfrica: \ud83d\ude45\ud83c\udffd\u200d\u2642\ufe0f  Pierre-Emerick Aubameyang (@Aubameyang7) just celebrated a goal by putting on the #BlackPanther mask. https://t.co/1\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 92148954, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "92148954", 
+     "screen_name": "OkayAfrica", 
+     "name": "OkayAfrica"
+    }, 
+    {
+     "id": 847238528, 
+     "indices": [
+      50, 
+      62
+     ], 
+     "id_str": "847238528", 
+     "screen_name": "Aubameyang7", 
+     "name": "Aubameyang P-E"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      105, 
+      118
+     ], 
+     "text": "BlackPanther"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577560677347328": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 840200917777539073, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/845445632810737664/orJJJuql_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 48, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "840200917777539073", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 326, 
+   "description": "", 
+   "friends_count": 62, 
+   "location": "Canada", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/845445632810737664/orJJJuql_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/840200917777539073/1537560126", 
+   "profile_background_image_url": null, 
+   "screen_name": "Donnybillion6", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 17539, 
+   "name": "Donald O'Neill", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Mar 10 14:01:23 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:04 +0000 2019", 
+  "Text": "@Amy_Siskind I\u2019ve seen this before.... on mission impossible. Some Russian is wearing a rubber Lindsey Graham mask\u2026 https://t.co/9Xg9O5TncX", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15976705, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "15976705", 
+     "screen_name": "Amy_Siskind", 
+     "name": "Amy Siskind \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/9Xg9O5TncX", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577560677347328", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577749420982272": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 240137801, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104984565494484993/D1gpfrd4_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2341, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "240137801", 
+   "profile_background_color": "131516", 
+   "listed_count": 16, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 27353, 
+   "description": "Zazi | Psalm 121 | Entrepreneur | Arsenal | Jesus 1st | Saving up for a man-cave | NappyHair | TeaQueen | \ud83d\udc8d|", 
+   "friends_count": 887, 
+   "location": "New Location, Who dis", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104984565494484993/D1gpfrd4_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/240137801/1552284353", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "umaGatsheni", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 41133, 
+   "name": "Beautiful Storm", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jan 19 07:07:13 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:49 +0000 2019", 
+  "Text": "RT @elle_eulaliah: I make Natural hair masks. I applied my mask on the first pic and all rinsed on the other frames. I plaited my own hair\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 851650615121981444, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "851650615121981444", 
+     "screen_name": "elle_eulaliah", 
+     "name": "Ma\u2019at"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577442557157376": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 363151517, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076769328559677440/s4ImEIPo_normal.jpg", 
+   "profile_sidebar_fill_color": "FFCCF9", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/4BEyH7YMxs", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.facebook.com/mmcandles2018/", 
+       "display_url": "facebook.com/mmcandles2018/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 8784, 
+   "profile_sidebar_border_color": "C9009A", 
+   "id_str": "363151517", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 21, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 106991, 
+   "description": "21+ \u264e\ufe0f #Mom #Spoonie MS \ud83e\udde1& CP \ud83d\udc9a \u267f #UWAlumni \ud83d\udc69\ud83c\udffe\u200d\ud83c\udf93 #MSW #FuturePsychiatrist \ud83d\udc69\ud83c\udffe\u200d\u2695\ufe0f #Lesbian \ud83c\udff3\ufe0f\u200d\ud83c\udf08#Jamaican \ud83c\uddef\ud83c\uddf2 #BLM \u270a\ud83c\udffe #SisterKeeper \ud83e\udd8b Candle/Soap maker", 
+   "friends_count": 7035, 
+   "location": "Cruising in my wheelchair \ud83d\udca8\u267f\ufe0f", 
+   "profile_link_color": "C9009A", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1076769328559677440/s4ImEIPo_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/363151517/1549524277", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "AnBeautifulSoul", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 837, 
+   "name": "M'M's \ud83d\udc4a\ud83c\udffe\u270a\ud83c\udffe", 
+   "notifications": false, 
+   "url": "https://t.co/4BEyH7YMxs", 
+   "created_at": "Sat Aug 27 16:22:38 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:36 +0000 2019", 
+  "Text": "@the_mann92 \ud83d\udc80\ud83d\udc80\ud83d\udc80 smoked cognac Smoked applewood bamboo mask November rain \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f\ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 935772998, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "935772998", 
+     "screen_name": "the_mann92", 
+     "name": "D"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577377583394816": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1636484028, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023940251222528001/Aiz9f2E1_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 398, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1636484028", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5113, 
+   "description": "The World is run by a #Cabal which has enslaved humanity. It needs to be eliminated. Honesty Truth Peace & Unity. #pureRdemocracy #wtobrexit #disclosure", 
+   "friends_count": 690, 
+   "location": "Blackburn, England", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1023940251222528001/Aiz9f2E1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1636484028/1552444082", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NasdaqPat", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4187, 
+   "name": "Patrick Videan", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jul 31 22:11:03 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:20 +0000 2019", 
+  "Text": "@RichieAllenShow Yes, Richie is right, there's a lot riding on this @ofargyle. The mask of the #Cabal is being part\u2026 https://t.co/Y6lpkE3PO3", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2819841203, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "2819841203", 
+     "screen_name": "RichieAllenShow", 
+     "name": "Richie Allen"
+    }, 
+    {
+     "id": 925077423032553472, 
+     "indices": [
+      68, 
+      77
+     ], 
+     "id_str": "925077423032553472", 
+     "screen_name": "OfArgyle", 
+     "name": "Cartoon Drunk"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      95, 
+      101
+     ], 
+     "text": "Cabal"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/Y6lpkE3PO3", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577377583394816", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577423137677312": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2657759648, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106334230722809856/cCSoC74O_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/tdFcECrsbV", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.facebook.com/ascarabia", 
+       "display_url": "facebook.com/ascarabia"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2478, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2657759648", 
+   "profile_background_color": "000000", 
+   "listed_count": 28, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10028, 
+   "description": "I really like #Arsenal . But you, Do you like Arsenal? or just Arsenal with trophies? | #R9 #Ronaldo #Fen\u00f4meno my best player of all time, #\u0623\u0631\u0633\u0646\u0627\u0644", 
+   "friends_count": 394, 
+   "location": "Riyadh, Kingdom of Saudi Arabia", 
+   "profile_link_color": "19A584", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106334230722809856/cCSoC74O_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2657759648/1532514348", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "FerasGooner", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 722, 
+   "name": "Feras | \u0641\u0631\u0627\u0633", 
+   "notifications": false, 
+   "url": "https://t.co/tdFcECrsbV", 
+   "created_at": "Fri Jul 18 21:17:49 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:31 +0000 2019", 
+  "Text": "RT @Arsenal: \"I needed a mask which represents me. It\u2019s the Black Panther and in Africa, in Gabon, we call the national team the Black Pant\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 34613288, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "34613288", 
+     "screen_name": "Arsenal", 
+     "name": "Arsenal FC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577634060832770": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1079713118564028416, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104453435989151744/Xsll5MtU_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 188, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1079713118564028416", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3928, 
+   "description": "\ud83d\udc30'' \u1d57\u1d43\u1d49\u02b0\u02b8\u1d58\u207f\u1d4d \u02b0\u02b8\u1d58\u207f\u1d4d\u1da6\u1d49 ''\ud83d\udc2f \u1d52\u1d57\u2077 \u1da0\u1d43\u207f \u1d43\u1d9c\u1d9c \u2661 \u1d50\u02b8 \u02e1\u1d52\u1d5b\u1d49 \u1da0\u1d52\u02b3 \u1d49\u02e1\u02e1\u1d43 \u1da6\u02e2 \u1d47\u1d49\u02b8\u1d52\u207f\u1d48 \u1da6\u207f\u1da0\u1da6\u207f\u1da6\u1d57\u1d49 \u2661 \uc544\ubb34\ud589\uc54c \u2661", 
+   "friends_count": 229, 
+   "location": "\ubc29\ud0c4\uc758 \ub9c8\uc74c \ud83d\udc9c", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104453435989151744/Xsll5MtU_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079713118564028416/1552157195", 
+   "profile_background_image_url": null, 
+   "screen_name": "tksboraphoria", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10225, 
+   "name": "Jihene", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Dec 31 12:17:22 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:21 +0000 2019", 
+  "Text": "@dousybts are and i'm willing to do so listen no one has the right to judge you &amp; i'm so happy bts are there for u\u2026 https://t.co/e2jafcI92k", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1040560081534767105, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "1040560081534767105", 
+     "screen_name": "dousybts", 
+     "name": "\ud83c\udf19"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/e2jafcI92k", 
+     "indices": [
+      120, 
+      143
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577634060832770", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577711999389696": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1553427708, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078046234819153921/8Rltmgqv_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 310, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1553427708", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1922, 
+   "description": "jinkies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n18 | \nUA '22", 
+   "friends_count": 299, 
+   "location": "new philadelphia, oh", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1078046234819153921/8Rltmgqv_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553427708/1545861190", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "laurel_kh", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8611, 
+   "name": "Laurel", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jun 28 16:14:28 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:40 +0000 2019", 
+  "Text": "RT @OliviaSchoelles: so.. someone really drove into the Humane Society\u2019s parking lot, and tied up their dog and a pot belly pig, and drove\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1014581074238820352, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "1014581074238820352", 
+     "screen_name": "OliviaSchoelles", 
+     "name": "Olivia Schoelles"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578186320650240": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 936753477249744896, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/953076927027294209/ViF2jBYT_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 16, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "936753477249744896", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2624, 
+   "description": "Willing to have my mind changed with logic and facts. Not emotions and opinions. Today I go on the offensive.", 
+   "friends_count": 83, 
+   "location": "Sc", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/953076927027294209/ViF2jBYT_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "Rebeccajohnmcg1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 56, 
+   "name": "Rebecca john", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Dec 02 00:26:47 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:33 +0000 2019", 
+  "Text": "@SenSchumer In New Zealand give me a break sure wasn't Hillary and a mask that's where she's been hanging out most of the time", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 17494010, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "17494010", 
+     "screen_name": "SenSchumer", 
+     "name": "Chuck Schumer"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577556202012673": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1096788964843888640, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099635873635799045/7rFEHGlq_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 31, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1096788964843888640", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 358, 
+   "description": "We've got quite some guns in our arsenal\ud83d\udd25", 
+   "friends_count": 97, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1099635873635799045/7rFEHGlq_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096788964843888640/1552511647", 
+   "profile_background_image_url": null, 
+   "screen_name": "GoonerOptimal", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 567, 
+   "name": "OptimalGooner", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Feb 16 15:10:41 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:03 +0000 2019", 
+  "Text": "RT @bellerinq: so aubameyang used the black panther mask to celebrate his Gabonese heritage but united fans think it was because of jesse l\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 885822479075344385, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "885822479075344385", 
+     "screen_name": "bellerinq", 
+     "name": "liv"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578233393328128": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1097617770, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1043912575770128393/TivjGW7d_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 57, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1097617770", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1180, 
+   "description": "Pro Europe, Quins & Hammer. Appalled by rise of far Right since referendum. Opinions are my own. Civil debate only please", 
+   "friends_count": 207, 
+   "location": "Benfleet", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1043912575770128393/TivjGW7d_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "PaulDic69", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3145, 
+   "name": "paul d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jan 17 08:58:21 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:44 +0000 2019", 
+  "Text": "RT @Amandajeyanam: The Right Wing terrorist who massacred the worshippers in Christchurch claims Candace Owen as his key influencer. @Jacob\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2286567210, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "2286567210", 
+     "screen_name": "Amandajeyanam", 
+     "name": "Amanda Jeyaretnam \ud83d\udd36"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577950080548864": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 61990208, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089909793370693632/EkNbc1dP_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/TFt2gDQu2x", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://pinterest.com/oktara_official", 
+       "display_url": "pinterest.com/oktara_official"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 375, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "61990208", 
+   "profile_background_color": "000000", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 27920, 
+   "description": "Improvise, Adapt, Overcome", 
+   "friends_count": 540, 
+   "location": "Semarang, Jawa Tengah", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1089909793370693632/EkNbc1dP_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/61990208/1548590373", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "oktara_official", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 202, 
+   "name": "Primastya Yudha Oktara", 
+   "notifications": false, 
+   "url": "https://t.co/TFt2gDQu2x", 
+   "created_at": "Sat Aug 01 07:49:21 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:28:37 +0000 2019", 
+  "Text": "RT @Arsenal: \"I needed a mask which represents me. It\u2019s the Black Panther and in Africa, in Gabon, we call the national team the Black Pant\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 34613288, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "34613288", 
+     "screen_name": "Arsenal", 
+     "name": "Arsenal FC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577482541617152": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 449095463, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036736724473405441/12T2ijcA_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 314, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "449095463", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3209, 
+   "description": "Pain is temporary", 
+   "friends_count": 794, 
+   "location": "Belfast", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1036736724473405441/12T2ijcA_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/449095463/1395005460", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NealMcGrath1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7839, 
+   "name": "Niall Mac Craith", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Dec 28 18:48:09 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:45 +0000 2019", 
+  "Text": "RT @RFFH: 29 year-old Aubameyang takes a Black Panther mask to the game to celebrate with. 32 year-old Jamie Vardy dresses up as Spider-man\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 229266642, 
+     "indices": [
+      3, 
+      8
+     ], 
+     "id_str": "229266642", 
+     "screen_name": "RFFH", 
+     "name": "Jay"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578070884876289": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1102318808595718144, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102319024552083456/Ni8OXaR8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 42, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1102318808595718144", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 808, 
+   "description": "19. Twitter really up and deleted my shit\ud83e\udd26\u200d\u2642\ufe0f. I only shine in the replies", 
+   "friends_count": 84, 
+   "location": "my room", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102319024552083456/Ni8OXaR8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1102318808595718144/1551648657", 
+   "profile_background_image_url": null, 
+   "screen_name": "danielannam_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 857, 
+   "name": "daniel\ud83c\uddf3\ud83c\uddec", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Mar 03 21:24:18 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:05 +0000 2019", 
+  "Text": "RT @Daily_Hotspur: Pierre-Emerick Aubameyang had this mask ready when he came off the bench to take the penalty in the final moments of the\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1570645560, 
+     "indices": [
+      3, 
+      17
+     ], 
+     "id_str": "1570645560", 
+     "screen_name": "Daily_Hotspur", 
+     "name": "Daily Hotspur"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577574950375425": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 469327316, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097030242231709697/fOcFSaxA_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/PK1aq3UpQO", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://worldcosplay.net/member/71510", 
+       "display_url": "worldcosplay.net/member/71510"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 449, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "469327316", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 27, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 296523, 
+   "description": "I am MATO. 3D/2DArtist/Cosplayer.  English/\u4e2d\u6587/\u65e5\u672c\u8a9e\u5c11\u3057. Art account @nAiusart. View my cosplays at my Moments \u2726DMC,TEW,MGS,MDZS,DBH,\u9f8d\u304c\u5982\u304f,HANNIBAL. SPAM\u6ce8\u610f", 
+   "friends_count": 898, 
+   "location": "Singapore", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097030242231709697/fOcFSaxA_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/469327316/1531489616", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "MatosauceB3", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 62697, 
+   "name": "37.5\u2103 @ DMC5 MOOD | 4\u6708\u27a1\ufe0f\u6771\u4eac", 
+   "notifications": false, 
+   "url": "https://t.co/PK1aq3UpQO", 
+   "created_at": "Fri Jan 20 13:44:04 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:07 +0000 2019", 
+  "Text": "Omg YAGAMI YOU CRAZY U NEARLY FALL TO YOUR DEATH WHEN U CHASED THE MASK GUY", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577626662092801": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 755567200946315265, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102372494290370561/eTis_p0S_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1146, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "755567200946315265", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 15, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 24321, 
+   "description": "Waiting for someone to write a witty bio for me. Very silly.", 
+   "friends_count": 849, 
+   "location": "Maryland, USA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102372494290370561/eTis_p0S_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/755567200946315265/1551660388", 
+   "profile_background_image_url": null, 
+   "screen_name": "LuAnn_1970", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 141366, 
+   "name": "LuAnn \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jul 20 00:57:13 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:20 +0000 2019", 
+  "Text": "RT @JEM1979: @RealisticPoetry Do not confuse the delicacy\nof hope with weakness,\nor the graceful blush of petals\nwith superficiality,\nappea\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 47213911, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "47213911", 
+     "screen_name": "JEM1979", 
+     "name": "Jackie Merrell\ud83c\udf3a"
+    }, 
+    {
+     "id": 298769861, 
+     "indices": [
+      13, 
+      29
+     ], 
+     "id_str": "298769861", 
+     "screen_name": "RealisticPoetry", 
+     "name": "Realistic Poetry"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577395992195073": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 230527777, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080118175017111552/obY_ZzsI_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 424, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "230527777", 
+   "profile_background_color": "000000", 
+   "listed_count": 23, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6646, 
+   "description": "Captain - Winkle Picker Cricket Club\nPresident - OKS Football Club & OKS Rugby Club. \nCrazy about; Surrey CCC, Chelsea FC, Brentford FC, Wasps & Ferrari F1.", 
+   "friends_count": 1584, 
+   "location": "London", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1080118175017111552/obY_ZzsI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/230527777/1547745902", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "mcclode", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2001, 
+   "name": "MC", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Dec 25 21:37:33 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:25 +0000 2019", 
+  "Text": "RT @RealCandaceO: Another day, another all-white group of progressives protesting my events in the name of \u201cracism\u201d.\n\nThis time from the UK\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 878247600096509952, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "878247600096509952", 
+     "screen_name": "RealCandaceO", 
+     "name": "Candace Owens"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577436680949763": {
+  "Lang": "ja", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1039824023272583168, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039866019995508737/LZW0gxri_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1039824023272583168", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 125, 
+   "description": "", 
+   "friends_count": 56, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1039866019995508737/LZW0gxri_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1039824023272583168/1536749639", 
+   "profile_background_image_url": null, 
+   "screen_name": "natsukitsume", 
+   "lang": "ja", 
+   "profile_background_tile": false, 
+   "favourites_count": 751, 
+   "name": "\u306a\u3064\u304d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 12 10:32:20 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:34 +0000 2019", 
+  "Text": "Yellow Magic Orchestra - Behind the Mask (1979) https://t.co/rSNdpFYzki @YouTube\u3088\u308a\n\n\u4e2d\u6bd2\u6027\u3042\u308b\uff01", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      72, 
+      80
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/rSNdpFYzki", 
+     "indices": [
+      48, 
+      71
+     ], 
+     "expanded_url": "https://youtu.be/u4VMLYnH_Dc", 
+     "display_url": "youtu.be/u4VMLYnH_Dc"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577520042934274": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 769448905, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/737759387897339904/Z18EM-L8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 14, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "769448905", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 88, 
+   "description": "", 
+   "friends_count": 90, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/737759387897339904/Z18EM-L8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/769448905/1464730518", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "CardyLuke", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Luke Cardy", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Aug 20 12:36:30 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:54 +0000 2019", 
+  "Text": "RT @right_movies: Working with a budget of just $325,000 on Halloween (1978), director John Carpenter and his crew had to find cost-effecti\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1098674024530489345, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "1098674024530489345", 
+     "screen_name": "right_movies", 
+     "name": "All The Right Movies"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578071245733889": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 923337418023071744, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087772815586144256/YVwTupjs_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/2z7ShIXxCw", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.ghostfinder.co.uk/", 
+       "display_url": "ghostfinder.co.uk"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1963, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "923337418023071744", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3186, 
+   "description": "\u2022Professional Paranormal investigator\u2022 #CelebrityGhostHuntExpert\n\u2022fianc\u00e8 / daddy\u2022\nEnquires\ud83d\udce7info@talentmanagement.co.uk\ud83d\udce7", 
+   "friends_count": 488, 
+   "location": "London, England", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087772815586144256/YVwTupjs_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/923337418023071744/1521667586", 
+   "profile_background_image_url": null, 
+   "screen_name": "Ashleybucks1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4653, 
+   "name": "Ashley  Buckenham", 
+   "notifications": false, 
+   "url": "https://t.co/2z7ShIXxCw", 
+   "created_at": "Wed Oct 25 23:56:10 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:06 +0000 2019", 
+  "Text": "Not all masks are scary! Some are the exact replica of yourself but holding a smile!! - Tough times are when you ne\u2026 https://t.co/hXb9QNEXtF", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/hXb9QNEXtF", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106578071245733889", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577441156272128": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 47213911, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/998302873338368000/yUUaYigj_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/O6aiuhfYE6", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.booksie.com/users/jem1979-248513", 
+       "display_url": "booksie.com/users/jem1979-\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3682, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "47213911", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 39, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 34252, 
+   "description": "American lass enthralled with her Scottish/Irish roots, Air Force brat, movie buff, poet, writer, music lover. #ClanDalrymple", 
+   "friends_count": 3331, 
+   "location": "California, USA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/998302873338368000/yUUaYigj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/47213911/1508023043", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JEM1979", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 158580, 
+   "name": "Jackie Merrell\ud83c\udf3a", 
+   "notifications": false, 
+   "url": "https://t.co/O6aiuhfYE6", 
+   "created_at": "Mon Jun 15 00:27:28 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:35 +0000 2019", 
+  "Text": "RT @JEM1979: @RealisticPoetry Do not confuse the delicacy\nof hope with weakness,\nor the graceful blush of petals\nwith superficiality,\nappea\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 47213911, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "47213911", 
+     "screen_name": "JEM1979", 
+     "name": "Jackie Merrell\ud83c\udf3a"
+    }, 
+    {
+     "id": 298769861, 
+     "indices": [
+      13, 
+      29
+     ], 
+     "id_str": "298769861", 
+     "screen_name": "RealisticPoetry", 
+     "name": "Realistic Poetry"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577558018117633": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 631003682, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084125697835184129/6exS4GnZ_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1011, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "631003682", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10207, 
+   "description": "#SBA\n#WenEGoFinish ?!\n\u27a1 \ud83d\udd19 \ud83d\udd19", 
+   "friends_count": 1639, 
+   "location": "Abuja, Nigeria", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1084125697835184129/6exS4GnZ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/631003682/1456141232", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "NoBeMeTallkAm", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2634, 
+   "name": "Mr. J", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jul 09 11:13:06 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:03 +0000 2019", 
+  "Text": "@ZobaTwits Sir, \nThat's two tap ins.\n\nLucky your fans stole his mask at the Emirates.\n\nHe would've wakanda you people.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1045736251670843392, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "1045736251670843392", 
+     "screen_name": "ZobaTwits", 
+     "name": "Zoba Man Utd \ud83d\udc51"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578114677784576": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 88677030, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097953978845937675/Y5mEWxea_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1747, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "88677030", 
+   "profile_background_color": "000000", 
+   "listed_count": 14, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 79808, 
+   "description": "\ud83c\uddff\ud83c\udde6\ud83c\uddf7\nHe who has the gold makes the rules||| a man with keen interest in finance, management accounting and investment banking", 
+   "friends_count": 1740, 
+   "location": "Midrand, Lusikisiki||| ZA", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097953978845937675/Y5mEWxea_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/88677030/1544290410", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+   "screen_name": "_iamsoso", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 660, 
+   "name": "Soso \ud83d\udc51", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Nov 09 14:37:27 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:16 +0000 2019", 
+  "Text": "RT @Arsenal: \"I needed a mask which represents me. It\u2019s the Black Panther and in Africa, in Gabon, we call the national team the Black Pant\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 34613288, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "34613288", 
+     "screen_name": "Arsenal", 
+     "name": "Arsenal FC"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578081265836032": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 908628301022846977, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103063742063947776/wxp2L2JK_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 630, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "908628301022846977", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18625, 
+   "description": "We're the bulletproof ARMY, BTS/TXT Fan Account - OT7 - \ud83c\uddf5\ud83c\udded", 
+   "friends_count": 539, 
+   "location": "Hope World", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103063742063947776/wxp2L2JK_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/908628301022846977/1540634151", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "namjinnocent", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 20254, 
+   "name": "Min Yoongles \ud83d\udc9c", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Sep 15 09:47:23 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:29:08 +0000 2019", 
+  "Text": "RT @SUGAMINIEE: \"I\u2019m your star, I shine as if nothing\u2019s wrong, But the moment I should shine the most, I take my mask off\" - Outro: Her", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 734329084927344643, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "734329084927344643", 
+     "screen_name": "SUGAMINIEE", 
+     "name": "\ud83c\udf1camrita\ud83c\udf1b"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577541152673792": {
+  "Lang": "th", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 910188335405998080, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/934447608558321667/c6zU7fGD_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 40, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "910188335405998080", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7694, 
+   "description": "\u0e40\u0e14\u0e47\u0e01\u0e1c\u0e35\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01 \u2764\ufe0f\u0e40\u0e1b\u0e4a\u0e01\u0e1c\u0e25\u0e34\u0e15\u0e42\u0e0a\u0e04 \u0e2b\u0e21\u0e14\u0e43\u0e08", 
+   "friends_count": 59, 
+   "location": "\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e43\u0e2b\u0e0d\u0e48, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/934447608558321667/c6zU7fGD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/910188335405998080/1505841763", 
+   "profile_background_image_url": null, 
+   "screen_name": "ayasiriki", 
+   "lang": "th", 
+   "profile_background_tile": false, 
+   "favourites_count": 120, 
+   "name": "Aeylovebio", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Sep 19 17:06:24 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:59 +0000 2019", 
+  "Text": "RT @OatPanuwat1: \u0e1d\u0e32\u0e01\u0e44\u0e1b\u0e14\u0e39 reaction \u0e02\u0e2d\u0e07\u0e04\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e04\u0e23\u0e31\u0e1a \u0e19\u0e48\u0e32\u0e08\u0e30\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e17\u0e35\u0e48\u0e2d\u0e40\u0e21\u0e23\u0e34\u0e01\u0e32 \u0e40\u0e04\u0e49\u0e32\u0e17\u0e33\u0e2b\u0e25\u0e32\u0e22\u0e04\u0e19\u0e41\u0e2b\u0e25\u0e30 \u0e41\u0e15\u0e48\u0e27\u0e35\u0e27\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e19\u0e49\u0e2d\u0e22\u0e04\u0e23\u0e31\u0e1a #\u0e40\u0e1b\u0e4a\u0e01\u0e1c\u0e25\u0e34\u0e15\u0e42\u0e0a\u0e04\nLove on top - \u0e2b\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 920950119666630657, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "920950119666630657", 
+     "screen_name": "OatPanuwat1", 
+     "name": "Oatrageous \ud83d\udd76\ud83d\udc08"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      111, 
+      123
+     ], 
+     "text": "\u0e40\u0e1b\u0e4a\u0e01\u0e1c\u0e25\u0e34\u0e15\u0e42\u0e0a\u0e04"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577748724772864": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3801076515, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/950416100772237312/S-8imjNr_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 138, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3801076515", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6727, 
+   "description": "#HalaMadrid", 
+   "friends_count": 184, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/950416100772237312/S-8imjNr_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3801076515/1443424802", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "deebrock77", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6100, 
+   "name": "Derrick\ud83c\uddec\ud83c\udded\u26bd\ufe0f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Sep 28 06:55:10 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:27:49 +0000 2019", 
+  "Text": "RT @ZobaTwits: Ronaldo Scored a Hatrick against Atletico Madrid and acted like it's nothing because it's normal. But Aubameyang scored a ta\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1045736251670843392, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "1045736251670843392", 
+     "screen_name": "ZobaTwits", 
+     "name": "Zoba Man Utd \ud83d\udc51"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577380598964224": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 47213911, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/998302873338368000/yUUaYigj_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/O6aiuhfYE6", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.booksie.com/users/jem1979-248513", 
+       "display_url": "booksie.com/users/jem1979-\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3682, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "47213911", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 39, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 34252, 
+   "description": "American lass enthralled with her Scottish/Irish roots, Air Force brat, movie buff, poet, writer, music lover. #ClanDalrymple", 
+   "friends_count": 3331, 
+   "location": "California, USA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/998302873338368000/yUUaYigj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/47213911/1508023043", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "JEM1979", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 158580, 
+   "name": "Jackie Merrell\ud83c\udf3a", 
+   "notifications": false, 
+   "url": "https://t.co/O6aiuhfYE6", 
+   "created_at": "Mon Jun 15 00:27:28 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "The Mask", 
+  "Date": "Fri Mar 15 15:26:21 +0000 2019", 
+  "Text": "@RealisticPoetry Do not confuse the delicacy\nof hope with weakness,\nor the graceful blush of petals\nwith superficia\u2026 https://t.co/Zu0c0A9vd3", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 298769861, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "298769861", 
+     "screen_name": "RealisticPoetry", 
+     "name": "Realistic Poetry"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Zu0c0A9vd3", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577380598964224", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }
+}
