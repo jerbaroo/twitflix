@@ -9,6 +9,7 @@ var activeTile = null;
 // All media names we know of so far.
 const mediaNames = new Set();
 
+const canvasContainerID = (tileID) => `twitflix-canvas-container-${tileID}`;
 
 // An identifier to uniquely identify a Twitflix tile.
 function newTileID() {
@@ -18,8 +19,49 @@ function newTileID() {
 var _tileID = 1;
 
 
-// Inner contents of some tile, given data.
-function newInnerTile(criticScore, userScore, userScores, releaseDate) {
+const _filmData = {
+  "Gilmore Girls": {
+    "critic": 87,
+    "sentiments": [[88, new Date()], [77, new Date()], [47, new Date()]]
+  }
+};
+
+function filmData(name) {
+  return _filmData["Gilmore Girls"];
+}
+
+
+// Attach a graph of given data to a canvas element.
+function attachGraph(canvasContext, sentiments) {
+  new Chart(canvasContext, {
+    type: 'line',
+    data: {
+      datasets: [{
+        data: sentiments.map(x => x[0]),
+        label: "Sentiment",
+        borderColor: "#3e95cd",
+        fill: false
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false
+    }
+  });
+}
+
+
+function mean(numbers) {
+  var total = 0, i;
+  for (i = 0; i < numbers.length; i += 1) {
+    total += numbers[i];
+  }
+  return total / numbers.length;
+}
+
+
+// Inner contents of some tile, for some media title.
+function newInnerTile(tileID, name, height, width) {
   var main = document.createElement('div');
   main.className = 'twitflix-tile-main';
   var left = document.createElement('div');
@@ -28,6 +70,13 @@ function newInnerTile(criticScore, userScore, userScores, releaseDate) {
   right.className = 'twitflix-tile-graph';
   main.appendChild(left);
   main.appendChild(right);
+
+  const data = filmData(name);
+  const criticScore = data["critic"];
+  const sentiments = data["sentiments"].map(x => x[0]);
+  const userScore = parseInt(mean(sentiments), 10);
+
+  // Left side, critic and user score.
   var criticScoreEl = document.createElement('div');
   criticScore.className = 'twitlix-tile-score';
   criticScoreEl.innerHTML = `${userScore}<br>Critic`;
@@ -36,6 +85,17 @@ function newInnerTile(criticScore, userScore, userScores, releaseDate) {
   userScoreEl.innerHTML = `${criticScore}<br>Twitter`;
   left.appendChild(criticScoreEl);
   left.appendChild(userScoreEl);
+
+  // Right side, graph.
+  var canvas = document.createElement('canvas');
+  canvas.id = canvasContainerID(tileID);
+  right.style.position = 'relative';
+  right.style.height = `${height}px`;
+  right.style.width = `${width * 0.66}px`;
+  right.appendChild(canvas);
+
+  attachGraph(canvas.getContext('2d'), data["sentiments"]);
+
   return main;
 }
 
@@ -53,7 +113,7 @@ function newTile(tileID, height, width, left, top, name) {
   tile.style.left = `${left}px`;
   tile.style.top =
     `${top - document.body.getBoundingClientRect().top - height}px`;
-  tile.appendChild(newInnerTile(5, 4, [78, 79, 81, 84]));
+  tile.appendChild(newInnerTile(tileID, name, height, width));
   return tile;
 }
 
@@ -138,6 +198,10 @@ function positionAbove(tileID, targetElem) {
   tile.style.left = `${targetPosition.left}px`;
   tile.style.top =
     `${targetPosition.top - document.body.getBoundingClientRect().top - height}px`;
+
+  const right = document.getElementById(canvasContainerID(tileID));
+  right.style.height = `${height}px`;
+  right.style.width = `${width * 0.66}px`;
 }
 
 
