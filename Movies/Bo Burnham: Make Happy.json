@@ -1,4 +1,1162 @@
 {
+ "1106478915428798464": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 800770200912072706, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097874799391633410/e7DwXfT5_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/lwkVv0CDbb", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://soundcloud.com/emilycaffery", 
+       "display_url": "soundcloud.com/emilycaffery"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 200, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "800770200912072706", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3525, 
+   "description": "i\u2019d give my life for james potter but i think it\u2019s too late", 
+   "friends_count": 543, 
+   "location": "king of new york", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097874799391633410/e7DwXfT5_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/800770200912072706/1550589845", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "swiftpotters", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7594, 
+   "name": "- \u0340\u0317  emily   \u0341\u0316-", 
+   "notifications": false, 
+   "url": "https://t.co/lwkVv0CDbb", 
+   "created_at": "Mon Nov 21 18:37:48 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Fri Mar 15 08:55:05 +0000 2019", 
+  "Text": "i\u2019ll never forgive bo burnham for not releasing make happy on spotify", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106480609919160321": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 849348390802653185, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104660703464566785/9-hsNFJz_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 81, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "849348390802653185", 
+   "profile_background_color": "000000", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1211, 
+   "description": "@ChesterBe \ud83c\udf4d", 
+   "friends_count": 87, 
+   "location": "\ud83e\udd87DAL\ud83e\udd87", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104660703464566785/9-hsNFJz_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/849348390802653185/1551806572", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "lBzw1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1546, 
+   "name": "27", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Apr 04 19:50:11 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Fri Mar 15 09:01:49 +0000 2019", 
+  "Text": "I rated Bo Burnham: Make Happy (2016) 9/10  https://t.co/GnIKtZfPYN", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/GnIKtZfPYN", 
+     "indices": [
+      44, 
+      67
+     ], 
+     "expanded_url": "http://www.imdb.com/title/tt5192124", 
+     "display_url": "imdb.com/title/tt5192124"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106211603719090178": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 16191598, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102562265319030785/KcpHgzaw_normal.png", 
+   "profile_sidebar_fill_color": "F3F3F3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/78JzpWskqa", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://danhf.wordpress.com", 
+       "display_url": "danhf.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3629, 
+   "profile_sidebar_border_color": "DFDFDF", 
+   "id_str": "16191598", 
+   "profile_background_color": "EBEBEB", 
+   "listed_count": 119, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 66647, 
+   "description": "Media Studies prof @ Utrecht University. Public speaker. Author. Cultural theorist. Professional curmudgeon. Amateur science fiction scholar.", 
+   "friends_count": 2337, 
+   "location": "Amsterdam", 
+   "profile_link_color": "990000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102562265319030785/KcpHgzaw_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/16191598/1523608632", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "DanHF", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12627, 
+   "name": "Dan Hassler-Forest", 
+   "notifications": false, 
+   "url": "https://t.co/78JzpWskqa", 
+   "created_at": "Mon Sep 08 20:31:50 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 14 15:12:53 +0000 2019", 
+  "Text": "I can deal with my students being indifferent to #TheLastJedi. But if it turns out that they don\u2019t care for Bo Burn\u2026 https://t.co/fPjnIBS3Gq", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      49, 
+      61
+     ], 
+     "text": "TheLastJedi"
+    }
+   ], 
+   "urls": [
+    {
+     "url": "https://t.co/fPjnIBS3Gq", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106211603719090178", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106533524117618691": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 16191598, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102562265319030785/KcpHgzaw_normal.png", 
+   "profile_sidebar_fill_color": "F3F3F3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/78JzpWskqa", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://danhf.wordpress.com", 
+       "display_url": "danhf.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3629, 
+   "profile_sidebar_border_color": "DFDFDF", 
+   "id_str": "16191598", 
+   "profile_background_color": "EBEBEB", 
+   "listed_count": 119, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 66647, 
+   "description": "Media Studies prof @ Utrecht University. Public speaker. Author. Cultural theorist. Professional curmudgeon. Amateur science fiction scholar.", 
+   "friends_count": 2337, 
+   "location": "Amsterdam", 
+   "profile_link_color": "990000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102562265319030785/KcpHgzaw_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/16191598/1523608632", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "DanHF", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12627, 
+   "name": "Dan Hassler-Forest", 
+   "notifications": false, 
+   "url": "https://t.co/78JzpWskqa", 
+   "created_at": "Mon Sep 08 20:31:50 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Fri Mar 15 12:32:05 +0000 2019", 
+  "Text": "My \u2605\u2605\u2605\u2605\u2605 review of Bo Burnham: Make Happy (2016) on @letterboxd: https://t.co/sUPbJZ6bRA", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 26981455, 
+     "indices": [
+      52, 
+      63
+     ], 
+     "id_str": "26981455", 
+     "screen_name": "letterboxd", 
+     "name": "Letterboxd"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/sUPbJZ6bRA", 
+     "indices": [
+      65, 
+      88
+     ], 
+     "expanded_url": "https://boxd.it/k3xmF", 
+     "display_url": "boxd.it/k3xmF"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104829509289865217": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1063208750583095296, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105847938075557891/kcbgpG0W_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/DgG7C9w5JS", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://instagram.com/bullshirtsantiago", 
+       "display_url": "instagram.com/bullshirtsanti\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 187, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1063208750583095296", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 452, 
+   "description": "mostly me being annoying about how much i love james acaster", 
+   "friends_count": 323, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105847938075557891/kcbgpG0W_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063208750583095296/1551042122", 
+   "profile_background_image_url": null, 
+   "screen_name": "samberg_99", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 381, 
+   "name": "freya // comedy stan", 
+   "notifications": false, 
+   "url": "https://t.co/DgG7C9w5JS", 
+   "created_at": "Thu Nov 15 23:14:54 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sun Mar 10 19:40:56 +0000 2019", 
+  "Text": "bo burnham put the songs from make happy on itunes &amp; spotify challenge", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103809729384644613": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 895811526615080960, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090789192072859649/insJwiy9_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 193, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "895811526615080960", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4100, 
+   "description": "\u2764\ufe0f", 
+   "friends_count": 227, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1090789192072859649/insJwiy9_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/895811526615080960/1548899385", 
+   "profile_background_image_url": null, 
+   "screen_name": "EmileeMckissack", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10612, 
+   "name": "\ud835\udd56\ud835\udd5e\ud835\udd5a\ud835\udd5d\ud835\udd56\ud835\udd56", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Aug 11 00:58:06 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Fri Mar 08 00:08:41 +0000 2019", 
+  "Text": "@the_hottest_jew Try Bo Burnham. Make Happy is 10x better than What. in my opinion :)", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 740669620105805826, 
+     "indices": [
+      0, 
+      16
+     ], 
+     "id_str": "740669620105805826", 
+     "screen_name": "the_hottest_jew", 
+     "name": "Zeth"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104944760387784710": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 606019451, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097784864919699456/OGVJjBhE_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/YEzp9r0R4n", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://letterboxd.com/murielcampos", 
+       "display_url": "letterboxd.com/murielcampos"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1837, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "606019451", 
+   "profile_background_color": "ABB8C2", 
+   "listed_count": 18, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 49567, 
+   "description": "Lady Bird (2017) Directed by Greta Gerwig", 
+   "friends_count": 740, 
+   "location": "Panam\u00e1", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097784864919699456/OGVJjBhE_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/606019451/1551946810", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ptanderstan", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 153175, 
+   "name": "muriel", 
+   "notifications": false, 
+   "url": "https://t.co/YEzp9r0R4n", 
+   "created_at": "Tue Jun 12 04:45:23 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 03:18:54 +0000 2019", 
+  "Text": "- Bo Burnham: Make Happy - https://t.co/sAygyLdiGH", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/ptanderstan/status/1104944760387784710/photo/1", 
+     "display_url": "pic.twitter.com/sAygyLdiGH", 
+     "url": "https://t.co/sAygyLdiGH", 
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1WNZM7WkAEa5mg.jpg", 
+     "id_str": "1104944747695738881", 
+     "sizes": {
+      "large": {
+       "h": 262, 
+       "resize": "fit", 
+       "w": 540
+      }, 
+      "small": {
+       "h": 262, 
+       "resize": "fit", 
+       "w": 540
+      }, 
+      "medium": {
+       "h": 262, 
+       "resize": "fit", 
+       "w": 540
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      27, 
+      50
+     ], 
+     "type": "photo", 
+     "id": 1104944747695738881, 
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/D1WNZM7WkAEa5mg.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105885569572311041": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 780987940503707648, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 49, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "780987940503707648", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7743, 
+   "description": "", 
+   "friends_count": 194, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "bagelbites_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19141, 
+   "name": "eleanor", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 13 17:37:20 +0000 2019", 
+  "Text": "RT @JordiVanTienen: biggest regret is still hurting bo burnham enough for him to create his make happy tour in 2015", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1206344220, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "1206344220", 
+     "screen_name": "JordiVanTienen", 
+     "name": "jordi"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103698411776286723": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 780987940503707648, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 49, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "780987940503707648", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7743, 
+   "description": "", 
+   "friends_count": 194, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "bagelbites_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19141, 
+   "name": "eleanor", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 16:46:21 +0000 2019", 
+  "Text": "RT @kjdrafts: Bo Burnham: Make Happy is one of the best stand-up comedy I\u2019ve seen on Netflix. It\u2019s oozing with musical genius, self-awarene\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1003628959752323072, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "1003628959752323072", 
+     "screen_name": "kjdrafts", 
+     "name": "Kenjie Pascua"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103111084377030656": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 620301073, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072233404492591105/JGgHG9Cj_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 105, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "620301073", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1163, 
+   "description": "Enseignant. 29 ans.", 
+   "friends_count": 817, 
+   "location": "Montr\u00e9al, Qu\u00e9bec", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1072233404492591105/JGgHG9Cj_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/620301073/1544475424", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "CpNantel", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 794, 
+   "name": "CP Nantel", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jun 27 19:59:20 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 01:52:31 +0000 2019", 
+  "Text": "@PierreLuc Bo Burnham - Make Happy", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 56782242, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "56782242", 
+     "screen_name": "PierreLuc", 
+     "name": "Pierre-Luc Racine"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103242080657260544": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 53088970, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/839916087265411073/nxsHvKJq_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 328, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "53088970", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18181, 
+   "description": "Mi vida se rige por una regla: la de Vaca y Pollo que te regalaban en el Telepizza cuando celebraban all\u00ed un cumplea\u00f1os.", 
+   "friends_count": 424, 
+   "location": "Y me 33", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/839916087265411073/nxsHvKJq_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/53088970/1521191006", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "fredymartinez", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 2607, 
+   "name": "Fredy martinez", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jul 02 15:13:26 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 10:33:03 +0000 2019", 
+  "Text": "@OliLuthor The Defiant Ones, que la habr\u00e9 visto como 3 veces, y el otro dia vimos mi novia y yo el de Terraplanismo\u2026 https://t.co/nLBgir1qa4", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 367153074, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "367153074", 
+     "screen_name": "OliLuthor", 
+     "name": "Oli Luthor. \ufe3d\u2735\ufe3d"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/nLBgir1qa4", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103242080657260544", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105245545751347202": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 113515939, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "970CF6", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104208315175915520/fZUYNQV7_normal.jpg", 
+   "profile_sidebar_fill_color": "00020B", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/m0R0sAe7IF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://twitter.com/Lin_Manuel/status/1070067191113023488?s=19", 
+       "display_url": "twitter.com/Lin_Manuel/sta\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 297, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "113515939", 
+   "profile_background_color": "060606", 
+   "listed_count": 30, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 174467, 
+   "description": "you have the moral backbone of a chocolate eclair", 
+   "friends_count": 484, 
+   "location": "ela/dela ", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104208315175915520/fZUYNQV7_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/113515939/1551496013", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "hometovwn", 
+   "lang": "pt", 
+   "profile_background_tile": true, 
+   "favourites_count": 55751, 
+   "name": "giu", 
+   "notifications": false, 
+   "url": "https://t.co/m0R0sAe7IF", 
+   "created_at": "Fri Feb 12 01:53:44 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 23:14:07 +0000 2019", 
+  "Text": "I reviewed Bo Burnham: Make Happy, 2016 - \u2605\u2605\u2605\u2605\u00bd on https://t.co/XpsIiJQCFj: https://t.co/bRL3aTOchn", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/XpsIiJQCFj", 
+     "indices": [
+      51, 
+      74
+     ], 
+     "expanded_url": "http://letterboxd.com", 
+     "display_url": "letterboxd.com"
+    }, 
+    {
+     "url": "https://t.co/bRL3aTOchn", 
+     "indices": [
+      76, 
+      99
+     ], 
+     "expanded_url": "https://ift.tt/2HsIoub", 
+     "display_url": "ift.tt/2HsIoub"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105679411993628672": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 780987940503707648, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 49, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "780987940503707648", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 7743, 
+   "description": "", 
+   "friends_count": 194, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "bagelbites_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 19141, 
+   "name": "eleanor", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 13 03:58:09 +0000 2019", 
+  "Text": "RT @thenevefringe2: bo burnham: make happy https://t.co/U8Lg2hRVJV", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1104046873223090177, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "1104046873223090177", 
+     "screen_name": "thenevefringe2", 
+     "name": "neve"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/U8Lg2hRVJV", 
+     "indices": [
+      43, 
+      66
+     ], 
+     "expanded_url": "https://twitter.com/rachellanglois_/status/1104469829614952448", 
+     "display_url": "twitter.com/rachellanglois\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105182829879664640": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 16191598, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102562265319030785/KcpHgzaw_normal.png", 
+   "profile_sidebar_fill_color": "F3F3F3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/78JzpWskqa", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://danhf.wordpress.com", 
+       "display_url": "danhf.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 3629, 
+   "profile_sidebar_border_color": "DFDFDF", 
+   "id_str": "16191598", 
+   "profile_background_color": "EBEBEB", 
+   "listed_count": 119, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 66647, 
+   "description": "Media Studies prof @ Utrecht University. Public speaker. Author. Cultural theorist. Professional curmudgeon. Amateur science fiction scholar.", 
+   "friends_count": 2337, 
+   "location": "Amsterdam", 
+   "profile_link_color": "990000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102562265319030785/KcpHgzaw_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/16191598/1523608632", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "DanHF", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12627, 
+   "name": "Dan Hassler-Forest", 
+   "notifications": false, 
+   "url": "https://t.co/78JzpWskqa", 
+   "created_at": "Mon Sep 08 20:31:50 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 19:04:54 +0000 2019", 
+  "Text": "That being said, I do like the list of \"media homework\" I gave them to watch each week:\n* IRON MAN\n*\u2026 https://t.co/TBvdAkKyAf", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/TBvdAkKyAf", 
+     "indices": [
+      102, 
+      125
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1105182829879664640", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
  "1106086669655199744": {
   "Lang": "en", 
   "Place": null, 
@@ -39,7 +1197,7 @@
    "listed_count": 7, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 21987, 
+   "statuses_count": 21997, 
    "description": "Comedian, Actor, Director, Wrestling Talent", 
    "friends_count": 708, 
    "location": "", 
@@ -52,7 +1210,7 @@
    "screen_name": "JPierceO", 
    "lang": "en", 
    "profile_background_tile": false, 
-   "favourites_count": 96, 
+   "favourites_count": 98, 
    "name": "Jordan Owens", 
    "notifications": false, 
    "url": "http://t.co/XCNQTZQ03t", 
@@ -92,6 +1250,1391 @@
   }, 
   "Geo": null
  }, 
+ "1103117971311001601": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 819417934275616768, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102033095509725185/BaYh8C4i_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 64, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "819417934275616768", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8092, 
+   "description": "she snapped. Mujer mexicana de 21 a\u00f1os. Toda mi vida es una performance. Muy sentimental. I\u2019m a Scorpio.", 
+   "friends_count": 180, 
+   "location": "", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102033095509725185/BaYh8C4i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/819417934275616768/1550301216", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "_almightyflower", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 27638, 
+   "name": "Hija de Afrodita \ud83d\udc8b", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jan 12 05:37:14 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 02:19:53 +0000 2019", 
+  "Text": "@Soyfurrr Make Happy de Bo Burnham", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 772882952, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "772882952", 
+     "screen_name": "Soyfurrr", 
+     "name": "Ke-Tiras"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103501567460888576": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3305839823, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100186516821811200/59DkJDx5_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/1TRpJy7ZQd", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.goodreads.com/user/show/69512014-dudaperaltasa", 
+       "display_url": "goodreads.com/user/show/6951\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1077, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3305839823", 
+   "profile_background_color": "000000", 
+   "listed_count": 12, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12131, 
+   "description": "that\u2019s what I think is love, when I\u2019m better because she\u2019s here", 
+   "friends_count": 396, 
+   "location": "14/25 \ud83d\udcda", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1100186516821811200/59DkJDx5_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3305839823/1551131177", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "brooklynineninw", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 2625, 
+   "name": "duda!\u00a1\u00a1!\u00a1 loves odaat", 
+   "notifications": false, 
+   "url": "https://t.co/1TRpJy7ZQd", 
+   "created_at": "Mon Jun 01 18:34:41 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 03:44:10 +0000 2019", 
+  "Text": "bo burnham: make happy (2016) \u2605\u2605\u2605\u2605 | dir. bo burnham &amp; christopher storer https://t.co/xvOHstTyUe", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/brooklynineninw/status/1103501567460888576/photo/1", 
+     "display_url": "pic.twitter.com/xvOHstTyUe", 
+     "url": "https://t.co/xvOHstTyUe", 
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1Bs0C0WoAAFXxN.jpg", 
+     "id_str": "1103501550071226368", 
+     "sizes": {
+      "large": {
+       "h": 198, 
+       "resize": "fit", 
+       "w": 500
+      }, 
+      "small": {
+       "h": 198, 
+       "resize": "fit", 
+       "w": 500
+      }, 
+      "medium": {
+       "h": 198, 
+       "resize": "fit", 
+       "w": 500
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      78, 
+      101
+     ], 
+     "type": "photo", 
+     "id": 1103501550071226368, 
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/D1Bs0C0WoAAFXxN.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104055420782592002": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 46310806, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "005EFF", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/994438938851971072/6-7ChFXI_normal.jpg", 
+   "profile_sidebar_fill_color": "FFE98F", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/FS9H9CCtLL", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://about.me/josemgonzalez", 
+       "display_url": "about.me/josemgonzalez"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1307, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "46310806", 
+   "profile_background_color": "084A69", 
+   "listed_count": 39, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 87153, 
+   "description": "Idealista-Vida-Opini\u00f3n-Nostalgia-Amigos-Risas-Sonrisas-M\u00fasica-Ciencias-Deportes-Artes  /   ViVa la Vida / Hakuna Matata / Memento Mori", 
+   "friends_count": 756, 
+   "location": "Panam\u00e1, Panam\u00e1", 
+   "profile_link_color": "FEF65B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/994438938851971072/6-7ChFXI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/46310806/1479240589", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "joswe5673", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 20888, 
+   "name": "Jos\u00e9 Manuel Gonz\u00e1lez Marqu\u00ednez", 
+   "notifications": false, 
+   "url": "http://t.co/FS9H9CCtLL", 
+   "created_at": "Thu Jun 11 04:08:24 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Fri Mar 08 16:24:59 +0000 2019", 
+  "Text": "Bo Burnham - Can't Handle This (Kanye Rant) - MAKE HAPPY Netflix [HD] https://t.co/KkQNsN2Skh v\u00eda @YouTube", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      98, 
+      106
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/KkQNsN2Skh", 
+     "indices": [
+      70, 
+      93
+     ], 
+     "expanded_url": "https://youtu.be/rYy0o-J0x20", 
+     "display_url": "youtu.be/rYy0o-J0x20"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104603250656006144": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 48449580, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/2096178186/180px-BusterFearSheep_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 25, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "48449580", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 186, 
+   "description": "", 
+   "friends_count": 76, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/2096178186/180px-BusterFearSheep_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jjbehren", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 182, 
+   "name": "Josh Behrendt", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jun 18 18:56:58 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sun Mar 10 04:41:52 +0000 2019", 
+  "Text": "@ScottFish24 Bo Burnham Make Happy", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 22014560, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "22014560", 
+     "screen_name": "ScottFish24", 
+     "name": "Scott Fish"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104759855917813761": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4851266602, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/955239265876705282/s4aV8zhI_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 30, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4851266602", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3381, 
+   "description": "20 | gemini \u264a\ufe0f |", 
+   "friends_count": 68, 
+   "location": "Caerphilly, Wales", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/955239265876705282/s4aV8zhI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4851266602/1549144017", 
+   "profile_background_image_url": null, 
+   "screen_name": "LukeJay981", 
+   "lang": "en-GB", 
+   "profile_background_tile": false, 
+   "favourites_count": 8211, 
+   "name": "Luke", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jan 26 21:38:31 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sun Mar 10 15:04:09 +0000 2019", 
+  "Text": "Bo Burnham - Can't Handle This (Kanye Rant) - MAKE HAPPY Netflix  https://t.co/6LNYSnklCw", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/6LNYSnklCw", 
+     "indices": [
+      66, 
+      89
+     ], 
+     "expanded_url": "https://youtu.be/rYy0o-J0x20", 
+     "display_url": "youtu.be/rYy0o-J0x20"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103720670129737734": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2271656084, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082701239064936449/r0p5QWJh_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/t0JTNoDWWo", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://boxd.it/jXSZ", 
+       "display_url": "boxd.it/jXSZ"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 347, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2271656084", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 39203, 
+   "description": "Yorgos Lanthimos was robbed of 4 Oscars. Olivia Colman is an Oscar winner in 2019. HEFF 2019.", 
+   "friends_count": 516, 
+   "location": "Kent", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1082701239064936449/r0p5QWJh_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271656084/1515289276", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jordanmumfordx", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 27720, 
+   "name": "bruh snapped", 
+   "notifications": false, 
+   "url": "https://t.co/t0JTNoDWWo", 
+   "created_at": "Wed Jan 01 13:42:55 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 18:14:48 +0000 2019", 
+  "Text": "Now watching: Bo Burnham: Make Happy (2016) dir. Bo Burnham &amp; Christopher Storer. The benchmark for comedy sets as\u2026 https://t.co/J8zyz4VvYK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/J8zyz4VvYK", 
+     "indices": [
+      120, 
+      143
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103720670129737734", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104391799215398912": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 46310806, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "005EFF", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/994438938851971072/6-7ChFXI_normal.jpg", 
+   "profile_sidebar_fill_color": "FFE98F", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/FS9H9CCtLL", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://about.me/josemgonzalez", 
+       "display_url": "about.me/josemgonzalez"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1307, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "46310806", 
+   "profile_background_color": "084A69", 
+   "listed_count": 39, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 87153, 
+   "description": "Idealista-Vida-Opini\u00f3n-Nostalgia-Amigos-Risas-Sonrisas-M\u00fasica-Ciencias-Deportes-Artes  /   ViVa la Vida / Hakuna Matata / Memento Mori", 
+   "friends_count": 756, 
+   "location": "Panam\u00e1, Panam\u00e1", 
+   "profile_link_color": "FEF65B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/994438938851971072/6-7ChFXI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/46310806/1479240589", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "joswe5673", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 20888, 
+   "name": "Jos\u00e9 Manuel Gonz\u00e1lez Marqu\u00ednez", 
+   "notifications": false, 
+   "url": "http://t.co/FS9H9CCtLL", 
+   "created_at": "Thu Jun 11 04:08:24 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sat Mar 09 14:41:38 +0000 2019", 
+  "Text": "@Pxncho @SebasKenpachi Recomiendo el de Bo Burnham \u201cMake Happy\u201d", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 44393930, 
+     "indices": [
+      0, 
+      7
+     ], 
+     "id_str": "44393930", 
+     "screen_name": "Pxncho", 
+     "name": "Pancho"
+    }, 
+    {
+     "id": 209379916, 
+     "indices": [
+      8, 
+      22
+     ], 
+     "id_str": "209379916", 
+     "screen_name": "SebasKenpachi", 
+     "name": "Sebaskenpachi"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103333687666638850": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1000810707624038400, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092534210081054721/9Rs_6loP_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/kpaAAmoe8p", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.paypal.me/nizagarc", 
+       "display_url": "paypal.me/nizagarc"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 525, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1000810707624038400", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 27261, 
+   "description": "anime \u00d7 art \u00d7 fangirl ~\ni\u2019m bi and a witch, you could say i\u2019m a bitch ~ Bajista rizada. ||-//\nMi vida sigue siendo una pendejada continua. ES/ENG", 
+   "friends_count": 2297, 
+   "location": "la chingada", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092534210081054721/9Rs_6loP_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1000810707624038400/1535343202", 
+   "profile_background_image_url": null, 
+   "screen_name": "niza_garc", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 57038, 
+   "name": "\u2020 \ud835\udd89\ud835\udd8a\ud835\udd86\ud835\udd89 \ud835\udd8c\ud835\udd8e\ud835\udd97\ud835\udd91 \ud835\udd9c\ud835\udd86\ud835\udd91\ud835\udd90\ud835\udd8e\ud835\udd93\ud835\udd8c \u2020", 
+   "notifications": false, 
+   "url": "https://t.co/kpaAAmoe8p", 
+   "created_at": "Sun May 27 18:47:21 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 16:37:04 +0000 2019", 
+  "Text": "@Soyfurrr Make Happy de Bo Burnham", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 772882952, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "772882952", 
+     "screen_name": "Soyfurrr", 
+     "name": "Ke-Tiras"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103626972163395585": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 288391643, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102933985473294336/yAvnpfnm_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 226, 
+   "profile_sidebar_border_color": "155AE6", 
+   "id_str": "288391643", 
+   "profile_background_color": "41C456", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9481, 
+   "description": "Bi\u00f3logo y Educador Ambiental moldeando cabecitas en el MNCN. Madridista y peliculero. \u201cDon\u2019t dream it, be it\u201d", 
+   "friends_count": 521, 
+   "location": "Madrid", 
+   "profile_link_color": "4A913C", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1102933985473294336/yAvnpfnm_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/288391643/1536272905", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jjrodloz", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 2651, 
+   "name": "Julio Rodr\u00edguez", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Apr 26 19:34:52 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 12:02:29 +0000 2019", 
+  "Text": "Vaya decepci\u00f3n el Make Happy de Bo Burnham. Cero conexi\u00f3n por mi parte, se me ha hecho laaaargo.\nMira que me hab\u00edan\u2026 https://t.co/uWBXItyeEz", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/uWBXItyeEz", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103626972163395585", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103039306053107712": {
+  "Lang": "fr", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1492764769, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103822612990439424/8FELZ44O_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/n4JUZxHoEg", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://wydrop.fr/", 
+       "display_url": "wydrop.fr"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 56, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1492764769", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12500, 
+   "description": "Game artiste | Blender | Je mod\u00e9lise principalement pour @cpenguin3d |\n\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Gay & NB \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+   "friends_count": 107, 
+   "location": "Haute-Savoie, Rh\u00f4ne-Alpes", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1103822612990439424/8FELZ44O_normal.png", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492764769/1544918339", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "angerydrop", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 4578, 
+   "name": "Wydrop", 
+   "notifications": false, 
+   "url": "https://t.co/n4JUZxHoEg", 
+   "created_at": "Sat Jun 08 12:04:29 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Tue Mar 05 21:07:18 +0000 2019", 
+  "Text": "Je conseil \u00e0 toutes les personnes qui aiment l'humour cynique et qui comprennent l'anglais de regardez le spectacle\u2026 https://t.co/b0FrwtimlR", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/b0FrwtimlR", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103039306053107712", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104562605845368832": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3246078588, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104589089607684097/9E0a1ptg_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/2JpndZZ2AH", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://letterboxd.com/visionsofgideon", 
+       "display_url": "letterboxd.com/visionsofgideon"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4303, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3246078588", 
+   "profile_background_color": "000000", 
+   "listed_count": 512, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 86122, 
+   "description": "can you still eat peaches?", 
+   "friends_count": 347, 
+   "location": "", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104589089607684097/9E0a1ptg_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3246078588/1551070042", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "erskinerecords", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 83589, 
+   "name": "beck", 
+   "notifications": false, 
+   "url": "https://t.co/2JpndZZ2AH", 
+   "created_at": "Mon Jun 15 15:22:07 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sun Mar 10 02:00:21 +0000 2019", 
+  "Text": "any netflix stand up comedy recs ? \u2014 all of john mulaney\u2019s, daniel sloss: live shows, ryan hamilton: happy face, jo\u2026 https://t.co/izPzzkM3H1", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/izPzzkM3H1", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1104562605845368832", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105114682338230272": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 4838739358, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047493928528875520/Kr_vtyV6_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 27, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "4838739358", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 884, 
+   "description": "J'aime l'espace, les avions et tout ce qui vole en g\u00e9n\u00e9ral.\n#spacegeek\n#HugoLisoir", 
+   "friends_count": 268, 
+   "location": "France", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1047493928528875520/Kr_vtyV6_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4838739358/1538576807", 
+   "profile_background_image_url": null, 
+   "screen_name": "dark_moule_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2778, 
+   "name": "Astro-crustac\u00e9", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jan 23 14:34:12 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 14:34:06 +0000 2019", 
+  "Text": "@Vertige__ Make happy de Bo Burnham!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 952408975, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "952408975", 
+     "screen_name": "Vertige__", 
+     "name": "Vertige"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105679160486162432": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1581352783, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092313638017220612/CZ8YRPMx_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 239, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1581352783", 
+   "profile_background_color": "000000", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10494, 
+   "description": "love: writing, the outdoors, makin art, and concerts\ud83c\udf35\ud83c\udf9f\ud83c\udf1e\ud83c\udf53 #1 boyish stan", 
+   "friends_count": 237, 
+   "location": "Seventh Day Adventist", 
+   "profile_link_color": "F58EA8", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092313638017220612/CZ8YRPMx_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581352783/1516911552", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "screen_name": "apricotsunlight", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 6515, 
+   "name": "esther", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 09 20:11:49 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 13 03:57:09 +0000 2019", 
+  "Text": "bo burnham make happy (2016): https://t.co/WIhvgycPwH", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/WIhvgycPwH", 
+     "indices": [
+      30, 
+      53
+     ], 
+     "expanded_url": "https://twitter.com/rachellanglois_/status/1104469829614952448", 
+     "display_url": "twitter.com/rachellanglois\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103404363861671936": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 982586264, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008813543200907266/oGARXHuu_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 57, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "982586264", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5118, 
+   "description": "u/Catalin28 I make memes and play videogames.\nTaking Photoshop requests for free.", 
+   "friends_count": 843, 
+   "location": "Romania", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1008813543200907266/oGARXHuu_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/982586264/1539629160", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "catalic1", 
+   "lang": "ro", 
+   "profile_background_tile": false, 
+   "favourites_count": 28525, 
+   "name": "Catalin.", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Dec 01 13:50:53 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 21:17:55 +0000 2019", 
+  "Text": "@ayycerni what. and Make Happy by Bo Burnham are good comedy. Also BoJack if you haven't watched it yet.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 741384032294838272, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "741384032294838272", 
+     "screen_name": "ayycerni", 
+     "name": "adam"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104189035399053315": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 46310806, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "005EFF", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/994438938851971072/6-7ChFXI_normal.jpg", 
+   "profile_sidebar_fill_color": "FFE98F", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/FS9H9CCtLL", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://about.me/josemgonzalez", 
+       "display_url": "about.me/josemgonzalez"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1307, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "46310806", 
+   "profile_background_color": "084A69", 
+   "listed_count": 39, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 87153, 
+   "description": "Idealista-Vida-Opini\u00f3n-Nostalgia-Amigos-Risas-Sonrisas-M\u00fasica-Ciencias-Deportes-Artes  /   ViVa la Vida / Hakuna Matata / Memento Mori", 
+   "friends_count": 756, 
+   "location": "Panam\u00e1, Panam\u00e1", 
+   "profile_link_color": "FEF65B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/994438938851971072/6-7ChFXI_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/46310806/1479240589", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "joswe5673", 
+   "lang": "es", 
+   "profile_background_tile": true, 
+   "favourites_count": 20888, 
+   "name": "Jos\u00e9 Manuel Gonz\u00e1lez Marqu\u00ednez", 
+   "notifications": false, 
+   "url": "http://t.co/FS9H9CCtLL", 
+   "created_at": "Thu Jun 11 04:08:24 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sat Mar 09 01:15:55 +0000 2019", 
+  "Text": "RT @hannahkim_berly: make happy \ncomedy special: bo burnham \n10/10 i have never cried after watching a comedy special nor did i ever expect\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 763298322509553665, 
+     "indices": [
+      3, 
+      19
+     ], 
+     "id_str": "763298322509553665", 
+     "screen_name": "hannahkim_berly", 
+     "name": "hannah"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105028172867809282": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 557481928, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084805530621603840/jazaDbfE_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 947, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "557481928", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 10, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 40306, 
+   "description": "thirty, flirty and dying he/him", 
+   "friends_count": 1067, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1084805530621603840/jazaDbfE_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/557481928/1547472768", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "twalker201", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 32580, 
+   "name": "Trevor Walker", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 19 06:36:42 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 08:50:21 +0000 2019", 
+  "Text": "@internetcassie I watch \"make happy\" by bo Burnham. Sitting in the weirdness helps me navigate my own weirdness", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 898952400, 
+     "indices": [
+      0, 
+      15
+     ], 
+     "id_str": "898952400", 
+     "screen_name": "internetcassie", 
+     "name": "cassie"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1105019511579774976": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2598381594, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096155912660754432/Ayv1kdDU_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 72, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2598381594", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 15, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 19223, 
+   "description": "J'vend des livres et parfois des crayons.", 
+   "friends_count": 284, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096155912660754432/Ayv1kdDU_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2598381594/1550178911", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Tikoklakour", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 59466, 
+   "name": "TiKok\ud83c\uddf7\ud83c\uddea", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 01 18:50:15 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 08:15:56 +0000 2019", 
+  "Text": "@Vertige__ Make Happy de Bo Burnham", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 952408975, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "952408975", 
+     "screen_name": "Vertige__", 
+     "name": "Vertige"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
  "1105981989679702016": {
   "Lang": "es", 
   "Place": null, 
@@ -125,7 +2668,7 @@
      "urls": []
     }
    }, 
-   "followers_count": 96, 
+   "followers_count": 97, 
    "profile_sidebar_border_color": "000000", 
    "id_str": "716514061", 
    "profile_background_color": "D9681C", 
@@ -177,50 +2720,50 @@
   }, 
   "Geo": null
  }, 
- "1105679411993628672": {
+ "1104666186799697920": {
   "Lang": "en", 
   "Place": null, 
   "User": {
    "follow_request_sent": false, 
-   "has_extended_profile": true, 
+   "has_extended_profile": false, 
    "profile_use_background_image": true, 
    "default_profile_image": false, 
-   "id": 780987940503707648, 
-   "profile_background_image_url_https": null, 
+   "id": 1230348230, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
    "verified": false, 
    "translator_type": "none", 
    "profile_text_color": "333333", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015936634326585349/BRdQBCvd_normal.jpg", 
    "profile_sidebar_fill_color": "DDEEF6", 
    "entities": {
     "description": {
      "urls": []
     }
    }, 
-   "followers_count": 48, 
+   "followers_count": 53, 
    "profile_sidebar_border_color": "C0DEED", 
-   "id_str": "780987940503707648", 
-   "profile_background_color": "F5F8FA", 
-   "listed_count": 0, 
+   "id_str": "1230348230", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 5, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 7730, 
+   "statuses_count": 205, 
    "description": "", 
-   "friends_count": 194, 
-   "location": "", 
+   "friends_count": 304, 
+   "location": "Miami Beach, FL", 
    "profile_link_color": "1DA1F2", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1015936634326585349/BRdQBCvd_normal.jpg", 
    "following": false, 
    "geo_enabled": false, 
-   "profile_background_image_url": null, 
-   "screen_name": "bagelbites_", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "808reed", 
    "lang": "en", 
    "profile_background_tile": false, 
-   "favourites_count": 19100, 
-   "name": "eleanor", 
+   "favourites_count": 3251, 
+   "name": "Bob", 
    "notifications": false, 
    "url": null, 
-   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "created_at": "Fri Mar 01 16:37:30 +0000 2013", 
    "contributors_enabled": false, 
    "time_zone": null, 
    "protected": false, 
@@ -228,32 +2771,204 @@
    "is_translator": false
   }, 
   "Title": "Bo Burnham: Make Happy", 
-  "Date": "Wed Mar 13 03:58:09 +0000 2019", 
-  "Text": "RT @thenevefringe2: bo burnham: make happy https://t.co/U8Lg2hRVJV", 
+  "Date": "Sun Mar 10 08:51:57 +0000 2019", 
+  "Text": "@ScottFish24 bo burnham make happy", 
   "Hashtags": {
    "symbols": [], 
    "user_mentions": [
     {
-     "id": 1104046873223090177, 
+     "id": 22014560, 
      "indices": [
-      3, 
-      18
+      0, 
+      12
      ], 
-     "id_str": "1104046873223090177", 
-     "screen_name": "thenevefringe2", 
-     "name": "neve"
+     "id_str": "22014560", 
+     "screen_name": "ScottFish24", 
+     "name": "Scott Fish"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104259443112464384": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 306915172, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1711802714/punch_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 24, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "306915172", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 642, 
+   "description": "", 
+   "friends_count": 362, 
+   "location": "Ardennes", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1711802714/punch_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rvsixsixsix", 
+   "lang": "fr", 
+   "profile_background_tile": false, 
+   "favourites_count": 327, 
+   "name": "RV S.", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat May 28 17:31:36 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sat Mar 09 05:55:42 +0000 2019", 
+  "Text": "Bo Burnham's \"Straight White Male\" from \"MAKE HAPPY\" in HD https://t.co/ejaSEorTwj via @YouTube", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      87, 
+      95
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
     }
    ], 
    "hashtags": [], 
    "urls": [
     {
-     "url": "https://t.co/U8Lg2hRVJV", 
+     "url": "https://t.co/ejaSEorTwj", 
      "indices": [
-      43, 
-      66
+      59, 
+      82
      ], 
-     "expanded_url": "https://twitter.com/rachellanglois_/status/1104469829614952448", 
-     "display_url": "twitter.com/rachellanglois\u2026"
+     "expanded_url": "https://youtu.be/S3-vXmvrAzM", 
+     "display_url": "youtu.be/S3-vXmvrAzM"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1105600746781851648": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3185719740, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045737105975054336/4A5fU4z0_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 271, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3185719740", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 6217, 
+   "description": "No depresso, only espresso. Scheme 10 CD Manager", 
+   "friends_count": 389, 
+   "location": "Hell", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1045737105975054336/4A5fU4z0_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3185719740/1545429741", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "natedabait28", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 9190, 
+   "name": "Grandpa Nate", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue May 05 02:08:40 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Tue Mar 12 22:45:33 +0000 2019", 
+  "Text": "Me every single time I watch the last 8 minutes of Bo Burnham\u2019s \u201cMake Happy\u201d https://t.co/6s0g7l1vJ4", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/natedabait28/status/1105600746781851648/photo/1", 
+     "display_url": "pic.twitter.com/6s0g7l1vJ4", 
+     "url": "https://t.co/6s0g7l1vJ4", 
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1fiBECWoAAN1Zp.jpg", 
+     "id_str": "1105600741434105856", 
+     "sizes": {
+      "small": {
+       "h": 250, 
+       "resize": "fit", 
+       "w": 250
+      }, 
+      "large": {
+       "h": 250, 
+       "resize": "fit", 
+       "w": 250
+      }, 
+      "medium": {
+       "h": 250, 
+       "resize": "fit", 
+       "w": 250
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      77, 
+      100
+     ], 
+     "type": "photo", 
+     "id": 1105600741434105856, 
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/D1fiBECWoAAN1Zp.jpg"
     }
    ]
   }, 
@@ -292,17 +3007,17 @@
      "urls": []
     }
    }, 
-   "followers_count": 1190, 
+   "followers_count": 1194, 
    "profile_sidebar_border_color": "000000", 
    "id_str": "882535443123679233", 
    "profile_background_color": "000000", 
    "listed_count": 49, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 35740, 
-   "description": "+ honey we want your money", 
-   "friends_count": 221, 
-   "location": "  r | she/her", 
+   "statuses_count": 35827, 
+   "description": "look out baby, it\u2019s joshua dun!", 
+   "friends_count": 225, 
+   "location": "", 
    "profile_link_color": "FAB81E", 
    "profile_image_url": "http://pbs.twimg.com/profile_images/1090497930417426432/bYcJmMTa_normal.jpg", 
    "following": false, 
@@ -312,7 +3027,7 @@
    "screen_name": "NEXTTIMEIWONT", 
    "lang": "en", 
    "profile_background_tile": false, 
-   "favourites_count": 138484, 
+   "favourites_count": 138804, 
    "name": "em", 
    "notifications": false, 
    "url": "https://t.co/hvxw21B4Gc", 
@@ -355,50 +3070,51 @@
   }, 
   "Geo": null
  }, 
- "1105885569572311041": {
+ "1105640502228078592": {
   "Lang": "en", 
   "Place": null, 
   "User": {
    "follow_request_sent": false, 
-   "has_extended_profile": true, 
+   "has_extended_profile": false, 
    "profile_use_background_image": true, 
    "default_profile_image": false, 
-   "id": 780987940503707648, 
+   "id": 1104046873223090177, 
    "profile_background_image_url_https": null, 
    "verified": false, 
    "translator_type": "none", 
    "profile_text_color": "333333", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104046957901897728/d7nlNdIQ_normal.jpg", 
    "profile_sidebar_fill_color": "DDEEF6", 
    "entities": {
     "description": {
      "urls": []
     }
    }, 
-   "followers_count": 48, 
+   "followers_count": 39, 
    "profile_sidebar_border_color": "C0DEED", 
-   "id_str": "780987940503707648", 
+   "id_str": "1104046873223090177", 
    "profile_background_color": "F5F8FA", 
    "listed_count": 0, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 7730, 
-   "description": "", 
-   "friends_count": 194, 
+   "statuses_count": 263, 
+   "description": "*tries to change bio, changes age to 12yrs old* TEMPORARY NEVE ACC//", 
+   "friends_count": 127, 
    "location": "", 
    "profile_link_color": "1DA1F2", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/981600463035432960/_efEvzh0_normal.jpg", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1104046957901897728/d7nlNdIQ_normal.jpg", 
    "following": false, 
    "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104046873223090177/1552060393", 
    "profile_background_image_url": null, 
-   "screen_name": "bagelbites_", 
+   "screen_name": "thenevefringe2", 
    "lang": "en", 
    "profile_background_tile": false, 
-   "favourites_count": 19100, 
-   "name": "eleanor", 
+   "favourites_count": 307, 
+   "name": "neve", 
    "notifications": false, 
    "url": null, 
-   "created_at": "Wed Sep 28 04:30:09 +0000 2016", 
+   "created_at": "Fri Mar 08 15:51:01 +0000 2019", 
    "contributors_enabled": false, 
    "time_zone": null, 
    "protected": false, 
@@ -406,22 +3122,1009 @@
    "is_translator": false
   }, 
   "Title": "Bo Burnham: Make Happy", 
-  "Date": "Wed Mar 13 17:37:20 +0000 2019", 
-  "Text": "RT @JordiVanTienen: biggest regret is still hurting bo burnham enough for him to create his make happy tour in 2015", 
+  "Date": "Wed Mar 13 01:23:32 +0000 2019", 
+  "Text": "bo burnham: make happy https://t.co/U8Lg2hRVJV", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/U8Lg2hRVJV", 
+     "indices": [
+      23, 
+      46
+     ], 
+     "expanded_url": "https://twitter.com/rachellanglois_/status/1104469829614952448", 
+     "display_url": "twitter.com/rachellanglois\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103135644061237250": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1001627542305099777, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080523392724418560/JhSY5D1p_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 36, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1001627542305099777", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 871, 
+   "description": "one small step for woman, one giant leap for womankind", 
+   "friends_count": 87, 
+   "location": "a movie theater near you", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1080523392724418560/JhSY5D1p_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001627542305099777/1549428949", 
+   "profile_background_image_url": null, 
+   "screen_name": "_mandyhillyard", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2532, 
+   "name": "mandy SAW captain marvel", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed May 30 00:53:10 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 03:30:07 +0000 2019", 
+  "Text": "RT @hannahkim_berly: make happy \ncomedy special: bo burnham \n10/10 i have never cried after watching a comedy special nor did i ever expect\u2026", 
   "Hashtags": {
    "symbols": [], 
    "user_mentions": [
     {
-     "id": 1206344220, 
+     "id": 763298322509553665, 
      "indices": [
       3, 
-      18
+      19
      ], 
-     "id_str": "1206344220", 
-     "screen_name": "JordiVanTienen", 
-     "name": "jordi"
+     "id_str": "763298322509553665", 
+     "screen_name": "hannahkim_berly", 
+     "name": "hannah"
     }
    ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103520717163937792": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 926079562362089473, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093852269223837696/wkyDUxFr_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/FIGdtrx5UH", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://frndlyrmndr.carrd.co/", 
+       "display_url": "frndlyrmndr.carrd.co"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 257, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "926079562362089473", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 8, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5084, 
+   "description": "bitchiest banana", 
+   "friends_count": 170, 
+   "location": "stl", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1093852269223837696/wkyDUxFr_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/926079562362089473/1549629679", 
+   "profile_background_image_url": null, 
+   "screen_name": "FRNDLYRMNDR", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 31469, 
+   "name": "ashlen!", 
+   "notifications": false, 
+   "url": "https://t.co/FIGdtrx5UH", 
+   "created_at": "Thu Nov 02 13:32:28 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 05:00:16 +0000 2019", 
+  "Text": "bo burnham: make happy (2016) https://t.co/tAi3zVhqZ2", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/FRNDLYRMNDR/status/1103520717163937792/photo/1", 
+     "display_url": "pic.twitter.com/tAi3zVhqZ2", 
+     "url": "https://t.co/tAi3zVhqZ2", 
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1B-O1CX4AAbBu9.jpg", 
+     "id_str": "1103520701926072320", 
+     "sizes": {
+      "small": {
+       "h": 286, 
+       "resize": "fit", 
+       "w": 510
+      }, 
+      "large": {
+       "h": 286, 
+       "resize": "fit", 
+       "w": 510
+      }, 
+      "medium": {
+       "h": 286, 
+       "resize": "fit", 
+       "w": 510
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      30, 
+      53
+     ], 
+     "type": "photo", 
+     "id": 1103520701926072320, 
+     "media_url": "http://pbs.twimg.com/tweet_video_thumb/D1B-O1CX4AAbBu9.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103316838279086080": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 93077802, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "1D2121", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085649821862486016/dlZ8XM-e_normal.jpg", 
+   "profile_sidebar_fill_color": "FFFFFF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4004, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "93077802", 
+   "profile_background_color": "080008", 
+   "listed_count": 144, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5465, 
+   "description": "Los amigos no son el tesoro. Son el mapa.", 
+   "friends_count": 303, 
+   "location": "", 
+   "profile_link_color": "7C97B3", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1085649821862486016/dlZ8XM-e_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/93077802/1552164352", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "tuitconnoisseur", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 6534, 
+   "name": "\ud83c\udf0a\u26a1\ufe0f\ud83c\udf0a\u26a1\ufe0f\ud83c\udf0a\u26a1\ufe0f\ud83c\udf0a\u26a1\ufe0f\ud83c\udf0a\u26a1\ufe0f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Nov 28 00:01:42 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 15:30:07 +0000 2019", 
+  "Text": "@Soyfurrr Bo Burnham / Make Happy.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 772882952, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "772882952", 
+     "screen_name": "Soyfurrr", 
+     "name": "Ke-Tiras"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104723628241944579": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 711242474593902592, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106295430764290050/kZCbdC_G_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1316, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "711242474593902592", 
+   "profile_background_color": "000000", 
+   "listed_count": 31, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17733, 
+   "description": "\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n#YOONGI: bi rights!\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800", 
+   "friends_count": 229, 
+   "location": "zayn", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106295430764290050/kZCbdC_G_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/711242474593902592/1552566966", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "peachyeojin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 40553, 
+   "name": "gio", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Mar 19 17:26:34 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sun Mar 10 12:40:12 +0000 2019", 
+  "Text": "bo burnham: make happy (2016)", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103190406982967296": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1011275539708104704, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081118062953353218/C3irPJjY_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/ZSo8S6vjIe", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://letterboxd.com/thepurecinema", 
+       "display_url": "letterboxd.com/thepurecinema"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 44, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1011275539708104704", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4258, 
+   "description": "i got a lot of movies in my head.", 
+   "friends_count": 109, 
+   "location": "Twano", 
+   "profile_link_color": "FAB81E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1081118062953353218/C3irPJjY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1011275539708104704/1551714946", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "javierimpala", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2026, 
+   "name": "javier", 
+   "notifications": false, 
+   "url": "https://t.co/ZSo8S6vjIe", 
+   "created_at": "Mon Jun 25 15:50:52 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 07:07:43 +0000 2019", 
+  "Text": "My \u2605\u2605\u2605\u2605\u2605 review of Bo Burnham: Make Happy on @letterboxd: https://t.co/SwSd35Edk6", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 26981455, 
+     "indices": [
+      45, 
+      56
+     ], 
+     "id_str": "26981455", 
+     "screen_name": "letterboxd", 
+     "name": "Letterboxd"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/SwSd35Edk6", 
+     "indices": [
+      58, 
+      81
+     ], 
+     "expanded_url": "https://boxd.it/EOxtP", 
+     "display_url": "boxd.it/EOxtP"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103084837483802624": {
+  "Lang": "es", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 396178643, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077621182931890176/Iajo5uxL_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 788, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "396178643", 
+   "profile_background_color": "172C33", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18818, 
+   "description": "Heaven Knows I'm Miserable Now", 
+   "friends_count": 1826, 
+   "location": "Jalisco, M\u00e9xico", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1077621182931890176/Iajo5uxL_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/396178643/1536974922", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "HamletSnow", 
+   "lang": "es", 
+   "profile_background_tile": false, 
+   "favourites_count": 122987, 
+   "name": "George Costanza", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Oct 22 21:34:37 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Wed Mar 06 00:08:14 +0000 2019", 
+  "Text": "@Soyfurrr Make Happy de Bo Burnham, lo mejor que veras, garantizado ya va calado", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 772882952, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "772882952", 
+     "screen_name": "Soyfurrr", 
+     "name": "Ke-Tiras"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104860164270768129": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 235182840, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/986480659102347264/XzcALL8g_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 104, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "235182840", 
+   "profile_background_color": "131516", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5633, 
+   "description": "| 21 | Marketing Student | Automotive Engineering | Photography Enthusiast | Travelling Addict | Electronic Music Newbie", 
+   "friends_count": 504, 
+   "location": "Paris - Normandie ", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/986480659102347264/XzcALL8g_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/235182840/1536167008", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "TheoR97", 
+   "lang": "fr", 
+   "profile_background_tile": true, 
+   "favourites_count": 11663, 
+   "name": "Theo", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jan 07 15:24:01 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sun Mar 10 21:42:45 +0000 2019", 
+  "Text": "@Vertige__ Bo Burnham - what. sur YouTube et son spectacle Make Happy sur Netflix.", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 952408975, 
+     "indices": [
+      0, 
+      10
+     ], 
+     "id_str": "952408975", 
+     "screen_name": "Vertige__", 
+     "name": "Vertige"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104213255524896769": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 737382329795153922, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087860977301897216/SqAdFFlt_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/wgmPzWcS45", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/ihatesnakeau", 
+       "display_url": "curiouscat.me/ihatesnakeau"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2398, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "737382329795153922", 
+   "profile_background_color": "000000", 
+   "listed_count": 54, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 98531, 
+   "description": "to all beyonces without dreams", 
+   "friends_count": 1269, 
+   "location": "entp", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087860977301897216/SqAdFFlt_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/737382329795153922/1539798424", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ihatesnakeau", 
+   "lang": "pt", 
+   "profile_background_tile": false, 
+   "favourites_count": 152318, 
+   "name": "isso \u00e9 ra\u00e7a negra gata", 
+   "notifications": false, 
+   "url": "https://t.co/wgmPzWcS45", 
+   "created_at": "Mon May 30 20:37:02 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Sat Mar 09 02:52:10 +0000 2019", 
+  "Text": "Bo Burnham   Make Happy   Lower Your Expectations https://t.co/pVwPsp5Pqp via @YouTube", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      78, 
+      86
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/pVwPsp5Pqp", 
+     "indices": [
+      50, 
+      73
+     ], 
+     "expanded_url": "https://youtu.be/iTGQ5VOx9yA", 
+     "display_url": "youtu.be/iTGQ5VOx9yA"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1104904386063581184": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 474995897, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "088253", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092547601143091205/V_wcgr9y_normal.jpg", 
+   "profile_sidebar_fill_color": "E3E2DE", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 230, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "474995897", 
+   "profile_background_color": "9F9FF2", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 37115, 
+   "description": "thank you for the sun-dried tomato aioli, because it\u2019s a revelation", 
+   "friends_count": 225, 
+   "location": "Orlando, FL", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092547601143091205/V_wcgr9y_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/474995897/1547879003", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", 
+   "screen_name": "emkaybeck", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12474, 
+   "name": "Emily Beck", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jan 26 15:34:38 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Mon Mar 11 00:38:28 +0000 2019", 
+  "Text": "Bo Burnham - Can't Handle This (Kanye Rant) - MAKE HAPPY Netflix [HD] https://t.co/tjvt2baQBg via @YouTube", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 10228272, 
+     "indices": [
+      98, 
+      106
+     ], 
+     "id_str": "10228272", 
+     "screen_name": "YouTube", 
+     "name": "YouTube"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/tjvt2baQBg", 
+     "indices": [
+      70, 
+      93
+     ], 
+     "expanded_url": "https://youtu.be/rYy0o-J0x20", 
+     "display_url": "youtu.be/rYy0o-J0x20"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103754927367745538": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 151992389, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "FF1E00", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084709009393885185/JgItyi6z_normal.jpg", 
+   "profile_sidebar_fill_color": "00B8E3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/otQdoGnm3L", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://mobile.twitter.com/9pmisprettyodd/status/1081243145797537792", 
+       "display_url": "mobile.twitter.com/9pmisprettyodd\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 136, 
+   "profile_sidebar_border_color": "00FD28", 
+   "id_str": "151992389", 
+   "profile_background_color": "00F9FF", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3849, 
+   "description": "Your daughter calls me daddy too. Movie theater employee. Horror film obsessed. Pop culture loving. Very upset I\u2019m not married to a stand up comedian yet.", 
+   "friends_count": 884, 
+   "location": "Hopefully at [adult swim]", 
+   "profile_link_color": "94D487", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1084709009393885185/JgItyi6z_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/151992389/1548658233", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "9pmisprettyodd", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 632, 
+   "name": "[adult kimm]", 
+   "notifications": false, 
+   "url": "https://t.co/otQdoGnm3L", 
+   "created_at": "Fri Jun 04 19:55:36 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 20:30:56 +0000 2019", 
+  "Text": "RT @kjdrafts: Bo Burnham: Make Happy is one of the best stand-up comedy I\u2019ve seen on Netflix. It\u2019s oozing with musical genius, self-awarene\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1003628959752323072, 
+     "indices": [
+      3, 
+      12
+     ], 
+     "id_str": "1003628959752323072", 
+     "screen_name": "kjdrafts", 
+     "name": "Kenjie Pascua"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1103674850332180481": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1003628959752323072, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003637899386949632/ad_NYSh1_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/w77rOpwYAt", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://linkedin.com/in/kjbpascua", 
+       "display_url": "linkedin.com/in/kjbpascua"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 45, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1003628959752323072", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 815, 
+   "description": "Let's write our thoughts and create a universe out of it.", 
+   "friends_count": 131, 
+   "location": "", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1003637899386949632/ad_NYSh1_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1003628959752323072/1528121136", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "kjdrafts", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3945, 
+   "name": "Kenjie Pascua", 
+   "notifications": false, 
+   "url": "https://t.co/w77rOpwYAt", 
+   "created_at": "Mon Jun 04 13:26:05 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Thu Mar 07 15:12:44 +0000 2019", 
+  "Text": "Bo Burnham: Make Happy is one of the best stand-up comedy I\u2019ve seen on Netflix. It\u2019s oozing with musical genius, se\u2026 https://t.co/QgfxjIW6Zz", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/QgfxjIW6Zz", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1103674850332180481", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1103929067642937346": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 742861479062409216, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079603259013246976/JApI8qFl_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/kfR4629ajx", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.paypal.me/CLRousselle", 
+       "display_url": "paypal.me/CLRousselle"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 139, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "742861479062409216", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5983, 
+   "description": "i\u2019m really good at pretending that i know what i\u2019m doing and sometimes if i\u2019m lucky that turns into actually knowing what i\u2019m doing {they/them}", 
+   "friends_count": 236, 
+   "location": "pls send me money i\u2019m broke ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1079603259013246976/JApI8qFl_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/742861479062409216/1546232451", 
+   "profile_background_image_url": null, 
+   "screen_name": "yaychelsey", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 12416, 
+   "name": "chels", 
+   "notifications": false, 
+   "url": "https://t.co/kfR4629ajx", 
+   "created_at": "Tue Jun 14 23:29:13 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Bo Burnham: Make Happy", 
+  "Date": "Fri Mar 08 08:02:54 +0000 2019", 
+  "Text": "i love bo burnham i hadn't watched any of his specials in a while i forgot how happy they make me", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
    "hashtags": [], 
    "urls": []
   }, 

@@ -1,204 +1,49 @@
 {
- "1106175424730722304": {
-  "Lang": "en", 
-  "Place": null, 
-  "User": {
-   "follow_request_sent": false, 
-   "has_extended_profile": false, 
-   "profile_use_background_image": true, 
-   "default_profile_image": false, 
-   "id": 166391025, 
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-   "verified": false, 
-   "translator_type": "none", 
-   "profile_text_color": "FFFFFF", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/820103826732711938/d0ABsO8a_normal.jpg", 
-   "profile_sidebar_fill_color": "000000", 
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   }, 
-   "followers_count": 269, 
-   "profile_sidebar_border_color": "000000", 
-   "id_str": "166391025", 
-   "profile_background_color": "000000", 
-   "listed_count": 1, 
-   "is_translation_enabled": false, 
-   "utc_offset": null, 
-   "statuses_count": 6122, 
-   "description": "The record shows I took the blows, and did it my way. Take pride in being a gentleman.", 
-   "friends_count": 556, 
-   "location": "", 
-   "profile_link_color": "EEEE00", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/820103826732711938/d0ABsO8a_normal.jpg", 
-   "following": false, 
-   "geo_enabled": true, 
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/166391025/1513895658", 
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-   "screen_name": "Domigian11", 
-   "lang": "en", 
-   "profile_background_tile": true, 
-   "favourites_count": 3662, 
-   "name": "Dominick Morelli Jr.", 
-   "notifications": false, 
-   "url": null, 
-   "created_at": "Wed Jul 14 01:27:24 +0000 2010", 
-   "contributors_enabled": false, 
-   "time_zone": null, 
-   "protected": false, 
-   "default_profile": false, 
-   "is_translator": false
-  }, 
-  "Title": "Losers", 
-  "Date": "Thu Mar 14 12:49:07 +0000 2019", 
-  "Text": "@_Cashman15_ @The7Line They make Mets fans out to be huge losers. That shark video was one of the most embarrassing things I have ever seen.", 
-  "Hashtags": {
-   "symbols": [], 
-   "user_mentions": [
-    {
-     "id": 3130751379, 
-     "indices": [
-      0, 
-      12
-     ], 
-     "id_str": "3130751379", 
-     "screen_name": "_Cashman15_", 
-     "name": "Kevin Cashman \u2122"
-    }, 
-    {
-     "id": 132526702, 
-     "indices": [
-      13, 
-      22
-     ], 
-     "id_str": "132526702", 
-     "screen_name": "The7Line", 
-     "name": "The 7 Line"
-    }
-   ], 
-   "hashtags": [], 
-   "urls": []
-  }, 
-  "Geo": null
- }, 
- "1106175400273735681": {
+ "1106578061791641600": {
   "Lang": "en", 
   "Place": null, 
   "User": {
    "follow_request_sent": false, 
    "has_extended_profile": true, 
-   "profile_use_background_image": false, 
-   "default_profile_image": false, 
-   "id": 709390404626620416, 
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
-   "verified": false, 
-   "translator_type": "none", 
-   "profile_text_color": "000000", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078464707634360320/MHndA73__normal.jpg", 
-   "profile_sidebar_fill_color": "000000", 
-   "entities": {
-    "description": {
-     "urls": []
-    }
-   }, 
-   "followers_count": 299, 
-   "profile_sidebar_border_color": "000000", 
-   "id_str": "709390404626620416", 
-   "profile_background_color": "000000", 
-   "listed_count": 3, 
-   "is_translation_enabled": false, 
-   "utc_offset": null, 
-   "statuses_count": 5985, 
-   "description": "26 years old. I like cows more than you do. Prd 3x in s4. Gym enthusiast.\nSnake player", 
-   "friends_count": 375, 
-   "location": "Rock Hill, SC", 
-   "profile_link_color": "FAB81E", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1078464707634360320/MHndA73__normal.jpg", 
-   "following": false, 
-   "geo_enabled": false, 
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/709390404626620416/1538156043", 
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-   "screen_name": "MooMooSSB", 
-   "lang": "en", 
-   "profile_background_tile": false, 
-   "favourites_count": 7062, 
-   "name": "Mr. MooMoo", 
-   "notifications": false, 
-   "url": null, 
-   "created_at": "Mon Mar 14 14:47:07 +0000 2016", 
-   "contributors_enabled": false, 
-   "time_zone": null, 
-   "protected": false, 
-   "default_profile": false, 
-   "is_translator": false
-  }, 
-  "Title": "Losers", 
-  "Date": "Thu Mar 14 12:49:01 +0000 2019", 
-  "Text": "RT @MilleniumY2K: Whoever laughed at my 14 year old brother after beating him in round 1 of LOSERS and made him feel bad at his first tourn\u2026", 
-  "Hashtags": {
-   "symbols": [], 
-   "user_mentions": [
-    {
-     "id": 947663358865608709, 
-     "indices": [
-      3, 
-      16
-     ], 
-     "id_str": "947663358865608709", 
-     "screen_name": "MilleniumY2K", 
-     "name": "NSM | Y2Kay"
-    }
-   ], 
-   "hashtags": [], 
-   "urls": []
-  }, 
-  "Geo": null
- }, 
- "1106175388512858112": {
-  "Lang": "en", 
-  "Place": null, 
-  "User": {
-   "follow_request_sent": false, 
-   "has_extended_profile": false, 
    "profile_use_background_image": true, 
    "default_profile_image": false, 
-   "id": 3050388320, 
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "id": 823397463096602624, 
+   "profile_background_image_url_https": null, 
    "verified": false, 
    "translator_type": "none", 
    "profile_text_color": "333333", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/571713403112333312/leUsETrm_normal.jpeg", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094040833458728965/74Fwfuv5_normal.jpg", 
    "profile_sidebar_fill_color": "DDEEF6", 
    "entities": {
     "description": {
      "urls": []
     }
    }, 
-   "followers_count": 5, 
+   "followers_count": 46, 
    "profile_sidebar_border_color": "C0DEED", 
-   "id_str": "3050388320", 
-   "profile_background_color": "C0DEED", 
+   "id_str": "823397463096602624", 
+   "profile_background_color": "F5F8FA", 
    "listed_count": 0, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 84, 
-   "description": "", 
-   "friends_count": 67, 
+   "statuses_count": 732, 
+   "description": "I am but a humble twitter lurker.", 
+   "friends_count": 458, 
    "location": "", 
    "profile_link_color": "1DA1F2", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/571713403112333312/leUsETrm_normal.jpeg", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1094040833458728965/74Fwfuv5_normal.jpg", 
    "following": false, 
    "geo_enabled": false, 
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-   "screen_name": "PogueChuck", 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/823397463096602624/1543185206", 
+   "profile_background_image_url": null, 
+   "screen_name": "ifihadanicole_", 
    "lang": "en", 
    "profile_background_tile": false, 
-   "favourites_count": 7, 
-   "name": "Chuck Pogue", 
+   "favourites_count": 6345, 
+   "name": "Tawn Drake", 
    "notifications": false, 
    "url": null, 
-   "created_at": "Sat Feb 28 16:42:33 +0000 2015", 
+   "created_at": "Mon Jan 23 05:10:28 +0000 2017", 
    "contributors_enabled": false, 
    "time_zone": null, 
    "protected": false, 
@@ -206,23 +51,5339 @@
    "is_translator": false
   }, 
   "Title": "Losers", 
-  "Date": "Thu Mar 14 12:48:59 +0000 2019", 
-  "Text": "@nytimes Beto is just out for camera time because he knows the Liberal media gives losers all the camera time they want.", 
+  "Date": "Fri Mar 15 15:29:03 +0000 2019", 
+  "Text": "Made by idiots. This is like those robocalls saying you'll be arrested by \"your local COPS\". However, I can see why\u2026 https://t.co/Sdgr5iMdnw", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Sdgr5iMdnw", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106578061791641600", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106578030900711424": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1033395535024205829, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033398069914755078/b9enApkD_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 33, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1033395535024205829", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1164, 
+   "description": "Ever wonder who really runs the world? (Parody account)", 
+   "friends_count": 574, 
+   "location": "District of Columbia, USA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1033398069914755078/b9enApkD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1033395535024205829/1535216289", 
+   "profile_background_image_url": null, 
+   "screen_name": "thesecretpresi1", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8351, 
+   "name": "Secret President", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 25 16:47:49 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:56 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
   "Hashtags": {
    "symbols": [], 
    "user_mentions": [
     {
-     "id": 807095, 
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577936067514370": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1002133913769259008, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106508061907271680/rtiPPNdK_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 5458, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1002133913769259008", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1342, 
+   "description": "", 
+   "friends_count": 3163, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106508061907271680/rtiPPNdK_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1002133913769259008/1552647055", 
+   "profile_background_image_url": null, 
+   "screen_name": "retweet_r", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1815, 
+   "name": "RETWEET PIG", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu May 31 10:25:18 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:33 +0000 2019", 
+  "Text": "RT @3lli3jones: It\u2019s Friday and I\u2019m in the mood for rinsing losers and kicking them in the balls! #BallBusting #Findom https://t.co/dFfPGy5\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1106517022752624641, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "1106517022752624641", 
+     "screen_name": "3lli3jones", 
+     "name": "Ellie Jones"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      98, 
+      110
+     ], 
+     "text": "BallBusting"
+    }, 
+    {
+     "indices": [
+      111, 
+      118
+     ], 
+     "text": "Findom"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577888906760195": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 1098139622914306049, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 104, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1098139622914306049", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 207, 
+   "description": "Living the dream baby", 
+   "friends_count": 10, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "AndrewA90493371", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 419, 
+   "name": "Andrew Adam", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Feb 20 08:37:43 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:22 +0000 2019", 
+  "Text": "RT @3lli3jones: It\u2019s Friday and I\u2019m in the mood for rinsing losers and kicking them in the balls! #BallBusting #Findom https://t.co/dFfPGy5\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1106517022752624641, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "1106517022752624641", 
+     "screen_name": "3lli3jones", 
+     "name": "Ellie Jones"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      98, 
+      110
+     ], 
+     "text": "BallBusting"
+    }, 
+    {
+     "indices": [
+      111, 
+      118
+     ], 
+     "text": "Findom"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577686124785665": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 516928569, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "regular", 
+   "profile_text_color": "323941", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097868000617787393/fdXWjYSM_normal.jpg", 
+   "profile_sidebar_fill_color": "0C243C", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1114, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "516928569", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 18, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 138034, 
+   "description": "23 - UCF - @ashco4L\u2764\ufe0f- #1347", 
+   "friends_count": 997, 
+   "location": "NJ / Orlando", 
+   "profile_link_color": "FF0000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097868000617787393/fdXWjYSM_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/516928569/1549735031", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rickylxopez", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 62644, 
+   "name": "ricky / 1347 \ud83c\udde8\ud83c\uddf4", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Mar 06 21:54:04 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:34 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578064102715397": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1627936639, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003412560345886720/TKmt-AB8_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 153, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1627936639", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 10, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 46082, 
+   "description": "", 
+   "friends_count": 99, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1003412560345886720/TKmt-AB8_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627936639/1501204827", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "enigma_081", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 51261, 
+   "name": "charismatic enigma", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jul 28 13:39:36 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:29:04 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577998508187648": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 1092922779488403457, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106509117412306946/SRXupekf_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1210, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "1092922779488403457", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 284, 
+   "description": "", 
+   "friends_count": 871, 
+   "location": "", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106509117412306946/SRXupekf_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092922779488403457/1552647307", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "RTPI55Y", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 330, 
+   "name": "RT PIG", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Feb 05 23:07:50 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:48 +0000 2019", 
+  "Text": "RT @3lli3jones: It\u2019s Friday and I\u2019m in the mood for rinsing losers and kicking them in the balls! #BallBusting #Findom https://t.co/dFfPGy5\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1106517022752624641, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "1106517022752624641", 
+     "screen_name": "3lli3jones", 
+     "name": "Ellie Jones"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      98, 
+      110
+     ], 
+     "text": "BallBusting"
+    }, 
+    {
+     "indices": [
+      111, 
+      118
+     ], 
+     "text": "Findom"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578029210464257": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1091795405652836353, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106502225818468352/pzXfFRA-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1348, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1091795405652836353", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 348, 
+   "description": "", 
+   "friends_count": 2, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106502225818468352/pzXfFRA-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091795405652836353/1552645664", 
+   "profile_background_image_url": null, 
+   "screen_name": "retweetp11g", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 314, 
+   "name": "MM", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Feb 02 20:28:04 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:56 +0000 2019", 
+  "Text": "RT @3lli3jones: It\u2019s Friday and I\u2019m in the mood for rinsing losers and kicking them in the balls! #BallBusting #Findom https://t.co/dFfPGy5\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1106517022752624641, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "1106517022752624641", 
+     "screen_name": "3lli3jones", 
+     "name": "Ellie Jones"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      98, 
+      110
+     ], 
+     "text": "BallBusting"
+    }, 
+    {
+     "indices": [
+      111, 
+      118
+     ], 
+     "text": "Findom"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577845537685506": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2198634601, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000749776838/5b1c7eefc9b2fb06228936d0850caff5_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/HpxkFRxa6V", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://drewkadel.wordpress.com", 
+       "display_url": "drewkadel.wordpress.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 312, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2198634601", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 13584, 
+   "description": "Priest --preaching and serving congregations in transition", 
+   "friends_count": 361, 
+   "location": "Yonkers, NY", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000749776838/5b1c7eefc9b2fb06228936d0850caff5_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2198634601/1384649663", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "FrKadel", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13942, 
+   "name": "Andrew Kadel", 
+   "notifications": false, 
+   "url": "http://t.co/HpxkFRxa6V", 
+   "created_at": "Sun Nov 17 00:29:33 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:12 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577876562989056": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 65579815, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/625587248923287552/hpEdSav0_normal.png", 
+   "profile_sidebar_fill_color": "EFEFEF", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 132, 
+   "profile_sidebar_border_color": "EEEEEE", 
+   "id_str": "65579815", 
+   "profile_background_color": "131516", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 14627, 
+   "description": "Hello, I'm Tim! I'm a huge Pokemon, Kirby, 3D Mario & Nintendo fan in general! I also love watching lots of random stuff on Twitch. And sometimes I tweet~ ^_^", 
+   "friends_count": 392, 
+   "location": "Michigan", 
+   "profile_link_color": "009999", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/625587248923287552/hpEdSav0_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/65579815/1437917366", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "ShironRedshift", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 6344, 
+   "name": "Tim", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Aug 14 06:33:14 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:19 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577712251047942": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 890004324310544384, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/890026203482120192/aZcUoFLc_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 34, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "890004324310544384", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1271, 
+   "description": "Jeremy. Boston bike messenger. Too old for this shit. Angry leftist ranting most likely.", 
+   "friends_count": 119, 
+   "location": "Boston, MA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/890026203482120192/aZcUoFLc_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "imjeremyfuckoff", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 189, 
+   "name": "\ud835\udd41\ud835\udd56\ud835\udd63\ud835\udd56\ud835\udd5e\ud835\udd6a \ud83c\udf39", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jul 26 00:22:21 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:40 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577912764026880": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1092617559839571968, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092630641122918400/KSIzGsLs_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 87, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1092617559839571968", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1473, 
+   "description": "I\u2019m Just Out Here Living Life Unbothered Minding The Business That Pays M3 \ud83d\ude0d\ud83d\udc87\ud83c\udffe\ud83d\udc86\ud83c\udffe\ud83d\udc51\ud83d\udc85\ud83e\udd11", 
+   "friends_count": 1378, 
+   "location": "Port Au Prince", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092630641122918400/KSIzGsLs_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1092617559839571968/1549490754", 
+   "profile_background_image_url": null, 
+   "screen_name": "stubbornlove_27", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 74, 
+   "name": "Mz.Unpredictable", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Feb 05 02:55:00 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:28 +0000 2019", 
+  "Text": "RT @Wavegoddess719: Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up. You're right on tr\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 931938054067113985, 
+     "indices": [
+      3, 
+      18
+     ], 
+     "id_str": "931938054067113985", 
+     "screen_name": "Wavegoddess719", 
+     "name": "Mysterious719\ud83e\udde1\u264b\ufe0f\u264b\ufe0f\ud83e\udde1"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577411808919553": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": true, 
+   "id": 713143647454240768, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 263, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "713143647454240768", 
+   "profile_background_color": "000000", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4952, 
+   "description": "I am a Trump supporter that roots for the United States of America!", 
+   "friends_count": 245, 
+   "location": "Massachusetts, USA", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "johnbossmass2", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 36254, 
+   "name": "John R", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 24 23:21:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:28 +0000 2019", 
+  "Text": "Little Marco just proved what the President has called him from day one \"Little\"What a Scumbag .Along with the othe\u2026 https://t.co/Nji3ruyK5a", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Nji3ruyK5a", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577411808919553", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577574929592320": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 825357980946165760, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 62, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "825357980946165760", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3046, 
+   "description": "", 
+   "friends_count": 50, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "jessica_epure", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 28649, 
+   "name": "Jessica Epure", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Jan 28 15:00:51 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:07 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577576632291328": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 117941270, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/722454877/2010-02-27_15.36.59bb_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/aylGvF5dWl", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://orac.tumblr.com/", 
+       "display_url": "orac.tumblr.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 202, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "117941270", 
+   "profile_background_color": "000000", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 79023, 
+   "description": "California", 
+   "friends_count": 1292, 
+   "location": "Laguna Beach, CA", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/722454877/2010-02-27_15.36.59bb_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/117941270/1478770770", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "oracoraque", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 11589, 
+   "name": "orac oraque", 
+   "notifications": false, 
+   "url": "http://t.co/aylGvF5dWl", 
+   "created_at": "Sat Feb 27 03:21:43 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:08 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577976722771968": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2321422190, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079849424891727872/picihtbw_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 13, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2321422190", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1165, 
+   "description": "\u300c\uff57\uff4f\uff57\u300d Now 20% cooler than your average potato \u300c\uff57\uff4f\uff57\u300d", 
+   "friends_count": 276, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1079849424891727872/picihtbw_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "imhoyos", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 8273, 
+   "name": "\uff54\uff4f\uff41\uff44", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Jan 31 22:16:41 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:43 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577667661283333": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 6800732, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1887169679/Stewie_normal.jpg", 
+   "profile_sidebar_fill_color": "E0FF92", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 110, 
+   "profile_sidebar_border_color": "87BC44", 
+   "id_str": "6800732", 
+   "profile_background_color": "667799", 
+   "listed_count": 13, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12017, 
+   "description": "Seattle | Sounders | Software", 
+   "friends_count": 392, 
+   "location": "", 
+   "profile_link_color": "550099", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1887169679/Stewie_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "florean", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 56, 
+   "name": "Nathan Florea", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jun 14 01:29:35 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:29 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577771059306501": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 7811082, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/843138926072160259/lt_I-vJe_normal.jpg", 
+   "profile_sidebar_fill_color": "E0FF92", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/cJcmNCCCxl", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://thejoel.tumblr.com/", 
+       "display_url": "thejoel.tumblr.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 284, 
+   "profile_sidebar_border_color": "87BC44", 
+   "id_str": "7811082", 
+   "profile_background_color": "9AE4E8", 
+   "listed_count": 20, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 20108, 
+   "description": "Comedy is the only thing that can save us, now", 
+   "friends_count": 630, 
+   "location": "California", 
+   "profile_link_color": "0000FF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/843138926072160259/lt_I-vJe_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/7811082/1489854979", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jlawrencem", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 1918, 
+   "name": "Joel Manahan", 
+   "notifications": false, 
+   "url": "https://t.co/cJcmNCCCxl", 
+   "created_at": "Mon Jul 30 05:07:40 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:54 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577490619916290": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 725705678162112516, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092068638356635648/p19B_3tF_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1000, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "725705678162112516", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 3216, 
+   "description": "#wwfc", 
+   "friends_count": 856, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1092068638356635648/p19B_3tF_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/725705678162112516/1552339840", 
+   "profile_background_image_url": null, 
+   "screen_name": "ks5wwfc", 
+   "lang": "en-GB", 
+   "profile_background_tile": false, 
+   "favourites_count": 20439, 
+   "name": "Kam \ud83d\udc3a", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 28 15:18:11 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:47 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577531896033280": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 426805652, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/464960129486442497/oWSYsJp6_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 170, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "426805652", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12554, 
+   "description": "Skier, jogger, rider, fun lover. Ski race and lacrosse dad. Gimme a beer.", 
+   "friends_count": 421, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/464960129486442497/oWSYsJp6_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/426805652/1408414708", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "WayneShisler", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 26432, 
+   "name": "MAJOR NATIONAL EMERGENCY Shisler", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 02 18:30:44 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:57 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578022482599937": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3312791294, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094205128674967552/QaaavOQN_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 87, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3312791294", 
+   "profile_background_color": "000000", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5711, 
+   "description": "some gay leftist furry from tumblr.  he/they", 
+   "friends_count": 1654, 
+   "location": "the yummy cummy fun zone", 
+   "profile_link_color": "FFE5EE", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1094205128674967552/QaaavOQN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3312791294/1510481605", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "GlitchUnpatched", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 32014, 
+   "name": "don't die on the internet", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Aug 11 22:28:07 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:54 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577727333654534": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2608780603, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/961068540043251712/7FuY2BO5_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 32, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2608780603", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2167, 
+   "description": "Full-time socialist cosplayer.", 
+   "friends_count": 68, 
+   "location": "Sanrio Purioland", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/961068540043251712/7FuY2BO5_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2608780603/1517971658", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "iamakirin", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 13790, 
+   "name": "\u65e0\u540d\u6c0f", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Jul 07 02:35:14 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:44 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577352925040642": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 3001477334, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 100, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3001477334", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 48768, 
+   "description": "", 
+   "friends_count": 42, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Webberc5Webber", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 23630, 
+   "name": "CHRISTOPHER JOHN WEBBER", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Jan 29 14:48:01 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:14 +0000 2019", 
+  "Text": "RT @EUflagmafia: Rees Mogg just called 16,000,000 people losers.\n\nCopy of 'How to win friends and influence people' ordered from Amazon to\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 773177323352911872, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "773177323352911872", 
+     "screen_name": "EUflagmafia", 
+     "name": "EU Flag Mafia"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577818794840065": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 996138005244141568, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072567857853161473/Am26M4LB_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 377, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "996138005244141568", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2610, 
+   "description": "I used to have a bio but I don't anymore", 
+   "friends_count": 443, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1072567857853161473/Am26M4LB_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/996138005244141568/1545076766", 
+   "profile_background_image_url": null, 
+   "screen_name": "ClinicalMount", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5334, 
+   "name": "\u00b0", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon May 14 21:19:42 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:05 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578012777209857": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 768537651028881408, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089620311799185410/0CQXkTqo_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/15jY5xKhqd", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://Instagram.com/obrempong__", 
+       "display_url": "Instagram.com/obrempong__"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 11454, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "768537651028881408", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17389, 
+   "description": "God first \nToo old for peer pressure", 
+   "friends_count": 7909, 
+   "location": "Kumasi, Ghana", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1089620311799185410/0CQXkTqo_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/768537651028881408/1532590561", 
+   "profile_background_image_url": null, 
+   "screen_name": "obrempong__", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 56867, 
+   "name": "Bla Yaw", 
+   "notifications": false, 
+   "url": "https://t.co/15jY5xKhqd", 
+   "created_at": "Wed Aug 24 19:57:09 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:52 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577470474588160": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3087990436, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082447694029905920/Sq2aOO4r_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 272, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3087990436", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 32027, 
+   "description": "I\u2019m Eddie. denkontakt illegalburrito ahheddieahh. I miss Wenger so so much", 
+   "friends_count": 387, 
+   "location": "FW", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1082447694029905920/Sq2aOO4r_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3087990436/1531691909", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Iwogbi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 34302, 
+   "name": "SILVERSURFER \u2122", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Mar 12 04:31:02 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:42 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577595791884288": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 118834477, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/800912083202121728/8M2scOyS_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 26, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "118834477", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 17056, 
+   "description": "Managing to both under and over think everything.", 
+   "friends_count": 80, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/800912083202121728/8M2scOyS_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/118834477/1479787296", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "HumbleRedHead", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 86, 
+   "name": "HumbleRedHead", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Mar 01 22:00:04 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:12 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106578012307218432": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 1037500263702048770, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 90, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1037500263702048770", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 30157, 
+   "description": "", 
+   "friends_count": 382, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "heatherjwhittle", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 152740, 
+   "name": "heatherhwhittle", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Sep 06 00:38:33 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:52 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577712641126406": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 40483184, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "828282", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/915747608286466048/ibO9ZZ7H_normal.jpg", 
+   "profile_sidebar_fill_color": "0F0F0F", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 688, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "40483184", 
+   "profile_background_color": "000000", 
+   "listed_count": 35, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 29339, 
+   "description": "Aaron Wheeler Stan", 
+   "friends_count": 646, 
+   "location": "Interwebs", 
+   "profile_link_color": "E70009", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/915747608286466048/ibO9ZZ7H_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/40483184/1410059408", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Riles23", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 30355, 
+   "name": "Riles23", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat May 16 15:34:27 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:40 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577539378630657": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 15974600, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160625787/profileside_normal.jpg", 
+   "profile_sidebar_fill_color": "4ED0CD", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1750, 
+   "profile_sidebar_border_color": "DD340B", 
+   "id_str": "15974600", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 122, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 61737, 
+   "description": "Astronomer: brown dwarfs and exoplanets, @UALPL grad, frmr planetarium director, writer, founder AuralMoon prog, displaced Pittsburgher, social justice advocate", 
+   "friends_count": 4628, 
+   "location": "Yellow Springs, OH", 
+   "profile_link_color": "DD340B", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1160625787/profileside_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/15974600/1533393160", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", 
+   "screen_name": "SpaceAvian", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 59411, 
+   "name": "C-Beam", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Aug 25 00:09:36 +0000 2008", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:59 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577615479922688": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 46189091, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "666666", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1087814718469812225/_ZBI1qIZ_normal.jpg", 
+   "profile_sidebar_fill_color": "252429", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1956, 
+   "profile_sidebar_border_color": "181A1E", 
+   "id_str": "46189091", 
+   "profile_background_color": "1A1B1F", 
+   "listed_count": 79, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 40336, 
+   "description": "Attorney. Write on Kangz for Sactown Royalty. Niners/Manchester United/PAK cricket too. \ufdfd", 
+   "friends_count": 1071, 
+   "location": "Sacramento", 
+   "profile_link_color": "2FC2EF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1087814718469812225/_ZBI1qIZ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/46189091/1530637746", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+   "screen_name": "okhanSTR", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4990, 
+   "name": "Professor Oak III \ud83c\udf0d", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jun 10 18:40:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:17 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577484894662659": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 48697885, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3D1957", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089599031435776000/jEmQLqu3_normal.jpg", 
+   "profile_sidebar_fill_color": "7AC3EE", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/mIXqHixVQ2", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://twitter.com/fcnazalona/status/695360310497005568?s=21", 
+       "display_url": "twitter.com/fcnazalona/sta\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 17185, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "48697885", 
+   "profile_background_color": "642D8B", 
+   "listed_count": 200, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 204930, 
+   "description": "A girl that likes football? shocking #Palestine \ud83c\uddf5\ud83c\uddf8", 
+   "friends_count": 320, 
+   "location": "Reliving seeing Messi live ", 
+   "profile_link_color": "9266CC", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1089599031435776000/jEmQLqu3_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/48697885/1548615727", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", 
+   "screen_name": "FCNazalona", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 511, 
+   "name": "Naz", 
+   "notifications": false, 
+   "url": "https://t.co/mIXqHixVQ2", 
+   "created_at": "Fri Jun 19 12:57:35 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:46 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577359547695104": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 63020100, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1080902985520017409/NSLHUMB-_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 739, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "63020100", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 27409, 
+   "description": "An Independent Consultant engaged in the area of Leadership Development.", 
+   "friends_count": 504, 
+   "location": "Kochi, Kerala, India", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1080902985520017409/NSLHUMB-_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/63020100/1549978589", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Arunakrishnan", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 31437, 
+   "name": "Aruna Krishnan \u0d05\u0d30\u0d41\u0d23 \u0d15\u0d43\u0d37\u0d4d\u0d23\u0d7b \u0905\u0930\u0941\u0923\u093e \u0915\u0943\u0937\u094d\u0923\u0928 \ud83c\uddee\ud83c\uddf3", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Aug 05 03:32:27 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:16 +0000 2019", 
+  "Text": "Mocking the nation is brushed off as 'Political humour' for @INCIndia! \nPlay victim &amp; take shelter under 'artistic\u2026 https://t.co/UgjKPAG2sb", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1153045459, 
+     "indices": [
+      60, 
+      69
+     ], 
+     "id_str": "1153045459", 
+     "screen_name": "INCIndia", 
+     "name": "Congress"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/UgjKPAG2sb", 
+     "indices": [
+      120, 
+      143
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577359547695104", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577826654781440": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 3148729932, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009137379397890048/f1YgubD2_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 41, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "3148729932", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 795, 
+   "description": "Information Systems Major and unfortunate Sacramento Kings fan.", 
+   "friends_count": 109, 
+   "location": "Rocklin, CA", 
+   "profile_link_color": "981CEB", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1009137379397890048/f1YgubD2_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3148729932/1543442964", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "seejayye", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3759, 
+   "name": "christian jimenez", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Apr 10 23:50:51 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:07 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577762087776258": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 338527731, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097410431625375744/7qoxFGYT_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/O8FjDWj7ql", 
+       "indices": [
+        59, 
+        82
+       ], 
+       "expanded_url": "http://gab.ai/phoebebeach", 
+       "display_url": "gab.ai/phoebebeach"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 3458, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "338527731", 
+   "profile_background_color": "000000", 
+   "listed_count": 42, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 66303, 
+   "description": "Supporter of President Donald J Trump! #KAG #MAGA #covfefe https://t.co/O8FjDWj7ql #StandWithCovington smirk emoji \ud83d\ude0f #KeepCows \ud83d\udc04 \ud83d\udc04 \ud83d\udc04", 
+   "friends_count": 3412, 
+   "location": "", 
+   "profile_link_color": "3B94D9", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1097410431625375744/7qoxFGYT_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/338527731/1514324863", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "PhoebeBeach", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 39364, 
+   "name": "Phoebe Beach", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 19 18:23:00 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:52 +0000 2019", 
+  "Text": "RT @TWISTbyLP: @RandPaul   You see this ? You and the 11 other losers. Resign https://t.co/q7hfsGRnH4", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1080243361066438656, 
+     "indices": [
+      3, 
+      13
+     ], 
+     "id_str": "1080243361066438656", 
+     "screen_name": "TWISTbyLP", 
+     "name": "Deplorable Larry"
+    }, 
+    {
+     "id": 216881337, 
+     "indices": [
+      15, 
+      24
+     ], 
+     "id_str": "216881337", 
+     "screen_name": "RandPaul", 
+     "name": "Senator Rand Paul"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/q7hfsGRnH4", 
+     "indices": [
+      78, 
+      101
+     ], 
+     "expanded_url": "https://twitter.com/241latina/status/1106371559286104065", 
+     "display_url": "twitter.com/241latina/stat\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577935178174464": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 385726008, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/871422128339402753/BPn4m10i_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2162, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "385726008", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 43, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 143461, 
+   "description": "a riddle, wrapped in a mystery, inside an enigma\nSoCal Native, Reluctant Hoosier, Diehard Wolverine: Go Blue!", 
+   "friends_count": 2311, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/871422128339402753/BPn4m10i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/385726008/1488999408", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Kelebration", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 424296, 
+   "name": "Kelley Jean", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Oct 06 00:49:54 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:33 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577881671573504": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 764767272, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105825482384293888/NVMXc_93_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 1103, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "764767272", 
+   "profile_background_color": "131516", 
+   "listed_count": 6, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12768, 
+   "description": "#AlliedStrong Jet hammer extraordinaire", 
+   "friends_count": 379, 
+   "location": "Flustered and Silenced", 
+   "profile_link_color": "E81C4F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105825482384293888/NVMXc_93_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/764767272/1549870723", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "Atomsk92", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 10816, 
+   "name": "Skybreaker", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Aug 18 01:02:16 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:20 +0000 2019", 
+  "Text": "@PazdaGT There\u2019s like 8 million tournaments a month. Instead of giving up when you\u2019re in losers or playing bad, jus\u2026 https://t.co/4ygnBjya3M", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 764619126308503552, 
      "indices": [
       0, 
       8
      ], 
-     "id_str": "807095", 
-     "screen_name": "nytimes", 
-     "name": "The New York Times"
+     "id_str": "764619126308503552", 
+     "screen_name": "PazdaGT", 
+     "name": "Pazda \ud83d\udc41\ud83d\udc8b\ud83d\udc41"
     }
    ], 
    "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/4ygnBjya3M", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577881671573504", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577510412795905": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 714313070, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095415664175710211/J9wvROcY_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 46, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "714313070", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 218, 
+   "description": "Husband, brother, friend, Teacher. Cool and down to Earth", 
+   "friends_count": 112, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095415664175710211/J9wvROcY_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "SafioMalgwi", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 203, 
+   "name": "Crystal Malgwi", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 24 13:43:58 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:52 +0000 2019", 
+  "Text": "@is_salsu Hahaha many losers here. Move on girl, don't mind them", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 144087648, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "144087648", 
+     "screen_name": "is_salsu", 
+     "name": "Sally"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577865015873536": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 825538718358392832, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/829850672342323200/TJo4JTwQ_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 417, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "825538718358392832", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12427, 
+   "description": "", 
+   "friends_count": 285, 
+   "location": "Nevada, USA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/829850672342323200/TJo4JTwQ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/825538718358392832/1486686792", 
+   "profile_background_image_url": null, 
+   "screen_name": "rstarlie44", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 27695, 
+   "name": "Starlie R Wagoner#shut the media down", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sun Jan 29 02:59:03 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:16 +0000 2019", 
+  "Text": "@KenGrimes9 @gspatton007 These two individuals are complete losers. And they are completely in denial. You can hone\u2026 https://t.co/plUwbopLCS", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 944357170988142592, 
+     "indices": [
+      0, 
+      11
+     ], 
+     "id_str": "944357170988142592", 
+     "screen_name": "KenGrimes9", 
+     "name": "TheRealDadof6( #MAGA\ud83c\uddfa\ud83c\uddf8 )"
+    }, 
+    {
+     "id": 760293057929420803, 
+     "indices": [
+      12, 
+      24
+     ], 
+     "id_str": "760293057929420803", 
+     "screen_name": "gspatton007", 
+     "name": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f @gsPatton007  PRAY 4 FLYNN"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/plUwbopLCS", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577865015873536", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577747936202752": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 26598036, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "3E4415", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000771700796/fe7623651fcfacf211afca549727c9fd_normal.jpeg", 
+   "profile_sidebar_fill_color": "99CC33", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 47, 
+   "profile_sidebar_border_color": "829D5E", 
+   "id_str": "26598036", 
+   "profile_background_color": "352726", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 219, 
+   "description": "you know I only roll drows", 
+   "friends_count": 62, 
+   "location": "dn10", 
+   "profile_link_color": "D02B55", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000771700796/fe7623651fcfacf211afca549727c9fd_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/26598036/1385071774", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif", 
+   "screen_name": "guacamolejones", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 629, 
+   "name": "Sam Jones", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Mar 25 21:34:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:48 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577854685298688": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 782861018091364352, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098328333631156224/McxwPT3O_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 324, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "782861018091364352", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1604, 
+   "description": "Hala Madrid Y Nada Mas | 19", 
+   "friends_count": 342, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1098328333631156224/McxwPT3O_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/782861018091364352/1551943583", 
+   "profile_background_image_url": null, 
+   "screen_name": "Real_YB_CR7", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2924, 
+   "name": "Yash", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Oct 03 08:33:06 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:14 +0000 2019", 
+  "Text": "@Atletico_MD Bunch of sore losers\nIn other news, Simeone found selling melons in the streets of Madrid. https://t.co/Y1kFYG1iav", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 426580913, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "426580913", 
+     "screen_name": "Atletico_MD", 
+     "name": "Atl\u00e9tico de Madrid"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/Real_YB_CR7/status/1106577854685298688/photo/1", 
+     "display_url": "pic.twitter.com/Y1kFYG1iav", 
+     "url": "https://t.co/Y1kFYG1iav", 
+     "media_url_https": "https://pbs.twimg.com/media/D1tasXhVYAAcncg.jpg", 
+     "id_str": "1106577851724161024", 
+     "sizes": {
+      "large": {
+       "h": 471, 
+       "resize": "fit", 
+       "w": 552
+      }, 
+      "small": {
+       "h": 471, 
+       "resize": "fit", 
+       "w": 552
+      }, 
+      "medium": {
+       "h": 471, 
+       "resize": "fit", 
+       "w": 552
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      104, 
+      127
+     ], 
+     "type": "photo", 
+     "id": 1106577851724161024, 
+     "media_url": "http://pbs.twimg.com/media/D1tasXhVYAAcncg.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106578025867563008": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 201104125, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105526990428348418/7LgjuUEv_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 262, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "201104125", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9593, 
+   "description": "I used to play baseball. Now I sit on my couch & watch other people play baseball", 
+   "friends_count": 972, 
+   "location": "Chicago, IL", 
+   "profile_link_color": "1B95E0", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105526990428348418/7LgjuUEv_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/201104125/1552413111", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "rgstick15", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 6076, 
+   "name": "Robert Goldstick", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Oct 11 02:38:55 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:55 +0000 2019", 
+  "Text": "I'm FURIOUS about these awful rule changes coming to baseball. 3 batter minimum are you kidding me!? So we're just\u2026 https://t.co/CqVihPTaKf", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/CqVihPTaKf", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106578025867563008", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577517966581760": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2214985033, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037192792051724291/TlufHzEc_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 709, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2214985033", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 3, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 23303, 
+   "description": "snap: kangdaru ig: cassidyfentonnn", 
+   "friends_count": 472, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1037192792051724291/TlufHzEc_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "cassidyfentonn", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 21983, 
+   "name": "Cassidy Fenton", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Nov 26 02:23:43 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:54 +0000 2019", 
+  "Text": "RT @AndrewLeezus: Me after the Suns win the lottery again and all the losers on here cry about Zion going to the Suns  https://t.co/xdGMyPx\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 2960095536, 
+     "indices": [
+      3, 
+      16
+     ], 
+     "id_str": "2960095536", 
+     "screen_name": "AndrewLeezus", 
+     "name": "andrew"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577890215366657": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 129284444, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "7B8894", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179729655/France__42__normal.JPG", 
+   "profile_sidebar_fill_color": "FAFAFA", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 312, 
+   "profile_sidebar_border_color": "8BA7C4", 
+   "id_str": "129284444", 
+   "profile_background_color": "F2EEEF", 
+   "listed_count": 7, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 65817, 
+   "description": "", 
+   "friends_count": 1298, 
+   "location": "", 
+   "profile_link_color": "8F2E2E", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1179729655/France__42__normal.JPG", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif", 
+   "screen_name": "pacos_gal", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 20409, 
+   "name": "pacos_gal", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Apr 03 19:57:50 +0000 2010", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:22 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577474706685952": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2054651, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070136725744300032/deJPUrPm_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/Gqn7PaLyCO", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.thudfactor.com", 
+       "display_url": "thudfactor.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 159, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2054651", 
+   "profile_background_color": "000000", 
+   "listed_count": 38, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 29669, 
+   "description": "A frood who knows where his towel is. He / Him, cis.", 
+   "friends_count": 220, 
+   "location": "ZZ9 Plural Z Alpha", 
+   "profile_link_color": "00900A", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1070136725744300032/deJPUrPm_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054651/1434308785", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+   "screen_name": "thudfactor", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 11879, 
+   "name": "Thudfactor \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f", 
+   "notifications": false, 
+   "url": "https://t.co/Gqn7PaLyCO", 
+   "created_at": "Fri Mar 23 21:27:13 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:43 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577810464763904": {
+  "Lang": "tl", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 986794851562737665, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105088424682258438/HY92QP3F_normal.png", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 483, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "986794851562737665", 
+   "profile_background_color": "000000", 
+   "listed_count": 5, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 5483, 
+   "description": "\u2501 always remember that 'stray kids' has 9 letters and so is the word, 'legendary' ; skz ; svt ; twc ; \ud83d\udcf7\u2070\u2079 \u02ce\u02ca\u02d7", 
+   "friends_count": 774, 
+   "location": "+63", 
+   "profile_link_color": "ABB8C2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1105088424682258438/HY92QP3F_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/986794851562737665/1551786973", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "binsualseo", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 10919, 
+   "name": "nicole!! #Cl\u00e91_MIROH \ud83d\udddd", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Thu Apr 19 02:33:21 +0000 2018", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:03 +0000 2019", 
+  "Text": "\"sinong nANAKIT SA BABY y/n NAMIN hA??!!!!\"\n\n\"mamaya. sa gate. alas singko. uwian. lagot kayo samin.\" \n\n\"ANO LUMABA\u2026 https://t.co/1Vov1ISg0A", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/1Vov1ISg0A", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577810464763904", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577514598670337": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 927596227654553601, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/940219848293990401/vFvLg5SN_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 19, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "927596227654553601", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 50613, 
+   "description": "", 
+   "friends_count": 0, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/940219848293990401/vFvLg5SN_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/927596227654553601/1513001057", 
+   "profile_background_image_url": null, 
+   "screen_name": "botDonaldTrump_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "Donald J. Trump", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Mon Nov 06 17:59:09 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:53 +0000 2019", 
+  "Text": "When will the many Dopes and Losers realize that calling Russia 'my friends' is a GOOD thing? Have always said this! Thanks anyway!", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577923228631040": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 755219678264332288, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/756380189735563264/u_cH4JBk_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 66, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "755219678264332288", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2524, 
+   "description": "", 
+   "friends_count": 85, 
+   "location": "Arizona, USA", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/756380189735563264/u_cH4JBk_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/755219678264332288/1469170067", 
+   "profile_background_image_url": null, 
+   "screen_name": "CarrieMeek3", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 4634, 
+   "name": "Carrie Meek", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Jul 19 01:56:17 +0000 2016", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:30 +0000 2019", 
+  "Text": "Trump says \u2018there should be no Mueller Report,\u2019 calls probe \u2018illegal\u2019\n\nhttps://t.co/8OoutLOq0U\n\nMUST READ! SO TRUE-\u2026 https://t.co/GMgjRsQ3Ka", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/8OoutLOq0U", 
+     "indices": [
+      71, 
+      94
+     ], 
+     "expanded_url": "https://www.foxnews.com/politics/trump-says-there-should-be-no-mueller-report-calling-it-an-illegal-probe", 
+     "display_url": "foxnews.com/politics/trump\u2026"
+    }, 
+    {
+     "url": "https://t.co/GMgjRsQ3Ka", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577923228631040", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577589613875203": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 4066209498, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067312865688735744/wLWahXY4_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/FC5mVtjfcp", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://Paypal.Me/BTNDFS", 
+       "display_url": "Paypal.Me/BTNDFS"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2544, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "4066209498", 
+   "profile_background_color": "000000", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 8259, 
+   "description": "Real Time Sports / DFS News and Analysis Every Day 4 Every One. Make Informed Decisions From The Most Informed Players. Play Smarter Play By The Numbers!", 
+   "friends_count": 419, 
+   "location": "Daily DFS Report for ALL Sports Including CASH and GPP Lineups from 10 of The Most Successful Players and Providers In The BIZ. DM ME 4 INFO", 
+   "profile_link_color": "19CF86", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1067312865688735744/wLWahXY4_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4066209498/1470197753", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "BTNDFS", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 349, 
+   "name": "\u2995ByTheNumbers\u2996", 
+   "notifications": false, 
+   "url": "https://t.co/FC5mVtjfcp", 
+   "created_at": "Fri Oct 30 07:32:09 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:11 +0000 2019", 
+  "Text": "AFC FREE AGENCY ROUNDUP: Head here to see which teams have won and lost so far in the offseason, plus the top sleep\u2026 https://t.co/rThAss2hvD", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/rThAss2hvD", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577589613875203", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577946746204161": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 945710148965797888, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026766361425571840/_pJVLMol_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 58, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "945710148965797888", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10927, 
+   "description": "Singer, doubter, painter, dog lover, walker, aspie, mother, worker. Alive!", 
+   "friends_count": 134, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1026766361425571840/_pJVLMol_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/945710148965797888/1533635276", 
+   "profile_background_image_url": null, 
+   "screen_name": "doxterdeg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 23784, 
+   "name": "Doxter Deg", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Dec 26 17:37:24 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:36 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577861257904129": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 62705439, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036431236917616640/wbR1ni3s_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/PTQhTszgr7", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://twitch.tv/ramoisdead", 
+       "display_url": "twitch.tv/ramoisdead"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 91, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "62705439", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 11, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 16231, 
+   "description": "Hooray for me.", 
+   "friends_count": 104, 
+   "location": "", 
+   "profile_link_color": "067799", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1036431236917616640/wbR1ni3s_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "ramoisdead", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 331, 
+   "name": "ramoisdead", 
+   "notifications": false, 
+   "url": "https://t.co/PTQhTszgr7", 
+   "created_at": "Tue Aug 04 03:24:47 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:16 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577557556785157": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 897255570109071360, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/958624828285685760/mX41ptSZ_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 612, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "897255570109071360", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 28657, 
+   "description": "The amount of chins in my avi is the amount of times I signed shit players -Bartomeu", 
+   "friends_count": 230, 
+   "location": "Barto\u2019s house ", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/958624828285685760/mX41ptSZ_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/897255570109071360/1532523519", 
+   "profile_background_image_url": null, 
+   "screen_name": "OutBarto", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 84510, 
+   "name": "BartoOut", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Aug 15 00:36:12 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:03 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577618667819009": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 820107779197308934, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062380044251774976/Rmxac8zL_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/p0XokIheBB", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://purpleport.com/portfolio/bushi357/", 
+       "display_url": "purpleport.com/portfolio/bush\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 137, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "820107779197308934", 
+   "profile_background_color": "000000", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 11545, 
+   "description": "BMC(SW/EXW) Ret. Navy River Rat. Currently 100ton Captain. Lithsmann. Misanthrope. Pro-2A. Libertarian-Centrist. Never Trump. Never HRC.", 
+   "friends_count": 141, 
+   "location": "Lagrange point 5", 
+   "profile_link_color": "FF691F", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1062380044251774976/Rmxac8zL_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/820107779197308934/1518225121", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Bushi357", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 23361, 
+   "name": "Phill Oliver", 
+   "notifications": false, 
+   "url": "https://t.co/p0XokIheBB", 
+   "created_at": "Sat Jan 14 03:18:26 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:18 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577595519377408": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1933161, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026664433895071744/iGQycZsC_normal.jpg", 
+   "profile_sidebar_fill_color": "E0FF92", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/QN9pmK6V4D", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://adamconner.com", 
+       "display_url": "adamconner.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 15461, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "1933161", 
+   "profile_background_color": "9AE4E8", 
+   "listed_count": 371, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10070, 
+   "description": "Spring 2018 Resident Fellow at @harvardIOP. Former Slack, Brigade, Facebook, Capitol Hill, & campaign hack. Always and forever a New Mexican.", 
+   "friends_count": 6527, 
+   "location": "#thistown", 
+   "profile_link_color": "0000FF", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1026664433895071744/iGQycZsC_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933161/1348685418", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "adamconner", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 152402, 
+   "name": "This American Adam", 
+   "notifications": false, 
+   "url": "https://t.co/QN9pmK6V4D", 
+   "created_at": "Thu Mar 22 20:15:20 +0000 2007", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:12 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577692034392065": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 20356005, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/716197779119341568/89DvhGrA_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/u03oQpVFcR", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://about.me/petedavo.au", 
+       "display_url": "about.me/petedavo.au"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/NRucefOAar", 
+       "indices": [
+        87, 
+        110
+       ], 
+       "expanded_url": "http://wp.me/P23ud7-2", 
+       "display_url": "wp.me/P23ud7-2"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 988, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "20356005", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 124, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 101895, 
+   "description": "#Australian & #Amyloidosis news.  RT's are only for OSINT sharing - See disclaimers on https://t.co/NRucefOAar     See @petedavo_world \ud83c\udf0ffor other worldly shit.", 
+   "friends_count": 2538, 
+   "location": "Perth, Western Australia \ud83c\udde6\ud83c\uddfa", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/716197779119341568/89DvhGrA_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/20356005/1348053751", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "petedavo_au", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 3463, 
+   "name": "Peter Davidson \ud83c\udde6\ud83c\uddfa", 
+   "notifications": false, 
+   "url": "https://t.co/u03oQpVFcR", 
+   "created_at": "Sun Feb 08 08:24:01 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:35 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577664771395584": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 2430935341, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029984123811586048/z3aMVFQK_normal.jpg", 
+   "profile_sidebar_fill_color": "DDFFCC", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/FNlla0YIKs", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.facebook.com/profile.php?id=100001212385427", 
+       "display_url": "facebook.com/profile.php?id\u2026"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 262, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "2430935341", 
+   "profile_background_color": "131516", 
+   "listed_count": 1, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 9301, 
+   "description": "Social media introvert. Like and Retweet merchant. Cule-Stan for life. Deep thinker. Zero fucks about other's opinion.", 
+   "friends_count": 1171, 
+   "location": "Instagram@haezhmann", 
+   "profile_link_color": "131516", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1029984123811586048/z3aMVFQK_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2430935341/1534402284", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "Haezhen", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 85347, 
+   "name": "Fuad Flea", 
+   "notifications": false, 
+   "url": "https://t.co/FNlla0YIKs", 
+   "created_at": "Sun Apr 06 19:47:53 +0000 2014", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:29 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577507526963200": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1383454831, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059634651549986817/6Yj0oGor_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 4314, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1383454831", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 58, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 18161, 
+   "description": "Love, appreciation and desire...oh my.", 
+   "friends_count": 1124, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1059634651549986817/6Yj0oGor_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383454831/1552532056", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Rae_Dawn_Chong", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 11543, 
+   "name": "Rae Dawn Chong", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Apr 27 03:25:20 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:51 +0000 2019", 
+  "Text": "Wish we could do a media blackout on this latest attack in NZ. Wish we could ignore these losers. It seems like the\u2026 https://t.co/7WDQViqmy8", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/7WDQViqmy8", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577507526963200", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577535675060226": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 931938054067113985, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095137529865691136/cmgQyU1i_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 2688, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "931938054067113985", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 4, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 10121, 
+   "description": "\u0131\u0271 \u0196\u01a1\u10e7\u0105\u0196 \u0105\u0282 \u026c\u0267\u025b\u10e7 \u0188\u01a1\u0271\u025b!! \u0131\u0271 \u0282\u0131\u014b\u0260\u0196\u025b \u0284\u0f5e\u01a1\u0271 \u014b\u025b \u01a1\u0267\u0131\u01a1 \u0105\u014b\u0256 \u0131 \u01a1\u014b\u0196\u10e7 \u0256\u025b\u0105\u0196 \u1ff3\u0131\u026c\u0267 \u2118\u01a1\u0282\u0131\u026c\u0131\u06f7\u025b \u06f7\u0131\u10ea\u025b\u0282!! \u0105\u0196\u0282\u01a1 \u0284\u01a1\u0196\u0196\u01a1\u1ff3 @\u1ff3\u0267\u01a1\u0131\u0282\u0199\u0131\u014b\u0260\u0105\u0131\u0f5e \u0105\u014b\u0256 \u0271\u10e7\u0282\u025b\u0196\u0284 \u01a1\u014b \u2118\u025b\u0f5e\u0131\u0282\u0188\u01a1\u2118\u025b \u0284\u01a1\u0f5e \u0105\u0271\u0105\u0291\u0131\u014b\u0260 \u0196\u0131\u06f7\u025b\u0282!!", 
+   "friends_count": 3806, 
+   "location": "Youngstown, OH", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1095137529865691136/cmgQyU1i_normal.jpg", 
+   "following": false, 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/931938054067113985/1542562817", 
+   "profile_background_image_url": null, 
+   "screen_name": "Wavegoddess719", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 22387, 
+   "name": "Mysterious719\ud83e\udde1\u264b\ufe0f\u264b\ufe0f\ud83e\udde1", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Sat Nov 18 17:32:01 +0000 2017", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:58 +0000 2019", 
+  "Text": "Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up. You're right on track. \ud83d\ude4f\ud83c\udffb\ud83d\ude4c\ud83c\udffc\ud83d\udcaf", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577389922877441": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 48738447, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "26070F", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/458338262688362496/yq3x93eM_normal.jpeg", 
+   "profile_sidebar_fill_color": "EBCDD5", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/pTuibs4rLy", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://pinterest.com/dicentra33/", 
+       "display_url": "pinterest.com/dicentra33/"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 990, 
+   "profile_sidebar_border_color": "A5D69F", 
+   "id_str": "48738447", 
+   "profile_background_color": "000000", 
+   "listed_count": 49, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 114029, 
+   "description": "herbaceous \ud83c\udf3f woodland \ud83c\udf33 perennial", 
+   "friends_count": 2846, 
+   "location": "moist shade", 
+   "profile_link_color": "128C47", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/458338262688362496/yq3x93eM_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/48738447/1397946697", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif", 
+   "screen_name": "dicentra33", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 7152, 
+   "name": "dicentra \u0646", 
+   "notifications": false, 
+   "url": "https://t.co/pTuibs4rLy", 
+   "created_at": "Fri Jun 19 15:42:31 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:23 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577652565999617": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": false, 
+   "default_profile_image": false, 
+   "id": 2244468372, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/430817886785896449/dcWdkHGA_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 629, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "2244468372", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 32, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 89540, 
+   "description": "Proud conservative fully support our great President Donald J Trump I am a constitutionalist fully support the bill of rights especially the second amendment", 
+   "friends_count": 199, 
+   "location": "", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/430817886785896449/dcWdkHGA_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "Wolffox6", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 57632, 
+   "name": "wolf fox", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Dec 13 20:41:25 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:26 +0000 2019", 
+  "Text": "@LouDobbs Absolutely agree with the president the whole thing was illegal and illegitimate from the beginning a sha\u2026 https://t.co/Equ9OYYEIY", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 26487169, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "26487169", 
+     "screen_name": "LouDobbs", 
+     "name": "Lou Dobbs"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/Equ9OYYEIY", 
+     "indices": [
+      117, 
+      140
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577652565999617", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577409547984896": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 24641260, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/499413668807704576/xik7ZrLm_normal.jpeg", 
+   "profile_sidebar_fill_color": "F3F3F3", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/bqxhBlooIg", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "http://www.stevensavage.com", 
+       "display_url": "stevensavage.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": [
+      {
+       "url": "https://t.co/qstBmCPMq6", 
+       "indices": [
+        92, 
+        115
+       ], 
+       "expanded_url": "http://seventhsanctum.com", 
+       "display_url": "seventhsanctum.com"
+      }, 
+      {
+       "url": "https://t.co/P01yWWydQ1", 
+       "indices": [
+        117, 
+        140
+       ], 
+       "expanded_url": "http://informotron.com", 
+       "display_url": "informotron.com"
+      }
+     ]
+    }
+   }, 
+   "followers_count": 1245, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "24641260", 
+   "profile_background_color": "FFFFFF", 
+   "listed_count": 515, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 94631, 
+   "description": "He/him.  #Writer and creative, #Agile enthusiast and #PMP, #CSM, #CSP.  Geeky professional. https://t.co/qstBmCPMq6  https://t.co/P01yWWydQ1 All views my own.", 
+   "friends_count": 615, 
+   "location": "Silicon Valley", 
+   "profile_link_color": "990000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/499413668807704576/xik7ZrLm_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+   "screen_name": "StevenSavage", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 19896, 
+   "name": "Steven 'Scorbunny' Savage", 
+   "notifications": false, 
+   "url": "https://t.co/bqxhBlooIg", 
+   "created_at": "Mon Mar 16 03:17:05 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:28 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577475281276930": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 408219336, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/476862805472477184/ouKNkt2m_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 74, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "408219336", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 1600, 
+   "description": "BA in Dietetics\rBig sports Fan", 
+   "friends_count": 241, 
+   "location": "New york", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/476862805472477184/ouKNkt2m_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "jaylanikojo", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 147, 
+   "name": "Nana Boateng", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Nov 09 04:14:18 +0000 2011", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": false, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:26:43 +0000 2019", 
+  "Text": "@CarltonCole1 Absolutely on the money with this Tweet, another thing is Facebook Live, streaming services that has\u2026 https://t.co/gI6x5kJ2PA", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 412180849, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "412180849", 
+     "screen_name": "CarltonCole1", 
+     "name": "Carlton Cole"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/gI6x5kJ2PA", 
+     "indices": [
+      116, 
+      139
+     ], 
+     "expanded_url": "https://twitter.com/i/web/status/1106577475281276930", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577688058171392": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 3268237435, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078358000018935809/awSRBsyD_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/WOL1Iol3Hb", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://twitter.com/waluigibot_", 
+       "display_url": "twitter.com/waluigibot_"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 7386, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "3268237435", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 42, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 30453, 
+   "description": "[bot] [w.i.p.] [1 hour tweet interval] tweeting out Wario quotes & pictures | occasionally tweets manually", 
+   "friends_count": 8121, 
+   "location": "Mount Wario", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1078358000018935809/awSRBsyD_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3268237435/1506985892", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "WarioBot_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 0, 
+   "name": "WarioBot_", 
+   "notifications": false, 
+   "url": "https://t.co/WOL1Iol3Hb", 
+   "created_at": "Sat Jul 04 15:07:57 +0000 2015", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:34 +0000 2019", 
+  "Text": "\"I lost! To a buncha' losers!\"", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577645460848640": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 613838306, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/885130005881044993/FiDMdkpz_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 131, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "613838306", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 24451, 
+   "description": "", 
+   "friends_count": 1143, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/885130005881044993/FiDMdkpz_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "meddeviceeng", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 14404, 
+   "name": "bike rider", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Jun 20 23:12:08 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:24 +0000 2019", 
+  "Text": "RT @Popehat: The NZ terrorist is a shitposter, and not everything in his manifesto is literally true,  but that misses the point.\n\nThe poin\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 18839937, 
+     "indices": [
+      3, 
+      11
+     ], 
+     "id_str": "18839937", 
+     "screen_name": "Popehat", 
+     "name": "RentFreeHat"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577901426798592": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": true, 
+   "id": 1098139622914306049, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 104, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1098139622914306049", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 207, 
+   "description": "Living the dream baby", 
+   "friends_count": 10, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "AndrewA90493371", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 419, 
+   "name": "Andrew Adam", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Wed Feb 20 08:37:43 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:28:25 +0000 2019", 
+  "Text": "RT @3lli3jones: Definitely going to go out this evening for a few drinks and some food. Me and the girls have agreed though that we are not\u2026", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 1106517022752624641, 
+     "indices": [
+      3, 
+      14
+     ], 
+     "id_str": "1106517022752624641", 
+     "screen_name": "3lli3jones", 
+     "name": "Ellie Jones"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1106577691149504512": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1106517022752624641, 
+   "profile_background_image_url_https": null, 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106573005075959819/DJwwVKFL_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 41, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1106517022752624641", 
+   "profile_background_color": "F5F8FA", 
+   "listed_count": 0, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 12, 
+   "description": "", 
+   "friends_count": 0, 
+   "location": "", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1106573005075959819/DJwwVKFL_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": null, 
+   "screen_name": "3lli3jones", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 2, 
+   "name": "Ellie Jones", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Fri Mar 15 11:26:31 +0000 2019", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:35 +0000 2019", 
+  "Text": "It\u2019s Friday and I\u2019m in the mood for rinsing losers and kicking them in the balls! #BallBusting #Findom https://t.co/dFfPGy5SLK", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      82, 
+      94
+     ], 
+     "text": "BallBusting"
+    }, 
+    {
+     "indices": [
+      95, 
+      102
+     ], 
+     "text": "Findom"
+    }
+   ], 
+   "urls": [], 
+   "media": [
+    {
+     "expanded_url": "https://twitter.com/MistressCharlo2/status/1106577691149504512/photo/1", 
+     "display_url": "pic.twitter.com/dFfPGy5SLK", 
+     "url": "https://t.co/dFfPGy5SLK", 
+     "media_url_https": "https://pbs.twimg.com/media/D1tahpLX4AQH_nx.jpg", 
+     "id_str": "1106577667485327364", 
+     "sizes": {
+      "large": {
+       "h": 1499, 
+       "resize": "fit", 
+       "w": 1241
+      }, 
+      "small": {
+       "h": 680, 
+       "resize": "fit", 
+       "w": 563
+      }, 
+      "medium": {
+       "h": 1200, 
+       "resize": "fit", 
+       "w": 993
+      }, 
+      "thumb": {
+       "h": 150, 
+       "resize": "crop", 
+       "w": 150
+      }
+     }, 
+     "indices": [
+      103, 
+      126
+     ], 
+     "type": "photo", 
+     "id": 1106577667485327364, 
+     "media_url": "http://pbs.twimg.com/media/D1tahpLX4AQH_nx.jpg"
+    }
+   ]
+  }, 
+  "Geo": null
+ }, 
+ "1106577742026473472": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 1460534894, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096895921663737856/OeDKWpcf_normal.jpg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/lTyP0sETdv", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://curiouscat.me/YusufMitha_", 
+       "display_url": "curiouscat.me/YusufMitha_"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 488, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "1460534894", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 2, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 4012, 
+   "description": "Lionel Andr\u00e9s Messi", 
+   "friends_count": 553, 
+   "location": "Durban", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1096895921663737856/OeDKWpcf_normal.jpg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1460534894/1545138560", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "YusufMitha_", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 15954, 
+   "name": "Yusuf\ud83c\uddf5\ud83c\uddf8", 
+   "notifications": false, 
+   "url": "https://t.co/lTyP0sETdv", 
+   "created_at": "Sun May 26 20:05:54 +0000 2013", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Losers", 
+  "Date": "Fri Mar 15 15:27:47 +0000 2019", 
+  "Text": "RT @FCBarcelona: The Bar\u00e7a players applaud the Man Utd players as they go up to receive their losers' medals #fcblive", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 96951800, 
+     "indices": [
+      3, 
+      15
+     ], 
+     "id_str": "96951800", 
+     "screen_name": "FCBarcelona", 
+     "name": "FC Barcelona"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      109, 
+      117
+     ], 
+     "text": "fcblive"
+    }
+   ], 
    "urls": []
   }, 
   "Geo": null

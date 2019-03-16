@@ -1,30 +1,30 @@
 {
- "1105349471834116096": {
+ "1106261355911356416": {
   "Lang": "en", 
   "Place": null, 
   "User": {
    "follow_request_sent": false, 
-   "has_extended_profile": true, 
+   "has_extended_profile": false, 
    "profile_use_background_image": false, 
    "default_profile_image": false, 
-   "id": 2918033986, 
+   "id": 11468562, 
    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
    "verified": false, 
    "translator_type": "none", 
-   "profile_text_color": "000000", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101688575702245376/wg6DQMuv_normal.jpg", 
-   "profile_sidebar_fill_color": "000000", 
+   "profile_text_color": "222222", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059973364570357761/acKgtWuy_normal.jpg", 
+   "profile_sidebar_fill_color": "EFEFEF", 
    "entities": {
     "url": {
      "urls": [
       {
-       "url": "https://t.co/GBecXLcqyF", 
+       "url": "https://t.co/FNBg63W0jD", 
        "indices": [
         0, 
         23
        ], 
-       "expanded_url": "https://www.icheckmovies.com/profiles/alf_/", 
-       "display_url": "icheckmovies.com/profiles/alf_/"
+       "expanded_url": "http://driusha.rocks", 
+       "display_url": "driusha.rocks"
       }
      ]
     }, 
@@ -32,31 +32,31 @@
      "urls": []
     }
    }, 
-   "followers_count": 905, 
-   "profile_sidebar_border_color": "000000", 
-   "id_str": "2918033986", 
-   "profile_background_color": "000000", 
-   "listed_count": 31, 
+   "followers_count": 1568, 
+   "profile_sidebar_border_color": "FFFFFF", 
+   "id_str": "11468562", 
+   "profile_background_color": "B6ADA6", 
+   "listed_count": 76, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 67931, 
-   "description": "Habitante de Copiapo. Intento reservar en dorsia. tengo que devolver unos videos.", 
-   "friends_count": 1878, 
-   "location": "Copiap\u00f3, Chile", 
-   "profile_link_color": "000000", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/1101688575702245376/wg6DQMuv_normal.jpg", 
+   "statuses_count": 71097, 
+   "description": "MA in History \u2022 Industrial Designer _____Head Designer & Photographer_____: WSS | Hedbanger | Madero / Co.", 
+   "friends_count": 506, 
+   "location": "", 
+   "profile_link_color": "FDCC65", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1059973364570357761/acKgtWuy_normal.jpg", 
    "following": false, 
    "geo_enabled": true, 
-   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918033986/1436599425", 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/11468562/1527523483", 
    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
-   "screen_name": "ugedades_", 
-   "lang": "es", 
-   "profile_background_tile": false, 
-   "favourites_count": 4058, 
-   "name": "alfredo", 
+   "screen_name": "Driusha", 
+   "lang": "en", 
+   "profile_background_tile": true, 
+   "favourites_count": 31247, 
+   "name": "D R I U S H A", 
    "notifications": false, 
-   "url": "https://t.co/GBecXLcqyF", 
-   "created_at": "Fri Dec 12 16:56:05 +0000 2014", 
+   "url": "https://t.co/FNBg63W0jD", 
+   "created_at": "Mon Dec 24 03:51:19 +0000 2007", 
    "contributors_enabled": false, 
    "time_zone": null, 
    "protected": false, 
@@ -64,21 +64,21 @@
    "is_translator": false
   }, 
   "Title": "Ray Romano: Right Here, Around the Corner", 
-  "Date": "Tue Mar 12 06:07:05 +0000 2019", 
-  "Text": "Ray Romano: Right Here, Around the Corner (2019) - IMDb - https://t.co/WUKKl6RQ5U", 
+  "Date": "Thu Mar 14 18:30:35 +0000 2019", 
+  "Text": "\"Well, you gotta remember, this was before AIDS.\u201d And I knew, oh\u2026 I knew right away\u2026 you\u2019re gonna have a better sto\u2026 https://t.co/Jd5YAqxKcO", 
   "Hashtags": {
    "symbols": [], 
    "user_mentions": [], 
    "hashtags": [], 
    "urls": [
     {
-     "url": "https://t.co/WUKKl6RQ5U", 
+     "url": "https://t.co/Jd5YAqxKcO", 
      "indices": [
-      58, 
-      81
+      117, 
+      140
      ], 
-     "expanded_url": "https://www.imdb.com/title/tt8101766/", 
-     "display_url": "imdb.com/title/tt810176\u2026"
+     "expanded_url": "https://twitter.com/i/web/status/1106261355911356416", 
+     "display_url": "twitter.com/i/web/status/1\u2026"
     }
    ]
   }, 
@@ -212,14 +212,14 @@
      ]
     }
    }, 
-   "followers_count": 507, 
+   "followers_count": 506, 
    "profile_sidebar_border_color": "000000", 
    "id_str": "624191933", 
    "profile_background_color": "000000", 
-   "listed_count": 7, 
+   "listed_count": 8, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 19875, 
+   "statuses_count": 19887, 
    "description": "\"We can be our genuine, authentic, graceful, beautiful selves.... without having to apologize for it.\" // list of my fandoms and ships: https://t.co/ep221Sox21", 
    "friends_count": 197, 
    "location": "Las Vegas, NV", 
@@ -232,7 +232,7 @@
    "screen_name": "MissRainbowPie", 
    "lang": "en", 
    "profile_background_tile": false, 
-   "favourites_count": 3215, 
+   "favourites_count": 3222, 
    "name": "Michelle Ilia \ud83c\udf3b", 
    "notifications": false, 
    "url": "https://t.co/NVZRajf3B7", 
@@ -292,83 +292,86 @@
   }, 
   "Geo": null
  }, 
- "1104812841327050752": {
+ "1105349471834116096": {
   "Lang": "en", 
   "Place": null, 
   "User": {
    "follow_request_sent": false, 
    "has_extended_profile": true, 
-   "profile_use_background_image": true, 
+   "profile_use_background_image": false, 
    "default_profile_image": false, 
-   "id": 832036208, 
-   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "id": 2918033986, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
    "verified": false, 
    "translator_type": "none", 
-   "profile_text_color": "333333", 
-   "profile_image_url_https": "https://pbs.twimg.com/profile_images/526029153598849024/HdHhBgtH_normal.jpeg", 
-   "profile_sidebar_fill_color": "DDEEF6", 
+   "profile_text_color": "000000", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101688575702245376/wg6DQMuv_normal.jpg", 
+   "profile_sidebar_fill_color": "000000", 
    "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/GBecXLcqyF", 
+       "indices": [
+        0, 
+        23
+       ], 
+       "expanded_url": "https://www.icheckmovies.com/profiles/alf_/", 
+       "display_url": "icheckmovies.com/profiles/alf_/"
+      }
+     ]
+    }, 
     "description": {
      "urls": []
     }
    }, 
-   "followers_count": 182, 
-   "profile_sidebar_border_color": "C0DEED", 
-   "id_str": "832036208", 
-   "profile_background_color": "C0DEED", 
-   "listed_count": 17, 
+   "followers_count": 903, 
+   "profile_sidebar_border_color": "000000", 
+   "id_str": "2918033986", 
+   "profile_background_color": "000000", 
+   "listed_count": 31, 
    "is_translation_enabled": false, 
    "utc_offset": null, 
-   "statuses_count": 2577, 
-   "description": "I read what you write.", 
-   "friends_count": 242, 
-   "location": "Buffalo, NY", 
-   "profile_link_color": "1DA1F2", 
-   "profile_image_url": "http://pbs.twimg.com/profile_images/526029153598849024/HdHhBgtH_normal.jpeg", 
+   "statuses_count": 67989, 
+   "description": "Habitante de Copiapo. Intento reservar en dorsia. tengo que devolver unos videos.", 
+   "friends_count": 1877, 
+   "location": "Copiap\u00f3, Chile", 
+   "profile_link_color": "000000", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1101688575702245376/wg6DQMuv_normal.jpg", 
    "following": false, 
-   "geo_enabled": false, 
-   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
-   "screen_name": "buffalosam88", 
-   "lang": "en", 
+   "geo_enabled": true, 
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918033986/1436599425", 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+   "screen_name": "ugedades_", 
+   "lang": "es", 
    "profile_background_tile": false, 
-   "favourites_count": 5529, 
-   "name": "Sam", 
+   "favourites_count": 4069, 
+   "name": "alfredo", 
    "notifications": false, 
-   "url": null, 
-   "created_at": "Tue Sep 18 22:46:50 +0000 2012", 
+   "url": "https://t.co/GBecXLcqyF", 
+   "created_at": "Fri Dec 12 16:56:05 +0000 2014", 
    "contributors_enabled": false, 
    "time_zone": null, 
    "protected": false, 
-   "default_profile": true, 
+   "default_profile": false, 
    "is_translator": false
   }, 
   "Title": "Ray Romano: Right Here, Around the Corner", 
-  "Date": "Sun Mar 10 18:34:42 +0000 2019", 
-  "Text": "Ray Romano\u2019s: Right Here, Around the Corner\u201d on @netflix is hilarious!\n\nhttps://t.co/SKqExFW74v", 
+  "Date": "Tue Mar 12 06:07:05 +0000 2019", 
+  "Text": "Ray Romano: Right Here, Around the Corner (2019) - IMDb - https://t.co/WUKKl6RQ5U", 
   "Hashtags": {
    "symbols": [], 
-   "user_mentions": [
-    {
-     "id": 16573941, 
-     "indices": [
-      48, 
-      56
-     ], 
-     "id_str": "16573941", 
-     "screen_name": "netflix", 
-     "name": "Netflix US"
-    }
-   ], 
+   "user_mentions": [], 
    "hashtags": [], 
    "urls": [
     {
-     "url": "https://t.co/SKqExFW74v", 
+     "url": "https://t.co/WUKKl6RQ5U", 
      "indices": [
-      72, 
-      95
+      58, 
+      81
      ], 
-     "expanded_url": "https://www.netflix.com/title/80216779?s=i", 
-     "display_url": "netflix.com/title/80216779\u2026"
+     "expanded_url": "https://www.imdb.com/title/tt8101766/", 
+     "display_url": "imdb.com/title/tt810176\u2026"
     }
    ]
   }, 
@@ -407,7 +410,7 @@
      "urls": []
     }
    }, 
-   "followers_count": 710, 
+   "followers_count": 711, 
    "profile_sidebar_border_color": "C0DEED", 
    "id_str": "883314847575719936", 
    "profile_background_color": "F5F8FA", 
@@ -467,6 +470,88 @@
    ], 
    "hashtags": [], 
    "urls": []
+  }, 
+  "Geo": null
+ }, 
+ "1104812841327050752": {
+  "Lang": "en", 
+  "Place": null, 
+  "User": {
+   "follow_request_sent": false, 
+   "has_extended_profile": true, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 832036208, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "verified": false, 
+   "translator_type": "none", 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/526029153598849024/HdHhBgtH_normal.jpeg", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 182, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "832036208", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 17, 
+   "is_translation_enabled": false, 
+   "utc_offset": null, 
+   "statuses_count": 2578, 
+   "description": "I read what you write.", 
+   "friends_count": 243, 
+   "location": "Buffalo, NY", 
+   "profile_link_color": "1DA1F2", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/526029153598849024/HdHhBgtH_normal.jpeg", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "buffalosam88", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 5538, 
+   "name": "Sam", 
+   "notifications": false, 
+   "url": null, 
+   "created_at": "Tue Sep 18 22:46:50 +0000 2012", 
+   "contributors_enabled": false, 
+   "time_zone": null, 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "Title": "Ray Romano: Right Here, Around the Corner", 
+  "Date": "Sun Mar 10 18:34:42 +0000 2019", 
+  "Text": "Ray Romano\u2019s: Right Here, Around the Corner\u201d on @netflix is hilarious!\n\nhttps://t.co/SKqExFW74v", 
+  "Hashtags": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 16573941, 
+     "indices": [
+      48, 
+      56
+     ], 
+     "id_str": "16573941", 
+     "screen_name": "netflix", 
+     "name": "Netflix US"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "https://t.co/SKqExFW74v", 
+     "indices": [
+      72, 
+      95
+     ], 
+     "expanded_url": "https://www.netflix.com/title/80216779?s=i", 
+     "display_url": "netflix.com/title/80216779\u2026"
+    }
+   ]
   }, 
   "Geo": null
  }
