@@ -5,6 +5,7 @@ Twitter opinions on Netflix.
 To run the full script first run `pip install -r requirements.txt` to install the required packages. Furthermore for the sentiment analysis part some nltk packages might need to be downloaded if not already installed.
 To pull in the tweets needed you can use the Tweets.py script.
 The full project can then be run with `python2 main.py netflix-media.json`.
+The main.py script will created the needed directories for the project.
 
 # Options
 If some of the intermediate results are already on your system, you could skip these stages.
