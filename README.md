@@ -1,10 +1,18 @@
 # twitflix
 Twitter opinions on Netflix.
 
+# Usage
+To run the full script first run `pip install -r requirements.txt` to install the required packages. Furthermore for the sentiment analysis part some nltk packages might need to be downloaded if not already installed.
+To pull in the tweets needed you can use the Tweets.py script.
+The full project can then be run with `python2 main.py netflix-media.json`.
+
+# Options
+If some of the intermediate results are already on your system, you could skip these stages.
+for example, the critic_scores.json file contains the critic scores for the netflix-media.json titles and thus to reduce api calls you could comment out get critic scores part of the main.py script.
 
 # Tweets.py
 first run `pip install -r requirements.txt` to install the required libraries for GetOldTweets.
-Run Tweets.py with python2 as there is some error when using python3 with GetOldTweets
+Run Tweets.py with python2 as there is some error when using python3 with GetOldTweets.
 
 # final.py
 Firstly create 'finalMovies' folder, and then run.
