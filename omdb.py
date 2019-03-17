@@ -71,5 +71,5 @@ class Omdb(object):
                 print(title)
                 self.missing += 1
 
-        with open('Results/results.json', "w") as target:
+        with open('critic_scores.json', "w") as target:
             json.dump(result, target, indent=1)

@@ -18,9 +18,9 @@ def keep(tweet):
     return False
 
 
-def filterAll():
+def filterAll(file):
     """Filter all tweets in Movies folder, save to FilteredMovies."""
-    with open("netflix-media.json") as f:
+    with open(file) as f:
         names = json.load(f)
 
     for name in names:
