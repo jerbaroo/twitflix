@@ -1,22 +1,19 @@
 # Main script to run the processing part of this project.
 
 import os
+import sys
 import json
 
+import filter
+from sentiment import Sentiment
 from omdb import Omdb
+from merge import Output
 
 class Main:
     """docstring for Main."""
 
     def __init__(self):
         # Create the necessary folders.
-        if not os.path.isdir('Movies'):
-            try:
-                os.mkdir('Movies')
-            except OSError:
-                print('Creation of the directory Movies failed')
-            else:
-                print('Successfully created the directory Movies')
         if not os.path.isdir('FilteredMovies'):
             try:
                 os.mkdir('FilteredMovies')
@@ -40,16 +37,21 @@ class Main:
                 print('Successfully created the directory Results')
 
     def process(self, file):
-        # Load the movie list
-        with open(file) as f:
-            movie_list = json.load(f)
-
-        # Import the tweets related to the movies in movie list.
-
         # Filter the tweets.
-
+        filter.filterAll(file)
         # Run the sentiment analysis.
-
+        s = Sentiment()
+        s.run()
         # Get the critic scores.
-        critic = critic_scores(movie_list)
+        o = Omdb()
+        critic = o.critic_scores(file)
         # Merge the critic scores and sentiment analysis scores into the final data.json output file
+        m = Output()
+        m.generate('critic_scores.json')
+
+if __name__ == '__main__':
+    start = Main()
+    if len(sys.argv) > 1:
+        start.process(sys.argv[1])
+    else:
+        print('Usage: python2 main.py netflix-media.json')

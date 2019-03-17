@@ -66,14 +66,14 @@ class Data:
             tweetCriteria = got.manager.TweetCriteria().setQuerySearch(title).setMaxTweets(n).setUntil("2019-02-01")
             tweet = got.manager.TweetManager.getTweets(tweetCriteria)
             self.saveJSON(title, tweet)
-            query = title + " #movierating"
-            tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
-            tweet = got.manager.TweetManager.getTweets(tweetCriteria)
-            self.saveJSON(title+"#movierating", tweet)
-            query = title + " #rating"
-            tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
-            tweet = got.manager.TweetManager.getTweets(tweetCriteria)
-            self.saveJSON(title+"#rating", tweet)
+            # query = title + " #movierating"
+            # tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
+            # tweet = got.manager.TweetManager.getTweets(tweetCriteria)
+            # self.saveJSON(title+"#movierating", tweet)
+            # query = title + " #rating"
+            # tweetCriteria = got.manager.TweetCriteria().setQuerySearch(query).setMaxTweets(n)
+            # tweet = got.manager.TweetManager.getTweets(tweetCriteria)
+            # self.saveJSON(title+"#rating", tweet)
 
     def twitter(self, file, tweets):
         CONSUMER_KEY = 'qC3ZrVH8xRaXJlb7Rwjg1Xvpb'
