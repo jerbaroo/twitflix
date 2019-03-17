@@ -1,7 +1,12 @@
 # coding: utf-8
-import os, json, re, langid, time
+import os
+import json
+import re
+import langid
+import time
 from langdetect import detect
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
 
 class Sentiment(object):
     """docstring for Sentiment."""
@@ -21,15 +26,15 @@ class Sentiment(object):
             return input
 
     def clean(self, input):
-        text = re.sub(r'http[s]?://(?:[ ]|[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+','',input)
-        text2 = re.sub('@ *([_]|[a-zA-Z]|[0-9])+','',text)
-        text3 = re.sub('#','',text2)
+        text = re.sub(r'http[s]?://(?:[ ]|[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', '', input)
+        text2 = re.sub('@ *([_]|[a-zA-Z]|[0-9])+', '', text)
+        text3 = re.sub('#', '', text2)
     #    text3 = re.sub('#([_]|[a-zA-Z]|[0-9])+','',text2)
-        text4 = re.sub(r'\( +\)','',text3)
-        text5 = re.sub('pic.twitter.com/([a-zA-Z]|[0-9])+','',text4)
-        text6 = re.sub(r'\' \'','',text5)
-        text6 = re.sub('…','',text6)
-        text7 = re.sub('[ ][ ]+',' ',text6)
+        text4 = re.sub(r'\( +\)', '', text3)
+        text5 = re.sub('pic.twitter.com/([a-zA-Z]|[0-9])+', '', text4)
+        text6 = re.sub(r'\' \'', '', text5)
+        text6 = re.sub('…', '', text6)
+        text7 = re.sub('[ ][ ]+', ' ', text6)
         return text7
 
     def clean_language(self, input):
@@ -48,12 +53,12 @@ class Sentiment(object):
     def run(self):
         rootdir = './Movies'
         list = os.listdir(rootdir)
-        for i in range(0,len(list)):
-            path = os.path.join(rootdir,list[i])
+        for i in range(0, len(list)):
+            path = os.path.join(rootdir, list[i])
             if os.path.isfile(path):
                 name = os.path.basename(path)
                 with open('./Movies/{0}'.format(name)) as f:
-                    with open('./ScoredMovies/{0}'.format(name),'w') as f2:
+                    with open('./ScoredMovies/{0}'.format(name), 'w') as f2:
                         texts = self.convert(json.load(f))
                         movie = {}
                         print name
@@ -66,4 +71,4 @@ class Sentiment(object):
                         movie['number'] = len(self.data)
                         movie['texts'] = self.data
                         movie['compound_ave'] = self.com/len(self.data)
-                        json.dump(movie,f2)
+                        json.dump(movie, f2)

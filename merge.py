@@ -1,5 +1,6 @@
 import json
 
+
 class Output(object):
     """docstring for Output."""
     def __init__(self):

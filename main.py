@@ -9,6 +9,7 @@ from sentiment import Sentiment
 from omdb import Omdb
 from merge import Output
 
+
 class Main:
     """docstring for Main."""
 
@@ -48,6 +49,7 @@ class Main:
         # Merge the critic scores and sentiment analysis scores into the final data.json output file
         m = Output()
         m.generate('critic_scores.json')
+
 
 if __name__ == '__main__':
     start = Main()
