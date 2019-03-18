@@ -1,4 +1,7 @@
 import json
+import sys
+
+import numpy as np
 
 keep_words = ["Movie", "Film", "netflix", "tv", "series", "watch"]
 keep_words = [word.lower() for word in keep_words]
@@ -23,15 +26,19 @@ def filterAll(file):
     with open(file) as f:
         names = json.load(f)
 
+    counts = []
     for name in names:
         with open("Movies/{}.json".format(name)) as f:
             tweets = json.load(f)
             kept_tweets = [t for t in tweets.values() if keep(t)]
             print("total = {}\tkeep = {}\tName = {}".format(
                 len(tweets), len(kept_tweets), name))
+            counts.append(len(kept_tweets) / len(tweets))
         with open("FilteredMovies/{}.json".format(name), "w") as f:
             json.dump(kept_tweets, f)
+    print("Mean kept tweets = {}".format(np.mean(counts)))
 
 
 if __name__ == "__main__":
-    filterAll()
+    print(sys.argv[1])
+    filterAll(sys.argv[1])

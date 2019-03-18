@@ -41,14 +41,11 @@ class Main:
         # Filter the tweets.
         filter.filterAll(file)
         # Run the sentiment analysis.
-        s = Sentiment()
-        s.run()
+        Sentiment().run()
         # Get the critic scores.
-        o = Omdb()
-        critic = o.critic_scores(file)
+        Omdb().critic_scores(file)
         # Merge the critic scores and sentiment analysis scores into the final data.json output file
-        m = Output()
-        m.generate('critic_scores.json')
+        Output().generate('critic_scores.json')
 
 
 if __name__ == '__main__':
