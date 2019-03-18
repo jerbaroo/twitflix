@@ -68,8 +68,9 @@ class Omdb(object):
                 # with open('Results/%s.json' % title, "w") as outfile:
                 #     json.dump(data, outfile, indent=1)
             except KeyError:
-                print(title)
+                print("Missing {}".format(title))
                 self.missing += 1
 
+        print("Missing {} critic scores".format(self.missing))
         with open('critic_scores.json', "w") as target:
             json.dump(result, target, indent=1)

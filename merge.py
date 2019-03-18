@@ -10,7 +10,6 @@ def merge_gen(
         c_list = json.load(f)
     with open(sentiment_scores_file) as f:
         s_list = json.load(f)
-    print(json.dumps(s_list.keys(), indent=2))
 
     for title in c_list:
         data[title] = {

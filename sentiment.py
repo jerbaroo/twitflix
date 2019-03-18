@@ -46,6 +46,8 @@ class Sentiment(object):
         movie_list = os.listdir(in_movie_dir)
         output = {}  # Build up our resulting data.
         for i in range(len(movie_list)):
+            print("Calculating sentiment of {}".format(
+                movie_list[i][:-5]))
             path = os.path.join(in_movie_dir, movie_list[i])
             name = os.path.basename(path)
             # Clean the tweets for each movie and add sentiment scores.

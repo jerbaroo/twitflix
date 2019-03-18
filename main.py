@@ -45,13 +45,15 @@ class Main:
         filter.filterAll(
             media_list_file, raw_movie_dir, filtered_movie_dir)
         # Run the sentiment analysis.
-        print_green("Scoring movies in {} to {}".format(
+        print_green("Sentiment of movies in {} to {}".format(
             filtered_movie_dir, scored_movie_dir))
         Sentiment().run(filtered_movie_dir, scored_movie_dir)
         # Get the critic scores.
+        print_green("Critic score of movies")
         Omdb().critic_scores(media_list_file)
         # Merge the critic scores and sentiment analysis scores into
         # the final data.json output file.
+        print_green("Merging sentiment and critic scores")
         merge_gen(
             'critic_scores.json', 'sentiment_scores.json', 'data.json')
 
