@@ -118,6 +118,6 @@ class Data:
 if __name__ == '__main__':
     d = Data()
     if len(sys.argv) > 2:
-        d.gather(argv[1], argv[2])
+        d.gather(sys.argv[1], sys.argv[2])
     else:
         print('Usage: python2 Tweets.py file tweets \nWhere file is a file containing a list of movie titles and tweets is the number of tweets wanted.')
