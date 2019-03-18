@@ -21,24 +21,19 @@ def keep(tweet):
     return False
 
 
-def filterAll(file):
+def filterAll(media_list_file, in_movie_dir, out_movie_dir):
     """Filter all tweets in Movies folder, save to FilteredMovies."""
-    with open(file) as f:
+    with open(media_list_file) as f:
         names = json.load(f)
 
     counts = []
     for name in names:
-        with open("Movies/{}.json".format(name)) as f:
+        with open("{}/{}.json".format(in_movie_dir, name)) as f:
             tweets = json.load(f)
             kept_tweets = [t for t in tweets.values() if keep(t)]
             print("total = {}\tkeep = {}\tName = {}".format(
                 len(tweets), len(kept_tweets), name))
             counts.append(len(kept_tweets) / len(tweets))
-        with open("FilteredMovies/{}.json".format(name), "w") as f:
+        with open("{}/{}.json".format(out_movie_dir, name), "w") as f:
             json.dump(kept_tweets, f)
     print("Mean kept tweets = {}".format(np.mean(counts)))
-
-
-if __name__ == "__main__":
-    print(sys.argv[1])
-    filterAll(sys.argv[1])

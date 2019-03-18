@@ -1,33 +1,25 @@
 import json
 
 
-class Output(object):
-    """docstring for Output."""
-    def __init__(self):
-        self.data = {}
+def merge_gen(
+        critic_scores_file, sentiment_scores_file, output_file):
+    """Merge sentiment scores and critic scores."""
+    data = {}
 
-    def generate(self, file):
-        data = {}
-        with open(file) as f:
-            c_list = json.load(f)
+    with open(critic_scores_file) as f:
+        c_list = json.load(f)
+    with open(sentiment_scores_file) as f:
+        s_list = json.load(f)
+    print(json.dumps(s_list.keys(), indent=2))
 
-        for title in c_list:
-            print(title)
-            data[title] = {
-                "genre": c_list[title]['genre'],
-                "imdb": c_list[title]['imdb'],
-                "Rotten Tomatoes": c_list[title]['Rotten Tomatoes'],
-                "Metacritic": c_list[title]['Metacritic'],
-                "Sentiment score": 0
-            }
-            try:
-                with open('scoredMovies/%s.json' % title) as m:
-                    s_list = json.load(m)
-                print(s_list['compound_ave'])
-                data[title]['Sentiment score'] = s_list['compound_ave']
-            except IOError:
-                print("0")
+    for title in c_list:
+        data[title] = {
+            "genre": c_list[title]['genre'],
+            "imdb": c_list[title]['imdb'],
+            "rotten-tomatoes": c_list[title]['Rotten Tomatoes'],
+            "metacritic": c_list[title]['Metacritic']
+        }
+        data[title]["scores"] = s_list[title + ".json"]
 
-            self.data[title] = data[title]
-        with open('data.json', "w") as outfile:
-            json.dump(data, outfile, indent=1)
+    with open(output_file, "w") as outfile:
+        json.dump(data, outfile, indent=1)

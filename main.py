@@ -7,7 +7,22 @@ import json
 import filter
 from sentiment import Sentiment
 from omdb import Omdb
-from merge import Output
+from merge import merge_gen
+
+
+class bcolors:
+    GREEN = '\033[92m'
+    ENDC = '\033[0m'
+
+
+def print_green(s):
+    print(bcolors.GREEN + s + bcolors.ENDC)
+
+
+raw_movie_dir = "Movies"
+filtered_movie_dir = "FilteredMovies"
+scored_movie_dir = "ScoredMovies"
+results_dir = "Results"
 
 
 class Main:
@@ -15,37 +30,30 @@ class Main:
 
     def __init__(self):
         # Create the necessary folders.
-        if not os.path.isdir('FilteredMovies'):
-            try:
-                os.mkdir('FilteredMovies')
-            except OSError:
-                print('Creation of the directory FilteredMovies failed')
-            else:
-                print('Successfully created the directory FilteredMovies')
-        if not os.path.isdir('ScoredMovies'):
-            try:
-                os.mkdir('ScoredMovies')
-            except OSError:
-                print('Creation of the directory ScoredMovies failed')
-            else:
-                print('Successfully created the directory ScoredMovies')
-        if not os.path.isdir('Results'):
-            try:
-                os.mkdir('Results')
-            except OSError:
-                print('Creation of the directory Results failed')
-            else:
-                print('Successfully created the directory Results')
+        for dirname in [filtered_movie_dir, scored_movie_dir, results_dir]:
+            if not os.path.isdir(dirname):
+                try:
+                    os.mkdir(dirname)
+                    print("Successfully created the directory {}".format(dirname))
+                except OSError:
+                    print("Creation of the directory {} failed".format(dirname))
 
-    def process(self, file):
+    def process(self, media_list_file):
         # Filter the tweets.
-        filter.filterAll(file)
+        print_green("Filtering movies in {} to {}".format(
+            raw_movie_dir, filtered_movie_dir))
+        filter.filterAll(
+            media_list_file, raw_movie_dir, filtered_movie_dir)
         # Run the sentiment analysis.
-        Sentiment().run()
+        print_green("Scoring movies in {} to {}".format(
+            filtered_movie_dir, scored_movie_dir))
+        Sentiment().run(filtered_movie_dir, scored_movie_dir)
         # Get the critic scores.
-        Omdb().critic_scores(file)
-        # Merge the critic scores and sentiment analysis scores into the final data.json output file
-        Output().generate('critic_scores.json')
+        Omdb().critic_scores(media_list_file)
+        # Merge the critic scores and sentiment analysis scores into
+        # the final data.json output file.
+        merge_gen(
+            'critic_scores.json', 'sentiment_scores.json', 'data.json')
 
 
 if __name__ == '__main__':
