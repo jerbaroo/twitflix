@@ -112,11 +112,12 @@ function newInnerTile(tileID, name, height, width) {
   const criticScore = data["critic_score"];
   const userDescription = data["agreement"];
   const userCompound = data["scores"]["mean_scores"]["compound"];
-  const userScore = convertRange(userCompound, [-1, 1], [0, 10]);
+  const userScore_ = convertRange(userCompound, [-1, 1], [0, 10]);
+  const userScore = +userScore_.toFixed(1);
 
   // Left side, critic and user score.
-  var criticScoreEl = scoreDiv(`${criticScore}`, "Critic");
-  var userScoreEl = scoreDiv(`${userScore}`, `Twitter<br>${userDescription}`);
+  var criticScoreEl = scoreDiv(`${criticScore}`, "Critics");
+  var userScoreEl = scoreDiv(`${userScore}`, `Twitter<br>(${userDescription})`);
   left.appendChild(criticScoreEl);
   left.appendChild(userScoreEl);
 

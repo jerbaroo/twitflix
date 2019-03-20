@@ -29,6 +29,7 @@
 
 /* One of critic or user score. */
 .twitflix-score-elem {
+  flex-grow: 1;
   text-align: center;
 }
 

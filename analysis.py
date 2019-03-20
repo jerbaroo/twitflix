@@ -40,7 +40,6 @@ for movie_name, movie_data in data.items():
         text = "{:.1f}".format(num/10).replace(".0", "")
     elif imdb != 0:
         text = imdb.replace("/10", "").replace(".0", "")
-        print(text)
     elif rottom != 0:
         num = float(rottom.replace("%", ""))
         text = "{:.1f}".format(num/10)
@@ -61,13 +60,13 @@ for movie_name, movie_data in data.items():
     if coefficient_of_variation < 0.5:
         text = 'Very strong agreement'
     elif coefficient_of_variation < 1:
-        text = 'Strong inter-rater agreement'
-    elif coefficient_of_variation < 10:
-        text = 'Weak inter-rater agreement'
+        text = 'Strong agreement'
+    elif coefficient_of_variation < 5:
+        text = 'General agreement'
     else:
-        text = 'Very weak inter-rater agreement'
+        text = 'Mixed opinions'
 
-    data[movie_name]['agreement']=text
+    data[movie_name]['agreement'] = text
 
 with open('new_data.json', 'w') as f:
     f.write(json.dumps(data, indent=2))
