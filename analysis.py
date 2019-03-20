@@ -35,14 +35,17 @@ for movie_name, movie_data in data.items():
     imdb = movie_data['imdb']
     metacritic = movie_data['metacritic']
     rottom = movie_data['rotten-tomatoes']
-    if imdb != 0:
-        text = ('{}'.format(imdb))
-    elif metacritic != 0:
-        text = ('{}'.format(metacritic))
+    if metacritic != 0:
+        num = float(metacritic.replace("/100", ""))
+        text = "{:.1f}".format(num/10).replace(".0", "")
+    elif imdb != 0:
+        text = imdb.replace("/10", "").replace(".0", "")
+        print(text)
     elif rottom != 0:
-        text = ('{}'.format(rottom))
+        num = float(rottom.replace("%", ""))
+        text = "{:.1f}".format(num/10)
     else:
-        text = 'Unknown'
+        text = 'NA'
 
     data[movie_name]['critic_score'] = text
 
@@ -71,14 +74,22 @@ with open('new_data.json', 'w') as f:
 
 plt.hist(mean_scores)
 plt.title('mean')
-plt.show()
+# plt.show()
 
 plt.hist(std_devs)
 plt.title('std-devs')
-plt.show()
+# plt.show()
 
+plt.close()
 plt.hist([x for x in coefficients if x < 15], bins=20)
 plt.title('Variance of user opinion')
 plt.xlabel('Variance')
-plt.ylabel('Count of media with variance')
+plt.ylabel('Count of media with a variance range')
+plt.show()
+
+plt.close()
+plt.hist([x for x in coefficients if x < 15], bins=20, cumulative=True)
+plt.title('Cumulative variance of user opinion')
+plt.xlabel('Variance')
+plt.ylabel('Cumulative count of media with a variance range')
 plt.show()
