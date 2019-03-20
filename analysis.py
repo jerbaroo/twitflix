@@ -4,12 +4,13 @@ import sys
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Print function that will pretty print JSON.
-jprint = lambda j: print(json.dumps(j, indent=2))
-
 # Load the data.
 with open("data.json") as f:
     data = json.load(f)
+
+mean_scores = []
+std_devs = []
+coefficients = []
 
 for movie_name, movie_data in data.items():
     # movie_data["scores"] has three keys, "mean_scores", "failed", and "scores".
@@ -30,8 +31,54 @@ for movie_name, movie_data in data.items():
     # specific value.
     all_scores = [x[0]["compound"] for x in movie_sentiments_and_dates]
 
-    # The :.4f means show four decimal places.
-    print("{:.4f} \t variance for {}".format(np.var(all_scores), movie_name))
+    # Critic scores
+    imdb = movie_data['imdb']
+    metacritic = movie_data['metacritic']
+    rottom = movie_data['rotten-tomatoes']
+    if imdb != 0:
+        text = ('{}'.format(imdb))
+    elif metacritic != 0:
+        text = ('{}'.format(metacritic))
+    elif rottom != 0:
+        text = ('{}'.format(rottom))
+    else:
+        text = 'Unknown'
 
-    plt.hist(all_scores)
-    plt.show()
+    data[movie_name]['critic_score'] = text
+
+    mean_twitter_score = np.mean(all_scores)
+    standard_dev = np.std(all_scores)
+    coefficient_of_variation = standard_dev / np.abs(mean_twitter_score)
+    mean_scores.append(mean_twitter_score)
+    std_devs.append(standard_dev)
+    coefficients.append(coefficient_of_variation)
+    #print("{:.4f} \t mean twitter score for {}".format(mean_twitter_score, movie_name))
+    #print("{:.4f} \t standard deviation for {}".format(standard_dev, movie_name))
+    #print("{:.4f} \t coefficient of variation for {}".format(coefficient_of_variation, movie_name))
+    if coefficient_of_variation < 0.5:
+        text = 'Very strong agreement'
+    elif coefficient_of_variation < 1:
+        text = 'Strong inter-rater agreement'
+    elif coefficient_of_variation < 10:
+        text = 'Weak inter-rater agreement'
+    else:
+        text = 'Very weak inter-rater agreement'
+
+    data[movie_name]['agreement']=text
+
+with open('new_data.json', 'w') as f:
+    f.write(json.dumps(data, indent=2))
+
+plt.hist(mean_scores)
+plt.title('mean')
+plt.show()
+
+plt.hist(std_devs)
+plt.title('std-devs')
+plt.show()
+
+plt.hist([x for x in coefficients if x < 15], bins=20)
+plt.title('Variance of user opinion')
+plt.xlabel('Variance')
+plt.ylabel('Count of media with variance')
+plt.show()

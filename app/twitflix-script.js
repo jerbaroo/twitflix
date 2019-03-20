@@ -12,6 +12,7 @@ var activeTile = null;
 // All media names we know of so far.
 const mediaNames = new Set();
 
+// Unique identifier for a tile's canvas element.
 const canvasContainerID = (tileID) =>
   `twitflix-canvas-container-${tileID}`;
 
@@ -51,6 +52,7 @@ function attachGraph(canvasContext, sentiments) {
 }
 
 
+// JS doesn't have a mean function!!
 function mean(numbers) {
   var total = 0, i;
   for (i = 0; i < numbers.length; i += 1) {
@@ -72,11 +74,29 @@ function showHistogram(tileID, height, width, right, data) {
   attachGraph(canvas.getContext('2d'), data["sentiments"]);
 }
 
+
 // Convert a value from one range to another range.
 // e.g. convertRange(5, [0, 10], [0, 100]) = 50.
 function convertRange( value, r1, r2 ) {
   return ( value - r1[ 0 ] ) * ( r2[ 1 ] - r2[ 0 ] ) / ( r1[ 1 ] - r1[ 0 ] ) + r2[ 0 ];
 }
+
+
+// Return a new div with given score text.
+function scoreDiv(textAbove, textBelow) {
+  const div = document.createElement('div');
+  div.className = 'twitflix-score-elem';
+  const above = document.createElement('div');
+  above.className = 'twitflix-score-above';
+  above.innerHTML = textAbove;
+  const below = document.createElement('div');
+  below.className = 'twitflix-score-below';
+  below.innerHTML = textBelow;
+  div.appendChild(above);
+  div.appendChild(below);
+  return div;
+}
+
 
 // Inner contents of some tile, for some media title.
 function newInnerTile(tileID, name, height, width) {
@@ -85,7 +105,6 @@ function newInnerTile(tileID, name, height, width) {
   var left = document.createElement('div');
   left.className = 'twitflix-tile-scores';
   var right = document.createElement('div');
-  right.className = 'twitflix-tile-graph';
   main.appendChild(left);
   main.appendChild(right);
 
@@ -96,17 +115,15 @@ function newInnerTile(tileID, name, height, width) {
   const userScore = convertRange(userCompound, [-1, 1], [0, 10]);
 
   // Left side, critic and user score.
-  var criticScoreEl = document.createElement('div');
-  criticScore.className = 'twitlix-tile-score';
-  criticScoreEl.innerHTML = `${userScore}<br>Critic`;
-  var userScoreEl = document.createElement('div');
-  userScore.className = 'twitlix-tile-score';
-  userScoreEl.innerHTML = `${criticScore}<br>Twitter`;
+  var criticScoreEl = scoreDiv(`${criticScore}`, "Critic");
+  var userScoreEl = scoreDiv(`${userScore}`, `Twitter<br>${userDescription}`);
   left.appendChild(criticScoreEl);
   left.appendChild(userScoreEl);
 
-  if (SHOW_HISTOGRAM)
+  if (SHOW_HISTOGRAM) {
+    right.className = 'twitflix-tile-graph';
     showHistogram(tileID, height, width, right, data);
+  }
 
   return main;
 }
@@ -211,9 +228,11 @@ function positionAbove(tileID, targetElem) {
   tile.style.top =
     `${targetPosition.top - document.body.getBoundingClientRect().top - height}px`;
 
-  const right = document.getElementById(canvasContainerID(tileID));
-  right.style.height = `${height}px`;
-  right.style.width = `${width * 0.66}px`;
+  if (SHOW_HISTOGRAM) {
+    const right = document.getElementById(canvasContainerID(tileID));
+    right.style.height = `${height}px`;
+    right.style.width = `${width * 0.66}px`;
+  }
 }
 
 

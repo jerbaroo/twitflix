@@ -12,22 +12,37 @@
   100% { opacity: 1 }
 }
 
+/* Box containing left (scores) & maybe right (graph) boxes. */
 .twitflix-tile-main {
   display: flex;
+  flex-direction: column;
   height: inherit;
 }
 
+/* Left side. */
 .twitflix-tile-scores {
   display: flex;
-  flex-direction: column;
   flex-grow: 1;
   justify-content: center;
+  padding: 10px;
 }
 
-.twitflix-tile-score {
+/* One of critic or user score. */
+.twitflix-score-elem {
   text-align: center;
 }
 
+/* Score text. */
+.twitflix-score-above {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* Text below score. */
+.twitflix-score-below {
+}
+
+/* Right side. */
 .twitflix-tile-graph {
   flex-grow: 2;
 }
