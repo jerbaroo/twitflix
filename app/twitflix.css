@@ -46,4 +46,8 @@
 /* Right side. */
 .twitflix-tile-graph {
   flex-grow: 2;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-bottom: 10px;
 }

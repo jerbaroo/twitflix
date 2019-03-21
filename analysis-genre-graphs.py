@@ -91,7 +91,7 @@ plt.plot(
    for genre_name in sorted_genres],
   label="Twitter"
 )
-plt.xticks(np.arange(len(sorted_genres)), [x[:5] for x in sorted_genres])
+plt.xticks(np.arange(len(sorted_genres)), [x[:7] for x in sorted_genres])
 for tick in plt.gca().xaxis.get_major_ticks()[1::2]:
     tick.set_pad(15)
 plt.legend()

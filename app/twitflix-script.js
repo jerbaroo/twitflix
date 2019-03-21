@@ -33,20 +33,26 @@ const _filmData = null;
 
 
 // Attach a graph of given data to a canvas element.
-function attachGraph(canvasContext, sentiments) {
+function attachGraph(canvasContext, yData) {
   new Chart(canvasContext, {
-    type: 'line',
+    type: 'bar',
     data: {
       datasets: [{
-        data: sentiments.map(x => x[0]),
-        label: "Sentiment",
-        borderColor: "#3e95cd",
-        fill: false
+        labels: [0, 1, 2, 3, 4, 5,6 ,7 ,8, 9, 10],
+        data: yData,
+        backgroundColor: 'rgba(255, 99, 132, 1)',
       }]
     },
     options: {
       responsive: true,
-      maintainAspectRatio: false
+      maintainAspectRatio: false,
+      legend: { display: false },
+        xAxes: [{
+          // barThickness: 0.1,
+          gridLines: {
+            offsetGridLines: true
+          }
+        }]
     }
   });
 }
@@ -67,11 +73,27 @@ function showHistogram(tileID, height, width, right, data) {
   var canvas = document.createElement('canvas');
   canvas.id = canvasContainerID(tileID);
   right.style.position = 'relative';
-  right.style.height = `${height}px`;
-  right.style.width = `${width * 0.66}px`;
+  right.style.height = '100px';
   right.appendChild(canvas);
 
-  attachGraph(canvas.getContext('2d'), data["sentiments"]);
+  const compounds = data["scores"]["scores"].map(x => x[0]["compound"]);
+  const userScores = compounds.map(x => convertRange(x, [-1, 1], [0, 10]));
+  const bins = [];
+
+  // Each bin has an initial count of 0.
+  for (var i = 0; i < 10; i++)
+    bins.push(0);
+  // Add each user score to a bin.
+  for (i = 0; i < userScores.length; i++) {
+    for (var j = 0; j < 10; j++) {
+      if (userScores[i] < j + 1) {
+        bins[j] += 1;
+        break; // Done with this user score.
+      }
+    }
+  }
+
+  attachGraph(canvas.getContext('2d'), bins);
 }
 
 
@@ -205,16 +227,16 @@ function repositionTile() {
   if (activeTile) {
     [tileID, name, boxart] = activeTile;
     if (name in namesAndBobPlays)
-        positionAbove(tileID, namesAndBobPlays[name]);
+      positionAbove(tileID, namesAndBobPlays[name], true);
     else
-        positionAbove(tileID, boxart);
+      positionAbove(tileID, boxart, false);
   }
   window.requestAnimationFrame(repositionTile);
 }
 
 
 // Position a tile above a HTMLElement.
-function positionAbove(tileID, targetElem) {
+function positionAbove(tileID, targetElem, show_hist) {
   var tile = document.getElementById(tileID);
   if (tile == null) {
     console.log('Previous tile removed');
@@ -230,10 +252,15 @@ function positionAbove(tileID, targetElem) {
     `${targetPosition.top - document.body.getBoundingClientRect().top - height}px`;
 
   if (SHOW_HISTOGRAM) {
-    const right = document.getElementById(canvasContainerID(tileID));
-    right.style.height = `${height}px`;
-    right.style.width = `${width * 0.66}px`;
+  const right = document.getElementById(canvasContainerID(tileID));
+  if ( show_hist) {
+    right.style.height = `${height * 0.5}px`;
+    console.log(right.style.height);
+    console.log(right.style.width);
   }
+  else {
+    right.style.height = 0;
+  }}
 }
 
 
