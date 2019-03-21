@@ -27,14 +27,27 @@ def filterAll(media_list_file, in_movie_dir, out_movie_dir):
     with open(media_list_file) as f:
         names = json.load(f)
 
-    counts = []
+    count_tweets = []
+    count_kept_tweets = []
     for name in names:
         with open("{}/{}.json".format(in_movie_dir, name)) as f:
             tweets = json.load(f)
             kept_tweets = [t for t in tweets.values() if keep(t)]
             print("total = {}\tkeep = {}\tName = {}".format(
                 len(tweets), len(kept_tweets), name))
-            counts.append(len(kept_tweets) / len(tweets))
+            count_tweets.append(len(tweets))
+            count_kept_tweets.append(len(kept_tweets))
         with open("{}/{}.json".format(out_movie_dir, name), "w") as f:
             json.dump(kept_tweets, f)
-    print("Mean kept tweets = {}".format(np.mean(counts)))
+    print("Mean tweets = {}".format(np.mean(count_tweets)))
+    print("Mean kept tweets = {}".format(np.mean(count_kept_tweets)))
+    print("Mean fraction kept tweets = {}".format(
+        np.mean(count_kept_tweets) / np.mean(count_tweets)))
+
+
+if __name__ == "__main__":
+    in_file = "netflix-media.json"
+    with open(in_file) as f:
+        movies = json.load(f)
+    filterAll("netflix-media.json", "Movies", "FilteredMovies")
+    print("Amount of movies = {}".format(len(movies)))
