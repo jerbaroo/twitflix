@@ -70,6 +70,15 @@ for genre_to_del in ["N/A", "War"]:
 
 ##### End setup the data ######################################################
 
+diffs = []
+for movie_name, movie_data in movie_scores.items():
+  diffs.append(np.abs(movie_data["mean_twitter"] - movie_data["mean_critic"]))
+print("Mean of |critic - twitter| = {}".format(np.mean(diffs)))
+print("Mean of critic = {}".format(np.mean([x["mean_critic"] for x in movie_scores.values()])))
+print("Mean of twitter = {}".format(np.mean([x["mean_twitter"] for x in movie_scores.values()])))
+print("Var of critic = {}".format(np.var([x["mean_critic"] for x in movie_scores.values()])))
+print("Var of twitter = {}".format(np.var([x["mean_twitter"] for x in movie_scores.values()])))
+
 for genre_name, genre_data in genre_scores.items():
   print("Genre {}\ttwitter {}\tcritic {}".format(
     genre_name, genre_data["mean_twitter"], genre_data["mean_critic"]))
@@ -84,7 +93,7 @@ print("Genres, lowest critic first:\n\t{}".format(json.dumps(sorted_genres)))
 plt.plot(
   [genre_scores[genre_name]["mean_critic"]
    for genre_name in sorted_genres],
-  label="Critic"
+  label="Critics"
 )
 plt.plot(
   [genre_scores[genre_name]["mean_twitter"]
