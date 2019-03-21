@@ -68,6 +68,9 @@ for movie_name, movie_data in data.items():
 
     data[movie_name]['agreement'] = text
 
+    plt.hist(all_scores)
+    plt.show()
+
 with open('new_data.json', 'w') as f:
     f.write(json.dumps(data, indent=2))
 
