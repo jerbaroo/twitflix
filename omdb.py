@@ -39,6 +39,7 @@ class Omdb(object):
             }
             url = 'http://www.omdbapi.com/?apikey=289bb0f9&t='
             url = url+title
+            print("Requesting title {}".format(title))
             response = requests.post(url)
             response = response.json()
             self.response = response
