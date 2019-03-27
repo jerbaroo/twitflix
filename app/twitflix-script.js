@@ -12,7 +12,7 @@ var activeTile = null;
 // All media names we know of so far.
 const mediaNames = new Set();
 
-// Unique identifier for a tile's canvas element.
+// Unique identifier for a tile's histogram element.
 const histContainerID = (tileID) =>
   `twitflix-hist-container-${tileID}`;
 
@@ -29,6 +29,7 @@ var _tileID = 1;
 function filmData(name) {
   return _filmData[name];
 }
+// Replaced with data when building the app.
 const _filmData = null;
 
 
