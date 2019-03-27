@@ -117,7 +117,7 @@ function newInnerTile(tileID, name, height, width) {
 
   // Left side, critic and user score.
   var criticScoreEl = scoreDiv(`${criticScore}`, "Critics");
-  var userScoreEl = scoreDiv(`${userScore}`, `Twitter<br>(${userDescription})`);
+  var userScoreEl = scoreDiv(`${userScore}`, `Recent tweets<br>(${userDescription})`);
   left.appendChild(criticScoreEl);
   left.appendChild(userScoreEl);
 
