@@ -3,8 +3,8 @@
 // Whether to print out new media names when discovered.
 const PRINT_MEDIA_NAMES = false;
 
-// Whether to show the histogram.
-const SHOW_HISTOGRAM = false;
+// Whether to normalize tile heights, so one bar is effectively at 100%.
+const TALL_BARS = true;
 
 // The current active tile as: (ID, media name, boxart element).
 var activeTile = null;
@@ -13,8 +13,8 @@ var activeTile = null;
 const mediaNames = new Set();
 
 // Unique identifier for a tile's canvas element.
-const canvasContainerID = (tileID) =>
-  `twitflix-canvas-container-${tileID}`;
+const histContainerID = (tileID) =>
+  `twitflix-hist-container-${tileID}`;
 
 
 // An identifier to uniquely identify a Twitflix tile.
@@ -32,32 +32,6 @@ function filmData(name) {
 const _filmData = null;
 
 
-// Attach a graph of given data to a canvas element.
-function attachGraph(canvasContext, yData) {
-  new Chart(canvasContext, {
-    type: 'bar',
-    data: {
-      datasets: [{
-        labels: [0, 1, 2, 3, 4, 5,6 ,7 ,8, 9, 10],
-        data: yData,
-        backgroundColor: 'rgba(255, 99, 132, 1)',
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      legend: { display: false },
-        xAxes: [{
-          // barThickness: 0.1,
-          gridLines: {
-            offsetGridLines: true
-          }
-        }]
-    }
-  });
-}
-
-
 // JS doesn't have a mean function!!
 function mean(numbers) {
   var total = 0, i;
@@ -67,40 +41,10 @@ function mean(numbers) {
   return total / numbers.length;
 }
 
-
-// Right side of twitflix box, a histogram.
-function showHistogram(tileID, height, width, right, data) {
-  var canvas = document.createElement('canvas');
-  canvas.id = canvasContainerID(tileID);
-  right.style.position = 'relative';
-  right.style.height = '100px';
-  right.appendChild(canvas);
-
-  const compounds = data["scores"]["scores"].map(x => x[0]["compound"]);
-  const userScores = compounds.map(x => convertRange(x, [-1, 1], [0, 10]));
-  const bins = [];
-
-  // Each bin has an initial count of 0.
-  for (var i = 0; i < 10; i++)
-    bins.push(0);
-  // Add each user score to a bin.
-  for (i = 0; i < userScores.length; i++) {
-    for (var j = 0; j < 10; j++) {
-      if (userScores[i] < j + 1) {
-        bins[j] += 1;
-        break; // Done with this user score.
-      }
-    }
-  }
-
-  attachGraph(canvas.getContext('2d'), bins);
-}
-
-
 // Convert a value from one range to another range.
 // e.g. convertRange(5, [0, 10], [0, 100]) = 50.
 function convertRange( value, r1, r2 ) {
-  return ( value - r1[ 0 ] ) * ( r2[ 1 ] - r2[ 0 ] ) / ( r1[ 1 ] - r1[ 0 ] ) + r2[ 0 ];
+  return (value - r1[0]) * (r2[1] - r2[0]) / (r1[1] - r1[0]) + r2[0];
 }
 
 
@@ -120,13 +64,46 @@ function scoreDiv(textAbove, textBelow) {
 }
 
 
-// Inner contents of some tile, for some media title.
+// Return a function to attach a histogram to right side of Twitflix box.
+function addHistogram(parent, data) {
+  const compounds = data["scores"]["scores"].map(x => x[0]["compound"]);
+  const userScores = compounds.map(x => convertRange(x, [-1, 1], [0, 10]));
+
+  const bins = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+  for (var i = 0; i < userScores.length; i ++) {
+    for (var j = 0; j < bins.length; j ++) {
+      if (userScores[i] < j + 1) {
+        bins[j]++;
+        break;
+      }
+    }
+  }
+
+  const barHeights = [];
+  for (i = 0; i < bins.length; i++)
+    barHeights.push(bins[i] / userScores.length);
+  const maxBarHeight = Math.max.apply(null, barHeights);
+
+  for (i = 0; i < bins.length; i ++) {
+    var bar = document.createElement('div');
+    bar.className += "twitflix-graph-bar";
+    const barHeight = TALL_BARS ? barHeights[i] / maxBarHeight : barHeights[i];
+    bar.style.height = `${Math.ceil(barHeight * 100)}%`;
+    parent.appendChild(bar);
+  }
+}
+
+
+// Return inner contents of a Twitflix tile, and a function to attach a
+// histogram to the tile.
 function newInnerTile(tileID, name, height, width) {
   var main = document.createElement('div');
   main.className = 'twitflix-tile-main';
   var left = document.createElement('div');
   left.className = 'twitflix-tile-scores';
   var right = document.createElement('div');
+  right.className = 'twitflix-tile-graph';
+  right.id = histContainerID(tileID);
   main.appendChild(left);
   main.appendChild(right);
 
@@ -143,11 +120,7 @@ function newInnerTile(tileID, name, height, width) {
   left.appendChild(criticScoreEl);
   left.appendChild(userScoreEl);
 
-  if (SHOW_HISTOGRAM) {
-    right.className = 'twitflix-tile-graph';
-    showHistogram(tileID, height, width, right, data);
-  }
-
+  addHistogram(right, data);
   return main;
 }
 
@@ -227,16 +200,16 @@ function repositionTile() {
   if (activeTile) {
     [tileID, name, boxart] = activeTile;
     if (name in namesAndBobPlays)
-      positionAbove(tileID, namesAndBobPlays[name], true);
+      positionAbove(tileID, namesAndBobPlays[name]);
     else
-      positionAbove(tileID, boxart, false);
+      positionAbove(tileID, boxart);
   }
   window.requestAnimationFrame(repositionTile);
 }
 
 
 // Position a tile above a HTMLElement.
-function positionAbove(tileID, targetElem, show_hist) {
+function positionAbove(tileID, targetElem) {
   var tile = document.getElementById(tileID);
   if (tile == null) {
     console.log('Previous tile removed');
@@ -250,17 +223,6 @@ function positionAbove(tileID, targetElem, show_hist) {
   tile.style.left = `${targetPosition.left}px`;
   tile.style.top =
     `${targetPosition.top - document.body.getBoundingClientRect().top - height}px`;
-
-  if (SHOW_HISTOGRAM) {
-  const right = document.getElementById(canvasContainerID(tileID));
-  if ( show_hist) {
-    right.style.height = `${height * 0.5}px`;
-    console.log(right.style.height);
-    console.log(right.style.width);
-  }
-  else {
-    right.style.height = 0;
-  }}
 }
 
 

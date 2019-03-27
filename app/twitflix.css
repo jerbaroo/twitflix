@@ -3,7 +3,6 @@
   /* Almost black. */
   background-color: #080808;
   background-color: black;
-  transition: all .01s linear;
   z-index: 1;
 }
 
@@ -22,7 +21,6 @@
 /* Left side. */
 .twitflix-tile-scores {
   display: flex;
-  flex-grow: 1;
   justify-content: center;
   padding: 10px;
 }
@@ -49,5 +47,11 @@
   display: flex;
   align-content: center;
   justify-content: center;
-  padding-bottom: 10px;
+}
+
+/* A single bar of the histogram. */
+.twitflix-graph-bar {
+  align-self: flex-end;
+  background-color: #e50914;
+  flex-grow: 1;
 }
