@@ -23,8 +23,8 @@ class Omdb(object):
         self.genre = 0
 
     def critic_scores(self, file):
-        key = '289bb0f9'
-        url = 'http://www.omdbapi.com/?apikey=289bb0f9&t='
+        key = ''
+        url = 'http://www.omdbapi.com/?apikey='
         with open(file) as f:
             movies = json.load(f)
         result = {}
@@ -37,7 +37,7 @@ class Omdb(object):
                 "Rotten Tomatoes": 0,
                 "Metacritic": 0
             }
-            url = 'http://www.omdbapi.com/?apikey=289bb0f9&t='
+            url = 'http://www.omdbapi.com/?apikey='
             url = url+title
             print("Requesting title {}".format(title))
             response = requests.post(url)
