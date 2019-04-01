@@ -93,10 +93,10 @@ class Data:
             # self.saveJSON(title+"#rating", tweet)
 
     def twitter(self, file, tweets):
-        CONSUMER_KEY = 'qC3ZrVH8xRaXJlb7Rwjg1Xvpb'
-        CONSUMER_SECRET = 'kR2Q7CdQkPMSBPucJecHfa2cNQIQZgOypSydhsplF44aGR0X2C'
-        OAUTH_TOKEN = '85152226-6jv1nfU8tRoqaIjEiEVSAlwlgloA2E7qNyRbTX15v'
-        OAUTH_TOKEN_SECRET = '0JYy1gELC7eNuRfWNUqDz8zZXQlqSQvAktnkuC17nl7Nh'
+        CONSUMER_KEY = ''
+        CONSUMER_SECRET = ''
+        OAUTH_TOKEN = ''
+        OAUTH_TOKEN_SECRET = ''
         auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
         twitter_api = twitter.Twitter(auth=auth)
 
